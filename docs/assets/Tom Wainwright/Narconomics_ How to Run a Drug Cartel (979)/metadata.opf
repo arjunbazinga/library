@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">979</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da1db1ee-e558-49bb-b358-29202048d5d7</dc:identifier>
+        <dc:title>Narconomics: How to Run a Drug Cartel</dc:title>
+        <dc:creator opf:file-as="Wainwright, Tom" opf:role="aut">Tom Wainwright</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-02-22T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Picking his way through Andean cocaine fields, Central American prisons, Colorado pot shops, and the online drug dens of the Dark Web, Tom Wainwright provides a fresh, innovative look into the drug trade and its 250 million customers. More than just an investigation of how drug cartels do business, &lt;/strong&gt;&lt;span style="font-style: italic; font-weight: 600"&gt;Narconomics&lt;/span&gt;&lt;strong&gt; is also a blueprint for how to defeat them.&lt;/strong&gt; &lt;strong&gt;&lt;br&gt;&lt;/strong&gt;How does a budding cartel boss succeed (and survive) in the 300 billion illegal drug business? By learning from the best, of course. From creating brand value to fine-tuning customer service, the folks running cartels have been attentive students of the strategy and tactics used by corporations such as Walmart, McDonald's, and Coca-Cola.&lt;/p&gt;
+&lt;p&gt;And what can government learn to combat this scourge? By analyzing the cartels as companies, law enforcers might better understand how they work -- and stop throwing away 100 billion a year in a futile effort to win the "war" against this global, highly organized business.&lt;/p&gt;
+&lt;p&gt;Your intrepid guide to the most exotic and brutal industry on earth is Tom Wainwright. Picking his way through Andean cocaine fields, Central American prisons, Colorado pot shops, and the online drug dens of the Dark Web, Wainwright provides a fresh, innovative look into the drug trade and its 250 million customers.&lt;/p&gt;
+&lt;p&gt;The cast of characters includes "Bin Laden," the Bolivian coca guide; Old Lin," the Salvadoran gang leader; "Starboy," the millionaire New Zealand pill maker; and a cozy Mexican grandmother who cooks blueberry pancakes while plotting murder. Along with presidents, cops, and teenage hitmen, they explain such matters as the business purpose for head-to-toe tattoos, how gangs decide whether to compete or collude, and why cartels care a surprising amount about corporate social responsibility.&lt;br&gt;More than just an investigation of how drug cartels do business, &lt;em&gt;Narconomics&lt;/em&gt; is also a blueprint for how to defeat them. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>PublicAffairs</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781610395847</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1610397703</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">76E5DgAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Industries</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>International Relations</dc:subject>
+        <dc:subject>Trade &amp; Tariffs</dc:subject>
+        <dc:subject>True Crime</dc:subject>
+        <dc:subject>Organized Crime</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Tom Wainwright&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-08-29T13:53:01+00:00"/>
+        <meta name="calibre:title_sort" content="Narconomics: How to Run a Drug Cartel"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

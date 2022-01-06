@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">950</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">692b5dca-1fe3-4aef-96b5-700463705fc6</dc:identifier>
+        <dc:title>Get Together: How to build a community with your people</dc:title>
+        <dc:creator opf:file-as="Richardson, Bailey &amp; Huynh, Kevin &amp; Sotto, Kai Elmer" opf:role="aut">Bailey Richardson</dc:creator>
+        <dc:creator opf:file-as="Richardson, Bailey &amp; Huynh, Kevin &amp; Sotto, Kai Elmer" opf:role="aut">Kevin Huynh</dc:creator>
+        <dc:creator opf:file-as="Richardson, Bailey &amp; Huynh, Kevin &amp; Sotto, Kai Elmer" opf:role="aut">Kai Elmer Sotto</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-19T16:00:00+00:00</dc:date>
+        <dc:publisher>Stripe Press</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">ab52a353-ceee-4cf2-91d0-87e66056ed47</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Bailey Richardson&quot;: &quot;&quot;, &quot;Kai Elmer Sotto&quot;: &quot;&quot;, &quot;Kevin Huynh&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-08-22T19:42:13.770499+00:00" name="calibre:timestamp"/>
+        <meta content="Get Together: How to build a community with your people" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">902</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">50c5819f-6ffa-4f1e-b3ca-55579321f326</dc:identifier>
+        <dc:title>Swipe to Unlock: The Non-Coder’s Guide to Technology and the Business Strategy Behind It</dc:title>
+        <dc:creator opf:file-as="Detroja, Parth" opf:role="aut">Parth Detroja</dc:creator>
+        <dc:creator opf:file-as="Detroja, Parth" opf:role="aut">Neel Mehta</dc:creator>
+        <dc:creator opf:file-as="Detroja, Parth" opf:role="aut">Aditya Agashe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-18T17:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0756MTX6K</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Aditya Agashe&quot;: &quot;&quot;, &quot;Parth Detroja&quot;: &quot;&quot;, &quot;Neel Mehta&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-08-09T07:29:05.623001+00:00" name="calibre:timestamp"/>
+        <meta content="Swipe to Unlock: The Non-Coder’s Guide to Technology and the Business Strategy Behind It" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

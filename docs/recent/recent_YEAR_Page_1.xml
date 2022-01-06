@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Previous year</title>
+  <id>Calibre2opds:recent:YEAR</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./recent_YEAR_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Previous year" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
+  <entry>
+    <title>Side Hustle [December 10, 2019]</title>
+    <id>calibre:book:595</id>
+    <updated>2020-03-28T07:23:18Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Chris%20Guillebeau/Side%20Hustle%20%28595%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Chris%20Guillebeau/Side%20Hustle%20%28595%29/Side%20Hustle%20-%20Chris%20Guillebeau.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Chris%20Guillebeau/Side%20Hustle%20%28595%29/Side%20Hustle%20-%20Chris%20Guillebeau.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Chris Guillebeau</name>
+      <uri>../author_0/author_358_Page_1.xml</uri>
+    </author>
+    <published>2017-09-19T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>The Crown Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>The author of the New York Times Bestseller THE $100 STARTUP, shows how to launch a profitable side hustle in just 27 days. To some, the idea of quitting their day job to start a business is exhilarating. For others, it's terrifying. After all, a job...</summary>
+    <link href="../book_0/book_595.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Seeking Wisdom: From Darwin To Munger [October 22, 2019]</title>
+    <id>calibre:book:592</id>
+    <updated>2019-12-07T00:47:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Peter%20Bevelin/Seeking%20Wisdom_%20From%20Darwin%20To%20Munger%20%28592%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Peter%20Bevelin/Seeking%20Wisdom_%20From%20Darwin%20To%20Munger%20%28592%29/Seeking%20Wisdom_%20From%20Darwin%20To%20Munger%20-%20Peter%20Bevelin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Peter%20Bevelin/Seeking%20Wisdom_%20From%20Darwin%20To%20Munger%20%28592%29/Seeking%20Wisdom_%20From%20Darwin%20To%20Munger%20-%20Peter%20Bevelin.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Peter Bevelin</name>
+      <uri>../author_0/author_356_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_592.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

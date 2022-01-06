@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">697</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d5d541cb-0d32-4d2e-9a41-9191ff4801a5</dc:identifier>
+        <dc:title>The Elements of Style Illustrated</dc:title>
+        <dc:creator opf:file-as="William Strunk Jr, E.B. White" opf:role="aut">William Strunk Jr, E.B. White</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>Writing</dc:subject>
+        <dc:subject>Story-telling</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Strunk Jr, E.B. White&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:38+00:00"/>
+        <meta name="calibre:title_sort" content="Elements of Style Illustrated, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

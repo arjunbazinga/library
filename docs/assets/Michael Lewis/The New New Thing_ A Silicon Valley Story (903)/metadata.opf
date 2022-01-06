@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">903</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9893ce2f-f16b-44f9-94af-3a7d96937202</dc:identifier>
+        <dc:title>The New New Thing: A Silicon Valley Story</dc:title>
+        <dc:creator opf:file-as="Lewis, Michael" opf:role="aut">Michael Lewis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-10-16T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;span style="font-weight: 600; font-style: italic"&gt;*&lt;/span&gt;&lt;strong&gt;New York Times* Bestseller&lt;/strong&gt;. “A superb book. . . . [Lewis] makes Silicon Valley as thrilling and intelligible as he made Wall Street in his best-selling &lt;em&gt;Liar’s Poker&lt;/em&gt;.”― *Time&lt;span style="font-weight: 600; font-style: italic"&gt; In the weird glow of the dying millennium, Michael Lewis set out on a safari through Silicon Valley to find the world’s most important technology entrepreneur. He found this in Jim Clark, a man whose achievements include the founding of three separate billion-dollar companies. Lewis also found much more, and the result―the best-selling book &lt;/span&gt;&lt;strong&gt;The New New Thing* ―is an ingeniously conceived history of the Internet revolution. &lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>W. W. Norton</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">g-_2I8yJ7p4C</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780393066210</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">48c7be65-9206-421a-9bb2-5df2b77c978d</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0393347818</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Entrepreneurship</dc:subject>
+        <dc:subject>Biography &amp; Autobiography</dc:subject>
+        <dc:subject>Business</dc:subject>
+        <dc:subject>Free Enterprise &amp; Capitalism</dc:subject>
+        <dc:subject>Industries</dc:subject>
+        <dc:subject>Computers &amp; Information Technology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Michael Lewis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-08-09T07:29:05+00:00"/>
+        <meta name="calibre:title_sort" content="New New Thing: A Silicon Valley Story, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

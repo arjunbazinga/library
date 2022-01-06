@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1701</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0c92c5b2-93f3-489d-bb58-d050436c0075</dc:identifier>
+        <dc:title>A Song for a New Day</dc:title>
+        <dc:creator opf:file-as="Pinsker, Sarah" opf:role="aut">Sarah Pinsker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-10T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;In this captivating science fiction novel from an award-winning author, public gatherings are illegal making concerts impossible, except for those willing to break the law for the love of music, and for one chance at human connection.&lt;/strong&gt;&lt;br&gt;In the Before, when the government didn't prohibit large public gatherings, Luce Cannon was on top of the world. One of her songs had just taken off and she was on her way to becoming a star. Now, in the After, terror attacks and deadly viruses have led the government to ban concerts, and Luce's connection to the world—her music, her purpose—is closed off forever. She does what she has to do: she performs in illegal concerts to a small but passionate community, always evading the law.&lt;br&gt;Rosemary Laws barely remembers the Before times. She spends her days in Hoodspace, helping customers order all of their goods online for drone delivery—no physical contact with humans needed. By lucky chance, she finds a new job and a new...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">SrbsDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781800243866</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Apocalyptic &amp; Post-Apocalyptic</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Lgbtq+</dc:subject>
+        <dc:subject>Dystopian</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sarah Pinsker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-07-09T19:31:36+00:00"/>
+        <meta name="calibre:title_sort" content="Song for a New Day, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with E</title>
+  <id>Calibre2opds:allbooks:E</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with E" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>Economics and Language *****</title>
+    <id>calibre:book:148</id>
+    <updated>2019-12-07T00:47:18Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Ariel%20Rubinstein/Economics%20and%20Language%20%28148%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Ariel%20Rubinstein/Economics%20and%20Language%20%28148%29/Economics%20and%20Language%20-%20Ariel%20Rubinstein.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Ariel%20Rubinstein/Economics%20and%20Language%20%28148%29/Economics%20and%20Language%20-%20Ariel%20Rubinstein.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Ariel%20Rubinstein/Economics%20and%20Language%20%28148%29/Economics%20and%20Language%20-%20Ariel%20Rubinstein.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Ariel Rubinstein</name>
+      <uri>../author_0/author_225_Page_1.xml</uri>
+    </author>
+    <published>2000-09-13T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Cambridge University Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Arising out of the author's lifetime fascination with the links between the formal language of mathematical models and natural language, this short book comprises five essays investigating both the economics of language and the language of economics...</summary>
+    <link href="../book_0/book_148.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Economics in One Lesson</title>
+    <id>calibre:book:686</id>
+    <updated>2020-03-28T07:23:50Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Henry%20Hazlitt/Economics%20in%20One%20Lesson%20%28686%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Henry%20Hazlitt/Economics%20in%20One%20Lesson%20%28686%29/Economics%20in%20One%20Lesson%20-%20Henry%20Hazlitt.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Henry%20Hazlitt/Economics%20in%20One%20Lesson%20%28686%29/Economics%20in%20One%20Lesson%20-%20Henry%20Hazlitt.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Henry Hazlitt</name>
+      <uri>../author_0/author_433_Page_1.xml</uri>
+    </author>
+    <published>2010-08-10T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Crown Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>A million copy seller, Henry Hazlitt's Economics in One Lesson is a classic economic primer. But it is also much more, having become a fundamental influence on modern "libertarian" economics of the type espoused by Ron Paul and others.Considered amon...</summary>
+    <link href="../book_0/book_686.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Ego and His Own: The Case of the Individual Against Authority ****</title>
+    <id>calibre:book:916</id>
+    <updated>2020-08-09T01:25:14Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Max%20Stirner/The%20Ego%20and%20His%20Own_%20The%20Case%20of%20the%20Individual%20Against%20Authority%20%28916%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Max%20Stirner/The%20Ego%20and%20His%20Own_%20The%20Case%20of%20the%20Individual%20Against%20Authority%20%28916%29/The%20Ego%20and%20His%20Own_%20The%20Case%20of%20the%20Indiv%20-%20Max%20Stirner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Max%20Stirner/The%20Ego%20and%20His%20Own_%20The%20Case%20of%20the%20Individual%20Against%20Authority%20%28916%29/The%20Ego%20and%20His%20Own_%20The%20Case%20of%20the%20Indiv%20-%20Max%20Stirner.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Max Stirner</name>
+      <uri>../author_0/author_726_Page_1.xml</uri>
+    </author>
+    <published>2005-12-15T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Dover Publications</dcterms:publisher>
+    <category term="Anarchism" />
+    <category term="Lang:en" />
+    <category term="Cambridge Texts in the History of Political Thought" />
+    <summary>Cambridge Texts in the History of Political Thought [1]: 
+Credited with influencing the philosophies of Nietzsche and Ayn Rand and the development of libertarianism and existentialism, this prophetic 1844 work challenges the very notion of a common g...</summary>
+    <link href="../book_0/book_916.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Einstein's Dreams</title>
+    <id>calibre:book:394</id>
+    <updated>2020-03-28T07:30:04Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20Lightman/Einstein%27s%20Dreams%20%28394%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20Lightman/Einstein%27s%20Dreams%20%28394%29/Einstein%27s%20Dreams%20-%20Alan%20Lightman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20Lightman/Einstein%27s%20Dreams%20%28394%29/Einstein%27s%20Dreams%20-%20Alan%20Lightman.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20Lightman/Einstein%27s%20Dreams%20%28394%29/Einstein%27s%20Dreams%20-%20Alan%20Lightman.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Alan Lightman</name>
+      <uri>../author_0/author_143_Page_1.xml</uri>
+    </author>
+    <published>2011-03-01T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Knopf Doubleday Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Now available:  New signed, boxed edition!An imaginary re-creation of Einstein's discovery of the nature of time, this novel takes us through the young patent clerk's many dreams depicting compelling conceptions of time.From the Hardcover edition.</summary>
+    <link href="../book_0/book_394.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>ElasticSearch Cookbook - 2nd ed.</title>
+    <id>calibre:book:895</id>
+    <updated>2020-08-09T00:59:04Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Alberto%20Paro/ElasticSearch%20Cookbook%20-%202nd%20ed_%20%28895%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Alberto%20Paro/ElasticSearch%20Cookbook%20-%202nd%20ed_%20%28895%29/ElasticSearch%20Cookbook%20-%202nd%20ed_%20-%20Alberto%20Paro.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Alberto Paro</name>
+      <uri>../author_0/author_716_Page_1.xml</uri>
+    </author>
+    <published>2015-01-28T06:40:22Z</published>
+    <dcterms:publisher>Packt Publishing</dcterms:publisher>
+    <link href="../book_0/book_895.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Elements of Computing Systems: Building a Modern Computer from First Principles</title>
+    <id>calibre:book:864</id>
+    <updated>2020-07-22T10:45:10Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Nisan%2C%20Noam/The%20Elements%20of%20Computing%20Systems_%20Building%20a%20Modern%20Computer%20from%20First%20Principles%20%28864%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Nisan%2C%20Noam/The%20Elements%20of%20Computing%20Systems_%20Building%20a%20Modern%20Computer%20from%20First%20Principles%20%28864%29/The%20Elements%20of%20Computing%20Systems_%20Buildin%20-%20Nisan%2C%20Noam.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Nisan%2C%20Noam/The%20Elements%20of%20Computing%20Systems_%20Building%20a%20Modern%20Computer%20from%20First%20Principles%20%28864%29/The%20Elements%20of%20Computing%20Systems_%20Buildin%20-%20Nisan%2C%20Noam.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Nisan, Noam</name>
+      <uri>../author_0/author_656_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Shimon Schocken</name>
+      <uri>../author_0/author_657_Page_1.xml</uri>
+    </author>
+    <published>2005-06-01T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>The MIT Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_864.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Elements of Programming Interviews in Python</title>
+    <id>calibre:book:856</id>
+    <updated>2020-07-10T00:19:40Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Adnan%20Aziz%2C%20Tsung-Hsien%20Lee%2C%20Amit%20Prakash/Elements%20of%20Programming%20Interviews%20in%20Python%20%28856%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Adnan%20Aziz%2C%20Tsung-Hsien%20Lee%2C%20Amit%20Prakash/Elements%20of%20Programming%20Interviews%20in%20Python%20%28856%29/Elements%20of%20Programming%20Interviews%20in%20Pyth%20-%20Adnan%20Aziz%2C%20Tsung-Hsien%20Lee%2C%20Amit%20Prakash.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Adnan Aziz, Tsung-Hsien Lee, Amit Prakash</name>
+      <uri>../author_0/author_480_Page_1.xml</uri>
+    </author>
+    <published>2016-12-29T07:34:50Z</published>
+    <dcterms:publisher>CreateSpace Independent Publishing Platform</dcterms:publisher>
+    <summary>(Elements of Programming Interviews) Elements of Programming Interviews in Python The Insiders’ Guide-CreateSpace Independent Publishing Platform (2016)</summary>
+    <link href="../book_0/book_856.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Elements of Style Illustrated</title>
+    <id>calibre:book:697</id>
+    <updated>2020-03-29T02:43:50Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/William%20Strunk%20Jr%2C%20E.B.%20White/The%20Elements%20of%20Style%20Illustrated%20%28697%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/William%20Strunk%20Jr%2C%20E.B.%20White/The%20Elements%20of%20Style%20Illustrated%20%28697%29/The%20Elements%20of%20Style%20Illustrated%20-%20William%20Strunk%20Jr%2C%20E.B.%20White.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/William%20Strunk%20Jr%2C%20E.B.%20White/The%20Elements%20of%20Style%20Illustrated%20%28697%29/The%20Elements%20of%20Style%20Illustrated%20-%20William%20Strunk%20Jr%2C%20E.B.%20White.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>William Strunk Jr, E.B. White</name>
+      <uri>../author_0/author_469_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <category term="Writing" />
+    <category term="Story-telling" />
+    <link href="../book_0/book_697.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ender's Game</title>
+    <id>calibre:book:560</id>
+    <updated>2020-03-28T07:05:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Orson%20Scott%20Card/Ender%27s%20Game%20%28560%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Orson%20Scott%20Card/Ender%27s%20Game%20%28560%29/Ender%27s%20Game%20-%20Orson%20Scott%20Card.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Orson%20Scott%20Card/Ender%27s%20Game%20%28560%29/Ender%27s%20Game%20-%20Orson%20Scott%20Card.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Orson Scott Card</name>
+      <uri>../author_0/author_316_Page_1.xml</uri>
+    </author>
+    <published>1994-07-14T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Tor Books</dcterms:publisher>
+    <category term="#genre" />
+    <category term="Lang:en" />
+    <category term="Ender's Game: Publication Order" />
+    <summary>Ender's Game: Publication Order [1]: Winner of the Hugo and Nebula Awards In order to develop a secure defense against a hostile alien race's next attack, government agencies breed child geniuses and train them as soldiers. A brilliant young boy, And...</summary>
+    <link href="../book_0/book_560.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Enigma of Anger: Essays on a Sometimes Deadly Sin</title>
+    <id>calibre:book:513</id>
+    <updated>2019-12-07T00:47:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Garret%20Keizer/The%20Enigma%20of%20Anger_%20Essays%20on%20a%20Sometimes%20Deadly%20Sin%20%28513%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Garret%20Keizer/The%20Enigma%20of%20Anger_%20Essays%20on%20a%20Sometimes%20Deadly%20Sin%20%28513%29/The%20Enigma%20of%20Anger_%20Essays%20on%20a%20Sometimes%20-%20Garret%20Keizer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Garret%20Keizer/The%20Enigma%20of%20Anger_%20Essays%20on%20a%20Sometimes%20Deadly%20Sin%20%28513%29/The%20Enigma%20of%20Anger_%20Essays%20on%20a%20Sometimes%20-%20Garret%20Keizer.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Garret%20Keizer/The%20Enigma%20of%20Anger_%20Essays%20on%20a%20Sometimes%20Deadly%20Sin%20%28513%29/The%20Enigma%20of%20Anger_%20Essays%20on%20a%20Sometimes%20-%20Garret%20Keizer.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Garret Keizer</name>
+      <uri>../author_0/author_263_Page_1.xml</uri>
+    </author>
+    <published>2002-07-31T06:30:00Z</published>
+    <summary>0787957283</summary>
+    <link href="../book_0/book_513.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ergodicity Economics</title>
+    <id>calibre:book:713</id>
+    <updated>2020-03-28T11:32:40Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Ole%20Peters%2C%20Alexander%20Adamou/Ergodicity%20Economics%20%28713%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Ole%20Peters%2C%20Alexander%20Adamou/Ergodicity%20Economics%20%28713%29/Ergodicity%20Economics%20-%20Ole%20Peters%2C%20Alexander%20Adamou.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Ole Peters, Alexander Adamou</name>
+      <uri>../author_0/author_492_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_713.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Essays in Idleness: and Hojoki (Penguin Press Translated Texts)</title>
+    <id>calibre:book:400</id>
+    <updated>2020-03-28T07:27:52Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Kenko/Essays%20in%20Idleness_%20and%20Hojoki%20%28Penguin%20Press%20Translated%20Texts%29%20%28400%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Kenko/Essays%20in%20Idleness_%20and%20Hojoki%20%28Penguin%20Press%20Translated%20Texts%29%20%28400%29/Essays%20in%20Idleness_%20and%20Hojoki%20%28Penguin%20Pr%20-%20Kenko.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Kenko/Essays%20in%20Idleness_%20and%20Hojoki%20%28Penguin%20Press%20Translated%20Texts%29%20%28400%29/Essays%20in%20Idleness_%20and%20Hojoki%20%28Penguin%20Pr%20-%20Kenko.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Kenko/Essays%20in%20Idleness_%20and%20Hojoki%20%28Penguin%20Press%20Translated%20Texts%29%20%28400%29/Essays%20in%20Idleness_%20and%20Hojoki%20%28Penguin%20Pr%20-%20Kenko.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Kenko</name>
+      <uri>../author_0/author_147_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Chomei</name>
+      <uri>../author_0/author_148_Page_1.xml</uri>
+    </author>
+    <published>2013-12-05T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Books Ltd</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_400.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Essays of Ralph Waldo Emerson ****</title>
+    <id>calibre:book:613</id>
+    <updated>2020-03-28T07:14:46Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Ralph%20Waldo%20Emerson/The%20Essays%20of%20Ralph%20Waldo%20Emerson%20%28613%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Ralph%20Waldo%20Emerson/The%20Essays%20of%20Ralph%20Waldo%20Emerson%20%28613%29/The%20Essays%20of%20Ralph%20Waldo%20Emerson%20-%20Ralph%20Waldo%20Emerson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Ralph%20Waldo%20Emerson/The%20Essays%20of%20Ralph%20Waldo%20Emerson%20%28613%29/The%20Essays%20of%20Ralph%20Waldo%20Emerson%20-%20Ralph%20Waldo%20Emerson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Ralph Waldo Emerson</name>
+      <uri>../author_0/author_373_Page_1.xml</uri>
+    </author>
+    <published>1987-04-01T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Belknap Press: An Imprint of Harvard University Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Ralph Waldo Emerson, Alfred Kazin observes in his Introduction, “was a great writer who turned the essay into a form all his own.” His celebrated essays―the twelve published in Essays: First Series (1841) and eight in Essays: Second Series (1844)―ar...</summary>
+    <link href="../book_0/book_613.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Essentialism: The Disciplined Pursuit of Less</title>
+    <id>calibre:book:25</id>
+    <updated>2020-03-28T07:31:58Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Mckeown%2C%20Greg/Essentialism_%20The%20Disciplined%20Pursuit%20of%20Less%20%2825%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Mckeown%2C%20Greg/Essentialism_%20The%20Disciplined%20Pursuit%20of%20Less%20%2825%29/Essentialism_%20The%20Disciplined%20Pursuit%20of%20L%20-%20Mckeown%2C%20Greg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Mckeown%2C%20Greg/Essentialism_%20The%20Disciplined%20Pursuit%20of%20Less%20%2825%29/Essentialism_%20The%20Disciplined%20Pursuit%20of%20L%20-%20Mckeown%2C%20Greg.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Mckeown%2C%20Greg/Essentialism_%20The%20Disciplined%20Pursuit%20of%20Less%20%2825%29/Essentialism_%20The%20Disciplined%20Pursuit%20of%20L%20-%20Mckeown%2C%20Greg.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Mckeown, Greg</name>
+      <uri>../author_0/author_22_Page_1.xml</uri>
+    </author>
+    <published>2014-04-15T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Crown Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Uploaded by [StormRG]</summary>
+    <link href="../book_0/book_25.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ethical , Professional Standards,  Quantative Methods</title>
+    <id>calibre:book:618</id>
+    <updated>2020-03-28T11:32:28Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/CFA%20Institute/Ethical%20%2C%20Professional%20Standards%2C%20%20Quantative%20Methods%20%28618%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/CFA%20Institute/Ethical%20%2C%20Professional%20Standards%2C%20%20Quantative%20Methods%20%28618%29/Ethical%20%2C%20Professional%20Standards%2C%20%20Quantat%20-%20CFA%20Institute.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>CFA Institute</name>
+      <uri>../author_0/author_521_Page_1.xml</uri>
+    </author>
+    <published>2019-04-17T06:38:33Z</published>
+    <category term="CFA Level 1" />
+    <summary>CFA Level 1 [1]:</summary>
+    <link href="../book_0/book_618.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ethnopharmacologic Search for Psychoactive Drugs Vol. 2 2017</title>
+    <id>calibre:book:661</id>
+    <updated>2020-03-28T06:58:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/ESPD%2050/Ethnopharmacologic%20Search%20for%20Psychoactive%20Drugs%20Vol.%202__2017%20%28661%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/ESPD%2050/Ethnopharmacologic%20Search%20for%20Psychoactive%20Drugs%20Vol.%202__2017%20%28661%29/Ethnopharmacologic%20Search%20for%20Psychoactive%20-%20ESPD%2050.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/ESPD%2050/Ethnopharmacologic%20Search%20for%20Psychoactive%20Drugs%20Vol.%202__2017%20%28661%29/Ethnopharmacologic%20Search%20for%20Psychoactive%20-%20ESPD%2050.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>ESPD 50</name>
+      <uri>../author_0/author_409_Page_1.xml</uri>
+    </author>
+    <published>2019-01-11T09:51:17Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:language>fi</dcterms:language>
+    <dcterms:language>gu</dcterms:language>
+    <dcterms:language>pt</dcterms:language>
+    <dcterms:publisher>Synergetic Press</dcterms:publisher>
+    <category term="ethnopharmacology Plant medicine Psychedelic medicine Shamanism" />
+    <category term="Lang:en" />
+    <category term="Lang:fi" />
+    <category term="Lang:gu" />
+    <category term="Lang:pt" />
+    <summary>50 years of research from 1967 to 2017.</summary>
+    <link href="../book_0/book_661.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Evaluating Semantic Reprentations of Source Code</title>
+    <id>calibre:book:632</id>
+    <updated>2020-03-28T11:32:32Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Arxiv/Evaluating%20Semantic%20Reprentations%20of%20Source%20Code%20%28632%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Arxiv/Evaluating%20Semantic%20Reprentations%20of%20Source%20Code%20%28632%29/Evaluating%20Semantic%20Reprentations%20of%20Sourc%20-%20Arxiv.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Arxiv</name>
+      <uri>../author_0/author_503_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_632.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Everything Store: Jeff Bezos and the Age of Amazon</title>
+    <id>calibre:book:463</id>
+    <updated>2020-03-28T07:55:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Stone%2C%20Brad/The%20Everything%20Store_%20Jeff%20Bezos%20and%20the%20Age%20of%20Amazon%20%28463%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Stone%2C%20Brad/The%20Everything%20Store_%20Jeff%20Bezos%20and%20the%20Age%20of%20Amazon%20%28463%29/The%20Everything%20Store_%20Jeff%20Bezos%20and%20the%20A%20-%20Stone%2C%20Brad.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Stone%2C%20Brad/The%20Everything%20Store_%20Jeff%20Bezos%20and%20the%20Age%20of%20Amazon%20%28463%29/The%20Everything%20Store_%20Jeff%20Bezos%20and%20the%20A%20-%20Stone%2C%20Brad.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Stone%2C%20Brad/The%20Everything%20Store_%20Jeff%20Bezos%20and%20the%20Age%20of%20Amazon%20%28463%29/The%20Everything%20Store_%20Jeff%20Bezos%20and%20the%20A%20-%20Stone%2C%20Brad.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Stone, Brad</name>
+      <uri>../author_0/author_191_Page_1.xml</uri>
+    </author>
+    <published>2013-10-14T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Little, Brown and Company</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_463.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Evil: Inside Human Violence and Cruelty</title>
+    <id>calibre:book:771</id>
+    <updated>2020-04-10T00:50:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Roy%20F.%20Baumeister%2C%20Ph.d_/Evil_%20Inside%20Human%20Violence%20and%20Cruelty%20%28771%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Roy%20F.%20Baumeister%2C%20Ph.d_/Evil_%20Inside%20Human%20Violence%20and%20Cruelty%20%28771%29/Evil_%20Inside%20Human%20Violence%20and%20Cruelty%20-%20Roy%20F.%20Baumeister%2C%20Ph.d_.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Roy%20F.%20Baumeister%2C%20Ph.d_/Evil_%20Inside%20Human%20Violence%20and%20Cruelty%20%28771%29/Evil_%20Inside%20Human%20Violence%20and%20Cruelty%20-%20Roy%20F.%20Baumeister%2C%20Ph.d_.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Roy F. Baumeister, Ph.d.</name>
+      <uri>../author_0/author_564_Page_1.xml</uri>
+    </author>
+    <published>2015-04-13T07:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Henry Holt and Company</dcterms:publisher>
+    <category term="Social Science" />
+    <category term="Anthropology" />
+    <category term="Cultural &amp; Social" />
+    <category term="Lang:en" />
+    <summary>Why is there evil, and what can scientific research tell us about the origins and persistence of evil behavior? Considering evil from the unusual perspective of the perpetrator, Baumeister asks, How do ordinary people find themselves beating their wi...</summary>
+    <link href="../book_0/book_771.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Expert at the Card Table *****</title>
+    <id>calibre:book:832</id>
+    <updated>2020-07-09T01:07:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/S.%20W.%20Erdnase/The%20Expert%20at%20the%20Card%20Table%20%28832%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/S.%20W.%20Erdnase/The%20Expert%20at%20the%20Card%20Table%20%28832%29/The%20Expert%20at%20the%20Card%20Table%20-%20S.%20W.%20Erdnase.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>S. W. Erdnase</name>
+      <uri>../author_0/author_797_Page_1.xml</uri>
+    </author>
+    <published>2015-08-19T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Martino Fine Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Magic" />
+    <summary>Magic [1]: 
+2015 Reprint of 1902 Edition. Facsimile of the original edition. First published in 1902 under the title: "Artifice, Ruse and Subterfuge at the Card Table", Erdnase's work has become a classic work in its field. It is arguably the most fa...</summary>
+    <link href="../book_0/book_832.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The economics of faith: using an apocalyptic prophecy to elicit religious beliefs in the field</title>
+    <id>calibre:book:935</id>
+    <updated>2020-08-21T01:46:07Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Ned%20Augenblick/The%20economics%20of%20faith_%20using%20an%20apocalyptic%20prophecy%20to%20elicit%20religious%20beliefs%20in%20the%20field%20%28935%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Ned%20Augenblick/The%20economics%20of%20faith_%20using%20an%20apocalyptic%20prophecy%20to%20elicit%20religious%20beliefs%20in%20the%20field%20%28935%29/The%20economics%20of%20faith_%20using%20an%20apocalypt%20-%20Ned%20Augenblick.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Ned Augenblick</name>
+      <uri>../author_0/author_744_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Jesse M. Cunha</name>
+      <uri>../author_0/author_745_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Ernesto Dal Bó</name>
+      <uri>../author_0/author_746_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Justin M. Rao</name>
+      <uri>../author_0/author_747_Page_1.xml</uri>
+    </author>
+    <published>2016-07-15T06:55:58Z</published>
+    <dcterms:publisher>Elsevier B.V.</dcterms:publisher>
+    <category term="Economics of faith" />
+    <category term="Religion" />
+    <category term="Faith" />
+    <category term="Time preference" />
+    <category term="Beliefs" />
+    <category term="Field experiments" />
+    <summary>Journal of Public Economics, Accepted manuscript. doi:10.1016/j.jpubeco.2016.07.004</summary>
+    <link href="../book_0/book_935.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The ergodicity problem in economics</title>
+    <id>calibre:book:714</id>
+    <updated>2020-03-28T11:32:40Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Ole%20Peters/The%20ergodicity%20problem%20in%20economics%20%28714%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Ole%20Peters/The%20ergodicity%20problem%20in%20economics%20%28714%29/The%20ergodicity%20problem%20in%20economics%20-%20Ole%20Peters.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Ole Peters</name>
+      <uri>../author_0/author_447_Page_1.xml</uri>
+    </author>
+    <published>2019-12-05T01:36:36Z</published>
+    <dcterms:publisher>Springer US</dcterms:publisher>
+    <category term="Nature Physics" />
+    <category term="doi:10.1038/s41567-019-0732-0" />
+    <summary>Nature Physics, doi:10.1038/s41567-019-0732-0</summary>
+    <link href="../book_0/book_714.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

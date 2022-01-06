@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1712</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c75251d1-f87a-4947-8136-78a84eae8e2f</dc:identifier>
+        <dc:title>HBR's 10 Must Reads on Managing Yourself</dc:title>
+        <dc:creator opf:file-as="Review, Harvard Business" opf:role="aut">Harvard Business Review</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-15T04:51:08+00:00</dc:date>
+        <dc:description>The path to your professional success starts with a critical look in the mirror. If you read nothing else on managing yourself, read these 10 articles (plus the bonus article "How Will You Measure Your Life?" by Clayton M. Christensen). We've combed through hundreds of Harvard Business Review articles to select the most important ones to help you maximize yourself. HBR's 10 Must Reads on Managing Yourself will inspire you to:  Stay engaged throughout your 50+-year work life Tap into your deepest values Solicit candid feedback Replenish physical and mental energy Balance work, home, community, and self Spread positive energy throughout your organization Rebound from tough times Decrease distractibility and frenzy Delegate and develop employees' initiative  This collection of best-selling articles includes: bonus article "How Will You Measure Your Life?" by Clayton M. Christensen, "Managing Oneself," "Management Time: Who's Got the Monkey?" "How Resilience Works," "Manage Your Energy, Not Your Time," "Overloaded Circuits: Why Smart People Underperform," "Be a Better Leader, Have a Richer Life," "Reclaim Your Job," "Moments of Greatness: Entering the Fundamental State of Leadership," "What to Ask the Person in the Mirror," and "Primal Leadership: The Hidden Driver of Great Performance."</dc:description>
+        <dc:publisher>Harvard Business Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">_9xbj9I3Sb8C</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781422157992</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Management</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harvard Business Review&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-07-14T04:48:53+00:00"/>
+        <meta name="calibre:title_sort" content="HBR's 10 Must Reads on Managing Yourself"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

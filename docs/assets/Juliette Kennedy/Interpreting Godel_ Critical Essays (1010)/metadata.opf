@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1010</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f479d527-60cc-4b9f-9bba-40c2739e471a</dc:identifier>
+        <dc:title>Interpreting Gödel: Critical Essays</dc:title>
+        <dc:creator opf:file-as="Kennedy, Juliette" opf:role="aut">Juliette Kennedy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-10-19T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The logician Kurt Gödel (1906-1978) published a paper in 1931 formulating what have come to be known as his 'incompleteness theorems', which prove, among other things, that within any formal system with resources sufficient to code arithmetic, questions exist which are neither provable nor disprovable on the basis of the axioms which define the system. These are among the most celebrated results in logic today. In this volume, leading philosophers and mathematicians assess important aspects of Gödel's work on the foundations and philosophy of mathematics. Their essays explore almost every aspect of Godel's intellectual legacy including his concepts of intuition and analyticity, the Completeness Theorem, the set-theoretic multiverse, and the state of mathematical logic today. This groundbreaking volume will be invaluable to students, historians, logicians and philosophers of mathematics who wish to understand the current thinking on these issues. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Cambridge University Press</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1107002664</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781107002661</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Juliette Kennedy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-09-24T05:31:50+00:00"/>
+        <meta name="calibre:title_sort" content="Interpreting Gödel: Critical Essays"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

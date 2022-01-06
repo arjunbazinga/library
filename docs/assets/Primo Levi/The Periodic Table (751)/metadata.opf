@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">751</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0bf7dd39-8c84-47a6-9f97-0c8474d44f97</dc:identifier>
+        <dc:title>The Periodic Table</dc:title>
+        <dc:creator opf:file-as="Levi, Primo" opf:role="aut">Primo Levi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1983-12-31T18:30:00+00:00</dc:date>
+        <dc:publisher>Schocken</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Primo Levi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-04-04T08:09:36+00:00"/>
+        <meta name="calibre:title_sort" content="Periodic Table, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

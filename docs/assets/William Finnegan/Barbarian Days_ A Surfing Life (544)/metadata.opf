@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">544</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f04bcce4-1cb5-458c-9146-d30b54d50f98</dc:identifier>
+        <dc:title>Barbarian Days: A Surfing Life</dc:title>
+        <dc:creator opf:file-as="Finnegan, William" opf:role="aut">William Finnegan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-07-20T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;**Winner of the 2016 Pulitzer Prize for Autobiography&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;“Reading this guy on the subject of waves and water is like reading Hemingway on bullfighting; William Burroughs on controlled substances; Updike on adultery. . . . a coming-of-age story, seen through the gloss resin coat of a surfboard.”— *Sports Illustrated &lt;/p&gt;
+&lt;p&gt;Included in &lt;strong&gt;President Obama’s 2016 Summer Reading List&lt;/strong&gt;&lt;span style="font-style: italic; font-weight: 600"&gt;*&lt;/span&gt;&lt;strong&gt;&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;span style="font-style: italic; font-weight: 600"&gt;Barbarian Days&lt;/span&gt;&lt;strong&gt;  is William Finnegan’s memoir of an obsession, a complex enchantment. Surfing only looks like a sport. To initiates, it is something else: a beautiful addiction, a demanding course of study, a morally dangerous pastime, a way of life. &lt;br&gt;&lt;br&gt;Raised in California and Hawaii, Finnegan started surfing as a child. He has chased waves all over the world, wandering for years through the South Pacific, Australia, Asia, Africa. A bookish boy, and then an excessively adventurous young man, he went on to become a distinguished writer and war reporter.  &lt;/strong&gt;&lt;span style="font-style: italic; font-weight: 600"&gt;Barbarian Days&lt;/span&gt;&lt;strong&gt;  takes us deep into unfamiliar worlds, some of them right under our noses—off the coasts of New York and San Francisco. It immerses the reader in the edgy camaraderie of close male friendships forged in challenging waves.&lt;br&gt;&lt;br&gt;Finnegan shares stories of life in a whites-only gang in a tough school in Honolulu. He shows us a world turned upside down for kids and adults alike by the social upheavals of the 1960s. He details the intricacies of famous waves and his own apprenticeships to them. Youthful folly—he drops LSD while riding huge Honolua Bay, on Maui—is served up with rueful humor. As Finnegan’s travels take him ever farther afield, he discovers the picturesque simplicity of a Samoan fishing village, dissects the sexual politics of Tongan interactions with Americans and Japanese, and navigates the Indonesian black market while nearly succumbing to malaria. Throughout, he surfs, carrying readers with him on rides of harrowing, unprecedented lucidity.&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;span style="font-style: italic; font-weight: 600"&gt;Barbarian Days&lt;/span&gt;&lt;strong&gt; is an old-school adventure story, an intellectual autobiography, a social history, a literary road movie, and an extraordinary exploration of the gradual mastering of an exacting, little-understood art.&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Praise for &lt;em&gt;Barbarian Days&lt;/em&gt; :&lt;strong&gt;&lt;br&gt;&lt;br&gt;“Without a doubt, the finest surf book I’ve ever read . . . But on a more fundamental level,  &lt;/strong&gt;&lt;span style="font-style: italic; font-weight: 600"&gt;Barbarian Days&lt;/span&gt;&lt;strong&gt;  offers a clear-eyed vision of American boyhood. Like Jon Krakauer’s  &lt;/strong&gt;&lt;span style="font-style: italic; font-weight: 600"&gt;Into the Wild&lt;/span&gt;&lt;strong&gt; , it is a sympathetic examination of what happens when literary ideas of freedom and purity take hold of a young mind and fling his body out into the far reaches of the world.” &lt;/strong&gt;&lt;span style="font-style: italic; font-weight: 600"&gt;—The New York Times Magazine&lt;/span&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;br&gt;“Incandescent . . . I’d sooner press this book upon on a nonsurfer, in part because nothing I’ve read so accurately describes the feeling of being stoked or the despair of being held under. . . . [But] it’s also about a writer’s life and, even more generally, a quester’s life, more carefully observed and precisely rendered than any I’ve read in a long time.” &lt;em&gt;—Los Angeles Times&lt;/em&gt; &lt;strong&gt;&lt;br&gt;&lt;/strong&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0143109391</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780698163744</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">r7IMAwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Biography &amp; Autobiography</dc:subject>
+        <dc:subject>Personal Memoirs</dc:subject>
+        <dc:subject>Sports &amp; Recreation</dc:subject>
+        <dc:subject>Surfing</dc:subject>
+        <dc:subject>Travel</dc:subject>
+        <dc:subject>Special Interest</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Finnegan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2019-01-27T09:36:35+00:00"/>
+        <meta name="calibre:title_sort" content="Barbarian Days: A Surfing Life"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

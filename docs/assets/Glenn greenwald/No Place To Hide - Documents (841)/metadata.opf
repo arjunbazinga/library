@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">841</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">df2eb66f-dadb-404f-8535-7f4dfd1fcc1d</dc:identifier>
+        <dc:title>No Place To Hide - Documents</dc:title>
+        <dc:creator opf:file-as="greenwald, Glenn" opf:role="aut">Glenn greenwald</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-05-07T16:18:15+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Glenn greenwald&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-07-09T07:37:28+00:00"/>
+        <meta name="calibre:title_sort" content="No Place To Hide - Documents"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

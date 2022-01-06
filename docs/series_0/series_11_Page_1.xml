@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Ender's Game: Publication Order</title>
+  <id>Calibre2opds::serieslistseries:11</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_11_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Ender's Game: Publication Order" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series" />
+  <entry>
+    <title>1 - Ender's Game</title>
+    <id>calibre:book:560</id>
+    <updated>2020-03-28T07:05:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Orson%20Scott%20Card/Ender%27s%20Game%20%28560%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Orson%20Scott%20Card/Ender%27s%20Game%20%28560%29/Ender%27s%20Game%20-%20Orson%20Scott%20Card.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Orson%20Scott%20Card/Ender%27s%20Game%20%28560%29/Ender%27s%20Game%20-%20Orson%20Scott%20Card.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Orson Scott Card</name>
+      <uri>../author_0/author_316_Page_1.xml</uri>
+    </author>
+    <published>1994-07-14T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Tor Books</dcterms:publisher>
+    <category term="#genre" />
+    <category term="Lang:en" />
+    <category term="Ender's Game: Publication Order" />
+    <summary>Ender's Game: Publication Order [1]: Winner of the Hugo and Nebula Awards In order to develop a secure defense against a hostile alien race's next attack, government agencies breed child geniuses and train them as soldiers. A brilliant young boy, And...</summary>
+    <link href="../book_0/book_560.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

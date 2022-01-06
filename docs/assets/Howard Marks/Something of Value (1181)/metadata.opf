@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1181</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d1283160-7b19-4d29-8eed-44d64d7ea5a8</dc:identifier>
+        <dc:title>Something of Value</dc:title>
+        <dc:creator opf:file-as="Marks, Howard" opf:role="aut">Howard Marks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-08T16:16:09+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Howard Marks&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-01-13T09:52:58+00:00"/>
+        <meta name="calibre:title_sort" content="Something of Value"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

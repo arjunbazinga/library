@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">987</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d627a86d-676d-4a6a-aa30-448953b1c277</dc:identifier>
+        <dc:title>Kotlin in Action</dc:title>
+        <dc:creator opf:file-as="Jemerov, Dmitry &amp; Isakova, Svetlana" opf:role="aut">Dmitry Jemerov</dc:creator>
+        <dc:creator opf:file-as="Jemerov, Dmitry &amp; Isakova, Svetlana" opf:role="aut">Svetlana Isakova</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-02-18T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Kotlin in Action&lt;/em&gt; guides experienced Java developers from the language basics of Kotlin all the way through building applications to run on the JVM and Android devices. Foreword by Andrey Breslav, Lead Designer of Kotlin. &lt;/p&gt;
+&lt;p&gt;Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the Technology&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;Developers want to get work done - and the less hassle, the better. Coding with Kotlin means less hassle. The Kotlin programming language offers an expressive syntax, a strong intuitive type system, and great tooling support along with seamless interoperability with existing Java code, libraries, and frameworks. Kotlin can be compiled to Java bytecode, so you can use it everywhere Java is used, including Android. And with an effi cient compiler and a small standard library, Kotlin imposes virtually no runtime overhead. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the Book&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Kotlin in Action&lt;/em&gt; teaches you to use the Kotlin language for production-quality applications. Written for experienced Java developers, this example-rich book goes further than most language books, covering interesting topics like building DSLs with natural language syntax. The authors are core Kotlin developers, so you can trust that even the gnarly details are dead accurate. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What's Inside&lt;/strong&gt; &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Functional programming on the JVM&lt;/li&gt;
+&lt;li&gt;Writing clean and idiomatic code&lt;/li&gt;
+&lt;li&gt;Combining Kotlin and Java&lt;/li&gt;
+&lt;li&gt;Domain-specific languages&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;About the Reader&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;This book is for experienced Java developers. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the Author&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dmitry Jemerov&lt;/strong&gt; and &lt;strong&gt;Svetlana Isakova&lt;/strong&gt; are core Kotlin developers at JetBrains. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt; &lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;PART 1 - INTRODUCING KOTLIN&lt;/h4&gt;
+&lt;ol&gt;&lt;li&gt;Kotlin: what and why&lt;/li&gt;
+&lt;li&gt;Kotlin basics&lt;/li&gt;
+&lt;li&gt;Defining and calling functions&lt;/li&gt;
+&lt;li&gt;Classes, objects, and interfaces&lt;/li&gt;
+&lt;li&gt;Programming with lambdas&lt;/li&gt;
+&lt;li&gt;The Kotlin type system&lt;/li&gt;&lt;/ol&gt;
+&lt;h4 style="font-size: medium"&gt;PART 2 - EMBRACING KOTLIN&lt;/h4&gt;
+&lt;ol&gt;&lt;li&gt;Operator overloading and other conventions&lt;/li&gt;
+&lt;li&gt;Higher-order functions: lambdas as parameters and return values&lt;/li&gt;
+&lt;li&gt;Generics&lt;/li&gt;
+&lt;li&gt;Annotations and reflection&lt;/li&gt;
+&lt;li&gt;DSL construction &lt;/li&gt;&lt;/ol&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Manning Publications</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">qtcIkAEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781617293290</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1617293296</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>Java</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Mobile Devices</dc:subject>
+        <dc:subject>Internet</dc:subject>
+        <dc:subject>Web</dc:subject>
+        <dc:subject>Web Programming</dc:subject>
+        <dc:subject>Client-Server Computing</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Dmitry Jemerov&quot;: &quot;&quot;, &quot;Svetlana Isakova&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-09-02T13:09:36+00:00"/>
+        <meta name="calibre:title_sort" content="Kotlin in Action"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

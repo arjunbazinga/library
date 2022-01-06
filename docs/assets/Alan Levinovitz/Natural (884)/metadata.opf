@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">884</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6cb608dd-af55-4663-be76-3dc75999df9d</dc:identifier>
+        <dc:title>Natural</dc:title>
+        <dc:creator opf:file-as="Levinovitz, Alan" opf:role="aut">Alan Levinovitz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-15T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;Illuminates the far-reaching consequences the myth of "natural" has over our lives, from misinformation about health choices to mistaken justifications of sexism, racism, and flawed economic policies.&lt;/b&gt;&lt;br&gt;Modern nature worship shares key elements with most religions: mythology, rituals, and laws. At the center of it all is a god: Nature, with a capital N. &lt;br&gt;Academic and journalist Alan Levinovitz's exploration of this faith takes readers deep into Peruvian jungle, on a tour of a high-tech Dutch greenhouse, wolf-watching in Yellowstone National Park, and into a controversial "natural" healing retreat. His interdisciplinary approach yields a uniquely comprehensive picture of nature worship, hidden in plain sight: in refrigerators and hospitals, in sports arenas and economic theories. Natural is the first holistic analysis of Nature's influence, along with a reckoning of the sacrifices made in its name&amp;#8212;the lives lost, the guilt suffered, the facts distorted. Although...</dc:description>
+        <dc:publisher>Beacon Press</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Alan Levinovitz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-07-28T17:21:39+00:00"/>
+        <meta name="calibre:title_sort" content="Natural"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">882</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0464f005-469a-422e-9366-ae471de6d0c4</dc:identifier>
+        <dc:title>Trance and Treatment - Clinical Uses of Hypnosis</dc:title>
+        <dc:creator opf:file-as="Spiegel, Herbert; Spiegel, David" opf:role="aut">Spiegel, Herbert; Spiegel, David</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Spiegel, Herbert; Spiegel, David&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-07-28T13:34:42.124202+00:00" name="calibre:timestamp"/>
+        <meta content="Trance and Treatment - Clinical Uses of Hypnosis" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

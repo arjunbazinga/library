@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">957</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2e28e511-0c9f-4912-ad20-b508964a9819</dc:identifier>
+        <dc:title>Basic Option Volatility Strategies: Understanding Popular Pricing Models</dc:title>
+        <dc:creator opf:file-as="Natenberg, Sheldon" opf:role="aut">Sheldon Natenberg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-04-13T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Now you can learn directly from Sheldon Natenberg! In this unique multimedia course, Natenberg will explain the most popular option pricing strategies. Follow along as this trading legend walks you through the calculations and key elements of option volatility in this video, companion book, and self-test combination. GET THE FULL IMPACT OF EVERY WORD OF THIS TRADERS' HALL OF FAME PRESENTATION. You'll learn: • Implied volatility and how it is calculated, so you can find the best positions; • What assumptions are driving an options pricing model to be ahead of the trade; • Proven techniques for comparing price to value to increase your number of winning trades; • How you can use probability to estimate option prices to increase trading income. Spending time with a trading legend is usually a dream for most traders, but this is your opportunity to get the inside tactics of one of the most sought-after educators in options. With the personal touch of his presentation, Natenberg's educational tool gives all traders, beginner to advanced, access to the powerful insights that can bring ongoing option trading success. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781592803446</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">159280344X</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">joExGIzkim0C</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Investments &amp; Securities</dc:subject>
+        <dc:subject>Options</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>EBC Converted</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sheldon Natenberg&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="4"/>
+        <meta name="calibre:timestamp" content="2020-08-26T15:57:18+00:00"/>
+        <meta name="calibre:title_sort" content="Basic Option Volatility Strategies: Understanding Popular Pricing Models"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

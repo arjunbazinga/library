@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">40bf8d7a-64ea-4127-b8cf-156b6c6cedb1</dc:identifier>
+        <dc:title>Superintelligence: Paths, Dangers, Strategies</dc:title>
+        <dc:creator opf:file-as="Bostrom, Nick" opf:role="aut">Nick Bostrom</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-09-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The human brain has some capabilities that the brains of other animals lack. It is to these distinctive capabilities that our species owes its dominant position. Other animals have stronger muscles or sharper claws, but we have cleverer brains. If machine brains one day come to surpass human brains in general intelligence, then this new superintelligence could become very powerful. As the fate of the gorillas now depends more on us humans than on the gorillas themselves, so the fate of our species then would come to depend on the actions of the machine superintelligence. But we have one advantage: we get to make the first move. Will it be possible to construct a seed AI or otherwise to engineer initial conditions so as to make an intelligence explosion survivable? How could one achieve a controlled detonation? To get closer to an answer to this question, we must make our way through a fascinating landscape of topics and considerations. Read the book and learn about oracles, genies, singletons; about boxing methods, tripwires, and mind crime; about humanity's cosmic endowment and differential technological development; indirect normativity, instrumental convergence, whole brain emulation and technology couplings; Malthusian economics and dystopian evolution; artificial intelligence, and biological cognitive enhancement, and collective intelligence.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Oxford University Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">7_H8AwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00LOOCGB2</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780199678112</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Intelligence (AI) &amp; Semantics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nick Bostrom&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2018-03-30T06:56:17+00:00"/>
+        <meta name="calibre:title_sort" content="Superintelligence: Paths, Dangers, Strategies"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

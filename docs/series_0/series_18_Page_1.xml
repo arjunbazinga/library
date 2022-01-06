@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>CSLI Lecture Notes</title>
+  <id>Calibre2opds::serieslistseries:18</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_18_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="CSLI Lecture Notes" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series" />
+  <entry>
+    <title>59 - Selected Papers on Computer Science</title>
+    <id>calibre:book:886</id>
+    <updated>2020-07-30T00:57:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Donald%20E.%20Knuth/Selected%20Papers%20on%20Computer%20Science%20%28886%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Donald%20E.%20Knuth/Selected%20Papers%20on%20Computer%20Science%20%28886%29/Selected%20Papers%20on%20Computer%20Science%20-%20Donald%20E.%20Knuth.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Donald E. Knuth</name>
+      <uri>../author_0/author_686_Page_1.xml</uri>
+    </author>
+    <published>2004-11-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Center for the Study of Language and Inf</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="CSLI Lecture Notes" />
+    <summary>CSLI Lecture Notes [59]: Donald Knuth's influence in computer science ranges from the invention of literate programming to the development of the TeX programming language. This anthology of essays includes articles on the history of computing, algori...</summary>
+    <link href="../book_0/book_886.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>106 - Selected papers on discrete mathematics</title>
+    <id>calibre:book:887</id>
+    <updated>2020-07-30T00:57:32Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Donald%20E.%20Knuth%2C%20Multiple/Selected%20papers%20on%20discrete%20mathematics%20%28887%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Donald%20E.%20Knuth%2C%20Multiple/Selected%20papers%20on%20discrete%20mathematics%20%28887%29/Selected%20papers%20on%20discrete%20mathematics%20-%20Donald%20E.%20Knuth%2C%20Multiple.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Donald E. Knuth, Multiple</name>
+      <uri>../author_0/author_687_Page_1.xml</uri>
+    </author>
+    <published>2001-07-04T06:30:00Z</published>
+    <dcterms:publisher>Center for the Study of Language and Information Publications</dcterms:publisher>
+    <category term="CSLI Lecture Notes" />
+    <summary>CSLI Lecture Notes [106]:</summary>
+    <link href="../book_0/book_887.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>139 - Selected Papers on Computer Languages</title>
+    <id>calibre:book:888</id>
+    <updated>2020-07-30T00:57:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Donald%20E.%20Knuth/Selected%20Papers%20on%20Computer%20Languages%20%28888%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Donald%20E.%20Knuth/Selected%20Papers%20on%20Computer%20Languages%20%28888%29/Selected%20Papers%20on%20Computer%20Languages%20-%20Donald%20E.%20Knuth.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Donald E. Knuth</name>
+      <uri>../author_0/author_686_Page_1.xml</uri>
+    </author>
+    <published>2002-12-01T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Center for the Study of Language and Inf</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="CSLI Lecture Notes" />
+    <summary>CSLI Lecture Notes [139]: This volume, sixth in a series of collected works by world-renowned computer scientist Donald E. Knuth, assembles approximately two dozen of his pioneering contributions to the field of computer languages, including papers o...</summary>
+    <link href="../book_0/book_888.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>191 - Selected Papers on Design of Algorithms</title>
+    <id>calibre:book:885</id>
+    <updated>2020-07-30T00:57:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Donald%20E.%20Knuth/Selected%20Papers%20on%20Design%20of%20Algorithms%20%28885%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Donald%20E.%20Knuth/Selected%20Papers%20on%20Design%20of%20Algorithms%20%28885%29/Selected%20Papers%20on%20Design%20of%20Algorithms%20-%20Donald%20E.%20Knuth.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Donald E. Knuth</name>
+      <uri>../author_0/author_686_Page_1.xml</uri>
+    </author>
+    <published>2010-04-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Center for the Study of Language and Inf</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="CSLI Lecture Notes" />
+    <summary>CSLI Lecture Notes [191]: Donald Knuth’s influence in computer science ranges from the invention of methods for translating and defining programming languages to the creation of the TEX and METAFONT systems for desktop publishing. His award-winning t...</summary>
+    <link href="../book_0/book_885.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>192 - Defending AI Research: A Collection of Essays and Reviews</title>
+    <id>calibre:book:889</id>
+    <updated>2020-07-30T00:57:06Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/John%20McCarthy/Defending%20AI%20Research_%20A%20Collection%20of%20Essays%20and%20Reviews%20%28889%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/John%20McCarthy/Defending%20AI%20Research_%20A%20Collection%20of%20Essays%20and%20Reviews%20%28889%29/Defending%20AI%20Research_%20A%20Collection%20of%20Ess%20-%20John%20McCarthy.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>John McCarthy</name>
+      <uri>../author_0/author_688_Page_1.xml</uri>
+    </author>
+    <published>1997-05-27T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Cambridge University Press</dcterms:publisher>
+    <category term="Computers" />
+    <category term="Natural Language Processing" />
+    <category term="Intelligence (AI) &amp; Semantics" />
+    <category term="Artificial intelligence--Research." />
+    <category term="Lang:en" />
+    <category term="CSLI Lecture Notes" />
+    <summary>CSLI Lecture Notes [192]: John McCarthy's influence in computer science ranges from the invention of LISP and time-sharing to the coining of the term AI and the founding of the AI laboratory at Stanford University. One of the foremost figures in comp...</summary>
+    <link href="../book_0/book_889.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

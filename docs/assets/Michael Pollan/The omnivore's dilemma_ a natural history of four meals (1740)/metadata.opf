@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1740</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aa27139c-3f9e-441d-ab2e-5fa723bca588</dc:identifier>
+        <dc:title>The omnivore's dilemma: a natural history of four meals</dc:title>
+        <dc:creator opf:file-as="Pollan, Michael" opf:role="aut">Michael Pollan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-08-28T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW: A national bestseller that has changed the way readers view the ecology of eating, this revolutionary book by award winner Michael Pollan asks the seemingly simple question: What should we have for dinner? Tracing from source to table each of the food chains that sustain us— whether industrial or organic, alternative or processed—he develops a portrait of the American way of eating. The result is a sweeping, surprising exploration of the hungers that have shaped our evolution, and of the profound implications our food choices have for the health of our species and the future of our planet.</dc:description>
+        <dc:publisher>Penguin Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780143038580</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sociology</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Cooking</dc:subject>
+        <dc:subject>Manners And Customs</dc:subject>
+        <dc:subject>Customs &amp; Traditions</dc:subject>
+        <dc:subject>Nutrition</dc:subject>
+        <dc:subject>Health &amp; Fitness</dc:subject>
+        <dc:subject>Anthropology</dc:subject>
+        <dc:subject>Food preferences</dc:subject>
+        <dc:subject>Food habits</dc:subject>
+        <dc:subject>Life Sciences - Ecology</dc:subject>
+        <dc:subject>Evolution</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Medical</dc:subject>
+        <dc:subject>Popular Culture - General</dc:subject>
+        <dc:subject>Anthropology - General</dc:subject>
+        <dc:subject>Archaeology</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Technology &amp; Engineering</dc:subject>
+        <dc:subject>Life Sciences</dc:subject>
+        <dc:subject>Ecology</dc:subject>
+        <dc:subject>Popular Culture</dc:subject>
+        <dc:subject>Food Science</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Agriculture</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Michael Pollan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-09-26T15:50:20+00:00"/>
+        <meta name="calibre:title_sort" content="omnivore's dilemma: a natural history of four meals, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

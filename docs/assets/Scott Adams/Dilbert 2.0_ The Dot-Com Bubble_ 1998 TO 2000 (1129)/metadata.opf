@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1129</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5588c27e-caff-4c2c-bfa7-254978d3dca8</dc:identifier>
+        <dc:title>Dilbert 2.0: The Dot-Com Bubble: 1998 TO 2000</dc:title>
+        <dc:creator opf:file-as="Adams, Scott" opf:role="aut">Scott Adams</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-09-18T11:19:41+00:00</dc:date>
+        <dc:description>In the tradition of The Complete Far Side and The Complete Calvin and Hobbes, Dilbert 2.0 celebrates the 20th anniversary of Scott Adams's Dilbert, the touchstone of office humor. This third volume of the four-volume e-book edition of Dilbert 2.0 covers the dot-com bubble from 1998 to 2000 for the celebrated cartoon strip.</dc:description>
+        <dc:publisher>Andrews McMeel Publishing</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">16669631</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781449422929</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Xrm50kwz0e4C</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comics &amp; Graphic Novels</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Scott Adams&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-11T07:48:26+00:00"/>
+        <meta name="calibre:title_sort" content="Dilbert 2.0: The Dot-Com Bubble: 1998 TO 2000"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

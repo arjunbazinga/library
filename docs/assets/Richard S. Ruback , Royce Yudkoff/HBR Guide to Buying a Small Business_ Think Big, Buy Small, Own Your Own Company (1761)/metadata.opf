@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1761</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eaf80e16-64a3-4c15-91a9-3ba4b97392ef</dc:identifier>
+        <dc:title>HBR Guide to Buying a Small Business: Think Big, Buy Small, Own Your Own Company</dc:title>
+        <dc:creator opf:file-as="Richard S. Ruback , Royce Yudkoff" opf:role="aut">Richard S. Ruback , Royce Yudkoff</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-17T11:09:48+00:00</dc:date>
+        <dc:description>Think big, buy small.Are you looking for an alternative to a career path at a big firm? Does founding your own start-up seem too risky? There is a radical third path open to you: You can buy a small business and run it as CEO. Purchasing a small company offers significant financial rewards—as well as personal and professional fulfillment. Leading a firm means you can be your own boss, put your executive skills to work, fashion a company environment that meets your own needs, and profit directly from your success.But finding the right business to buy and closing the deal isn't always easy. In the HBR Guide to Buying a Small Business, Harvard Business School professors Richard Ruback and Royce Yudkoff help you:Determine if this path is right for youRaise capital for your acquisitionFind and evaluate the right prospectsAvoid the pitfalls that could derail your searchUnderstand why a "dull" business might be the best investmentNegotiate a potential deal with the sellerAvoid deals that fall through at the last minute</dc:description>
+        <dc:publisher>Harvard Business Review Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">xSy4DQAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781633692510</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Small Business</dc:subject>
+        <dc:subject>Entrepreneurship</dc:subject>
+        <dc:subject>Management</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Richard S. Ruback , Royce Yudkoff&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-11-05T10:57:39+00:00"/>
+        <meta name="calibre:title_sort" content="HBR Guide to Buying a Small Business: Think Big, Buy Small, Own Your Own Company"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

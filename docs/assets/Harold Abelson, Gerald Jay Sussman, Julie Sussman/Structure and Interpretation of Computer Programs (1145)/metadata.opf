@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1145</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f9ee4f5c-3f52-4f13-bc9d-9174efe112db</dc:identifier>
+        <dc:title>Structure and Interpretation of Computer Programs</dc:title>
+        <dc:creator opf:file-as="Harold Abelson, Gerald Jay Sussman, Julie Sussman" opf:role="aut">Harold Abelson, Gerald Jay Sussman, Julie Sussman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;span style="color: #000000"&gt;Structure and Interpretation of Computer Programs has had a dramatic impact on computer science curricula over the past decade. This long-awaited revision contains changes throughout the text. &lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Computer Science</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>abstraction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harold Abelson, Gerald Jay Sussman, Julie Sussman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-18T20:46:07+00:00"/>
+        <meta name="calibre:title_sort" content="Structure and Interpretation of Computer Programs"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

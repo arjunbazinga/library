@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">668</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e0fef8eb-025b-43b7-83b9-eb39c0348c1e</dc:identifier>
+        <dc:title>Walden Two [1948, 1976, 2005]</dc:title>
+        <dc:creator opf:file-as="Skinner, B. F." opf:role="aut">B. F. Skinner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1947-12-31T18:30:00+00:00</dc:date>
+        <dc:description>Walden Two is a utopian novel by behavioral psychologist B.F. Skinner. It describes a 1000 person planned rural community in which the members are happy &amp;amp; productively creative. The community is governed by Managers, six Planners &amp;amp; supports a few Scientists. It promotes arts &amp;amp; leisure, requiring only four hours of work per member daily. Members subscribe to a Code of conduct which is based on, &amp;amp; supported by, a science of human behavior resembling Skinner's own conception of human behavior.&lt;br&gt; Walden Two challenges a host of social conventions including the value of modern education, the effectiveness of professors &amp;amp; the problems of excessive work. It argues for a planned economy against Capitalism. The governing structure isn't democratic in a conventional sense. Children are raised largely outside of the nuclear family &amp;amp; are encouraged to be loyal to the community over their parents. Members are encouraged to have children &amp;amp; the community pursues a high growth policy. The book alludes to the acquisition of political power &amp;amp; to an expansive strategy of replication. It flirts with eugenics, suggesting the creation of a Golden Age.&lt;br&gt; Walden Two controversies include the rejection of democracy, the perceived narrow range of emotional expression, its possible appeal to dictators, the attraction to it by people who seek to emulate T.E. Frazier, the emotionally unstable protagonist, the socialistic nature of the economic system &amp;amp; its essentially atheistic bent.&lt;br&gt; Walden Two is a novel about a small party of visitors to the community ten years after its founding. T.E. Frazier in founding the community had written a popular article suggesting people join him in starting a community based on Thoreau's ideas a decade earlier.&lt;br&gt; Two soldiers, returning from the war, are trying to find Frazier, enlisting the help of Prof. Burris. Burris finds Frazier, contacts him, &amp;amp; finds himself swept up into a small party of visitors to the community.&lt;br&gt; Burris invites a fellow professor, Augustine Castle, &amp;amp; with the two original veterans, Rogers &amp;amp; Steve Jamnick, &amp;amp; their partners--Mary Grove &amp;amp; Barbara Macklin--six head out.&lt;br&gt; The story has many plot devices, but centers on arguments between Frazier &amp;amp; his foil Castle, with some small diversions provided by Burris. This is done to allow us to hear about the various reasons for the community's structure, its past &amp;amp; its future. The novel ends with one couple staying, the rest of the party leaving. Burris, in a sudden change of heart, turns around &amp;amp; comes back, quitting his job at the university without notice.</dc:description>
+        <dc:publisher>Hackett Publishing Company</dc:publisher>
+        <dc:identifier opf:scheme="ISBN13 2005 ED. PBK.">978-0-87220-778-3</dc:identifier>
+        <dc:identifier opf:scheme="ISBN10 2005 ED. HC">0-87220-779-X</dc:identifier>
+        <dc:identifier opf:scheme="EISBN 2005 ED. PRC">978-1-60384-110-8</dc:identifier>
+        <dc:identifier opf:scheme="ISBN10 1976 ED. PBK.">0024115118</dc:identifier>
+        <dc:identifier opf:scheme="ISBN10 2005 ED. PBK.">0-87220-778-1</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B003GEKL10</dc:identifier>
+        <dc:identifier opf:scheme="ISBN13 2005 ED. HC">978-0-87220-779-0</dc:identifier>
+        <dc:identifier opf:scheme="ISBN13 1976 ED. PBK.">9780024115119</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;B. F. Skinner&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-03-28T06:02:36.193859+00:00" name="calibre:timestamp"/>
+        <meta content="Walden Two" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

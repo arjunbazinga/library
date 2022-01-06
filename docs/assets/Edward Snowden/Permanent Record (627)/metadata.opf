@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">627</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0c14f90e-0797-4e30-b089-6f3505ca120f</dc:identifier>
+        <dc:title>Permanent Record</dc:title>
+        <dc:creator opf:file-as="Snowden, Edward" opf:role="aut">Edward Snowden</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-17T06:00:00+00:00</dc:date>
+        <dc:publisher>Pan Macmillan</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781250237231</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07VWQCK4K</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Edward Snowden&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:31+00:00"/>
+        <meta name="calibre:title_sort" content="Permanent Record"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

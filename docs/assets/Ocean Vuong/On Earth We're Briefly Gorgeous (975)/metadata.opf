@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">975</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">24e13ad5-c1d4-4aa1-bb5c-d31c8abc3299</dc:identifier>
+        <dc:title>On Earth We're Briefly Gorgeous</dc:title>
+        <dc:creator opf:file-as="Vuong, Ocean" opf:role="aut">Ocean Vuong</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-20T11:27:49+00:00</dc:date>
+        <dc:description>** Sunday Times Bestseller **Brilliant, heartbreaking and highly original, Ocean Vuong's debut novel is a shattering portrait of a family, and a testament to the redemptive power of storytelling.'A marvel' Marlon JamesThis is a letter from a son to a mother who cannot read. Written when the speaker, Little Dog, is in his late twenties, the letter unearths a family's history that began before he was born. It tells of Vietnam, of the lasting impact of war, and of his family's struggle to forge a new future. And it serves as a doorway into parts of Little Dog's life his mother has never known - episodes of bewilderment, fear and passion - all the while moving closer to an unforgettable revelation.'A masterpiece' Max Porter'Luminous, shattering, urgent, necessary' Celeste Ng</dc:description>
+        <dc:publisher>Penguin Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">pE5vDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781473564473</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Cultural Heritage</dc:subject>
+        <dc:subject>Asian American</dc:subject>
+        <dc:subject>Family Life</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Lgbtq+</dc:subject>
+        <dc:subject>Gay</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ocean Vuong&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-08-26T16:42:18+00:00"/>
+        <meta name="calibre:title_sort" content="On Earth We're Briefly Gorgeous"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

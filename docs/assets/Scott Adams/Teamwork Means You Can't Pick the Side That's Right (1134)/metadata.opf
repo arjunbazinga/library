@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1134</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4a6d1a2b-7284-4e02-8fff-726104577f77</dc:identifier>
+        <dc:title>Teamwork Means You Can't Pick the Side That's Right</dc:title>
+        <dc:creator opf:file-as="Adams, Scott" opf:role="aut">Scott Adams</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-04-17T11:19:33+00:00</dc:date>
+        <dc:description>He's the icon of millions of corporate workers, the most popular cubicle dweller on this planet. He spends his days in endless meetings with incompetent supervisors, performing perfunctory tasks mixed with the occasional team-building, brainstorming, or management fad-of-the-day session. He has entertained us for more than two decades: He's Dilbert.Created in 1989 by Adams, in his own cubicle as a doodle distraction, Dilbert has found a home in the workplace, this generation's home away from home. Adams amuses readers with his portrayal of the absurdities of this environment with unfailing accuracy and precision. As readers of more than 2,000 newspapers, millions of books, and the newly revamped Dilbert.com site know, the familiar mouthless character with the upturned tie, his dog, Dogbert, the pointy-haired Boss, over-achieving Alice and underachieving Wally, Human Resources director Catbert, depict a world that's all too easy to recognize, complete with shrinking cubicles, clueless co-workers, focus groups and ill-conceived management concepts.In this all-new chronological collection, Adams further exploits the fodder of workaday life, making even the most cynical cubicle dweller laugh at our shared, absurd work lives.</dc:description>
+        <dc:publisher>Andrews McMeel Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781449422417</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">po_4Dab6WGcC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Humor</dc:subject>
+        <dc:subject>Form</dc:subject>
+        <dc:subject>Comic Strips &amp; Cartoons</dc:subject>
+        <dc:subject>Comics &amp; Graphic Novels</dc:subject>
+        <dc:subject>Anthologies</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Scott Adams&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-11T07:48:33+00:00"/>
+        <meta name="calibre:title_sort" content="Teamwork Means You Can't Pick the Side That's Right"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

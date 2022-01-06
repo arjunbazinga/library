@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">974</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9f66ecb7-29cd-41ca-9dc0-97ee7d6517f2</dc:identifier>
+        <dc:title>Don't Just Roll The Dice</dc:title>
+        <dc:creator opf:file-as="Davidson, Neil" opf:role="aut">Neil Davidson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>A usefully short guide to software pricing</dc:subject>
+        <dc:subject>Software</dc:subject>
+        <dc:subject>pricing</dc:subject>
+        <dc:subject>cost</dc:subject>
+        <dc:subject>Business</dc:subject>
+        <dc:subject>apps</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Neil Davidson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-08-26T16:42:16+00:00"/>
+        <meta name="calibre:title_sort" content="Don't Just Roll The Dice"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

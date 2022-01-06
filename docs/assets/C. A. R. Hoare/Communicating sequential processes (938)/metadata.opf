@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">938</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3f97cca9-3b2c-40bb-8b5c-815413e05f1a</dc:identifier>
+        <dc:title>Communicating sequential processes</dc:title>
+        <dc:creator opf:file-as="Hoare, C. A. R." opf:role="aut">C. A. R. Hoare</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="DOI">10.1145/359576.359585</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>http://doi.acm.org/10.1145/359576.359585</dc:subject>
+        <dc:subject>classes</dc:subject>
+        <dc:subject>concurrency</dc:subject>
+        <dc:subject>conditional critical regions</dc:subject>
+        <dc:subject>coroutines</dc:subject>
+        <dc:subject>data representations</dc:subject>
+        <dc:subject>guarded commands</dc:subject>
+        <dc:subject>input</dc:subject>
+        <dc:subject>iterative arrays</dc:subject>
+        <dc:subject>monitors</dc:subject>
+        <dc:subject>multiple entries</dc:subject>
+        <dc:subject>multiple exits</dc:subject>
+        <dc:subject>nondeterminacy</dc:subject>
+        <dc:subject>output</dc:subject>
+        <dc:subject>parallel programming</dc:subject>
+        <dc:subject>procedures</dc:subject>
+        <dc:subject>program structures</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>programming primitives</dc:subject>
+        <dc:subject>recursion</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;C. A. R. Hoare&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-08-21T08:16:07+00:00"/>
+        <meta name="calibre:title_sort" content="Communicating sequential processes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

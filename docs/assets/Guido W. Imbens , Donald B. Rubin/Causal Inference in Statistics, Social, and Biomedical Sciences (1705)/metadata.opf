@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1705</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">86ff4c1e-0f0a-43bb-a384-52fd2422f070</dc:identifier>
+        <dc:title>Causal Inference in Statistics, Social, and Biomedical Sciences</dc:title>
+        <dc:creator opf:file-as="Guido W. Imbens , Donald B. Rubin" opf:role="aut">Guido W. Imbens , Donald B. Rubin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-04-06T19:52:46+00:00</dc:date>
+        <dc:description>Most questions in social and biomedical sciences are causal in nature: what would happen to individuals, or to groups, if part of their environment were changed? In this groundbreaking text, two world-renowned experts present statistical methods for studying such questions. This book starts with the notion of potential outcomes, each corresponding to the outcome that would be realized if a subject were exposed to a particular treatment or regime. In this approach, causal effects are comparisons of such potential outcomes. The fundamental problem of causal inference is that we can only observe one of the potential outcomes for a particular subject. The authors discuss how randomized experiments allow us to assess causal effects and then turn to observational studies. They lay out the assumptions needed for causal inference and describe the leading analysis methods, including, matching, propensity-score methods, and instrumental variables. Many detailed applications are included, with special focus on practical aspects for the empirical researcher.</dc:description>
+        <dc:publisher>Cambridge University Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780521885881</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Bf1tBwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Industrial Management</dc:subject>
+        <dc:subject>Health &amp; Fitness</dc:subject>
+        <dc:subject>Health Care Issues</dc:subject>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Probability &amp; Statistics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Medical</dc:subject>
+        <dc:subject>Epidemiology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Guido W. Imbens , Donald B. Rubin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-07-09T19:52:36+00:00"/>
+        <meta name="calibre:title_sort" content="Causal Inference in Statistics, Social, and Biomedical Sciences"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1047</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e81d4f7d-da02-40ba-adc9-1fb386604fa0</dc:identifier>
+        <dc:title>Memoirs of the Life, Writings, and Discoveries of Sir Isaac Newton, Volume 1</dc:title>
+        <dc:creator opf:file-as="Brewster, David" opf:role="aut">David Brewster</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-13T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;PREFACE. &lt;/p&gt;
+&lt;p&gt;In consequence of the wide circulation of the Life of Sir Isaac Newton, which I drew up for the " Family Library " in 1831, I was induced to undertake a larger work, in order to give a more detailed account of his Life, Writings, and Discoveries. For this purpose I applied in 1837 to the Honourable Newton FeUowes, one of the trustees of the Earl of Portsmouth, for permission to inspect the Manuscripts and Correspondence of Sir Isaac, which, through his grandniece, Miss Conduitt, afterwards Lady Lymington, had come into the possession of that noble family. Mr. FeUowes kindly granted my request, and his amiable and accomplished son, Mr. Henry Arthur FeUowes, who, had he Uved, would now have been Earl of Portsmouth, met me in June 1837, at Hurtsbourne Park, to assist me in examining and making extracts from the large mass of papers which Sir Isaac had left behind him. &lt;/p&gt;
+&lt;p&gt;In this examination our attention was particularly directed to such letters and papers as were calculated to throw light upon his early and academical life, and, with the assistance of Mr. FeUowes, who copied for me several important documents, I was enabled to collect many valuable materials unknown to preceding biographers. &lt;/p&gt;
+&lt;p&gt;After the death of Sir Isaac, his nephew, Mr. Conduitt, drew &lt;/p&gt;
+&lt;p&gt;up a memorial, containing a sketch of his life, for the use of Fontenelle, the Secretary to the Academy of Sciences in Paris, whose duty it was to write his Eloge, as one of the eight Associates of the Academy. This memorial was published by Ed-mond Turnor, Esq., in his " Collections for the History of the Town and Soke of Grantham," and was supposed to contain all the information that Mr. Conduitt could collect from persons then alive, and from other sources, respecting Sir Isaac's life. This, however, was a mistake. After the publication of Fon-tenelle's Eloge, Mr. Conduitt resolved to draw up a Life of his illustrious relative, and, with this view, he wrote the following letter, requesting the assistance of Sir Isaac's personal friends :'— &lt;/p&gt;
+&lt;p&gt;" Gth February 172|. &lt;/p&gt;
+&lt;p&gt;" Sir, —I have taken the liberty to trouble you with some short hints of that part of our honoured friend, Sir I. Newton's life, which I must beg the favour of you to undertake, there being nobody, without dispute, so well qualified to do it as yourself. I send you, at the same time, FonteneUe's Eloge, wherein you will find a very imperfect attempt of the same kind ; but I fear he had neither abilities nor inclination to do justice to that great man, who had eclipsed the glory of their hero, Descartes. As Sir I. Newton was a national man, I think every one ought to contribute to a work intended to do him justice, particularly those who had so great a share in his esteem as you had; and as I pretend to nothing more than to compile it, I shall acquaint the public in the Preface, to whom they are indebted for each particular part of it. &lt;/p&gt;
+&lt;p&gt;1 This letter is docqueted by Conduitt, " Letter sent by me concerning Sir I. N.'s Inventions." &lt;/p&gt;
+&lt;p&gt;" I am persuaded that the hints I have sent you are very-imperfect, and that your own genius will suggest to you many others much more proper and significant, and I beg of you to put down everything that occurs to your thoughts, and you think fit to be inserted in such a work. &lt;/p&gt;
+&lt;p&gt;" I conjure you not to put off what I take the liberty to recommend to you. As on one hand the complying with my request will be a mark of your gratitude to your old friend, and an eternal obligation on me, so your delaying it will be the most mortifying disappointment to, &lt;/p&gt;
+&lt;p&gt;" Sir, &lt;/p&gt;
+&lt;p&gt;" Your most humble Servant, &lt;/p&gt;
+&lt;p&gt;" John Conduitt."^ &lt;/p&gt;
+&lt;p&gt;Although Mr. Conduitt had at this time resolved to compile a Life of Sir Isaac, and had obtained much information from Dr. Stukely, Mr. Wickins, and Dr. Humphrey Newton of Grantham, yet he seems to have so far relinquished his design, that in June 1729, nearly eighteen months after the date of his letter, he intimates to a friend^ that " he has some thoughts of writing the Life of **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="AMAZON">B0079KFFQS</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;David Brewster&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-18T12:06:32+00:00"/>
+        <meta name="calibre:title_sort" content="Memoirs of the Life, Writings, and Discoveries of Sir Isaac Newton, Volume 1"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

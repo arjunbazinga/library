@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">753</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">39af76fc-1047-4c45-9c5a-4205a7046072</dc:identifier>
+        <dc:title>A bend in the river</dc:title>
+        <dc:creator opf:file-as="Naipaul, V. S." opf:role="aut">V. S. Naipaul</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-07-14T22:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+'Brilliant and terrifying' - "Observer". I had to be the man who was doing well and more than well, the man whose drab shop concealed some bigger operation that made millions. I had to be the man who had planned it all, who had come to the destroyed town at the bend in the river because he had foreseen the rich future. 'Salim, the narrator, is a young man from an Indian family of traders long resident on the coast of Centeral Africa. Salim has left the coast to make his way in the interior, there to take on a small trading shop of this and that, sudries, sold to the natives. The place is 'a bend in the river'; it is Africa. The time is post-colonial, the time of Independence. The Europeans have withdrawn or been forced to withdraw and the scene is one of chaos, violent change, warring tribes, ignorance, isolation, poverty and a lack of prepartion for the modern world they have entered, or partially assumed as a sort of decoration. It is a story of historical upheaval and social breakdown. Naipaul has fashioned a work of intense imaginative force.  It is a haunting creation, rich with incident and human bafflement, played out in an immense detail of landscape rendered with a poignant brilliance' - Elizabeth Hardwick. 'Always a master of fictional landscape, Naipaul here shows, in his variety of human examples and in his search for underlying social causes, a Tolstoyan spirit' - John Updike.</dc:description>
+        <dc:publisher>G.K. Hall</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780783886169</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Unread</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;V. S. Naipaul&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-04-04T08:09:36+00:00"/>
+        <meta name="calibre:title_sort" content="bend in the river, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">795</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">02458dab-f36a-45ab-971e-e59b97ac32a5</dc:identifier>
+        <dc:title>Start Small, Stay Small: A Developer's Guide to Launching a Startup</dc:title>
+        <dc:creator opf:file-as="Walling, Rob" opf:role="aut">Rob Walling</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Start Small, Stay Small is a step-by-step guide to launching a self-funded startup. If you're a desktop, mobile or web developer, this book is your blueprint to getting your startup off the ground with no outside investment.This book intentionally avoids topics restricted to venture-backed startups such as: honing your investment pitch, securing funding, and figuring out how to use the piles of cash investors keep placing in your lap.This book assumes: * You don't have $6M of investor funds sitting in your bank account * You're not going to relocate to the handful of startup hubs in the world * You're not going to work 70 hour weeks for low pay with the hope of someday making millions from stock options&lt;/p&gt;
+&lt;p&gt;There's nothing wrong with pursuing venture funding and attempting to grow fast like Amazon, Google, Twitter, and Facebook. It just so happened that most people are not in a place to do this.Start Small, Stay Small also focuses on the single most important element of a startup that most developers avoid: marketing. There are many great resources for learning how to write code, organize source control, or connect to a database. This book does not cover the technical aspects developers already know or can learn elsewhere. It focuses on finding your idea, testing it before you build, and getting it into the hands of your customers. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>The Numa Group LLC</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780615373966</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">XYBhUjyi-WYC</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0615373968</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>start up</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rob Walling&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-05-09T07:04:33+00:00"/>
+        <meta name="calibre:title_sort" content="Start Small, Stay Small: A Developer's Guide to Launching a Startup"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

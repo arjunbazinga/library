@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">568</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">14c5310f-fbf3-404a-956c-7ac160414da0</dc:identifier>
+        <dc:title>The Death of Ivan Ilyich and Other Stories</dc:title>
+        <dc:creator opf:file-as="Tolstoy, Leo" opf:role="aut">Leo Tolstoy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-05-26T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;'no one pitied him as he would have liked to be pitied' As Ivan Ilyich lies dying he begins to re-evaluate his life, searching for meaning that will make sense of his sufferings. In 'The Death of Ivan Ilyich' and the other works in this volume, Tolstoy conjures characters who, tested to the limit, reveal glorious and unexpected reserves of courage or baseness of a near inhuman kind. Two vivid parables and 'The Forged Coupon', a tale of criminality, explore class relations after the emancipation of the serfs in 1861 and the connection between an ethical life and worldly issues. In 'Master and Workman' Tolstoy creates one of his most gripping dramas about human relationships put to the test in an extreme situation. 'The Death of Ivan Ilyich' is an existential masterpiece, a biting satire that recounts with extraordinary power the final illness and death of a bourgeois lawyer. In his Introduction Andrew Kahn explores Tolstoy's moral concerns and the stylistic features of these late stories, sensitively translated by Nicolas Pasternak Slater. ABOUT THE SERIES: For over 100 years Oxford World's Classics has made available the widest range of literature from around the globe. Each affordable volume reflects Oxford's commitment to scholarship, providing the most accurate text plus a wealth of other valuable features, including expert introductions by leading authorities, helpful notes to clarify the text, up-to-date bibliographies for further study, and much more.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>OUP Oxford</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780140449617</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Q_51BQAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1840224533</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Literary Collections</dc:subject>
+        <dc:subject>Ancient &amp; Classical</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Short Stories (Single Author)</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Leo Tolstoy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2019-04-19T16:25:40+00:00"/>
+        <meta name="calibre:title_sort" content="Death of Ivan Ilyich and Other Stories, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

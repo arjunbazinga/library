@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1019</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7527f0bb-b21d-4e33-8fce-f691f454f105</dc:identifier>
+        <dc:title>Producing Wrong Data Without Doing Anything Obviously Wrong!</dc:title>
+        <dc:creator opf:file-as="Todd Mytkowicz,Amer Diwan, Matthias Hauswirth, Peter F. Sweeney" opf:role="aut">Todd Mytkowicz,Amer Diwan, Matthias Hauswirth, Peter F. Sweeney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-01-05T10:08:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;ASPLOS 2009 Submission&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>ASPLOS 2009 Submission</dc:subject>
+        <dc:subject>keywords</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Todd Mytkowicz,Amer Diwan, Matthias Hauswirth, Peter F. Sweeney&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-09-30T11:57:14+00:00"/>
+        <meta name="calibre:title_sort" content="Producing Wrong Data Without Doing Anything Obviously Wrong!"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

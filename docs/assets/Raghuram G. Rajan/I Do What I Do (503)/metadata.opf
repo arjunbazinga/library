@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">503</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0ce56e3b-d1b6-4ced-948c-3ac6f984ae33</dc:identifier>
+        <dc:title>I Do What I Do</dc:title>
+        <dc:creator opf:file-as="Rajan, Raghuram G." opf:role="aut">Raghuram G. Rajan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-24T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;When Raghuram G. Rajan took charge as Governor of the Reserve Bank of India in September 2013, the rupee was in free fall, inflation was high, India had a large current account deficit, and India's exchange reserves were falling. As measure after measure failed to stabilize markets, speculators sensed a full-blown crisis and labelled India one of the Fragile Five economies. Rajan's response was to go all out, not just to tackle the crisis of confidence, but also to send a strong message about the strength of India's institutions and the country's ongoing programme of reform. He outlined a vision that went beyond the immediate crisis to focus on long-term growth and stability, thus restoring investor confidence. Boldness and farsightedness would be characteristic of the decisions he took in the ensuing three years. Rajan's commentary and speeches in I Do What I Do convey what it was like to be at the helm of the central bank in those turbulent but exciting times. Whether on dosanomics or on debt relief, Rajan explains economic concepts in a readily accessible way. Equally, he addresses key issues that are not in any banking manual but essential to growth: the need for tolerance and respect to assure India's economic progress, for instance, or the connection between political freedom and prosperity. I Do What I Do offers a front-row view into the thinking of one of the world's most respected economists, one whose commitment to India's progress shines through in the essays and speeches here. It also brings home what every RBI Governor discovers for himself when he sits down at his desk on the 18th floor: the rupee stops here. Right here!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Harper Collins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789352770151</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B074VZGMNT</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">4HIyDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Raghuram G. Rajan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2018-08-28T19:06:02+00:00"/>
+        <meta name="calibre:title_sort" content="I Do What I Do"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

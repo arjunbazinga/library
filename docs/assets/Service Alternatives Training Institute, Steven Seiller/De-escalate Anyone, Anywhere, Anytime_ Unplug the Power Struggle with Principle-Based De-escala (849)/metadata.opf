@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">849</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d6208ff2-d283-4e9f-844e-43a0d74363e6</dc:identifier>
+        <dc:title>De-escalate Anyone, Anywhere, Anytime: Unplug the Power Struggle with Principle-Based De-escalation</dc:title>
+        <dc:creator opf:file-as="Service Alternatives Training Institute, Steven Seiller" opf:role="aut">Service Alternatives Training Institute, Steven Seiller</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-24T16:34:00+00:00</dc:date>
+        <dc:description>Unplug the Power Struggle with Principle-Based De-escalation</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>behavior</dc:subject>
+        <dc:subject>crisis</dc:subject>
+        <dc:subject>de-escalation</dc:subject>
+        <dc:subject>escalation</dc:subject>
+        <dc:subject>intervention</dc:subject>
+        <dc:subject>restraint</dc:subject>
+        <dc:subject>prevention</dc:subject>
+        <dc:subject>postvention</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Service Alternatives Training Institute, Steven Seiller&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-07-09T07:37:31+00:00"/>
+        <meta name="calibre:title_sort" content="De-escalate Anyone, Anywhere, Anytime: Unplug the Power Struggle with Principle-Based De-escalation"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

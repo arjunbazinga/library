@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1143</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">db27d2c1-f08d-429c-add6-9b1c88368632</dc:identifier>
+        <dc:title>Ggplot2: Elegant Graphics for Data Analysis</dc:title>
+        <dc:creator opf:file-as="Wickham, Hadley" opf:role="aut">Hadley Wickham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-03T11:27:26+00:00</dc:date>
+        <dc:description>1. 1 Welcome to ggplot2 ggplot2 is an R package for producing statistical, or data, graphics, but it is unlike most other graphics packages because it has a deep underlying grammar. This grammar, based on the Grammar of Graphics (Wilkinson, 2005), is composed of a set of independent components that can be composed in many di?erent ways. This makesggplot2 very powerful, because you are not limited to a set of pre-speci?ed graphics, but you can create new graphics that are precisely tailored for your problem. This may sound overwhelming, but because there is a simple set of core principles and very few special cases, ggplot2 is also easy to learn (although it may take a little time to forget your preconceptions from other graphics tools). Practically,ggplot2 provides beautiful, hassle-free plots, that take care of ?ddly details like drawing legends. The plots can be built up iteratively and edited later. A carefully chosen set of defaults means that most of the time you can produce a publication-quality graphic in seconds, but if you do have special formatting requirements, a comprehensive theming system makes it easy to do what you want. Instead of spending time making your graph look pretty, you can focus on creating a graph that best reveals the messages in your data.</dc:description>
+        <dc:publisher>Springer Science &amp; Business Media</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">bes-AAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780387981413</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Mathematical &amp; Statistical Software</dc:subject>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Graphic Methods</dc:subject>
+        <dc:subject>Software Development &amp; Engineering</dc:subject>
+        <dc:subject>Computer Graphics</dc:subject>
+        <dc:subject>Probability &amp; Statistics</dc:subject>
+        <dc:subject>Stochastic Processes</dc:subject>
+        <dc:subject>Combinatorics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hadley Wickham&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-14T05:39:37+00:00"/>
+        <meta name="calibre:title_sort" content="Ggplot2: Elegant Graphics for Data Analysis"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

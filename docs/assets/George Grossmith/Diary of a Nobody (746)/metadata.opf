@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">746</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fc389968-a05d-4018-a5ae-3bf6e00384b0</dc:identifier>
+        <dc:title>Diary of a Nobody</dc:title>
+        <dc:creator opf:file-as="Grossmith, George &amp; Grossmith, Weedon" opf:role="aut">George Grossmith</dc:creator>
+        <dc:creator opf:file-as="Grossmith, George &amp; Grossmith, Weedon" opf:role="aut">Weedon Grossmith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-12-04T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The diary is that of a man who acknowledges that he is not a "Somebody" - Charles Pooter of 'The Laurels', Brickfield Terrace, Holloway, a clerk in the city of London - and it chronicles in hilarious detail the everyday life of the lower middle class during the Great Victorian age. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Wordsworth Editions</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781853262012</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1853262013</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;George Grossmith&quot;: &quot;&quot;, &quot;Weedon Grossmith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-04-04T08:09:35+00:00"/>
+        <meta name="calibre:title_sort" content="Diary of a Nobody"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">666</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">330f836a-2db4-4064-bb37-c80c40844f23</dc:identifier>
+        <dc:title>The Culture Code: An Ingenious Way to Understand Why People Around the World Live and Buy as They Do</dc:title>
+        <dc:creator opf:file-as="Rapaille, Clotaire" opf:role="aut">Clotaire Rapaille</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-06-06T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Why are people around the world so very different? What makes us live, buy, even love as we do? The answers are in the codes.  &lt;/p&gt;&lt;p&gt;In &lt;em&gt;The Culture Code&lt;/em&gt;, internationally revered cultural anthropologist and marketing expert Clotaire Rapaille reveals for the first time the techniques he has used to improve profitability and practices for dozens of Fortune 100 companies. His groundbreaking revelations shed light not just on business but on the way every human being acts and lives around the world.   &lt;/p&gt;&lt;p&gt;Rapaille’s breakthrough notion is that we acquire a silent system of codes as we grow up within our culture. These codes—the Culture Code—are what make us American, or German, or French, and they invisibly shape how we behave in our personal lives, even when we are completely unaware of our motives. What’s more, we can learn to crack the codes that guide our actions and achieve new understanding of why we do the things we do.   &lt;/p&gt;&lt;p&gt;Rapaille has used the Culture Code to help Chrysler build the PT Cruiser—the most successful American car launch in recent memory. He has used it to help Procter &amp;amp; Gamble design its advertising campaign for Folger’s coffee – one of the longest lasting and most successful campaigns in the annals of advertising. He has used it to help companies as diverse as GE, AT&amp;amp;T, Boeing, Honda, Kellogg, and L’Oréal improve their bottom line at home and overseas. And now, in &lt;em&gt;The Culture Code&lt;/em&gt;, he uses it to reveal why Americans act distinctly like Americans, and what makes us different from the world around us.   &lt;/p&gt;&lt;p&gt;In &lt;em&gt;The Culture Code&lt;/em&gt;, Dr. Rapaille decodes two dozen of our most fundamental archetypes—ranging from sex to money to health to America itself—to give us “a new set of glasses” with which to view our actions and motivations. Why are we so often disillusioned by love? Why is fat a solution rather than a problem? Why do we reject the notion of perfection? Why is fast food in our lives to stay? The answers are in the Codes.   &lt;/p&gt;&lt;p&gt;Understanding the Codes gives us unprecedented freedom over our lives. It lets us do business in dramatically new ways. And it finally explains why people around the world really &lt;em&gt;are&lt;/em&gt; different, and reveals the hidden clues to understanding us all.&lt;/p&gt;&lt;p&gt;**&lt;/p&gt;</dc:description>
+        <dc:publisher>Crown Business</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">e3f6d639-d83d-4b06-b26a-744b2ba42fea</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">0767920562</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B000GCFW8M</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Money</dc:subject>
+        <dc:subject>Business Culture</dc:subject>
+        <dc:subject>Workplace Culture</dc:subject>
+        <dc:subject>Marketing &amp; Sales</dc:subject>
+        <dc:subject>Consumer Behavior</dc:subject>
+        <dc:subject>Politics &amp; Social Sciences</dc:subject>
+        <dc:subject>Sociology</dc:subject>
+        <dc:subject>Organizational Behavior</dc:subject>
+        <dc:subject>Workplace</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Clotaire Rapaille&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:36+00:00"/>
+        <meta name="calibre:title_sort" content="Culture Code: An Ingenious Way to Understand Why People Around the World Live and Buy as They Do, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1704</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ebe0e951-d46f-4776-b927-75e87ede69b1</dc:identifier>
+        <dc:title>The Functions of the Executive: Thirtieth Anniversary Edition</dc:title>
+        <dc:creator opf:file-as="Barnard, Chester I." opf:role="aut">Chester I. Barnard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1971-01-01T11:34:11+00:00</dc:date>
+        <dc:description>Most of Chester Barnard’s career was spent in executive practice. A Mount Hermon and Harvard education, cut off short of the bachelor’s degree, was followed by nearly forty years in the American Telephone &amp; Telegraph Company. His career began in the Statistical Department, took him to technical expertness in the economics of rates and administrative experience in the management of commercial operations, and culminated in the presidency of the New Jersey Bell Telephone Company. He was not directly involved in the Western Electric experiments conducted chiefly at the Hawthorne plant in Cicero, but his association with Elton Mayo and the latter’s colleagues at the Harvard Business School had an important bearing on his most original ideas. Barnard’s executive experience at AT&amp;T was paralleled and followed by a career in public service unusual in his own time and hardly routine today. He was at various times president of the United Services Organization (the USO of World War II), head of the General Education Board and later president of the Rockefeller Foundation (after Raymond Fosdick and before Dean Rusk), chairman of the National Science Foundation, an assistant to the Secretary of the Treasury, a consultant to the American representative in the United Nations Atomic Energy Committee, to name only some of his public interests. He was a director of a number of companies, a fellow of the American Association for the Advancement of Science and of the American Academy of Arts and Sciences. He was a lover of music and a founder of the Bach Society of New Jersey.</dc:description>
+        <dc:publisher>Harvard University Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780674252240</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0674328035</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">CXILEAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Economics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Chester I. Barnard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-07-09T19:37:06+00:00"/>
+        <meta name="calibre:title_sort" content="Functions of the Executive: Thirtieth Anniversary Edition, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

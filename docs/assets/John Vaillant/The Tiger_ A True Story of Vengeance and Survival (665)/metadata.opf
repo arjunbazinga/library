@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">665</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">97fe3d8e-84e1-4cc3-898c-fa96cda3d232</dc:identifier>
+        <dc:title>The Tiger: A True Story of Vengeance and Survival</dc:title>
+        <dc:creator opf:file-as="Vaillant, John" opf:role="aut">John Vaillant</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-23T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;It's December 1997, and a man-eating tiger is on the prowl outside a remote Russian village. The tiger isn't just killing people, it's annihilating them, and a team of men and their dogs must hunt it on foot through the forest in the brutal cold. As the trackers sift through the gruesome remains of the victims, they discover that these attacks aren't random: the tiger is apparently engaged in a vendetta. Injured, starving, and extremely dangerous, the tiger must be found before it strikes again.As he re-creates these extraordinary events, John Vaillant gives us an unforgettable portrait of this spectacularly beautiful and mysterious region. We meet the native tribes who for centuries have worshipped and lived alongside tigers, even sharing their kills with them. We witness the arrival of Russian settlers in the nineteenth and early twentieth centuries, soldiers and hunters who greatly diminished the tiger populations. And we come to know their descendants, who, crushed by poverty, have turned to poaching and further upset the natural balance of the region.Beautifully written and deeply informative, The Tiger circles around three main characters: Vladimir Markov, a poacher killed by the tiger; Yuri Trush, the lead tracker; and the tiger himself. It is an absolutely gripping tale of man and nature that leads inexorably to a final showdown in a clearing deep in the taiga.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Hachette UK</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0307389049</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781848946897</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">WGvVohmSYXcC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Historical</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Thrillers</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <dc:subject>Biography &amp; Autobiography</dc:subject>
+        <dc:subject>Nature</dc:subject>
+        <dc:subject>Animal Rights</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Vaillant&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:35+00:00"/>
+        <meta name="calibre:title_sort" content="Tiger: A True Story of Vengeance and Survival, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

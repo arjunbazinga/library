@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">641</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7b1b7a63-f455-4602-8537-c157f2a21409</dc:identifier>
+        <dc:title>Hold Me Tight: Seven Conversations for a Lifetime of Love</dc:title>
+        <dc:creator opf:file-as="Johnson, Sue" opf:role="aut">Dr. Sue Johnson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-04-07T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Heralded by the &lt;/strong&gt;&lt;span style="font-style: italic; font-weight: 600"&gt;New York Times&lt;/span&gt;&lt;strong&gt; and &lt;/strong&gt;&lt;span style="font-style: italic; font-weight: 600"&gt;Time&lt;/span&gt;&lt;strong&gt; as the couples therapy with the highest rate of success, &lt;/strong&gt;&lt;span style="font-style: italic; font-weight: 600"&gt;Emotionally Focused Therapy&lt;/span&gt;&lt;strong&gt; works because it views the love relationship as an attachment bond.&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;This idea, once controversial, is now supported by science, and has become widely popular among therapists around the world. In &lt;em&gt;Hold Me Tight&lt;/em&gt; , Dr. Sue Johnson presents &lt;em&gt;Emotionally Focused Therapy&lt;/em&gt; to the general public for the first time. Johnson teaches that the way to save and enrich a relationship is to reestablish safe emotional connection and preserve the attachment bond. With this in mind, she focuses on key moments in a relationship -- from "Recognizing the Demon Dialogue" to "Revisiting a Rocky Moment" -- and uses them as touch points for seven healing conversations. &lt;/p&gt;
+&lt;p&gt;Through case studies from her practice, illuminating advice, and practical exercises, couples will learn how to nurture their relationships and ensure a lifetime of love. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Little, Brown</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B0011UGLQK</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780316031998</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">jPLaqKhumPQC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Communication &amp; Social Skills</dc:subject>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Emotions</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Dr. Sue Johnson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:33+00:00"/>
+        <meta name="calibre:title_sort" content="Hold Me Tight: Seven Conversations for a Lifetime of Love"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

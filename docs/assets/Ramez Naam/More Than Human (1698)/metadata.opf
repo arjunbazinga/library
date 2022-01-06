@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1698</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6709949d-df16-479f-868a-8d40bf982099</dc:identifier>
+        <dc:title>More Than Human</dc:title>
+        <dc:creator opf:file-as="Naam, Ramez" opf:role="aut">Ramez Naam</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-09T19:30:29+00:00</dc:date>
+        <dc:description>Distilling the most radical accomplishments being made in labs around the world, including gene therapy, genetic engineering, life extension, brain-computer interfaces, and cloning, More Than Human offers an exciting tour of the impact biotechnology will have on our lives. Throughout this remarkable trip, author Ramez Naam shares an impassioned vision for the future with revealing insight into the ethical dilemmas posed by twenty-first-century science. Encouraging us to celebrate rather than fear these innovations, Naam incisively separates fact from myth, arguing that these much-maligned technologies have the power to transform the human race for the better, so long as individuals and families are left free to decide how and if to use them.</dc:description>
+        <dc:publisher>Broadway Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780557582334</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">M9aIcgAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0072CKJJQ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Ramez Naam&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-07-09T19:30:17+00:00"/>
+        <meta name="calibre:title_sort" content="More Than Human"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

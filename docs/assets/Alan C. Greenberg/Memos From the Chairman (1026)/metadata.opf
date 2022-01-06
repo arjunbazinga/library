@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1026</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">67095500-f571-4891-83bd-5415ea89b878</dc:identifier>
+        <dc:title>Memos From the Chairman</dc:title>
+        <dc:creator opf:file-as="Greenberg, Alan C." opf:role="aut">Alan C. Greenberg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-06-09T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;When he assumed the position of Chairman of the Board of Bear Stearns in 1978, Alan C. Greenberg found himself with the unenviable task of meeting —and surpassing —the rigorous leadership standards set by his legendary predecessor, Cy Lewis, "the man who was credited with having made Bear Stearns what it then was." For nearly two decades now, "Ace" Greenberg, as he is affectionately known, has kept Bear Stearns on top through a unique and provocative business management philosophy —a philosophy that he frequently and effectively communicates to employees through a series of no-holds-barred company memos. Now, the inimitable Greenberg style sparks a priceless collection of his most inspirational, insightful, and instructional memoranda. Memos From the Chairman affords a rare glimpse at the motivational thoughts and management techniques of one of the corporate world's most brilliant leaders. "Many years ago, Where Are the Customers' Yachts?, through a humorous look at Wall Street, dispensed some of the best investment advice ever written. In this book, Ace has applied the same treatment to managerial advice with equal success." —Warren Buffett from the Foreword to Memos From the Chairman "I love this book. If I didn't have a dreaded MBA, I might even, at age 53, apply for a job at Bear Stearns." —Tom Peters&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780471177579</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">GYEiAQAAMAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1523501324</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Leadership</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alan C. Greenberg&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-10-04T17:56:56+00:00"/>
+        <meta name="calibre:title_sort" content="Memos From the Chairman"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

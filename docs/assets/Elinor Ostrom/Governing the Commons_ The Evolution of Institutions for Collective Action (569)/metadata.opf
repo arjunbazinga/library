@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">569</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8945ccd1-1cb3-4f22-bd36-ecd433d3a54f</dc:identifier>
+        <dc:title>Governing the Commons: The Evolution of Institutions for Collective Action</dc:title>
+        <dc:creator opf:file-as="Ostrom, Elinor" opf:role="aut">Elinor Ostrom</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-22T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The governance of natural resources used by many individuals in common is an issue of increasing concern to policy analysts. Both state control and privatization of resources have been advocated, but neither the state nor the market have been uniformly successful in solving common pool resource problems. After critiquing the foundations of policy analysis as applied to natural resources, Elinor Ostrom here provides a unique body of empirical data to explore conditions under which common pool resource problems have been satisfactorily or unsatisfactorily solved. Dr Ostrom uses institutional analysis to explore different ways - both successful and unsuccessful - of governing the commons. In contrast to the proposition of the 'tragedy of the commons' argument, common pool problems sometimes are solved by voluntary organizations rather than by a coercive state. Among the cases considered are communal tenure in meadows and forests, irrigation communities and other water rights, and fisheries.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Cambridge University Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781316453926</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">hHGgCgAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>History &amp; Theory</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Public Policy</dc:subject>
+        <dc:subject>Economic Policy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Elinor Ostrom&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2019-06-01T05:03:59+00:00"/>
+        <meta name="calibre:title_sort" content="Governing the Commons: The Evolution of Institutions for Collective Action"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

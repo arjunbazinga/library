@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">926</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c0b7bc24-a059-45e1-a52e-007586aee8d8</dc:identifier>
+        <dc:title>The Practice of Programming</dc:title>
+        <dc:creator opf:file-as="W.Kerninghan, Brian" opf:role="aut">Brian W.Kerninghan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Brian W.Kerninghan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-08-12T19:21:27+00:00"/>
+        <meta name="calibre:title_sort" content="Practice of Programming, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1169</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">70304907-f1b5-446c-b7e2-ad4d0acb170b</dc:identifier>
+        <dc:title>How Brands Grow</dc:title>
+        <dc:creator opf:file-as="Sharp, Byron" opf:role="aut">Byron Sharp</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-09-16T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;This book provides evidence-based answers to the key questions asked by marketers every day. Tackling issues such as how brands grow, how advertising really works, what price promotions really do and how loyalty programs really affect loyalty, &lt;em&gt;How Brands Grow&lt;/em&gt; presents decades of research in a style that is written for marketing professionals to grow their brands. It is the first book to present these laws in context and to explore their meaning and application. The most distinctive element to this book is that the laws presented are tried and tested; they have been found to hold over varied conditions, time and countries. This is contrary to most marketing texts and indeed, much information provides evidence that much modern marketing theory is far from soundly based. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="AMAZON">1511383933</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Personal Finance</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Byron Sharp&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-01-05T18:53:22+00:00"/>
+        <meta name="calibre:title_sort" content="How Brands Grow"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

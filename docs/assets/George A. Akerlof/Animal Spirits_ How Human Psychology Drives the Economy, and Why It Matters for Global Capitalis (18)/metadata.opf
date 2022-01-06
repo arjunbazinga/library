@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7fb1582a-9e66-4c3d-a5f6-fc6e81a6c3f5</dc:identifier>
+        <dc:title>Animal Spirits: How Human Psychology Drives the Economy, and Why It Matters for Global Capitalism</dc:title>
+        <dc:creator opf:file-as="Akerlof, George A. &amp; Shiller, Robert J." opf:role="aut">George A. Akerlof</dc:creator>
+        <dc:creator opf:file-as="Akerlof, George A. &amp; Shiller, Robert J." opf:role="aut">Robert J. Shiller</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-31T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The global financial crisis has made it painfully clear that powerful psychological forces are imperiling the wealth of nations today. From blind faith in ever-rising housing prices to plummeting confidence in capital markets, "animal spirits" are driving financial events worldwide. In this book, acclaimed economists George Akerlof and Robert Shiller challenge the economic wisdom that got us into this mess, and put forward a bold new vision that will transform economics and restore prosperity. Akerlof and Shiller reassert the necessity of an active government role in economic policymaking by recovering the idea of animal spirits, a term John Maynard Keynes used to describe the gloom and despondence that led to the Great Depression and the changing psychology that accompanied recovery. Like Keynes, Akerlof and Shiller know that managing these animal spirits requires the steady hand of government--simply allowing markets to work won't do it. In rebuilding the case for a more robust, behaviorally informed Keynesianism, they detail the most pervasive effects of animal spirits in contemporary economic life--such as confidence, fear, bad faith, corruption, a concern for fairness, and the stories we tell ourselves about our economic fortunes--and show how Reaganomics, Thatcherism, and the rational expectations revolution failed to account for them. Animal Spirits offers a road map for reversing the financial misfortunes besetting us today. Read it and learn how leaders can channel animal spirits--the powerful forces of human psychology that are afoot in the world economy today. In a new preface, they describe why our economic troubles may linger for some time--unless we are prepared to take further, decisive action.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Princeton University Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">2Rz_cuu88DwC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781400834723</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Economics</dc:subject>
+        <dc:subject>Theory</dc:subject>
+        <dc:subject>Macroeconomics</dc:subject>
+        <dc:subject>Finance</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George A. Akerlof&quot;: &quot;&quot;, &quot;Robert J. Shiller&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2018-04-08T05:59:34+00:00"/>
+        <meta name="calibre:title_sort" content="Animal Spirits: How Human Psychology Drives the Economy, and Why It Matters for Global Capitalism"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

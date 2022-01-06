@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">994</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9213bd08-faf7-49e7-a978-0a4410d32876</dc:identifier>
+        <dc:title>The Rise and Fall of the Third Reich</dc:title>
+        <dc:creator opf:file-as="Shirer, William L." opf:role="aut">William L. Shirer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-22T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;National Book Award Winner: The definitive account of Nazi Germany and “one of the most important works of history of our time” (The New York Times).   When the Third Reich fell, it fell swiftly. The Nazis had little time to destroy their memos, their letters, or their diaries. William L. Shirer’s sweeping account of the Third Reich uses these unique sources, combined with his experience living in Germany as an international correspondent throughout the war.  The Rise and Fall of the Third Reich earned Shirer a National Book Award and continues to be recognized as one of the most important and authoritative books about the Third Reich and Nazi Germany ever written. The diaries of propaganda minister Joseph Goebbels, as well as evidence and other testimony gained at the Nuremberg Trials, could not have found more artful hands.   Shirer gives a clear, detailed, and well-documented account of how it was that Adolf Hitler almost succeeded in conquering the world. With millions of copies in print, The Rise and Fall of the Third Reich is a chilling and illuminating portrait of mankind’s darkest hours.   “A monumental work.” —Theodore H. White&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>RosettaBooks</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780795317002</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">fpFbuCKOLKwC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Germany</dc:subject>
+        <dc:subject>Holocaust</dc:subject>
+        <dc:subject>Military</dc:subject>
+        <dc:subject>World War II</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William L. Shirer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-09-16T18:33:28+00:00"/>
+        <meta name="calibre:title_sort" content="Rise and Fall of the Third Reich, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

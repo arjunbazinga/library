@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">688</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bae28db2-000d-4665-b1a9-16099ae6cd21</dc:identifier>
+        <dc:title>Can't Hurt Me: Master Your Mind and Defy the Odds - Clean Edition</dc:title>
+        <dc:creator opf:file-as="Goggins, David" opf:role="aut">David Goggins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-09T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;For David Goggins, childhood was a nightmare - poverty, prejudice, and physical abuse colored his days and haunted his nights. But through self-discipline, mental toughness, and hard work, Goggins transformed himself from a depressed, overweight young man with no future into a U.S. Armed Forces icon and one of the world's top endurance athletes. The only man in history to complete elite training as a Navy SEAL, Army Ranger, and Air Force Tactical Air Controller, he went on to set records in numerous endurance events, inspiring Outside magazine to name him The Fittest (Real) Man in America. In this curse-word-free edition of Can't Hurt Me, he shares his astonishing life story and reveals that most of us tap into only 40% of our capabilities. Goggins calls this The 40% Rule, and his story illuminates a path that anyone can follow to push past pain, demolish fear, and reach their full potential.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Lioncrest Publishing</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">i-VtzQEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781544507859</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07H453KGH</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;David Goggins&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:38+00:00"/>
+        <meta name="calibre:title_sort" content="Can't Hurt Me: Master Your Mind and Defy the Odds - Clean Edition"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

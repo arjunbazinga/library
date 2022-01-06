@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1003</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c2f9b17e-5b11-471b-8710-fb4c3648f239</dc:identifier>
+        <dc:title>Effective Java</dc:title>
+        <dc:creator opf:file-as="Bloch, Joshua" opf:role="aut">Joshua Bloch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-12-17T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The Definitive Guide to Java Platform Best Practices–Updated for Java 7, 8, and 9 Java has changed dramatically since the previous edition of Effective Java was published shortly after the release of Java 6. This Jolt award-winning classic has now been thoroughly updated to take full advantage of the latest language and library features. The support in modern Java for multiple paradigms increases the need for specific best-practices advice, and this book delivers. As in previous editions, each chapter of Effective Java, Third Edition, consists of several “items,” each presented in the form of a short, stand-alone essay that provides specific advice, insight into Java platform subtleties, and updated code examples. The comprehensive descriptions and explanations for each item illuminate what to do, what not to do, and why. The third edition covers language and library features added in Java 7, 8, and 9, including the functional programming constructs that were added to its object-oriented roots. Many new items have been added, including a chapter devoted to lambdas and streams. New coverage includes Functional interfaces, lambda expressions, method references, and streams Default and static methods in interfaces Type inference, including the diamond operator for generic types The @SafeVarargs annotation The try-with-resources statement New library features such as the Optional interface, java.time, and the convenience factory methods for collections&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Addison-Wesley Professional</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780134686042</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">BIpDDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>Java</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joshua Bloch&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-09-23T07:46:52+00:00"/>
+        <meta name="calibre:title_sort" content="Effective Java"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

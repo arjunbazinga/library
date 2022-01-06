@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">828</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3a32d4b9-c2f3-413f-9a03-329e55272eca</dc:identifier>
+        <dc:title>An Introduction to Japanese Society, Third Edition.</dc:title>
+        <dc:creator opf:file-as="Sugimoto, Yoshio" opf:role="aut">Yoshio Sugimoto</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-10T10:02:56+00:00</dc:date>
+        <dc:identifier opf:scheme="ISBN">0521705193</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>0521705193</dc:subject>
+        <dc:subject>9780521705196</dc:subject>
+        <dc:subject>0511776659</dc:subject>
+        <dc:subject>9780511776656</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Yoshio Sugimoto&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-07-09T07:37:26+00:00"/>
+        <meta name="calibre:title_sort" content="Introduction to Japanese Society, Third Edition., An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

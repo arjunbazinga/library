@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1151</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f0f929d6-9cc0-451e-82e0-e4dafd758811</dc:identifier>
+        <dc:title>R Cookbook: Proven Recipes for Data Analysis, Statistics, and Graphics</dc:title>
+        <dc:creator opf:file-as="Long, Jd &amp; Teetor, Paul" opf:role="aut">Jd Long</dc:creator>
+        <dc:creator opf:file-as="Long, Jd &amp; Teetor, Paul" opf:role="aut">Paul Teetor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-20T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Perform data analysis with R quickly and efficiently with more than 275 practical recipes in this expanded second edition. The R language provides everything you need to do statistical work, but its structure can be difficult to master. These task-oriented recipes make you productive with R immediately. Solutions range from basic tasks to input and output, general statistics, graphics, and linear regression.Each recipe addresses a specific problem and includes a discussion that explains the solution and provides insight into how it works. If you’re a beginner, R Cookbook will help get you started. If you’re an intermediate user, this book will jog your memory and expand your horizons. You’ll get the job done faster and learn more about R in the process.Create vectors, handle variables, and perform basic functionsSimplify data input and outputTackle data structures such as matrices, lists, factors, and data framesWork with probability, probability distributions, and random variablesCalculate statistics and confidence intervals and perform statistical testsCreate a variety of graphic displaysBuild statistical models with linear regressions and analysis of variance (ANOVA)Explore advanced statistical techniques, such as finding clusters in your data&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>"O'Reilly Media, Inc."</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781492040637</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">FFKeDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Mathematical &amp; Statistical Software</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Open Source</dc:subject>
+        <dc:subject>Data Modeling &amp; Design</dc:subject>
+        <dc:subject>Bioinformatics</dc:subject>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Graphic Methods</dc:subject>
+        <dc:subject>Probability &amp; Statistics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Mathematical Analysis</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jd Long&quot;: &quot;&quot;, &quot;Paul Teetor&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-18T20:46:10+00:00"/>
+        <meta name="calibre:title_sort" content="R Cookbook: Proven Recipes for Data Analysis, Statistics, and Graphics"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

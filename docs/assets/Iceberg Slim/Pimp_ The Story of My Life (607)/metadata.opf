@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">607</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1baa0d81-4791-4ba4-846c-5d7513d69d6d</dc:identifier>
+        <dc:title>Pimp: The Story of My Life</dc:title>
+        <dc:creator opf:file-as="Slim, Iceberg" opf:role="aut">Iceberg Slim</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-09T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;“[In &lt;/strong&gt;&lt;span style="font-style: italic; font-weight: 600"&gt;Pimp&lt;/span&gt;&lt;strong&gt; ], Iceberg Slim breaks down some of the coldest, capitalist concepts I’ve ever heard in my life.” —Dave Chappelle, from his Netflix special *The Bird Revelation&lt;/strong&gt;* &lt;/p&gt;
+&lt;p&gt;An immersive experience unlike anything before it, &lt;em&gt;Pimp&lt;/em&gt; is the classic hustler’s tale that never seems to go out of style. &lt;/p&gt;
+&lt;p&gt;Iceberg Slim’s autobiographical novel sent shockwaves throughout the literary world when it published in 1969. Groundbreaking for its authentic and oft-brutal account of the sex trade, the book offers readers an unforgettable look at the mores of Chicago’s street life during the 1940s, 50s, and 60s. In the preface, Slim says it best, “In this book, I will take you, the reader, with me into the secret inner world of the pimp.” With millions of copies sold, &lt;em&gt;Pimp&lt;/em&gt; has become vital reading across generations of writers, entertainers and filmmakers alike, making it a timeless piece of American literature. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Cash Money Content</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781451617146</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1451617135</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">rG2r5PEN_6IC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Biography &amp; Autobiography</dc:subject>
+        <dc:subject>Criminals &amp; Outlaws</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Good &amp; Evil</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Ethnic Studies</dc:subject>
+        <dc:subject>African American Studies</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Iceberg Slim&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-03-15T16:25:49+00:00"/>
+        <meta name="calibre:title_sort" content="Pimp: The Story of My Life"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

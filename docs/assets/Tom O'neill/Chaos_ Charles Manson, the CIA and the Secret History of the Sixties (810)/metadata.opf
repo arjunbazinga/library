@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">810</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5ff7192d-331c-4256-9722-8bece21e3a9d</dc:identifier>
+        <dc:title>Chaos: Charles Manson, the CIA and the Secret History of the Sixties</dc:title>
+        <dc:creator opf:file-as="O’neill, Tom &amp; Piepenbring, Dan" opf:role="aut">Tom O’neill</dc:creator>
+        <dc:creator opf:file-as="O’neill, Tom &amp; Piepenbring, Dan" opf:role="aut">Dan Piepenbring</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-26T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;As featured on The Joe Rogan Experience______________________________A journalist's twenty-year obsession with the Manson murders leads to shocking new conspiracy theories about the FBI’s involvement in this fascinating re-evaluation of one of the most infamous cases in American history.Twenty years ago, reporting for a routine magazine piece about the infamous Manson murders, journalist Tom O’Neill didn’t expect to find anything new. But the discovery of horrifying new evidence kick-started an obsession and his life's work. What had he unearthed and what did it mean: why was there surveillance by intelligence agents? Why did the police make these particular mistakes and why did Tom's greatest ally in this fight turn into his biggest foe? Chaos is an explosive read that will shock, grip and change our understanding of a case that has haunted the world for over fifty years.______________________________‘Riveting ... Sensational revelations ... True crime fans will be enthralled.’ PUBLISHERS WEEKLY'[Full of] scandalous findings ... to me it seems only too plausible. O’Neill's intricately sinister ‘secret history’ often sounds incredible; that doesn't mean that it's not all true.' OBSERVER&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Random House</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781473564398</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">p9pnDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>True Crime</dc:subject>
+        <dc:subject>Murder</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Conspiracy Theories</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>United States</dc:subject>
+        <dc:subject>20th Century</dc:subject>
+        <dc:subject>Organized Crime</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Tom O’neill&quot;: &quot;&quot;, &quot;Dan Piepenbring&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-06-06T10:13:42+00:00"/>
+        <meta name="calibre:title_sort" content="Chaos: Charles Manson, the CIA and the Secret History of the Sixties"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

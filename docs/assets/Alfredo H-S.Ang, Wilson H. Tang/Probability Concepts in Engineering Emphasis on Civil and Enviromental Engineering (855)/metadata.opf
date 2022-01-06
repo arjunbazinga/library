@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">855</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">08d55d54-fe1b-4085-bd86-817bd1b39453</dc:identifier>
+        <dc:title>Probability Concepts in Engineering Emphasis on Civil and Enviromental Engineering</dc:title>
+        <dc:creator opf:file-as="Alfredo H-S.Ang, Wilson H. Tang" opf:role="aut">Alfredo H-S.Ang, Wilson H. Tang</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-03T03:21:35+00:00</dc:date>
+        <dc:description>&lt;font face="Hack, sans-serif"&gt;Probability Concepts in Engineering Emphasis on Civil and Enviromental Engineering&lt;/font&gt;</dc:description>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Alfredo H-S.Ang, Wilson H. Tang&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-07-09T08:27:46+00:00"/>
+        <meta name="calibre:title_sort" content="Probability Concepts in Engineering Emphasis on Civil and Enviromental Engineering"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

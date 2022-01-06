@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1028</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">09fc09a7-01d9-4a39-a99f-a680dbe8d3e4</dc:identifier>
+        <dc:title>Data-Driven Marketing: The 15 Metrics Everyone in Marketing Should Know</dc:title>
+        <dc:creator opf:file-as="Jeffery, Mark" opf:role="aut">Mark Jeffery</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-07T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;NAMED BEST MARKETING BOOK OF 2011 BY THE AMERICAN MARKETING ASSOCIATION&lt;/strong&gt; &lt;strong&gt;How organizations can deliver significant performance gains through strategic investment in marketing&lt;/strong&gt; In the new era of tight marketing budgets, no organization can continue to spend on marketing without knowing what's working and what's wasted. Data-driven marketing improves efficiency and effectiveness of marketing expenditures across the spectrum of marketing activities from branding and awareness, trail and loyalty, to new product launch and Internet marketing. Based on new research from the Kellogg School of Management, this book is a clear and convincing guide to using a more rigorous, data-driven strategic approach to deliver significant performance gains from your marketing. * Explains how to use data-driven marketing to deliver return on marketing investment (ROMI) in any organization * In-depth discussion of the fifteen key metrics every marketer should know * Based on original research from America's leading marketing business school, complemented by experience teaching ROMI to executives at Microsoft, DuPont, Nisan, Philips, Sony and many other firms * Uses data from a rigorous survey on strategic marketing performance management of 252 Fortune 1000 firms, capturing $53 billion of annual marketing spending * In-depth examples of how to apply the principles in small and large organizations * Free downloadable ROMI templates for all examples given in the book&lt;/p&gt;
+&lt;p&gt;With every department under the microscope looking for results, those who properly use data to optimize their marketing are going to come out on top every time. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">rxc4DwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780470504543</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0470504544</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Marketing</dc:subject>
+        <dc:subject>Industrial</dc:subject>
+        <dc:subject>Advertising &amp; Promotion</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mark Jeffery&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-10-04T17:56:57+00:00"/>
+        <meta name="calibre:title_sort" content="Data-Driven Marketing: The 15 Metrics Everyone in Marketing Should Know"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

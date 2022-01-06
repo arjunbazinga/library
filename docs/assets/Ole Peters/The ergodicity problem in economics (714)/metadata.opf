@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">714</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6a491d2c-bdf3-4e13-9812-fae035f546b9</dc:identifier>
+        <dc:title>The ergodicity problem in economics</dc:title>
+        <dc:creator opf:file-as="Peters, Ole" opf:role="aut">Ole Peters</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-12-05T13:36:36+00:00</dc:date>
+        <dc:description>Nature Physics, doi:10.1038/s41567-019-0732-0</dc:description>
+        <dc:publisher>Springer US</dc:publisher>
+        <dc:identifier opf:scheme="URL">http://dx.doi.org/10.1038/s41567-019-0732-0</dc:identifier>
+        <dc:identifier opf:scheme="DOI">10.1038/s41567-019-0732-0</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Economics</dc:subject>
+        <dc:subject>Mathematics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ole Peters&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:40+00:00"/>
+        <meta name="calibre:title_sort" content="ergodicity problem in economics, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

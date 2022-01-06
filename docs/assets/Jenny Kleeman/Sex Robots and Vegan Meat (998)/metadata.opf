@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">998</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3164b3b2-3fad-4a1c-9e1c-bccae0e86c32</dc:identifier>
+        <dc:title>Sex Robots and Vegan Meat</dc:title>
+        <dc:creator opf:file-as="Kleeman, Jenny" opf:role="aut">Jenny Kleeman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-02T00:00:00+00:00</dc:date>
+        <dc:description>A timely investigation into the forces that are driving innovation in the three core areas of human experience: birth, food, and sex.&lt;BR&gt;In &lt;i&gt;Sex Robots &amp;amp; Vegan Meat&lt;/i&gt;, award-winning journalist and documentary-maker Jenny Kleeman takes us on a journey into the world of the people who are changing what it means to be human. Focusing on four central pillars of the human experience&amp;#8211;birth, food, and sex&amp;#8212;Kleeman examines the people who are driving some truly amazing (and perhaps worrying) innovations. We are on the brink of seismic changes in the ways we live and die, from babies grown in artificial wombs to lab-produced meat; from sex robots able to hold polite conversation (and otherwise) to being able to choose to end our days with the perfect, painless, automated death. Our journey from cradle to grave is developing in ways which involve more and more technology, and less and less human interaction. Might these advances in technology serve to rob us of our...</dc:description>
+        <dc:publisher>Pegasus Books</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Jenny Kleeman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-09-22T18:09:05+00:00"/>
+        <meta name="calibre:title_sort" content="Sex Robots and Vegan Meat"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

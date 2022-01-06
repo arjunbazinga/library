@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1102</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0a7a086c-7af6-4114-ac93-cb9d7bddad88</dc:identifier>
+        <dc:title>Advanced Analytics With Spark: Patterns for Learning From Data at Scale</dc:title>
+        <dc:creator opf:file-as="Ryza, Sandy &amp; Laserson, Uri &amp; Owen, Sean &amp; Wills, Josh" opf:role="aut">Sandy Ryza</dc:creator>
+        <dc:creator opf:file-as="Ryza, Sandy &amp; Laserson, Uri &amp; Owen, Sean &amp; Wills, Josh" opf:role="aut">Uri Laserson</dc:creator>
+        <dc:creator opf:file-as="Ryza, Sandy &amp; Laserson, Uri &amp; Owen, Sean &amp; Wills, Josh" opf:role="aut">Sean Owen</dc:creator>
+        <dc:creator opf:file-as="Ryza, Sandy &amp; Laserson, Uri &amp; Owen, Sean &amp; Wills, Josh" opf:role="aut">Josh Wills</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-06-11T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;In the second edition of this practical book, four Cloudera data scientists present a set of self-contained patterns for performing large-scale data analysis with Spark. The authors bring Spark, statistical methods, and real-world data sets together to teach you how to approach analytics problems by example. Updated for Spark 2.1, this edition acts as an introduction to these techniques and other best practices in Spark programming.You’ll start with an introduction to Spark and its ecosystem, and then dive into patterns that apply common techniques—including classification, clustering, collaborative filtering, and anomaly detection—to fields such as genomics, security, and finance.If you have an entry-level understanding of machine learning and statistics, and you program in Java, Python, or Scala, you’ll find the book’s patterns useful for working on your own data applications.With this book, you will:Familiarize yourself with the Spark programming modelBecome comfortable within the Spark ecosystemLearn general approaches in data scienceExamine complete implementations that analyze large public data setsDiscover which machine learning tools make sense for particular problemsAcquire code that can be adapted to many uses&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>"O'Reilly Media, Inc."</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">NJwnDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781491972922</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Data Processing</dc:subject>
+        <dc:subject>Databases</dc:subject>
+        <dc:subject>Data Mining</dc:subject>
+        <dc:subject>Systems Architecture</dc:subject>
+        <dc:subject>Distributed Systems &amp; Computing</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Algorithms</dc:subject>
+        <dc:subject>Data Modeling &amp; Design</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sandy Ryza&quot;: &quot;&quot;, &quot;Uri Laserson&quot;: &quot;&quot;, &quot;Sean Owen&quot;: &quot;&quot;, &quot;Josh Wills&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-11-26T15:12:50+00:00"/>
+        <meta name="calibre:title_sort" content="Advanced Analytics With Spark: Patterns for Learning From Data at Scale"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

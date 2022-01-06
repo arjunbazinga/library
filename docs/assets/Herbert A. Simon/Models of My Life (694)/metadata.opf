@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">694</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f4877899-1c76-4f61-bbf0-1ba2a7208997</dc:identifier>
+        <dc:title>Models of My Life</dc:title>
+        <dc:creator opf:file-as="Simon, Herbert A." opf:role="aut">Herbert A. Simon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-10-07T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;In this candid and witty autobiography, Nobel laureate Herbert A. Simon looks at his distinguished and varied career, continually asking himself whether (and how) what he learned as a scientist helps to explain other aspects of his life. A brilliant polymath in an age of increasing specialization, Simon is one of those rare scholars whose work defines fields of inquiry. Crossing disciplinary lines in half a dozen fields, Simon's story encompasses an explosion in the information sciences, the transformation of psychology by the information-processing paradigm, and the use of computer simulation for modeling the behavior of highly complex systems. Simon's theory of bounded rationality led to a Nobel Prize in economics, and his work on building machines that think―based on the notion that human intelligence is the rule-governed manipulation of symbols―laid conceptual foundations for the new cognitive science. Subsequently, contrasting metaphors of the maze (Simon's view) and of the mind (neural nets) have dominated the artificial intelligence debate. There is also a warm account of his successful marriage and of an unconsummated love affair, letters to his children, columns, a short story, and political and personal intrigue in academe. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>MIT Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780262691857</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">dFgwBQAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.hxa7241.org/articles/content/epup-guide_hxa7241_2007_2.epub</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">026269185X</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Biography</dc:subject>
+        <dc:subject>Autobiography</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Technology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Herbert A. Simon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:38+00:00"/>
+        <meta name="calibre:title_sort" content="Models of My Life"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

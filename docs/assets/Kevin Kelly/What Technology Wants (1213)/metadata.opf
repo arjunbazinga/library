@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1213</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d0c0ed86-c3cd-401b-bb7d-8b2f7cd81a22</dc:identifier>
+        <dc:title>What Technology Wants</dc:title>
+        <dc:creator opf:file-as="Kelly, Kevin" opf:role="aut">Kevin Kelly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-06T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;A refreshing view of technology as a living force in the world.&lt;p&gt;This provocative book introduces a brand-new view of technology. It suggests that technology as a whole is not a jumble of wires and metal but a living, evolving organism that has its own unconscious needs and tendencies. Kevin Kelly looks out through the eyes of this global technological system to discover "what it wants." He uses vivid examples from the past to trace technology's long course and then follows a dozen trajectories of technology into the near future to project where technology is headed. This new theory of technology offers three practical lessons: By listening to what technology wants we can better prepare ourselves and our children for the inevitable technologies to come. By adopting the principles of pro-action and engagement, we can steer technologies into their best roles. And by aligning ourselves with the long-term imperatives of this near-living system, we can capture its full gifts....</dc:description>
+        <dc:publisher>Penguin Group USA, Inc.</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Kevin Kelly&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-02-11T06:24:32+00:00"/>
+        <meta name="calibre:title_sort" content="What Technology Wants"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

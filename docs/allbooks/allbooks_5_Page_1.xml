@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with 5</title>
+  <id>Calibre2opds:allbooks:5</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_5_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with 5" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>The 5 Love Languages: The Secret to Love That Lasts</title>
+    <id>calibre:book:676</id>
+    <updated>2020-03-28T07:06:10Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Gary%20Chapman/The%205%20Love%20Languages_%20The%20Secret%20to%20Love%20That%20Lasts%20%28676%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Gary%20Chapman/The%205%20Love%20Languages_%20The%20Secret%20to%20Love%20That%20Lasts%20%28676%29/The%205%20Love%20Languages_%20The%20Secret%20to%20Love%20T%20-%20Gary%20Chapman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Gary%20Chapman/The%205%20Love%20Languages_%20The%20Secret%20to%20Love%20That%20Lasts%20%28676%29/The%205%20Love%20Languages_%20The%20Secret%20to%20Love%20T%20-%20Gary%20Chapman.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Gary Chapman</name>
+      <uri>../author_0/author_425_Page_1.xml</uri>
+    </author>
+    <published>2010-09-15T07:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Moody Publishers</dcterms:publisher>
+    <category term="General" />
+    <category term="Religion" />
+    <category term="Family" />
+    <category term="Christian Life" />
+    <category term="Love &amp; Romance" />
+    <category term="Love" />
+    <category term="Interpersonal Communication" />
+    <category term="Religion - Christian Life" />
+    <category term="Marriage &amp; relationships" />
+    <category term="Christian Life - Inspirational - Protestant Self Help" />
+    <category term="Christian Life - Love &amp; Marriage" />
+    <category term="Marriage" />
+    <category term="Communication in marriage" />
+    <category term="Religion - Relationships" />
+    <category term="Love &amp; Marriage" />
+    <category term="Family &amp; Relationships" />
+    <category term="Lang:en" />
+    <summary>EDITORIAL REVIEW: Marriage should be based on love, right? But does it seem as though you and your spouse are speaking two different languages? *New York Times* bestselling author Dr. Gary Chapman guides couples in identifying, understanding, and spe...</summary>
+    <link href="../book_0/book_676.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>50 Shades of Golang Traps, Gotchas and Common Mistakes for New Golang Devs</title>
+    <id>calibre:book:929</id>
+    <updated>2020-08-17T08:06:34Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Kyle%20Quest/50%20Shades%20of%20Golang%20Traps%2C%20Gotchas%20and%20Common%20Mistakes%20for%20New%20Golang%20Devs%20%28929%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Kyle%20Quest/50%20Shades%20of%20Golang%20Traps%2C%20Gotchas%20and%20Common%20Mistakes%20for%20New%20Golang%20Devs%20%28929%29/50%20Shades%20of%20Golang%20Traps%2C%20Gotchas%20and%20Com%20-%20Kyle%20Quest.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Kyle Quest</name>
+      <uri>../author_0/author_741_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_929.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

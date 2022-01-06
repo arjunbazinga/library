@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with J</title>
+  <id>Calibre2opds:allbooks:J</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with J" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>Java Web Scraping Handbook</title>
+    <id>calibre:book:794</id>
+    <updated>2020-05-09T00:34:32Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Kevin%20Sahin/Java%20Web%20Scraping%20Handbook%20%28794%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Kevin%20Sahin/Java%20Web%20Scraping%20Handbook%20%28794%29/Java%20Web%20Scraping%20Handbook%20-%20Kevin%20Sahin.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Kevin Sahin</name>
+      <uri>../author_0/author_578_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_794.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>JavaScript: The Good Parts</title>
+    <id>calibre:book:821</id>
+    <updated>2020-06-19T11:03:00Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Douglas%20Crockford/JavaScript_%20The%20Good%20Parts%20%28821%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Douglas%20Crockford/JavaScript_%20The%20Good%20Parts%20%28821%29/JavaScript_%20The%20Good%20Parts%20-%20Douglas%20Crockford.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Douglas%20Crockford/JavaScript_%20The%20Good%20Parts%20%28821%29/JavaScript_%20The%20Good%20Parts%20-%20Douglas%20Crockford.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Douglas Crockford</name>
+      <uri>../author_0/author_608_Page_1.xml</uri>
+    </author>
+    <published>2008-12-16T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Yahoo Press</dcterms:publisher>
+    <category term="COMPUTERS / Programming Languages / JavaScript" />
+    <category term="Lang:en" />
+    <summary>Most programming languages contain good and bad parts, but JavaScript has more than its share of the bad, having been developed and released in a hurry before it could be refined. This authoritative book scrapes away these bad features to reveal a su...</summary>
+    <link href="../book_0/book_821.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Jim Chanos Masterclass : the fundamental short seller</title>
+    <id>calibre:book:915</id>
+    <updated>2020-08-09T00:59:07Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Jim%20Chanos/Jim%20Chanos%20Masterclass%20_%20the%20fundamental%20short%20seller%20%28915%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Jim%20Chanos/Jim%20Chanos%20Masterclass%20_%20the%20fundamental%20short%20seller%20%28915%29/Jim%20Chanos%20Masterclass%20_%20the%20fundamental%20s%20-%20Jim%20Chanos.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Jim Chanos</name>
+      <uri>../author_0/author_722_Page_1.xml</uri>
+    </author>
+    <published>2014-12-01T04:50:59Z</published>
+    <link href="../book_0/book_915.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Journalist and the Murderer</title>
+    <id>calibre:book:425</id>
+    <updated>2020-03-28T07:30:58Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Janet%20Malcolm/The%20Journalist%20and%20the%20Murderer%20%28425%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Janet%20Malcolm/The%20Journalist%20and%20the%20Murderer%20%28425%29/The%20Journalist%20and%20the%20Murderer%20-%20Janet%20Malcolm.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Janet%20Malcolm/The%20Journalist%20and%20the%20Murderer%20%28425%29/The%20Journalist%20and%20the%20Murderer%20-%20Janet%20Malcolm.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Janet%20Malcolm/The%20Journalist%20and%20the%20Murderer%20%28425%29/The%20Journalist%20and%20the%20Murderer%20-%20Janet%20Malcolm.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Janet Malcolm</name>
+      <uri>../author_0/author_171_Page_1.xml</uri>
+    </author>
+    <published>1989-12-31T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Vintage Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_425.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Joy on Demand</title>
+    <id>calibre:book:61</id>
+    <updated>2020-03-28T08:01:02Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Chade-Meng%20Tan/Joy%20on%20Demand%20%2861%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Chade-Meng%20Tan/Joy%20on%20Demand%20%2861%29/Joy%20on%20Demand%20-%20Chade-Meng%20Tan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Chade-Meng%20Tan/Joy%20on%20Demand%20%2861%29/Joy%20on%20Demand%20-%20Chade-Meng%20Tan.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Chade-Meng%20Tan/Joy%20on%20Demand%20%2861%29/Joy%20on%20Demand%20-%20Chade-Meng%20Tan.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Chade-Meng Tan</name>
+      <uri>../author_0/author_52_Page_1.xml</uri>
+    </author>
+    <published>2016-04-26T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>A long-awaited follow-up to the New York Times bestselling Search Inside Yourself shows us how to cultivate joy within the context of our fast-paced lives and explains why it is critical to creativity, innovation, confidence, and ultimately success i...</summary>
+    <link href="../book_0/book_61.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Joyous Cosmology: Adventures in the Chemistry of Consciousness *****</title>
+    <id>calibre:book:788</id>
+    <updated>2020-04-23T05:43:02Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20Watts/The%20Joyous%20Cosmology_%20Adventures%20in%20the%20Chemistry%20of%20Consciousness%20%28788%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20Watts/The%20Joyous%20Cosmology_%20Adventures%20in%20the%20Chemistry%20of%20Consciousness%20%28788%29/The%20Joyous%20Cosmology_%20Adventures%20in%20the%20Ch%20-%20Alan%20Watts.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Alan Watts</name>
+      <uri>../author_0/author_573_Page_1.xml</uri>
+    </author>
+    <published>1962-08-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Vintage Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Medical, legal, and religious experts have recently been confronted with the problem of the so-called "mystic drugs," that seem to produce, without any apparent physical harm, changes in consciousness comparable to the highest forms of aesthetic and...</summary>
+    <link href="../book_0/book_788.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

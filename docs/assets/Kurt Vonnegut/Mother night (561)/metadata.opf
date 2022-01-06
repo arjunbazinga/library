@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">561</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">63757ea9-018f-4060-8658-99d9c32a8191</dc:identifier>
+        <dc:title>Mother night</dc:title>
+        <dc:creator opf:file-as="Vonnegut, Kurt" opf:role="aut">Kurt Vonnegut</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1966-10-14T17:30:00+00:00</dc:date>
+        <dc:publisher>Harper &amp; Row</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kurt Vonnegut&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2019-04-19T16:25:05+00:00"/>
+        <meta name="calibre:title_sort" content="Mother night"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

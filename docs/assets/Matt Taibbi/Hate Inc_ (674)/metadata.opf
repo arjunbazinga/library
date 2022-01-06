@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">674</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">323ee211-3ebb-4d43-b31a-3703ad4a8e34</dc:identifier>
+        <dc:title>Hate Inc.</dc:title>
+        <dc:creator opf:file-as="Taibbi, Matt" opf:role="aut">Matt Taibbi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-16T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;Part tirade, part confessional from the celebrated &lt;i&gt;Rolling Stone&lt;/i&gt; journalist, &lt;i&gt;Hate Inc.&lt;/i&gt; reveals that what most people think of as "the news" is, in fact, a twisted wing of the entertainment business&lt;/b&gt;&lt;br&gt; In this characteristically turbocharged new book, celebrated &lt;i&gt;Rolling Stone&lt;/i&gt; journalist Matt Taibbi provides an insider's guide to the variety of ways today's mainstream media tells us lies. Part tirade, part confessional, it reveals that what most people think of as "the news" is, in fact, a twisted wing of the entertainment business. &lt;br&gt; In the Internet age, the press have mastered the art of monetizing anger, paranoia, and distrust. Taibbi, who has spent much of his career covering elections in which this kind of manipulative activity is most egregious, provides a rich taxonomic survey of American political journalism's dirty tricks.&lt;br&gt; Heading into a 2020 election season that promises to be a Great Giza Pyramid Complex of invective and digital...</dc:description>
+        <dc:publisher>OR Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781949017267</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Matt Taibbi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:36+00:00"/>
+        <meta name="calibre:title_sort" content="Hate Inc."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

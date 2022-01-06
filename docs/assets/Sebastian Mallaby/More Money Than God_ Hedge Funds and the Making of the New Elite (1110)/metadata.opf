@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1110</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2df7afaf-0d90-42bf-abf9-0abc65cafc98</dc:identifier>
+        <dc:title>More Money Than God: Hedge Funds and the Making of the New Elite</dc:title>
+        <dc:creator opf:file-as="Mallaby, Sebastian" opf:role="aut">Sebastian Mallaby</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-05T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Wealthy, powerful, and potentially dangerous, hedge-find managers have emerged as the stars of twenty-first century capitalism. Based on unprecedented access to the industry, &lt;em&gt;More Money Than God &lt;/em&gt;provides the first authoritative history of hedge funds. This is the inside story of their origins in the 1960s and 1970s, their explosive battles with central banks in the 1980s and 1990s, and finally their role in the financial crisis of 2007-9. &lt;/p&gt;
+&lt;p&gt;Hedge funds reward risk takers, so they tend to attract larger-than-life personalities. Jim Simons began life as a code-breaker and mathematician, co-authoring a paper on theoretical geometry that led to breakthroughs in string theory. Ken Griffin started out trading convertible bonds from his Harvard dorm room. Paul Tudor Jones happily declared that a 1929-style crash would be 'total rock-and-roll' for him. Michael Steinhardt was capable of reducing underlings to sobs. 'All I want to do is kill myself,' one said. 'Can I watch?' Steinhardt responded. &lt;/p&gt;
+&lt;p&gt;A saga of riches and rich egos, this is also a history of discovery. Drawing on insights from mathematics, economics and psychology to crack the mysteries of the market, hedge funds have transformed the world, spawning new markets in exotic financial instruments and rewriting the rules of capitalism. And while major banks, brokers, home lenders, insurers and money market funds failed or were bailed out during the crisis of 2007-9, the hedge-fund industry survived the test, proving that money can be successfully managed without taxpayer safety nets. Anybody pondering fixes to the financial system could usefully start here: the future of finance lies in the history of hedge funds. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>A&amp;C Black</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">SuAkejQbpdIC</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B003ZSHUD4</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781408809754</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>Political Economy</dc:subject>
+        <dc:subject>Economics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sebastian Mallaby&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-12-06T11:34:15+00:00"/>
+        <meta name="calibre:title_sort" content="More Money Than God: Hedge Funds and the Making of the New Elite"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

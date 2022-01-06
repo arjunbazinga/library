@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">636</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">57334e9a-baab-4de3-83c4-e67ca52727de</dc:identifier>
+        <dc:title>Psilocybin, Magic Mushroom Grower's Guide A Handbook for Psilocybin Enthusiasts-And Or Press ()</dc:title>
+        <dc:creator opf:file-as="O. T Oss, O N Oeric, Kat, Irimias the Obscure" opf:role="aut">O. T Oss, O N Oeric, Kat, Irimias the Obscure</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1976-09-20T16:54:40+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;O. T Oss, O N Oeric, Kat, Irimias the Obscure&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:32+00:00"/>
+        <meta name="calibre:title_sort" content="Psilocybin, Magic Mushroom Grower's Guide A Handbook for Psilocybin Enthusiasts-And Or Press (1976)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

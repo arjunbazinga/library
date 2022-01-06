@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1173</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f6dc76d3-a938-46b2-97f4-f0ec48dbbb19</dc:identifier>
+        <dc:title>The Theory of Poker: A Professional Poker Player Teaches You How to Think Like One</dc:title>
+        <dc:creator opf:file-as="Sklansky, David" opf:role="aut">David Sklansky</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-01-30T21:08:12+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The Theory of Poker by David Sklansky discusses theories&lt;br&gt;and concepts applicable to nearly every variation of the game,&lt;br&gt;including five-card draw (high), seven-card stud, hold 'em, lowball&lt;br&gt;draw, and razz (seven-card lowball stud). This book introduces you to&lt;br&gt;the Fundamental Theorem of Poker, its implications, and how it should&lt;br&gt;affect your play. Other chapters discuss the value of deception,&lt;br&gt;bluffing, raising, the slow-play, the value of position, psychology,&lt;br&gt;heads-up play, game theory, implied odds, the free card, and&lt;br&gt;semibluffing. &lt;/p&gt;
+&lt;p&gt;Many of today's top poker players will tell you that this is the book&lt;br&gt;that really made a difference in their play. That is, these are the&lt;br&gt;ideas that separate the experts from the typical players. Those who&lt;br&gt;read and study this book will literally leave behind those who don't,&lt;br&gt;and most serious players wear the covers off their copies. This is the&lt;br&gt;best book ever written on poker. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Two Plus Two Publishing</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B001QCYJQ2</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;David Sklansky&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-01-05T19:09:49+00:00"/>
+        <meta name="calibre:title_sort" content="Theory of Poker: A Professional Poker Player Teaches You How to Think Like One, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

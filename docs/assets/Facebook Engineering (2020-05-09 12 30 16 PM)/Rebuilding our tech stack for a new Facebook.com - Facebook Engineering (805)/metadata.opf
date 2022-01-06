@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">805</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ed6b4328-2823-468d-a615-4b2266e14512</dc:identifier>
+        <dc:title>Rebuilding our tech stack for a new Facebook.com - Facebook Engineering</dc:title>
+        <dc:creator opf:file-as="Engineering, Facebook" opf:role="aut">Facebook Engineering (2020-05-09 12 30 16 PM)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Facebook Engineering (2020-05-09 12 30 16 PM)&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-05-09T07:05:24+00:00"/>
+        <meta name="calibre:title_sort" content="Rebuilding our tech stack for a new Facebook.com - Facebook Engineering"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

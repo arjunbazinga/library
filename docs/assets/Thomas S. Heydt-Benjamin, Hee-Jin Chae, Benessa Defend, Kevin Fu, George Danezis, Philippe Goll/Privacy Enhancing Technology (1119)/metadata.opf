@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1119</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c948a8b-610a-4fc4-84e9-2ef30eeb4d6e</dc:identifier>
+        <dc:title>Privacy Enhancing Technology</dc:title>
+        <dc:creator opf:file-as="Thomas S. Heydt-Benjamin, Hee-Jin Chae, Benessa Defend, Kevin Fu, George Danezis, Philippe Golle" opf:role="aut">Thomas S. Heydt-Benjamin, Hee-Jin Chae, Benessa Defend, Kevin Fu, George Danezis, Philippe Golle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas S. Heydt-Benjamin, Hee-Jin Chae, Benessa Defend, Kevin Fu, George Danezis, Philippe Golle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-08T15:19:31+00:00"/>
+        <meta name="calibre:title_sort" content="Privacy Enhancing Technology"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

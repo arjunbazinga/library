@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1219</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d3c60fdb-a762-4c65-869c-511a47e6e1e5</dc:identifier>
+        <dc:title>Visual Analysis of Nonlinear Dynamical Systems: Chaos, Fractals, Self-Similarity and the Limits of Prediction</dc:title>
+        <dc:creator opf:file-as="Boeing, Geoff" opf:role="aut">Geoff Boeing</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>Nearly all nontrivial real-world systems are nonlinear dynamical systems. Chaos describes certain nonlinear dynamical systems that have a very sensitive dependence on initial conditions. Chaotic systems are always deterministic and may be very simple</dc:subject>
+        <dc:subject>yet they produce completely unpredictable and divergent behavior. Systems of nonlinear equations are difficult to solve analytically</dc:subject>
+        <dc:subject>and scientists have relied heavily on visual and qualitative approaches to discover and analyze the dynamics of nonlinearity. Indeed</dc:subject>
+        <dc:subject>few fields have drawn as heavily from visualization methods for their seminal innovations: from strange attractors</dc:subject>
+        <dc:subject>to bifurcation diagrams</dc:subject>
+        <dc:subject>to cobweb plots</dc:subject>
+        <dc:subject>to phase diagrams and embedding. Although the social sciences are increasingly studying these types of systems</dc:subject>
+        <dc:subject>seminal concepts remain murky or loosely adopted. This article has three aims. First</dc:subject>
+        <dc:subject>it argues for several visualization methods to critically analyze and understand the behavior of nonlinear dynamical systems. Second</dc:subject>
+        <dc:subject>it uses these visualizations to introduce the foundations of nonlinear dynamics</dc:subject>
+        <dc:subject>chaos</dc:subject>
+        <dc:subject>fractals</dc:subject>
+        <dc:subject>self-similarity and the limits of prediction. Finally</dc:subject>
+        <dc:subject>it presents Pynamical</dc:subject>
+        <dc:subject>an open-source Python package to easily visualize and explore nonlinear dynamical systems’ behavior.</dc:subject>
+        <dc:subject>visualization; nonlinear dynamics; chaos; fractal; attractor; bifurcation; dynamical systems; prediction; python; logistic map</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Geoff Boeing&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-04-25T06:55:53+00:00"/>
+        <meta name="calibre:title_sort" content="Visual Analysis of Nonlinear Dynamical Systems: Chaos, Fractals, Self-Similarity and the Limits of Prediction"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

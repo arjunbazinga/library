@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1007</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">30034e5a-f309-4559-bb06-86a9d45fadaa</dc:identifier>
+        <dc:title>Characteristics of Games</dc:title>
+        <dc:creator opf:file-as="Elias, George Skaff &amp; Garfield, Richard &amp; Gutschera, K. Robert" opf:role="aut">George Skaff Elias</dc:creator>
+        <dc:creator opf:file-as="Elias, George Skaff &amp; Garfield, Richard &amp; Gutschera, K. Robert" opf:role="aut">Richard Garfield</dc:creator>
+        <dc:creator opf:file-as="Elias, George Skaff &amp; Garfield, Richard &amp; Gutschera, K. Robert" opf:role="aut">K. Robert Gutschera</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-23T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Understanding games―whether computer games, card games, board games, or sports―by analyzing certain common traits.&lt;/strong&gt; &lt;em&gt;Characteristics of Games&lt;/em&gt; offers a new way to understand games: by focusing on certain traits―including number of players, rules, degrees of luck and skill needed, and reward/effort ratio―and using these characteristics as basic points of comparison and analysis. These issues are often discussed by game players and designers but seldom written about in any formal way. This book fills that gap. By emphasizing these player-centric basic concepts, the book provides a framework for game analysis from the viewpoint of a game designer. The book shows what all genres of games―board games, card games, computer games, and sports―have to teach each other. Today's game designers may find solutions to design problems when they look at classic games that have evolved over years of playing. &lt;em&gt;Characteristics of Games&lt;/em&gt; ―written by three of the most prominent game designers working today―will serve as an essential reference for game designers and game players curious about the inner workings of games. It includes exercises (which can also serve as the basis for discussions) and examples chosen from a wide variety of games. There are occasional mathematical digressions, but these can be skipped with no loss of continuity. Appendixes offer supplementary material, including a brief survey of the two main branches of mathematical game theory and a descriptive listing of each game referred to in the text. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>MIT Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">QVP8AQAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">026201713X</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780262017138</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Games &amp; Activities</dc:subject>
+        <dc:subject>Board Games</dc:subject>
+        <dc:subject>Video &amp; Electronic</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Media Studies</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Skaff Elias&quot;: &quot;&quot;, &quot;Richard Garfield&quot;: &quot;&quot;, &quot;K. Robert Gutschera&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-09-23T17:41:03+00:00"/>
+        <meta name="calibre:title_sort" content="Characteristics of Games"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

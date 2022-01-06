@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">958</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6625a045-ae44-4eff-adb0-d4e036877f90</dc:identifier>
+        <dc:title>Option Trading: Pricing and Volatility Strategies and Techniques</dc:title>
+        <dc:creator opf:file-as="Sinclair, Euan" opf:role="aut">Euan Sinclair</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-20T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;An A to Z options trading guide for the new millennium &lt;em&gt;and&lt;/em&gt; the new economy Written by professional trader and quantitative analyst Euan Sinclair, &lt;em&gt;Option Trading&lt;/em&gt; is a comprehensive guide to this discipline covering everything from historical background, contract types, and market structure to volatility measurement, forecasting, and hedging techniques. This comprehensive guide presents the detail and practical information that professional option traders need, whether they're using options to hedge, manage money, arbitrage, or engage in structured finance deals. It contains information essential to anyone in this field, including option pricing and price forecasting, the Greeks, implied volatility, volatility measurement and forecasting, and specific option strategies. * Explains how to break down a typical position, and repair positions * Other titles by Sinclair: &lt;em&gt;Volatility Trading&lt;/em&gt; * Addresses the various concerns of the profes &lt;em&gt;sional options tra&lt;/em&gt; der&lt;/p&gt;
+&lt;p&gt;Option trading will continue to be an important part of the financial landscape. This book will show you how to make the most of these profitable products, no matter what the market does. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780470497104</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B003YJF07W</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">8w5aDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Finance</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>0470497106</dc:subject>
+        <dc:subject>9780470497104</dc:subject>
+        <dc:subject>0470642505</dc:subject>
+        <dc:subject>9780470642504</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Euan Sinclair&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2020-08-26T15:57:19+00:00"/>
+        <meta name="calibre:title_sort" content="Option Trading: Pricing and Volatility Strategies and Techniques"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

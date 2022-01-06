@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1029</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2442925e-a0f6-4722-9c5d-58c74b3d1575</dc:identifier>
+        <dc:title>How to Win an Indian Election: What Political Parties Don’t Want You to Know</dc:title>
+        <dc:creator opf:file-as="Singh, Shivam Shankar" opf:role="aut">Shivam Shankar Singh</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-26T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;What role do political consultants play in election campaigns? How are political parties using technological tools such as data analytics, surveys and alternative media to construct effective, micro-targeted campaigns? How does the use of money impact election results? What aids in the en masse dissemination of divisive propaganda and fake news? What does it take to win an election in India today? What is the future of politics in the country?&lt;br&gt;Written by a former election campaign consultant for a major political party, &lt;em&gt;How to Win an Indian Election&lt;/em&gt; takes readers into the forbidden world of election war-rooms and gives them a glimpse of how strategy is formulated, what works with voters on the ground and what doesn't. Based on research, interviews and the author's own experiences, this book is invaluable for its insight into the inner workings of politics, political parties and what really makes for a winning election campaign. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ebury Press</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B07NMGNWNZ</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">VpWHDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789353054731</dc:identifier>
+        <dc:identifier opf:scheme="ASIN">B07NMGNWNZ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Literary Collections</dc:subject>
+        <dc:subject>Essays</dc:subject>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Language Arts &amp; Disciplines</dc:subject>
+        <dc:subject>Library &amp; Information Science</dc:subject>
+        <dc:subject>Databases</dc:subject>
+        <dc:subject>Data Mining</dc:subject>
+        <dc:subject>Political Process</dc:subject>
+        <dc:subject>Campaigns &amp; Elections</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Shivam Shankar Singh&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-10-04T18:56:20+00:00"/>
+        <meta name="calibre:title_sort" content="How to Win an Indian Election: What Political Parties Don’t Want You to Know"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

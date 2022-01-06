@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with A</title>
+  <id>Calibre2opds:allbooks:A</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with A" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>AI Superpowers</title>
+    <id>calibre:book:890</id>
+    <updated>2020-08-09T00:59:03Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Kai-Fu%20Lee/AI%20Superpowers%20%28890%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Kai-Fu%20Lee/AI%20Superpowers%20%28890%29/AI%20Superpowers%20-%20Kai-Fu%20Lee.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Kai-Fu Lee</name>
+      <uri>../author_0/author_689_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Houghton Mifflin Harcourt Publishing Company</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_890.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Accidental Universe</title>
+    <id>calibre:book:395</id>
+    <updated>2020-03-28T07:29:52Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20Lightman/The%20Accidental%20Universe%20%28395%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20Lightman/The%20Accidental%20Universe%20%28395%29/The%20Accidental%20Universe%20-%20Alan%20Lightman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20Lightman/The%20Accidental%20Universe%20%28395%29/The%20Accidental%20Universe%20-%20Alan%20Lightman.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20Lightman/The%20Accidental%20Universe%20%28395%29/The%20Accidental%20Universe%20-%20Alan%20Lightman.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Alan Lightman</name>
+      <uri>../author_0/author_143_Page_1.xml</uri>
+    </author>
+    <published>2014-01-13T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House Inc.</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_395.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ads Don't Work That Way</title>
+    <id>calibre:book:799</id>
+    <updated>2020-05-09T00:35:56Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Kevin%20Simler/Ads%20Don%27t%20Work%20That%20Way%20%28799%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Kevin%20Simler/Ads%20Don%27t%20Work%20That%20Way%20%28799%29/Ads%20Don%27t%20Work%20That%20Way%20-%20Kevin%20Simler.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Kevin Simler</name>
+      <uri>../author_0/author_651_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <link href="../book_0/book_799.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Adventures of Sherlock Holmes ****</title>
+    <id>calibre:book:724</id>
+    <updated>2020-03-28T07:13:06Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Arthur%20Conan%20Doyle/The%20Adventures%20of%20Sherlock%20Holmes%20%28724%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Arthur%20Conan%20Doyle/The%20Adventures%20of%20Sherlock%20Holmes%20%28724%29/The%20Adventures%20of%20Sherlock%20Holmes%20-%20Arthur%20Conan%20Doyle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Arthur%20Conan%20Doyle/The%20Adventures%20of%20Sherlock%20Holmes%20%28724%29/The%20Adventures%20of%20Sherlock%20Holmes%20-%20Arthur%20Conan%20Doyle.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Arthur Conan Doyle</name>
+      <uri>../author_0/author_766_Page_1.xml</uri>
+    </author>
+    <published>2014-09-20T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>CreateSpace Independent Publishing Platform</dcterms:publisher>
+    <category term="Holmes" />
+    <category term="Sherlock (Fictitious character) -- Fiction" />
+    <category term="Private investigators -- England -- Fiction" />
+    <category term="Detective and mystery stories" />
+    <category term="English" />
+    <category term="Lang:en" />
+    <summary>First published in 1892, The Adventures of Sherlock Holmes is the first and greatest of the short story collections written by Arthur Conan Doyle featuring his famous detective. The twelve Sherlock Holmes adventures included in this anthology: A Sca...</summary>
+    <link href="../book_0/book_724.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Aesop's Fables</title>
+    <id>calibre:book:413</id>
+    <updated>2020-03-28T06:57:10Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Aesop/Aesop%27s%20Fables%20%28413%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Aesop/Aesop%27s%20Fables%20%28413%29/Aesop%27s%20Fables%20-%20Aesop.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Aesop/Aesop%27s%20Fables%20%28413%29/Aesop%27s%20Fables%20-%20Aesop.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Aesop/Aesop%27s%20Fables%20%28413%29/Aesop%27s%20Fables%20-%20Aesop.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Aesop</name>
+      <uri>../author_0/author_161_Page_1.xml</uri>
+    </author>
+    <published>2009-10-04T00:57:54Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Sony CONNECT Inc.</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>9781434001467</summary>
+    <link href="../book_0/book_413.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Age of Comfort</title>
+    <id>calibre:book:99</id>
+    <updated>2020-03-28T07:10:32Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Joan%20DeJean/The%20Age%20of%20Comfort%20%2899%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Joan%20DeJean/The%20Age%20of%20Comfort%20%2899%29/The%20Age%20of%20Comfort%20-%20Joan%20DeJean.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Joan%20DeJean/The%20Age%20of%20Comfort%20%2899%29/The%20Age%20of%20Comfort%20-%20Joan%20DeJean.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Joan%20DeJean/The%20Age%20of%20Comfort%20%2899%29/The%20Age%20of%20Comfort%20-%20Joan%20DeJean.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Joan DeJean</name>
+      <uri>../author_0/author_84_Page_1.xml</uri>
+    </author>
+    <published>2009-11-02T09:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Bloomsbury Publishing Plc</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_99.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Age of Surveillance Capitalism</title>
+    <id>calibre:book:690</id>
+    <updated>2020-03-29T02:11:36Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Shoshana%20Zuboff/The%20Age%20of%20Surveillance%20Capitalism%20%28690%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Shoshana%20Zuboff/The%20Age%20of%20Surveillance%20Capitalism%20%28690%29/The%20Age%20of%20Surveillance%20Capitalism%20-%20Shoshana%20Zuboff.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Shoshana%20Zuboff/The%20Age%20of%20Surveillance%20Capitalism%20%28690%29/The%20Age%20of%20Surveillance%20Capitalism%20-%20Shoshana%20Zuboff.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Shoshana Zuboff</name>
+      <uri>../author_0/author_437_Page_1.xml</uri>
+    </author>
+    <published>2019-01-15T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>PublicAffairs</dcterms:publisher>
+    <category term="Capitalism" />
+    <category term="Technology" />
+    <category term="Lang:en" />
+    <summary>The challenges to humanity posed by the digital future, the first detailed examination of the unprecedented form of power called "surveillance capitalism," and the quest by powerful corporations to predict and control our behavior.Shoshana Zuboff's i...</summary>
+    <link href="../book_0/book_690.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Algorithm Design Manual ****</title>
+    <id>calibre:book:578</id>
+    <updated>2020-03-29T01:37:56Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Steven%20S%20Skiena/The%20Algorithm%20Design%20Manual%20%28578%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Steven%20S%20Skiena/The%20Algorithm%20Design%20Manual%20%28578%29/The%20Algorithm%20Design%20Manual%20-%20Steven%20S%20Skiena.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Steven%20S%20Skiena/The%20Algorithm%20Design%20Manual%20%28578%29/The%20Algorithm%20Design%20Manual%20-%20Steven%20S%20Skiena.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Steven S Skiena</name>
+      <uri>../author_0/author_773_Page_1.xml</uri>
+    </author>
+    <published>2009-04-04T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Springer</dcterms:publisher>
+    <category term="Computers" />
+    <category term="Software Development &amp; Engineering" />
+    <category term="General" />
+    <category term="Programming" />
+    <category term="Algorithms" />
+    <category term="Computer Science" />
+    <category term="Data Processing" />
+    <category term="Information Technology" />
+    <category term="Mathematics" />
+    <category term="Numerical Analysis" />
+    <category term="Discrete Mathematics" />
+    <category term="Lang:en" />
+    <summary>This newly expanded and updated second edition of the best-selling classic continues to take the "mystery" out of designing algorithms, and analyzing their efficacy and efficiency. Expanding on the first edition, the book now serves as the primary t...</summary>
+    <link href="../book_0/book_578.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Algorithms Unlocked</title>
+    <id>calibre:book:313</id>
+    <updated>2020-03-28T07:09:44Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Thomas%20H.%20Cormen/Algorithms%20Unlocked%20%28313%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Thomas%20H.%20Cormen/Algorithms%20Unlocked%20%28313%29/Algorithms%20Unlocked%20-%20Thomas%20H.%20Cormen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Thomas%20H.%20Cormen/Algorithms%20Unlocked%20%28313%29/Algorithms%20Unlocked%20-%20Thomas%20H.%20Cormen.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Thomas%20H.%20Cormen/Algorithms%20Unlocked%20%28313%29/Algorithms%20Unlocked%20-%20Thomas%20H.%20Cormen.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Thomas H. Cormen</name>
+      <uri>../author_0/author_117_Page_1.xml</uri>
+    </author>
+    <published>2013-03-02T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>MIT Press</dcterms:publisher>
+    <category term="Algorithms" />
+    <category term="Computers" />
+    <category term="Programming" />
+    <category term="Lang:en" />
+    <summary>Have you ever wondered how your GPS can find the fastest way to your destination, selecting one route from seemingly countless possibilities in mere seconds? How your credit card account number is protected when you make a purchase over the Internet?...</summary>
+    <link href="../book_0/book_313.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>All the Light We Cannot See: A Novel</title>
+    <id>calibre:book:36</id>
+    <updated>2020-03-28T07:12:44Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Anthony%20Doerr/All%20the%20Light%20We%20Cannot%20See_%20A%20Novel%20%2836%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Anthony%20Doerr/All%20the%20Light%20We%20Cannot%20See_%20A%20Novel%20%2836%29/All%20the%20Light%20We%20Cannot%20See_%20A%20Novel%20-%20Anthony%20Doerr.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Anthony%20Doerr/All%20the%20Light%20We%20Cannot%20See_%20A%20Novel%20%2836%29/All%20the%20Light%20We%20Cannot%20See_%20A%20Novel%20-%20Anthony%20Doerr.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Anthony%20Doerr/All%20the%20Light%20We%20Cannot%20See_%20A%20Novel%20%2836%29/All%20the%20Light%20We%20Cannot%20See_%20A%20Novel%20-%20Anthony%20Doerr.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Anthony Doerr</name>
+      <uri>../author_0/author_33_Page_1.xml</uri>
+    </author>
+    <published>2014-05-06T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Scribner</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>From the highly acclaimed, multiple award-winning Anthony Doerr, a stunningly ambitious and beautiful novel about a blind French girl and a German boy whose paths collide in occupied France as both try to survive the devastation of World War II.  Mar...</summary>
+    <link href="../book_0/book_36.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Alone Together: Why We Expect More From Technology and Less From Each Other ****</title>
+    <id>calibre:book:738</id>
+    <updated>2020-03-28T08:03:16Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Sherry%20Turkle/Alone%20Together_%20Why%20We%20Expect%20More%20From%20Technology%20and%20Less%20From%20Each%20Other%20%28738%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Sherry%20Turkle/Alone%20Together_%20Why%20We%20Expect%20More%20From%20Technology%20and%20Less%20From%20Each%20Other%20%28738%29/Alone%20Together_%20Why%20We%20Expect%20More%20From%20Te%20-%20Sherry%20Turkle.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Sherry%20Turkle/Alone%20Together_%20Why%20We%20Expect%20More%20From%20Technology%20and%20Less%20From%20Each%20Other%20%28738%29/Alone%20Together_%20Why%20We%20Expect%20More%20From%20Te%20-%20Sherry%20Turkle.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Sherry Turkle</name>
+      <uri>../author_0/author_465_Page_1.xml</uri>
+    </author>
+    <published>2011-01-11T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Basic Books</dcterms:publisher>
+    <category term="Technology" />
+    <category term="Society" />
+    <category term="Lang:en" />
+    <summary>Consider Facebook—it’s human contact, only easier to engage with and easier to avoid. Developing technology promises closeness. Sometimes it delivers, but much of our modern life leaves us less connected with people and more connected to simulations ...</summary>
+    <link href="../book_0/book_738.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Amusing Ourselves to Death: Public Discourse in the Age of Show Business (20th Anniversary Edition) ****</title>
+    <id>calibre:book:664</id>
+    <updated>2020-03-28T07:42:04Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Neil%20Postman/Amusing%20Ourselves%20to%20Death_%20Public%20Discourse%20in%20the%20Age%20of%20Show%20Business%20%2820th%20Anniversary%20Edit%20%28664%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Neil%20Postman/Amusing%20Ourselves%20to%20Death_%20Public%20Discourse%20in%20the%20Age%20of%20Show%20Business%20%2820th%20Anniversary%20Edit%20%28664%29/Amusing%20Ourselves%20to%20Death_%20Public%20Discour%20-%20Neil%20Postman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Neil%20Postman/Amusing%20Ourselves%20to%20Death_%20Public%20Discourse%20in%20the%20Age%20of%20Show%20Business%20%2820th%20Anniversary%20Edit%20%28664%29/Amusing%20Ourselves%20to%20Death_%20Public%20Discour%20-%20Neil%20Postman.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Neil Postman</name>
+      <uri>../author_0/author_412_Page_1.xml</uri>
+    </author>
+    <published>1985-12-27T08:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin</dcterms:publisher>
+    <category term="Non-Fiction" />
+    <category term="Lang:en" />
+    <summary>Originally published in 1985, Neil Postman’s groundbreaking polemic about the corrosive effects of television on our politics and public discourse has been hailed as a twenty-first-century book published in the twentieth century. Now, with television...</summary>
+    <link href="../book_0/book_664.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>And the Mountains Echoed ****</title>
+    <id>calibre:book:306</id>
+    <updated>2020-03-28T07:25:28Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Khaled%20Hosseini/And%20the%20Mountains%20Echoed%20%28306%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Khaled%20Hosseini/And%20the%20Mountains%20Echoed%20%28306%29/And%20the%20Mountains%20Echoed%20-%20Khaled%20Hosseini.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Khaled%20Hosseini/And%20the%20Mountains%20Echoed%20%28306%29/And%20the%20Mountains%20Echoed%20-%20Khaled%20Hosseini.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Khaled%20Hosseini/And%20the%20Mountains%20Echoed%20%28306%29/And%20the%20Mountains%20Echoed%20-%20Khaled%20Hosseini.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Khaled Hosseini</name>
+      <uri>../author_0/author_116_Page_1.xml</uri>
+    </author>
+    <published>2013-01-01T08:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Riverhead</dcterms:publisher>
+    <category term="Fiction / Literary" />
+    <category term="Lang:en" />
+    <summary>An unforgettable novel about finding a lost piece of yourself in someone else.Khaled Hosseini, the #1 New York Times–bestselling author of The Kite Runner and A Thousand Splendid Suns, has written a new novel about how we love, how we take care of on...</summary>
+    <link href="../book_0/book_306.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Animal Spirits</title>
+    <id>calibre:book:18</id>
+    <updated>2020-03-28T06:57:38Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20J.%20Shiller%2C%20George%20A.%20Akerlof/Animal%20Spirits%20%2818%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20J.%20Shiller%2C%20George%20A.%20Akerlof/Animal%20Spirits%20%2818%29/Animal%20Spirits%20-%20Robert%20J.%20Shiller%2C%20George%20A.%20Akerlof.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20J.%20Shiller%2C%20George%20A.%20Akerlof/Animal%20Spirits%20%2818%29/Animal%20Spirits%20-%20Robert%20J.%20Shiller%2C%20George%20A.%20Akerlof.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20J.%20Shiller%2C%20George%20A.%20Akerlof/Animal%20Spirits%20%2818%29/Animal%20Spirits%20-%20Robert%20J.%20Shiller%2C%20George%20A.%20Akerlof.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Robert J. Shiller, George A. Akerlof</name>
+      <uri>../author_0/author_504_Page_1.xml</uri>
+    </author>
+    <published>2010-02-20T11:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Princeton University Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_18.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Antifragile: Things That Gain from Disorder</title>
+    <id>calibre:book:26</id>
+    <updated>2020-03-28T07:57:40Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Nassim%20Nicholas%20Taleb/Antifragile_%20Things%20That%20Gain%20from%20Disorder%20%2826%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Nassim%20Nicholas%20Taleb/Antifragile_%20Things%20That%20Gain%20from%20Disorder%20%2826%29/Antifragile_%20Things%20That%20Gain%20from%20Disorde%20-%20Nassim%20Nicholas%20Taleb.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Nassim%20Nicholas%20Taleb/Antifragile_%20Things%20That%20Gain%20from%20Disorder%20%2826%29/Antifragile_%20Things%20That%20Gain%20from%20Disorde%20-%20Nassim%20Nicholas%20Taleb.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Nassim%20Nicholas%20Taleb/Antifragile_%20Things%20That%20Gain%20from%20Disorder%20%2826%29/Antifragile_%20Things%20That%20Gain%20from%20Disorde%20-%20Nassim%20Nicholas%20Taleb.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Nassim Nicholas Taleb</name>
+      <uri>../author_0/author_19_Page_1.xml</uri>
+    </author>
+    <published>2012-11-26T08:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House, Inc.</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_26.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Applied Category Theory</title>
+    <id>calibre:book:615</id>
+    <updated>2020-03-28T11:32:28Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Brendan%20Fong%2C%20David%20I.%20Spivak/Applied%20Category%20Theory%20%28615%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Brendan%20Fong%2C%20David%20I.%20Spivak/Applied%20Category%20Theory%20%28615%29/Applied%20Category%20Theory%20-%20Brendan%20Fong%2C%20David%20I.%20Spivak.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Brendan Fong, David I. Spivak</name>
+      <uri>../author_0/author_499_Page_1.xml</uri>
+    </author>
+    <published>2018-10-16T00:30:07Z</published>
+    <summary>18.S097 Applied Category Theory: Textbook</summary>
+    <link href="../book_0/book_615.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Architecture of Privacy</title>
+    <id>calibre:book:922</id>
+    <updated>2020-08-10T11:46:11Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Courtney%20Bowman%2C%20Ari%20Gesher%2C%20John%20K.%20Grant%2C%20Daniel%20Slate/The%20Architecture%20of%20Privacy%20%28922%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Courtney%20Bowman%2C%20Ari%20Gesher%2C%20John%20K.%20Grant%2C%20Daniel%20Slate/The%20Architecture%20of%20Privacy%20%28922%29/The%20Architecture%20of%20Privacy%20-%20Courtney%20Bowman%2C%20Ari%20Gesher%2C%20John%20K.%20Grant.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Courtney Bowman, Ari Gesher, John K. Grant, Daniel Slate</name>
+      <uri>../author_0/author_731_Page_1.xml</uri>
+    </author>
+    <published>2015-08-26T08:35:25Z</published>
+    <category term="2015" />
+    <link href="../book_0/book_922.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Arithmetical Tugs of war and Bendord's Law</title>
+    <id>calibre:book:597</id>
+    <updated>2020-03-06T09:42:32Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Alex%20Ely%20Kossovsky/Arithmetical%20Tugs%20of%20war%20and%20Bendord%27s%20Law%20%28597%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Alex%20Ely%20Kossovsky/Arithmetical%20Tugs%20of%20war%20and%20Bendord%27s%20Law%20%28597%29/Arithmetical%20Tugs%20of%20war%20and%20Bendord%27s%20Law%20-%20Alex%20Ely%20Kossovsky.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Alex Ely Kossovsky</name>
+      <uri>../author_0/author_516_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <summary>Multiplicative effects.</summary>
+    <link href="../book_0/book_597.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Art of Seduction *****</title>
+    <id>calibre:book:102</id>
+    <updated>2020-03-28T07:22:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20Greene/The%20Art%20of%20Seduction%20%28102%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20Greene/The%20Art%20of%20Seduction%20%28102%29/The%20Art%20of%20Seduction%20-%20Robert%20Greene.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20Greene/The%20Art%20of%20Seduction%20%28102%29/The%20Art%20of%20Seduction%20-%20Robert%20Greene.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20Greene/The%20Art%20of%20Seduction%20%28102%29/The%20Art%20of%20Seduction%20-%20Robert%20Greene.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Robert Greene</name>
+      <uri>../author_0/author_87_Page_1.xml</uri>
+    </author>
+    <published>2003-10-06T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Books</dcterms:publisher>
+    <category term="Family &amp; Relationships" />
+    <category term="General" />
+    <category term="Self-Help" />
+    <category term="Personal Growth" />
+    <category term="Lang:en" />
+    <summary>Which sort of seducer could you be? Siren? Rake? Cold Coquette? Star? Comedian? Charismatic? Or Saint? This book will show you which. Charm, persuasion, the ability to create illusions: these are some of the many dazzling gifts of the Seducer, the c...</summary>
+    <link href="../book_0/book_102.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Art of Thinking Clearly *****</title>
+    <id>calibre:book:640</id>
+    <updated>2020-03-28T07:12:28Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Rolf%20Dobelli/The%20Art%20of%20Thinking%20Clearly%20%28640%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Rolf%20Dobelli/The%20Art%20of%20Thinking%20Clearly%20%28640%29/The%20Art%20of%20Thinking%20Clearly%20-%20Rolf%20Dobelli.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Rolf%20Dobelli/The%20Art%20of%20Thinking%20Clearly%20%28640%29/The%20Art%20of%20Thinking%20Clearly%20-%20Rolf%20Dobelli.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Rolf Dobelli</name>
+      <uri>../author_0/author_390_Page_1.xml</uri>
+    </author>
+    <published>2013-05-14T07:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Harper</dcterms:publisher>
+    <category term="Non-Fiction" />
+    <category term="Lang:en" />
+    <summary>Have you ever . . . Invested time in something that, in hindsight, just wasn't worth it? Paid too much in an eBay auction? Continued to do something you knew was bad for you? Sold stocks too late, or too early? Taken credit for success, but blamed fa...</summary>
+    <link href="../book_0/book_640.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Art of War ****</title>
+    <id>calibre:book:722</id>
+    <updated>2020-03-29T02:10:16Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Sun%20Tzu/The%20Art%20of%20War%20%28722%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Sun%20Tzu/The%20Art%20of%20War%20%28722%29/The%20Art%20of%20War%20-%20Sun%20Tzu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Sun%20Tzu/The%20Art%20of%20War%20%28722%29/The%20Art%20of%20War%20-%20Sun%20Tzu.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Sun Tzu</name>
+      <uri>../author_0/author_522_Page_1.xml</uri>
+    </author>
+    <published>2013-05-12T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Simon &amp; Brown</dcterms:publisher>
+    <category term="Military art and science -- Early works to 1800" />
+    <category term="War -- Early works to 1800" />
+    <category term="Lang:en" />
+    <summary>Written in China more than 2,000 years ago, Sun Tzu's classic The Art of War is the first known study of the planning and conduct of military operations. These terse, aphoristic essays are unsurpassed in comprehensiveness and depth of understanding,...</summary>
+    <link href="../book_0/book_722.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Artificial Intelligence : A modern Approach</title>
+    <id>calibre:book:602</id>
+    <updated>2020-03-06T09:43:18Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Stuart%20Russell%2C%20Peter%20Norvig/Artificial%20Intelligence%20_%20A%20modern%20Approach%20%28602%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Stuart%20Russell%2C%20Peter%20Norvig/Artificial%20Intelligence%20_%20A%20modern%20Approach%20%28602%29/Artificial%20Intelligence%20_%20A%20modern%20Approac%20-%20Stuart%20Russell%2C%20Peter%20Norvig.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Stuart Russell, Peter Norvig</name>
+      <uri>../author_0/author_485_Page_1.xml</uri>
+    </author>
+    <published>2016-06-07T06:03:46Z</published>
+    <link href="../book_0/book_602.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Atlas Shrugged</title>
+    <id>calibre:book:63</id>
+    <updated>2020-03-28T07:44:36Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Ayn%20Rand/Atlas%20Shrugged%20%2863%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Ayn%20Rand/Atlas%20Shrugged%20%2863%29/Atlas%20Shrugged%20-%20Ayn%20Rand.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Ayn%20Rand/Atlas%20Shrugged%20%2863%29/Atlas%20Shrugged%20-%20Ayn%20Rand.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Ayn%20Rand/Atlas%20Shrugged%20%2863%29/Atlas%20Shrugged%20-%20Ayn%20Rand.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Ayn Rand</name>
+      <uri>../author_0/author_53_Page_1.xml</uri>
+    </author>
+    <published>1957-10-09T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Group USA, Inc.</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_63.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Atomic Habits: Tiny Changes, Remarkable Results</title>
+    <id>calibre:book:659</id>
+    <updated>2020-03-28T07:07:52Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/James%20Clear/Atomic%20Habits_%20Tiny%20Changes%2C%20Remarkable%20Results%20%28659%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/James%20Clear/Atomic%20Habits_%20Tiny%20Changes%2C%20Remarkable%20Results%20%28659%29/Atomic%20Habits_%20Tiny%20Changes%2C%20Remarkable%20Re%20-%20James%20Clear.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/James%20Clear/Atomic%20Habits_%20Tiny%20Changes%2C%20Remarkable%20Results%20%28659%29/Atomic%20Habits_%20Tiny%20Changes%2C%20Remarkable%20Re%20-%20James%20Clear.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>James Clear</name>
+      <uri>../author_0/author_408_Page_1.xml</uri>
+    </author>
+    <published>2018-10-16T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Tiny Changes, Remarkable ResultsNo matter your goals, Atomic Habits offers a proven framework for improving&amp;#8212;every day. James Clear, one of the world's leading experts on habit formation, reveals practical strategies that will teach you exactly ...</summary>
+    <link href="../book_0/book_659.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

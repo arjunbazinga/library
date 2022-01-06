@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1753</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ccf77123-2738-48a5-ac45-25e466110220</dc:identifier>
+        <dc:title>HBR Guide to Office Politics</dc:title>
+        <dc:creator opf:file-as="Dillon, Karen" opf:role="aut">Karen Dillon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-11-15T11:10:36+00:00</dc:date>
+        <dc:description>Don't let destructive drama sideline your career.Every organization has its share of political drama: Personalities clash. Agendas compete. Turf wars erupt. But you need to work productively with your colleagues--even difficult ones--for the good of your organization and your career. How can you do that without compromising your personal values? By acknowledging that power dynamics and unwritten rules exist--and navigating them constructively.The HBR Guide to Office Politics will help you succeed at work without being a power grabber or a corporate climber. Instead you'll cultivate a political strategy that's authentic to you. You'll learn how to: Gain influence without losing your integrityContend with backstabbers and bulliesWork through tough conversationsManage tensions when resources are scarceGet your share of choice assignmentsAccept that not all conflict is badArm yourself with the advice you need to succeed on the job, from a source you trust. Packed with how-to essentials from leading experts, the HBR Guides provide smart answers to your most pressing work challenges.</dc:description>
+        <dc:publisher>Harvard Business Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781625275325</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">SaHaBAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Careers</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Management</dc:subject>
+        <dc:subject>Reference</dc:subject>
+        <dc:subject>Skills</dc:subject>
+        <dc:subject>Personal Success</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Karen Dillon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-11-05T10:57:36+00:00"/>
+        <meta name="calibre:title_sort" content="HBR Guide to Office Politics"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

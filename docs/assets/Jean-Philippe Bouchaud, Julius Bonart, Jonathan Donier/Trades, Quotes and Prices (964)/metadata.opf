@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">964</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3ce9485b-9efb-462c-8792-c5dcb97fb194</dc:identifier>
+        <dc:title>Trades, Quotes and Prices</dc:title>
+        <dc:creator opf:file-as="Jean-Philippe Bouchaud, Julius Bonart, Jonathan Donier" opf:role="aut">Jean-Philippe Bouchaud, Julius Bonart, Jonathan Donier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-03-12T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The widespread availability of high-quality, high-frequency data has revolutionised the study of financial markets. By describing not only asset prices, but also market participants' actions and interactions, this wealth of information offers a new window into the inner workings of the financial ecosystem. In this original text, the authors discuss empirical facts of financial markets and introduce a wide range of models, from the micro-scale mechanics of individual order arrivals to the emergent, macro-scale issues of market stability. Throughout this journey, data is king. All discussions are firmly rooted in the empirical behaviour of real stocks, and all models are calibrated and evaluated using recent data from Nasdaq. By confronting theory with empirical facts, this book for practitioners, researchers and advanced students provides a fresh, new, and often surprising perspective on topics as diverse as optimal trading, price impact, the fragile nature of liquidity, and even the reasons why people trade at all. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Cambridge University Press</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B07952FJL1</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Econometrics</dc:subject>
+        <dc:subject>Statistics</dc:subject>
+        <dc:subject>Economics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Theory</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Physics</dc:subject>
+        <dc:subject>Mathematical</dc:subject>
+        <dc:subject>Computational</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jean-Philippe Bouchaud, Julius Bonart, Jonathan Donier&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-08-26T15:57:21+00:00"/>
+        <meta name="calibre:title_sort" content="Trades, Quotes and Prices"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

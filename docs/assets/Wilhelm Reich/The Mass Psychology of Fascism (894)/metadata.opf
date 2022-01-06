@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">894</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6d9081ec-218a-4ad4-a382-ea576953894a</dc:identifier>
+        <dc:title>The Mass Psychology of Fascism</dc:title>
+        <dc:creator opf:file-as="Reich, Wilhelm" opf:role="aut">Wilhelm Reich</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;p&gt;In this classic study, Reich provides insight into the phenomenon of fascism, which continues to ravage the international community in ways great and small.&lt;BR&gt;&lt;BR&gt;Drawing on his medical experiences with men and women of various classes, races, nations, and religious beliefs, Reich refutes the still generally held notion that fascism is a specific characteristic of certain nationalities or a political party ideology that is imposed on innocent people by means of force or political manneuvers. "Fascism on only the organized political expression of the structure of the average man's character. It is the basic emotional civilization and its mechanistic-mystical conception of life."&amp;#8212;Wilhelm Reich&lt;BR&gt;&lt;BR&gt;Responsibility for the elimination of fascism thus results with the masses of average people who might otherwise support and champion it.</dc:description>
+        <dc:publisher>Farrar, Straus and Giroux</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Wilhelm Reich&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-08-09T07:29:04+00:00"/>
+        <meta name="calibre:title_sort" content="Mass Psychology of Fascism, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

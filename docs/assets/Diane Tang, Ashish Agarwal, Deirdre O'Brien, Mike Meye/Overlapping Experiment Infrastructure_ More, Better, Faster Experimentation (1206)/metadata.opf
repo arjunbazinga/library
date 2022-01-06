@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1206</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b0f8f050-1587-426e-9b8f-c83b0b64dd85</dc:identifier>
+        <dc:title>Overlapping Experiment Infrastructure: More, Better, Faster Experimentation</dc:title>
+        <dc:creator opf:file-as="Diane Tang, Ashish Agarwal, Deirdre O’Brien, Mike Meye" opf:role="aut">Diane Tang, Ashish Agarwal, Deirdre O’Brien, Mike Meye</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Diane Tang, Ashish Agarwal, Deirdre O’Brien, Mike Meye&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-01-26T14:03:49+00:00"/>
+        <meta name="calibre:title_sort" content="Overlapping Experiment Infrastructure: More, Better, Faster Experimentation"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">614</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">818b63e8-1ee7-4337-9d42-0254a2794bbd</dc:identifier>
+        <dc:title>Pride and Prejudice</dc:title>
+        <dc:creator opf:file-as="Austen, Jane" opf:role="aut">Jane Austen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Pride and Prejudice is a novel of manners by Jane Austen, first published in 1813. The story follows the main character, Elizabeth Bennet, as she deals with issues of manners, upbringing, morality, education, and marriage in the society of the landed gentry of the British Regency. Elizabeth is the second of five daughters of a country gentleman living near the fictional town of Meryton in Hertfordshire, near London.Page 2 of a letter from Jane Austen to her sister Cassandra (11 June 1799) in which she first mentions Pride and Prejudice, using its working title First Impressions.Set in England in the early 19th century, Pride and Prejudice tells the story of Mr and Mrs Bennet's five unmarried daughters after the rich and eligible Mr Bingley and his status-conscious friend, Mr Darcy, have moved into their neighbourhood. While Bingley takes an immediate liking to the eldest Bennet daughter, Jane, Darcy has difficulty adapting to local society and repeatedly clashes with the second-eldest Bennet daughter, Elizabeth.Though Austen set the story at the turn of the 19th century, it retains a fascination for modern readers, continuing near the top of lists of "most loved books." It has become one of the most popular novels in English literature, selling over 20 million copies, and receives considerable attention from literary scholars. Modern interest in the book has resulted in a number of dramatic adaptations and an abundance of novels and stories imitating Austen's memorable characters or themes. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ignatius Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781586172633</dc:identifier>
+        <dc:identifier opf:scheme="URI">1342</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">55AFYh5XadkC</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0486284735</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Literary Criticism</dc:subject>
+        <dc:subject>Women Authors</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>England -- Fiction</dc:subject>
+        <dc:subject>Young women -- Fiction</dc:subject>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Sisters -- Fiction</dc:subject>
+        <dc:subject>Domestic fiction</dc:subject>
+        <dc:subject>Courtship -- Fiction</dc:subject>
+        <dc:subject>Social classes -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jane Austen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:28+00:00"/>
+        <meta name="calibre:title_sort" content="Pride and Prejudice"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

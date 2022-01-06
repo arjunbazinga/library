@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Cambridge Texts in the History of Political Thought</title>
+  <id>Calibre2opds::serieslistseries:19</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_19_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Cambridge Texts in the History of Political Thought" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series" />
+  <entry>
+    <title>1 - The Ego and His Own: The Case of the Individual Against Authority</title>
+    <id>calibre:book:916</id>
+    <updated>2020-08-09T01:25:14Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Max%20Stirner/The%20Ego%20and%20His%20Own_%20The%20Case%20of%20the%20Individual%20Against%20Authority%20%28916%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Max%20Stirner/The%20Ego%20and%20His%20Own_%20The%20Case%20of%20the%20Individual%20Against%20Authority%20%28916%29/The%20Ego%20and%20His%20Own_%20The%20Case%20of%20the%20Indiv%20-%20Max%20Stirner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Max%20Stirner/The%20Ego%20and%20His%20Own_%20The%20Case%20of%20the%20Individual%20Against%20Authority%20%28916%29/The%20Ego%20and%20His%20Own_%20The%20Case%20of%20the%20Indiv%20-%20Max%20Stirner.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Max Stirner</name>
+      <uri>../author_0/author_726_Page_1.xml</uri>
+    </author>
+    <published>2005-12-15T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Dover Publications</dcterms:publisher>
+    <category term="Anarchism" />
+    <category term="Lang:en" />
+    <category term="Cambridge Texts in the History of Political Thought" />
+    <summary>Cambridge Texts in the History of Political Thought [1]: 
+Credited with influencing the philosophies of Nietzsche and Ayn Rand and the development of libertarianism and existentialism, this prophetic 1844 work challenges the very notion of a common g...</summary>
+    <link href="../book_0/book_916.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">16e39090-5399-4924-998a-8de46ea02eb1</dc:identifier>
+        <dc:title>The Hero Within: Six Archetypes We Live By</dc:title>
+        <dc:creator opf:file-as="Pearson, Carol S." opf:role="aut">Carol S. Pearson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-08-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The Classic Guide, Updated for Our Contemporary World A modern classic of Jungian psychology, &lt;em&gt;The Hero Within&lt;/em&gt; has helped hundreds of thousands of people enrich their lives by revealing how to tap the power of the archetypes that exist within. Drawing from literature, anthropology, and psychology, author Carol S. Pearson clearly defines six heroic archetypes—the Innocent, the Orphan, the Wanderer, the Warrior, the Altruist, and the Magician—and shows how we can use these powerful guides to discover our own hidden gifts, solve difficult problems, and transform our lives with rich sources of inner strength. This book will speak deeply to the evolving hero in all of us and reverberate through every part of our lives. With poignant wisdom and prolific examples, it gives us enduring tools to help us develop our own innate heroic gifts—the Orphan's resilience, the Wanderer's independence, the Warrior's courage, the Altruist's compassion, the Innocent's faith, and the Magician's abiding power. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperOne</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0062515551</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">5QrvngEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780062515551</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Interpersonal Relations</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Carol S. Pearson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2018-03-25T11:57:33+00:00"/>
+        <meta name="calibre:title_sort" content="Hero Within: Six Archetypes We Live By, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1108</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">414792f4-3544-482f-b3bd-da5b0437664d</dc:identifier>
+        <dc:title>Data Analytics; Handbook of Formulas and Techniques</dc:title>
+        <dc:creator opf:file-as="Badiru, Adedeji B." opf:role="aut">Adedeji B. Badiru</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-02T07:44:36+00:00</dc:date>
+        <dc:description>Whoever has the data has the ability to extract information promptly and effectively to make pertinent decisions. The premise of this handbook is to empower users and tool developers with a collection of formulas and techniques for data analytics and to serve as a quick reference to keep pertinent formulas within fingertips of readers.</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Artificial Intelligence</dc:subject>
+        <dc:subject>Quality Control</dc:subject>
+        <dc:subject>Decision Making</dc:subject>
+        <dc:subject>Analysis of Variance</dc:subject>
+        <dc:subject>Time Series Analysis</dc:subject>
+        <dc:subject>Distribution Functions</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Adedeji B. Badiru&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-11-30T18:02:07+00:00"/>
+        <meta name="calibre:title_sort" content="Data Analytics; Handbook of Formulas and Techniques"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

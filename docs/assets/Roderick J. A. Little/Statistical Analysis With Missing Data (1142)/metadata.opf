@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1142</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a3801f3a-c493-45d8-90fe-f2a7ce0a8cc8</dc:identifier>
+        <dc:title>Statistical Analysis With Missing Data</dc:title>
+        <dc:creator opf:file-as="Little, Roderick J. A. &amp; Rubin, Donald B." opf:role="aut">Roderick J. A. Little</dc:creator>
+        <dc:creator opf:file-as="Little, Roderick J. A. &amp; Rubin, Donald B." opf:role="aut">Donald B. Rubin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-08-24T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;* Emphasizes the latest trends in the field. * Includes a new chapter on evolving methods. * Provides updated or revised material in most of the chapters.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781118625880</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">AyVeBAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Probability &amp; Statistics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Bayesian Analysis</dc:subject>
+        <dc:subject>Medical</dc:subject>
+        <dc:subject>Biostatistics</dc:subject>
+        <dc:subject>Stochastic Processes</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Roderick J. A. Little&quot;: &quot;&quot;, &quot;Donald B. Rubin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-14T05:39:37+00:00"/>
+        <meta name="calibre:title_sort" content="Statistical Analysis With Missing Data"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

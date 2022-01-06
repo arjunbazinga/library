@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1733</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5c44f2e-2a0a-4610-88d0-ce7cb70e1a38</dc:identifier>
+        <dc:title>The Basics of Item Response Theory Using R</dc:title>
+        <dc:creator opf:file-as="Frank B. Baker , Seock-Ho Kim" opf:role="aut">Frank B. Baker , Seock-Ho Kim</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-04-25T11:34:22+00:00</dc:date>
+        <dc:description>This graduate-level textbook is a tutorial for item response theory that covers both the basics of item response theory and the use of R for preparing graphical presentation in writings about the theory. Item response theory has become one of the most powerful tools used in test construction, yet one of the barriers to learning and applying it is the considerable amount of sophisticated computational effort required to illustrate even the simplest concepts. This text provides the reader access to the basic concepts of item response theory freed of the tedious underlying calculations. It is intended for those who possess limited knowledge of educational measurement and psychometrics.Rather than presenting the full scope of item response theory, this textbook is concise and practical and presents basic concepts without becoming enmeshed in underlying mathematical and computational complexities. Clearly written text and succinct R code allow anyone familiar with statistical concepts to explore and apply item response theory in a practical way. In addition to students of educational measurement, this text will be valuable to measurement specialists working in testing programs at any level and who need an understanding of item response theory in order to evaluate its potential in their settings.</dc:description>
+        <dc:publisher>Springer</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783319542058</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B0006SBVR2</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">dVi-DgAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Statistics</dc:subject>
+        <dc:subject>Education</dc:subject>
+        <dc:subject>Evaluation &amp; Assessment</dc:subject>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Assessment; Testing &amp; Measurement</dc:subject>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Probability &amp; Statistics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Research</dc:subject>
+        <dc:subject>Testing &amp; Measurement</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frank B. Baker , Seock-Ho Kim&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-09-08T15:53:44+00:00"/>
+        <meta name="calibre:title_sort" content="Basics of Item Response Theory Using R, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">736</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">38919b83-c922-43bb-9973-19280f582668</dc:identifier>
+        <dc:title>Good Economics for Hard Times</dc:title>
+        <dc:creator opf:file-as="Banerjee, Abhijit V. and Duflo, Esther &amp; Duflo, Esther" opf:role="aut">Abhijit V. Banerjee</dc:creator>
+        <dc:creator opf:file-as="Banerjee, Abhijit V. and Duflo, Esther &amp; Duflo, Esther" opf:role="aut">Esther Duflo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-12T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;Two prize-winning economists show how economics, when done right, can help us solve the thorniest social and political problems of our day&lt;/b&gt;&lt;br&gt;The experience of the last decade has not been kind to the image of economists: asleep at the wheel (perhaps with the foot on the gas pedal) in the run-up to the great recession, squabbling about how to get out of it, tone-deaf in discussions of the plight of Greece or the Euro area; they seem to have lost the ability to provide reliable guidance on the great problems of the day.&lt;br&gt;In this ambitious, provocative book Abhijit V. Banerjee and Esther Duflo show how traditional western-centric thinking has failed to explain what is happening to people in a newly globalized world: in short Good Economics has been done badly. This precise but accessible book covers many of the most essential issues of our day&amp;#8212;including migration, unemployment, growth, free trade, political polarization, and welfare. Banerjee and Duflo will confound...</dc:description>
+        <dc:publisher>PublicAffairs</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Abhijit V. Banerjee&quot;: &quot;&quot;, &quot;Esther Duflo&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-03-28T06:02:45.600279+00:00" name="calibre:timestamp"/>
+        <meta content="Good Economics for Hard Times" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

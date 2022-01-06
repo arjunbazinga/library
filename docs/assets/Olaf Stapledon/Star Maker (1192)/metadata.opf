@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1192</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7b618b8b-ca8a-4318-9097-268debee6915</dc:identifier>
+        <dc:title>Star Maker</dc:title>
+        <dc:creator opf:file-as="Stapledon, Olaf" opf:role="aut">Olaf Stapledon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-12-31T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;This bold exploration of the cosmos ventures into intelligent star clusters and mingles among alien races for a memorable vision of infinity. Cited as a key influence by science-fiction masters such as Doris Lessing, this classic has left its mark not only in modern literature but also in the fields of social anthropology and philosophy. Olaf Stapledon's 1937 successor to Last and First Men offers another entrancing speculative history of the future. Its narrator, a contemporary Earthman, joins a community of explorers who travel to the farthest reaches of the universe, seeking traces of intelligence. Along the way, they encounter nautiloid water beings, races of hyperspiders and hyperfish, composite group intelligences, plantlike creatures, and other strange life forms. Their dramatic voyage unfolds against a backdrop of life-and-death struggles on a cosmic scale.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Courier Corporation</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">ZGCmVpuuk9QC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780486466835</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Olaf Stapledon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-01-22T18:19:26+00:00"/>
+        <meta name="calibre:title_sort" content="Star Maker"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

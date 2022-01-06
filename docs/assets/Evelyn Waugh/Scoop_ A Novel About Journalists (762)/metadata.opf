@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">762</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cea46f42-94a5-4d24-a9ab-edd842701d4d</dc:identifier>
+        <dc:title>Scoop: A Novel About Journalists</dc:title>
+        <dc:creator opf:file-as="Waugh, Evelyn" opf:role="aut">Evelyn Waugh</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-05-30T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;One of Evelyn Waugh's most exuberant comedies, Scoop is a brilliantly irreverent satire of Fleet Street and its hectic pursuit of hot news. Lord Copper, newspaper magnate and proprietor of The Daily Beast, has always prided himself on his intuitive flair for spotting ace reporters. That is not to say he has not made the odd blunder, however, and may in a moment of weakness make another. Acting on a dinner party tip from Mrs Algernon Stitch, he feels convinced that he has hit on just the chap to cover a promising little war in the African Republic of Ishmaelia. But for, pale, ineffectual William Boot, editor of the Daily Beast's 'nature notes' column, being mistaken for a competent journalist may prove to be a fatal error...If you enjoyed Scoop, you might like Waugh's Decline and Fall, also available in Penguin Modern Classics.'Waugh at the mid-season point of his perfect pitch'Christopher Hitchens&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin UK</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0316216372</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780141907178</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">JKegzhzqju0C</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Evelyn Waugh&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="1938-04-04T08:09:38+00:00"/>
+        <meta name="calibre:title_sort" content="Scoop: A Novel About Journalists"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

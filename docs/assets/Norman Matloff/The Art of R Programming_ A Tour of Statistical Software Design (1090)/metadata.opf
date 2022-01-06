@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1090</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e2b87b08-0e3b-4780-a718-cc1a91efacd4</dc:identifier>
+        <dc:title>The Art of R Programming: A Tour of Statistical Software Design</dc:title>
+        <dc:creator opf:file-as="Matloff, Norman" opf:role="aut">Norman Matloff</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;R is the world's most popular language for developing statistical software: Archaeologists use it to track the spread of ancient civilizations, drug companies use it to discover which medications are safe and effective, and actuaries use it to assess financial risks and keep economies running smoothly. The Art of R Programming takes you on a guided tour of software development with R, from basic types and data structures to advanced topics like closures, recursion, and anonymous functions. No statistical knowledge is required, and your programming skills can range from hobbyist to pro. Along the way, you'll learn about functional and object-oriented programming, running mathematical simulations, and rearranging complex data into simpler, more useful formats. You'll also learn to:* Create artful graphs to visualize complex data sets and functions * Write more efficient code using parallel R and vectorization * Interface R with C/C++ and Python for increased speed or functionality * Find new R packages for text analysis, image manipulation, and more * Squash annoying bugs with advanced debugging techniques Whether you're designing aircraft, forecasting the weather, or you just need to tame your data, The Art of R Programming is your guide to harnessing the power of statistical computing.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>No Starch Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">o2aLBAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781593273842</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Mathematical &amp; Statistical Software</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Probability &amp; Statistics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Norman Matloff&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-11-25T08:44:07+00:00"/>
+        <meta name="calibre:title_sort" content="Art of R Programming: A Tour of Statistical Software Design, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

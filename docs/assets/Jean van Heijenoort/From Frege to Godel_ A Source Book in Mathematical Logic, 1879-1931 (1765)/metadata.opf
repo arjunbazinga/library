@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1765</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a91996b4-c820-436b-ab72-c542bbd3f1f4</dc:identifier>
+        <dc:title>From Frege to Gödel: A Source Book in Mathematical Logic, 1879-1931</dc:title>
+        <dc:creator opf:file-as="Heijenoort, Jean van" opf:role="aut">Jean van Heijenoort</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-01-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The fundamental texts of the great classical period in modern logic, some of them never before available in English translation, are here gathered together for the first time. Modern logic, heralded by Leibniz, may be said to have been initiated by Boole, De Morgan, and Jevons, but it was the publication in 1879 of Gottlob Frege’s Begriffsschrift that opened a great epoch in the history of logic by presenting, in full-fledged form, the propositional calculus and quantification theory. Frege’s book, translated in its entirety, begins the present volume. The emergence of two new fields, set theory and foundations of mathematics, on the borders of logic, mathematics, and philosophy, is depicted by the texts that follow. Peano and Dedekind illustrate the trend that led to Principia Mathematica. Burali-Forti, Cantor, Russell, Richard, and König mark the appearance of the modern paradoxes. Hilbert, Russell, and Zermelo show various ways of overcoming these paradoxes and initiate, respectively, proof theory, the theory of types, and axiomatic set theory. Skolem generalizes Löwenheim’s theorem, and he and Fraenkel amend Zermelo’s axiomatization of set theory, while von Neumann offers a somewhat different system. The controversy between Hubert and Brouwer during the twenties is presented in papers of theirs and in others by Weyl, Bernays, Ackermann, and Kolmogorov. The volume concludes with papers by Herbrand and by Gödel, including the latter’s famous incompleteness paper. Of the forty-five contributions here collected all but five are presented in extenso. Those not originally written in English have been translated with exemplary care and exactness; the translators are themselves mathematical logicians as well as skilled interpreters of sometimes obscure texts. Each paper is introduced by a note that sets it in perspective, explains its importance, and points out difficulties in interpretation. Editorial comments and footnotes are interpolated where needed, and an extensive bibliography is included.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Harvard University Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780674324497</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">v4tBTBlU05sC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>History &amp; Surveys</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jean van Heijenoort&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-11-05T10:57:41+00:00"/>
+        <meta name="calibre:title_sort" content="From Frege to Gödel: A Source Book in Mathematical Logic, 1879-1931"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

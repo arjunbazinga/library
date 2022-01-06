@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Consuming Passions of Classical Athens</title>
+  <id>Calibre2opds::serieslistseries:9</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_9_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="The Consuming Passions of Classical Athens" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series" />
+  <entry>
+    <title>1 - Courtesans and Fishcakes</title>
+    <id>calibre:book:489</id>
+    <updated>2019-12-07T00:47:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/James%20Davidson/Courtesans%20and%20Fishcakes%20%28489%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/James%20Davidson/Courtesans%20and%20Fishcakes%20%28489%29/Courtesans%20and%20Fishcakes%20-%20James%20Davidson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/James%20Davidson/Courtesans%20and%20Fishcakes%20%28489%29/Courtesans%20and%20Fishcakes%20-%20James%20Davidson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>James Davidson</name>
+      <uri>../author_0/author_230_Page_1.xml</uri>
+    </author>
+    <published>1997-05-24T09:27:34Z</published>
+    <dcterms:publisher>Fontana Press</dcterms:publisher>
+    <category term="Consuming Passions of Classical Athens" />
+    <summary>The Consuming Passions of Classical Athens [1]:</summary>
+    <link href="../book_0/book_489.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

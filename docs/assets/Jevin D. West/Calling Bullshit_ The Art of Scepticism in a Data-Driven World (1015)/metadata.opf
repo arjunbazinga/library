@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1015</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">79f46343-9e2c-4d70-a784-c4190d4a8931</dc:identifier>
+        <dc:title>Calling Bullshit: The Art of Scepticism in a Data-Driven World</dc:title>
+        <dc:creator opf:file-as="West, Jevin D. &amp; Bergstrom, Carl T." opf:role="aut">Jevin D. West</dc:creator>
+        <dc:creator opf:file-as="West, Jevin D. &amp; Bergstrom, Carl T." opf:role="aut">Carl T. Bergstrom</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-03T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;An indispensable handbook to the art of scepticism from two brilliantly contrarian scientists. We think we know bullshit when we hear it, but do we?Politicians are unconstrained by facts. Science is conducted by press release. Start-up culture elevates hype to high art. The world is awash in bullshit, and we're drowning in it. Based on a popular course at the University of Washington, this book gives us the tools to see through the obfuscations, deliberate and careless, that dominate every realm of our lives. In this lively, provocative guide, biologist Carl Bergstrom and information scientist Jevin West show that calling out nonsense is crucial to a properly functioning social group, whether it be a circle of friends, a community of researchers, or the citizens of a nation. Through six rules of thumb, they help us to recognize when numbers are being manipulated, to cut through the crap wherever we encounter it - even within ourselves - and learn how to give the real facts to a crystal-loving friend or climate change denier uncle.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin UK</dc:publisher>
+        <dc:identifier opf:scheme="KOBO">calling-bullshit-2</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780241327258</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">w2jMDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Research &amp; Methodology</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Data Visualization</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Statistics</dc:subject>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Probability &amp; Statistics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Essays</dc:subject>
+        <dc:subject>Reference</dc:subject>
+        <dc:subject>Research</dc:subject>
+        <dc:subject>Language Arts &amp; Disciplines</dc:subject>
+        <dc:subject>Library &amp; Information Science</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jevin D. West&quot;: &quot;&quot;, &quot;Carl T. Bergstrom&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-09-29T20:16:18+00:00"/>
+        <meta name="calibre:title_sort" content="Calling Bullshit: The Art of Scepticism in a Data-Driven World"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

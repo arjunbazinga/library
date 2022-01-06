@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">810</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5ff7192d-331c-4256-9722-8bece21e3a9d</dc:identifier>
+        <dc:title>Chaos : Charles Manson, the CIA, and the Secret History of the Sixties (9780316529211)</dc:title>
+        <dc:creator opf:file-as="O’Neill, Tom &amp; Piepenbring, Dan" opf:role="aut">O'Neill, Tom; Piepenbring, Dan (CON)</dc:creator>
+        <dc:creator opf:file-as="O’Neill, Tom &amp; Piepenbring, Dan" opf:role="aut">Dan Piepenbring</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-25T00:00:00+00:00</dc:date>
+        <dc:publisher>Hachette Book Group USA</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;O'Neill, Tom; Piepenbring, Dan (CON)&quot;: &quot;&quot;, &quot;Dan Piepenbring&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-06-06T10:13:42.590720+00:00" name="calibre:timestamp"/>
+        <meta content="Chaos : Charles Manson, the CIA, and the Secret History of the Sixties (9780316529211)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

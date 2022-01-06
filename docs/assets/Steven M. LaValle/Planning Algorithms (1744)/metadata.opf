@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1744</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">74b5f3c3-7fdc-401c-9b1e-19ac03030a3c</dc:identifier>
+        <dc:title>Planning Algorithms</dc:title>
+        <dc:creator opf:file-as="LaValle, Steven M." opf:role="aut">Steven M. LaValle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-05-29T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Planning algorithms are impacting technical disciplines and industries around the world, including robotics, computer-aided design, manufacturing, computer graphics, aerospace applications, drug design, and protein folding. This coherent and comprehensive book unifies material from several sources, including robotics, control theory, artificial intelligence, and algorithms. The treatment is centered on robot motion planning, but integrates material on planning in discrete spaces. A major part of the book is devoted to planning under uncertainty, including decision theory, Markov decision processes, and information spaces, which are the 'configuration spaces' of all sensor-based planning problems. The last part of the book delves into planning under differential constraints that arise when automating the motions of virtually any mechanical system. This text and reference is intended for students, engineers, and researchers in robotics, artificial intelligence, and control theory as well as computer graphics, algorithms, and computational biology.
+**&lt;/p&gt;</dc:description>
+        <dc:publisher>Cambridge University Press</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B00INYGAI6</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">-PwLBAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781139455176</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Graphics Tools</dc:subject>
+        <dc:subject>Software Development &amp; Engineering</dc:subject>
+        <dc:subject>Computer Sciences</dc:subject>
+        <dc:subject>Systems Analysis &amp; Design</dc:subject>
+        <dc:subject>Design; Graphics &amp; Media</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Algorithms</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Steven M. LaValle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-11-05T10:57:33+00:00"/>
+        <meta name="calibre:title_sort" content="Planning Algorithms"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

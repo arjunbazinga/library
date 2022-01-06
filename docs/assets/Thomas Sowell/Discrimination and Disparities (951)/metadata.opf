@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">951</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b56c436f-b65e-4a2b-90d4-ecfd21dca680</dc:identifier>
+        <dc:title>Discrimination and Disparities</dc:title>
+        <dc:creator opf:file-as="Sowell, Thomas" opf:role="aut">Thomas Sowell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-03-19T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;An empirical examination of how economic and other disparities arise&lt;/strong&gt; &lt;em&gt;&lt;br&gt;&lt;/em&gt;Economic and other outcomes differ vastly among individuals, groups, and nations. Many explanations have been offered for the differences. Some believe that those with less fortunate outcomes are victims of genetics. Others believe that those who are less fortunate are victims of the more fortunate. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Discrimination and Disparities&lt;/em&gt; gathers a wide array of empirical evidence from to challenge the idea that different economic outcomes can be explained by any one factor, be it discrimination, exploitation or genetics. &lt;/p&gt;
+&lt;p&gt;It is readable enough for people with no prior knowledge of economics. Yet the empirical evidence with which it backs up its analysis spans the globe and challenges beliefs across the ideological spectrum. &lt;/p&gt;
+&lt;p&gt;The point of &lt;em&gt;Discrimination and Disparities&lt;/em&gt; is not to recommend some particular policy "fix" at the end, but to clarify why so many policy fixes have turned out to be counterproductive, and to expose some seemingly invincible fallacies--behind many counterproductive policies. &lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Basic Books</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">154164560X</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">w_ihDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781541617834</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07V7VM9WB</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Free Enterprise &amp; Capitalism</dc:subject>
+        <dc:subject>Economics</dc:subject>
+        <dc:subject>Theory</dc:subject>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>Political Economy</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Discrimination &amp; Race Relations</dc:subject>
+        <dc:subject>Political Ideologies</dc:subject>
+        <dc:subject>Conservatism &amp; Liberalism</dc:subject>
+        <dc:subject>Development</dc:subject>
+        <dc:subject>Economic Development</dc:subject>
+        <dc:subject>Economic Conditions</dc:subject>
+        <dc:subject>Economic History</dc:subject>
+        <dc:subject>Comparative</dc:subject>
+        <dc:subject>Macroeconomics</dc:subject>
+        <dc:subject>Microeconomics</dc:subject>
+        <dc:subject>International</dc:subject>
+        <dc:subject>Real Estate</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas Sowell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-08-25T21:50:41+00:00"/>
+        <meta name="calibre:title_sort" content="Discrimination and Disparities"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

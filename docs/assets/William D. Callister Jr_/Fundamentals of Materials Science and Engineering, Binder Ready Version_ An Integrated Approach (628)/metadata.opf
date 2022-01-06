@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">628</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">67ed5727-b26d-418f-abba-b81d9b28e86a</dc:identifier>
+        <dc:title>Fundamentals of Materials Science and Engineering, Binder Ready Version: An Integrated Approach</dc:title>
+        <dc:creator opf:file-as="Callister, William D. Jr. &amp; Rethwisch, David G." opf:role="aut">William D. Callister Jr.</dc:creator>
+        <dc:creator opf:file-as="Callister, William D. Jr. &amp; Rethwisch, David G." opf:role="aut">David G. Rethwisch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-12-13T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;***This text is an unbound, three hole punched version. &lt;/p&gt;
+&lt;p&gt;Fundamentals of Materials Science and Engineering: An Integrated Approach, Binder Ready Version, 5th Edition &lt;strong&gt;*takes an integrated approach to the sequence of topics – one specific structure, characteristic, or property type is covered in turn for all three basic material types: metals, ceramics, and polymeric materials. This presentation permits the early introduction of non-metals and supports the engineer's role in choosing materials based upon their characteristics. Using clear, concise terminology that is familiar to students, Fundamentals presents material at an appropriate level for both student comprehension and instructors who may not have a materials background. This text is an unbound, three hole punched version. Access to WileyPLUS sold separately. &lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781119175483</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1119175488</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>materials science physics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William D. Callister Jr.&quot;: &quot;&quot;, &quot;David G. Rethwisch&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:31+00:00"/>
+        <meta name="calibre:title_sort" content="Fundamentals of Materials Science and Engineering, Binder Ready Version: An Integrated Approach"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

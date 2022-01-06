@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1764</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1b97eaac-fc61-45ff-8079-d5b87e9e4e76</dc:identifier>
+        <dc:title>Blue Ocean Strategy, Expanded Edition: How to Create Uncontested Market Space and Make the Competition Irrelevant</dc:title>
+        <dc:creator opf:file-as="Kim, W. Chan &amp; Mauborgne, Renee" opf:role="aut">W. Chan Kim</dc:creator>
+        <dc:creator opf:file-as="Kim, W. Chan &amp; Mauborgne, Renee" opf:role="aut">Renee Mauborgne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-01-19T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The global phenomenon that has sold 3.5 million copies, is published in a record-breaking 43 languages and is a bestseller across five continents—now updated and expanded with new content. This global bestseller, embraced by organizations and industries worldwide, challenges everything you thought you knew about the requirements for strategic success. Now updated with fresh content from the authors, Blue Ocean Strategy argues that cutthroat competition results in nothing but a bloody red ocean of rivals fighting over a shrinking profit pool. Based on a study of 150 strategic moves (spanning more than 100 years across 30 industries), the authors argue that lasting success comes not from battling competitors but from creating “blue oceans”—untapped new market spaces ripe for growth. Blue Ocean Strategy presents a systematic approach to making the competition irrelevant and outlines principles and tools any organization can use to create and capture their own blue oceans. This expanded edition includes:• A new preface by the authors: Help! My Ocean Is Turning Red• Updates on all cases and examples in the book, bringing their stories up to the present time• Two new chapters and an expanded third one—Alignment, Renewal, and Red Ocean Traps—that address the most pressing questions readers have asked over the past 10 yearsA landmark work that upends traditional thinking about strategy, this bestselling book charts a bold new path to winning the future. Consider this your guide to creating uncontested market space—and making the competition irrelevant.To learn more about the power of blue ocean strategy, visit blueoceanstrategy.com. There you’ll find all the resources you need—from ideas in practice and cases from government and private industry, to teaching materials, mobile apps, real-time updates, and tips and tools to help you make your blue ocean journey a success.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Harvard Business Review Press</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00O4CRR7Y</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">z6-RBQAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781625274496</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Management</dc:subject>
+        <dc:subject>Strategic Planning</dc:subject>
+        <dc:subject>Development</dc:subject>
+        <dc:subject>Business Development</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. Chan Kim&quot;: &quot;&quot;, &quot;Renee Mauborgne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-11-05T10:57:40+00:00"/>
+        <meta name="calibre:title_sort" content="Blue Ocean Strategy, Expanded Edition: How to Create Uncontested Market Space and Make the Competition Irrelevant"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

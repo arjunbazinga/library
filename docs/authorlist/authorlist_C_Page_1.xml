@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Authors starting with C</title>
+  <id>Calibre2opds:authorlist:C</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Authors starting with C" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>Clarence Brown</title>
+    <id>Calibre2opds:author:784</id>
+    <content type="text">We</content>
+    <link href="../author_0/author_784_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>CFA Institute</title>
+    <id>Calibre2opds:author:521</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_521_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Cass R. Sunstein, Adrian Vermeule</title>
+    <id>Calibre2opds:author:643</id>
+    <content type="text">Conspiracy Theories</content>
+    <link href="../author_0/author_643_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Charles T. Munger, Peter D. Kaufman</title>
+    <id>Calibre2opds:author:38</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_38_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Chelsea Fagan, Lauren Ver Hage</title>
+    <id>Calibre2opds:author:508</id>
+    <content type="text">The Financial Diet</content>
+    <link href="../author_0/author_508_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Chenglong Wang, Kedar Tatwawadi, Marc Brockschmidt, Po-Sen Huang, Yi Mao, Oleksandr Polozov, Rishabh Singh</title>
+    <id>Calibre2opds:author:387</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_387_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Chomei</title>
+    <id>Calibre2opds:author:148</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_148_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Chris A. Mattmann, Jukka L. Zitting</title>
+    <id>Calibre2opds:author:672</id>
+    <content type="text">Tika in Action</content>
+    <link href="../author_0/author_672_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Christopher Alexander, Murray Silverstein, Sara Ishikawa</title>
+    <id>Calibre2opds:author:270</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_270_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Christopher Ryan, Cacilda Jetha</title>
+    <id>Calibre2opds:author:486</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_486_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Claire Kehrwald Cook</title>
+    <id>Calibre2opds:author:630</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_630_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Courtney Bowman, Ari Gesher, John K. Grant, Daniel Slate</title>
+    <id>Calibre2opds:author:731</id>
+    <content type="text">The Architecture of Privacy</content>
+    <link href="../author_0/author_731_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Chuck Darwin</title>
+    <id>Calibre2opds:author:386</id>
+    <content type="text">Body Of Secrets</content>
+    <link href="../author_0/author_386_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Charles Ebeling</title>
+    <id>Calibre2opds:author:502</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_502_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Collaborative Fund</title>
+    <id>Calibre2opds:author:729</id>
+    <content type="text">The Psychology of Money</content>
+    <link href="../author_0/author_729_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Chris Guillebeau</title>
+    <id>Calibre2opds:author:358</id>
+    <content type="text">Side Hustle</content>
+    <link href="../author_0/author_358_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Chris Harman</title>
+    <id>Calibre2opds:author:458</id>
+    <content type="text">2 books</content>
+    <link href="../author_0/author_458_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Celeste Headlee</title>
+    <id>Calibre2opds:author:273</id>
+    <content type="text">We Need to Talk</content>
+    <link href="../author_0/author_273_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Chip Heath</title>
+    <id>Calibre2opds:author:411</id>
+    <content type="text">Made to Stick</content>
+    <link href="../author_0/author_411_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>C. A. R. Hoare</title>
+    <id>Calibre2opds:author:749</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_749_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Cresson Kearny</title>
+    <id>Calibre2opds:author:571</id>
+    <content type="text">Nuclear War Survival Skills</content>
+    <link href="../author_0/author_571_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Charles G. Koch</title>
+    <id>Calibre2opds:author:601</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_601_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Cynthia Kuhn</title>
+    <id>Calibre2opds:author:742</id>
+    <content type="text">Buzzed</content>
+    <link href="../author_0/author_742_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Christopher Leonard</title>
+    <id>Calibre2opds:author:577</id>
+    <content type="text">Kochland</content>
+    <link href="../author_0/author_577_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Cixin Liu</title>
+    <id>Calibre2opds:author:3</id>
+    <content type="text">The Three-Body Problem</content>
+    <link href="../author_0/author_3_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Cal Newport</title>
+    <id>Calibre2opds:author:197</id>
+    <content type="text">2 books</content>
+    <link href="../author_0/author_197_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Cathy O'Neil</title>
+    <id>Calibre2opds:author:44</id>
+    <content type="text">Weapons of Math Destruction</content>
+    <link href="../author_0/author_44_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Carol S. Pearson</title>
+    <id>Calibre2opds:author:246</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_246_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>C. K. Prahalad</title>
+    <id>Calibre2opds:author:229</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_229_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Clotaire Rapaille</title>
+    <id>Calibre2opds:author:414</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_414_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Christian Rudder</title>
+    <id>Calibre2opds:author:442</id>
+    <content type="text">Dataclysm</content>
+    <link href="../author_0/author_442_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Clifford Stein</title>
+    <id>Calibre2opds:author:304</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_304_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Chade-Meng Tan</title>
+    <id>Calibre2opds:author:52</id>
+    <content type="text">Joy on Demand</content>
+    <link href="../author_0/author_52_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Carol Tavris</title>
+    <id>Calibre2opds:author:288</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_288_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Clive Thompson</title>
+    <id>Calibre2opds:author:337</id>
+    <content type="text">Coders</content>
+    <link href="../author_0/author_337_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Charles Wheelan</title>
+    <id>Calibre2opds:author:49</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_49_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+</feed>

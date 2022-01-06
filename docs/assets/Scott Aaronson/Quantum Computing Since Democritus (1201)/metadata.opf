@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1201</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7c67a8c0-06b5-4d61-8481-f6e164f0b367</dc:identifier>
+        <dc:title>Quantum Computing Since Democritus</dc:title>
+        <dc:creator opf:file-as="Aaronson, Scott" opf:role="aut">Scott Aaronson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-03-13T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Written by noted quantum computing theorist Scott Aaronson, this book takes readers on a tour through some of the deepest ideas of maths, computer science and physics. Full of insights, arguments and philosophical perspectives, the book covers an amazing array of topics. Beginning in antiquity with Democritus, it progresses through logic and set theory, computability and complexity theory, quantum computing, cryptography, the information content of quantum states and the interpretation of quantum mechanics. There are also extended discussions about time travel, Newcomb's Paradox, the anthropic principle and the views of Roger Penrose. Aaronson's informal style makes this fascinating book accessible to readers with scientific backgrounds, as well as students and researchers working in physics, computer science, mathematics and philosophy. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Cambridge University Press</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00B4V6IZK</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780521199568</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">jRGfhSoFx0oC</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0521199565</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Physics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Quantum Theory</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Scott Aaronson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-01-22T18:29:29+00:00"/>
+        <meta name="calibre:title_sort" content="Quantum Computing Since Democritus"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

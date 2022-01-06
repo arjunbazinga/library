@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with Z</title>
+  <id>Calibre2opds:allbooks:Z</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_Z_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with Z" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>Zen and the art of motorcycle maintenance</title>
+    <id>calibre:book:734</id>
+    <updated>2020-03-28T07:41:46Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20M.%20Pirsig/Zen%20and%20the%20art%20of%20motorcycle%20maintenance%20%28734%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20M.%20Pirsig/Zen%20and%20the%20art%20of%20motorcycle%20maintenance%20%28734%29/Zen%20and%20the%20art%20of%20motorcycle%20maintenance%20-%20Robert%20M.%20Pirsig.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20M.%20Pirsig/Zen%20and%20the%20art%20of%20motorcycle%20maintenance%20%28734%29/Zen%20and%20the%20art%20of%20motorcycle%20maintenance%20-%20Robert%20M.%20Pirsig.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Robert M. Pirsig</name>
+      <uri>../author_0/author_459_Page_1.xml</uri>
+    </author>
+    <published>1984-08-12T06:30:00Z</published>
+    <dcterms:publisher>Bantam Books</dcterms:publisher>
+    <summary>quot;The study of the art of motorcycle maintainence is really a study of the art of rationality itself. Working on a motorcycle, working well, caring, is to become part of a process, to achieve an inner peace of mind. The motorcycle is primarily a m...</summary>
+    <link href="../book_0/book_734.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Zero To Traction</title>
+    <id>calibre:book:891</id>
+    <updated>2020-08-09T00:59:03Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Andrew%20Chen/Zero%20To%20Traction%20%28891%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Andrew%20Chen/Zero%20To%20Traction%20%28891%29/Zero%20To%20Traction%20-%20Andrew%20Chen.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Andrew Chen</name>
+      <uri>../author_0/author_690_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_891.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Zersetzung : Germany Psychological manipuation</title>
+    <id>calibre:book:829</id>
+    <updated>2020-07-09T01:07:54Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Wikipedia/Zersetzung%20_%20Germany%20Psychological%20manipuation%20%28829%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Wikipedia/Zersetzung%20_%20Germany%20Psychological%20manipuation%20%28829%29/Zersetzung%20_%20Germany%20Psychological%20manipua%20-%20Wikipedia.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Wikipedia</name>
+      <uri>../author_0/author_498_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Wikipedia</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_829.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

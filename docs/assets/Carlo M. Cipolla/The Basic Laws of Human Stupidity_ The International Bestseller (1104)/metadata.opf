@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1104</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cd90c7cb-c20b-4535-aee8-5d7c28a78c86</dc:identifier>
+        <dc:title>The Basic Laws of Human Stupidity: The International Bestseller</dc:title>
+        <dc:creator opf:file-as="Cipolla, Carlo M." opf:role="aut">Carlo M. Cipolla</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-23T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;Sort the intelligent from the stupid, and the helpless from the bandits ahead of the 2019 general election.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;'A classic' - Simon Kuper,&lt;i&gt; Financial Times&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;'This is brilliant' - James O'Brien, author of &lt;i&gt;How to be Right&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;The five laws that confirm our worst fears: stupid people can and do rule the world.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Since time immemorial, a powerful dark force has hindered the growth of human welfare and happiness. It is more powerful than the Mafia or the military. It has global catastrophic effects and can be found anywhere from the world's most powerful boardrooms to your local pub. This is the immensely powerful force of human stupidity.&lt;/p&gt;&lt;p&gt;Seeing the shambolic state of human affairs, and sensing the dark force at work behind it, Carlo M. Cipolla, the late, noted professor of economic history at the University of California, Berkeley, created a vitally important economic model that would allow us to detect, know and...</dc:description>
+        <dc:publisher>Random House</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780753554852</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">ojOpDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Consumer Behavior</dc:subject>
+        <dc:subject>Organizational Behavior</dc:subject>
+        <dc:subject>Economic History</dc:subject>
+        <dc:subject>Humor</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Political Science</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Carlo M. Cipolla&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-11-30T18:02:07+00:00"/>
+        <meta name="calibre:title_sort" content="Basic Laws of Human Stupidity: The International Bestseller, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

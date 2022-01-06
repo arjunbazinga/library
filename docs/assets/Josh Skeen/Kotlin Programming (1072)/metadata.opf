@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1072</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">127f7b2d-ee5c-4c5b-a2a4-77d6acfddb1b</dc:identifier>
+        <dc:title>Kotlin Programming</dc:title>
+        <dc:creator opf:file-as="Skeen, Josh" opf:role="aut">Josh Skeen</dc:creator>
+        <dc:creator opf:file-as="Skeen, Josh" opf:role="aut">David Greenhalgh</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-06-14T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Kotlin is a statically typed programming language designed to interoperate with Java and fully supported by Google on the Android operating system. &lt;/p&gt; &lt;p&gt; &lt;br&gt; &lt;/p&gt; &lt;p&gt;Based on Big Nerd Ranch's popular Kotlin Essentials course, this guide shows you how to work effectively with the Kotlin programming language through hands-on examples and clear explanations of key Kotlin concepts and foundational APIs. Written for Kotlin 1.2, this book will also introduce you to JetBrains' IntelliJ IDEA development environment.&lt;/p&gt; &lt;p&gt; &lt;br&gt; &lt;/p&gt; &lt;p&gt;Whether you are an experienced Android developer looking for modern features beyond what Java offers or a new developer ready to learn your first programming language, the authors will guide you from first principles to advanced usage of Kotlin. By the end of this book, you will be empowered to create reliable, concise applications in Kotlin.&lt;/p&gt;</dc:description>
+        <dc:publisher>Pearson Education</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780135162361</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Big Nerd Ranch Guides</dc:subject>
+        <dc:subject>COM051010</dc:subject>
+        <dc:subject>Kotlin Programming</dc:subject>
+        <dc:subject>Android Programming</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Josh Skeen&quot;: &quot;&quot;, &quot;David Greenhalgh&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-11-09T19:36:24+00:00"/>
+        <meta name="calibre:title_sort" content="Kotlin Programming"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

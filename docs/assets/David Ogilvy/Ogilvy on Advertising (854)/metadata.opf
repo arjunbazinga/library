@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">854</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f14c1171-dea2-4a73-b455-2ae65b498d85</dc:identifier>
+        <dc:title>Ogilvy on Advertising</dc:title>
+        <dc:creator opf:file-as="Ogilvy, David" opf:role="aut">David Ogilvy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-09-10T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;em&gt;A candid and indispensable primer on all aspects of advertising from the man Time&lt;/em&gt; has called "the most sought after wizard in the business." &lt;/p&gt;
+&lt;p&gt;**Told with brutal candor and prodigal generosity, David Ogilvy reveals: &lt;/p&gt;
+&lt;p&gt;• How to get a job in advertising&lt;br&gt;• How to choose an agency for your product&lt;br&gt;• The secrets behind advertising that &lt;em&gt;works&lt;/em&gt;&lt;br&gt;• How to write successful copy—and get people to read it&lt;br&gt;• Eighteen miracles of research&lt;br&gt;• What advertising can do for charities &lt;/p&gt;
+&lt;p&gt;And much, much more. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Knopf Doubleday Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">039472903X</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">hVFwAAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780804170055</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Media Studies</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Advertising &amp; Promotion</dc:subject>
+        <dc:subject>Design</dc:subject>
+        <dc:subject>Graphic Arts</dc:subject>
+        <dc:subject>Advertising</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;David Ogilvy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-07-09T07:37:32+00:00"/>
+        <meta name="calibre:title_sort" content="Ogilvy on Advertising"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

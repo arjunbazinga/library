@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1138</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b630a85a-8bd9-4d45-b1ea-617bdf3b29f0</dc:identifier>
+        <dc:title>The Doomsday Machine: Confessions of a Nuclear War Planner</dc:title>
+        <dc:creator opf:file-as="Ellsberg, Daniel" opf:role="aut">Daniel Ellsberg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-12-04T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Shortlisted for the Andrew Carnegie Medal for Excellence in NonfictionFinalist for The California Book Award in NonfictionThe San Francisco Chronicle's Best of the Year ListForeign Affairs Best Books of the Year In These Times “Best Books of the Year"Huffington Post's Ten Excellent December Books List LitHub's “Five Books Making News This Week”From the legendary whistle-blower who revealed the Pentagon Papers, an eyewitness exposé of the dangers of America's Top Secret, seventy-year-long nuclear policy that continues to this day. Here, for the first time, former high-level defense analyst Daniel Ellsberg reveals his shocking firsthand account of America's nuclear program in the 1960s. From the remotest air bases in the Pacific Command, where he discovered that the authority to initiate use of nuclear weapons was widely delegated, to the secret plans for general nuclear war under Eisenhower, which, if executed, would cause the near-extinction of humanity, Ellsberg shows that the legacy of this most dangerous arms buildup in the history of civilization--and its proposed renewal under the Trump administration--threatens our very survival. No other insider with high-level access has written so candidly of the nuclear strategy of the late Eisenhower and early Kennedy years, and nothing has fundamentally changed since that era.Framed as a memoir--a chronicle of madness in which Ellsberg acknowledges participating--this gripping exposé reads like a thriller and offers feasible steps we can take to dismantle the existing "doomsday machine" and avoid nuclear catastrophe, returning Ellsberg to his role as whistle-blower. The Doomsday Machine is thus a real-life Dr. Strangelove story and an ultimately hopeful--and powerfully important--book about not just our country, but the future of the world.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Bloomsbury Publishing USA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781608196746</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">I3gvDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B074HZMN71</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>International Relations</dc:subject>
+        <dc:subject>Arms Control</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Military</dc:subject>
+        <dc:subject>Nuclear Warfare</dc:subject>
+        <dc:subject>Weapons</dc:subject>
+        <dc:subject>Modern</dc:subject>
+        <dc:subject>20th Century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Daniel Ellsberg&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-14T05:39:37+00:00"/>
+        <meta name="calibre:title_sort" content="Doomsday Machine: Confessions of a Nuclear War Planner, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

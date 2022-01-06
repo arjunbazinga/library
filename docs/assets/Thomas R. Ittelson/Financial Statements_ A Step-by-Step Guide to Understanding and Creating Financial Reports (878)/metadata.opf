@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">878</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">adade766-a51a-49b4-b3e6-684d6c0632d8</dc:identifier>
+        <dc:title>Financial Statements: A Step-by-Step Guide to Understanding and Creating Financial Reports</dc:title>
+        <dc:creator opf:file-as="Ittelson, Thomas R." opf:role="aut">Thomas R. Ittelson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-14T18:30:00+00:00</dc:date>
+        <dc:publisher>Career Press</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B004GGU342</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas R. Ittelson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-07-26T13:52:40+00:00"/>
+        <meta name="calibre:title_sort" content="Financial Statements: A Step-by-Step Guide to Understanding and Creating Financial Reports"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

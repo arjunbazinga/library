@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">814</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2821475a-cdd7-45a9-82a5-800df3426b70</dc:identifier>
+        <dc:title>Introduction to Statistical Inference</dc:title>
+        <dc:creator opf:file-as="Kiefer, Jack C. &amp; Lorden, Gary" opf:role="aut">Jack C. Kiefer</dc:creator>
+        <dc:creator opf:file-as="Kiefer, Jack C. &amp; Lorden, Gary" opf:role="aut">Gary Lorden</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-15T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;This book is based upon lecture notes developed by Jack Kiefer for a course in statistical inference he taught at Cornell University. The notes were distributed to the class in lieu of a textbook, and the problems were used for homework assignments. Relying only on modest prerequisites of probability theory and cal­ culus, Kiefer's approach to a first course in statistics is to present the central ideas of the modem mathematical theory with a minimum of fuss and formality. He is able to do this by using a rich mixture of examples, pictures, and math­ ematical derivations to complement a clear and logical discussion of the important ideas in plain English. The straightforwardness of Kiefer's presentation is remarkable in view of the sophistication and depth of his examination of the major theme: How should an intelligent person formulate a statistical problem and choose a statistical procedure to apply to it? Kiefer's view, in the same spirit as Neyman and Wald, is that one should try to assess the consequences of a statistical choice in some quan­ titative (frequentist) formulation and ought to choose a course of action that is verifiably optimal (or nearly so) without regard to the perceived "attractiveness" of certain dogmas and methods. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Springer</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1461395801</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781461395805</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Jack C. Kiefer&quot;: &quot;&quot;, &quot;Gary Lorden&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Springer Texts in Statistics"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-06-14T13:09:53+00:00"/>
+        <meta name="calibre:title_sort" content="Introduction to Statistical Inference"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

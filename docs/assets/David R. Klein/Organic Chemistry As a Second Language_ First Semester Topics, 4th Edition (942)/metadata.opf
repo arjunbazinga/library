@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">942</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d45cec44-9ec4-440d-b39d-acc8a6987207</dc:identifier>
+        <dc:title>Organic Chemistry As a Second Language: First Semester Topics, 4th Edition</dc:title>
+        <dc:creator opf:file-as="Klein, David R." opf:role="aut">David R. Klein</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-06-08T19:43:46+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;David R. Klein&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-08-21T08:16:08+00:00"/>
+        <meta name="calibre:title_sort" content="Organic Chemistry As a Second Language: First Semester Topics, 4th Edition"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

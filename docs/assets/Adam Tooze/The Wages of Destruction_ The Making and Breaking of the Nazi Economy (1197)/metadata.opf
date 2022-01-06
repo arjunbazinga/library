@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1197</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6543ab14-4762-41f3-b6fb-9ae1b0eda772</dc:identifier>
+        <dc:title>The Wages of Destruction: The Making and Breaking of the Nazi Economy</dc:title>
+        <dc:creator opf:file-as="Tooze, Adam" opf:role="aut">Adam Tooze</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-26T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;An extraordinary mythology has grown up around the Third Reich that hovers over political and moral debate even today. Adam Tooze's controversial new book challenges the conventional economic interpretations of that period to explore how Hitler's surprisingly prescient vision- ultimately hindered by Germany's limited resources and his own racial ideology-was to create a German super-state to dominate Europe and compete with what he saw as America's overwhelming power in a soon-to- be globalized world. &lt;em&gt;The Wages of Destruction&lt;/em&gt; is a chilling work of originality and tremendous scholarship that is already setting off debate in Germany and will fundamentally change the way in which history views the Second World War.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;</dc:description>
+        <dc:publisher>Penguin</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">-h_Z_KK0MQUC</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0143113208</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B008DR6YXO</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780143113201</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Germany</dc:subject>
+        <dc:subject>Military</dc:subject>
+        <dc:subject>World War II</dc:subject>
+        <dc:subject>Modern</dc:subject>
+        <dc:subject>20th Century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Adam Tooze&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-01-22T18:19:28+00:00"/>
+        <meta name="calibre:title_sort" content="Wages of Destruction: The Making and Breaking of the Nazi Economy, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

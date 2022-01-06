@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">730</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">469d93f6-dac8-4111-86e1-a4f75f98632e</dc:identifier>
+        <dc:title>A People's History of the World: From the Stone Age to the New Millennium</dc:title>
+        <dc:creator opf:file-as="Harman, Chris" opf:role="aut">Harman, Chris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-04-16T22:00:00+00:00</dc:date>
+        <dc:publisher>Verso Books</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0015DTWC8</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Harman, Chris&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:44+00:00"/>
+        <meta name="calibre:title_sort" content="People's History of the World: From the Stone Age to the New Millennium, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1239</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e6c9445a-44b8-4f56-a1cf-c6ef74ca1e77</dc:identifier>
+        <dc:title>Drug Use for Grown-Ups</dc:title>
+        <dc:creator opf:file-as="Hart, Carl L." opf:role="aut">Dr. Carl L. Hart</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-12T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;From one of the world's foremost experts on the effects of recreational drugs on the mind and body, a powerful argument that the greatest dangers from drugs flow from their being illegal, and a testament to how they can be part of a responsible and happy life.&lt;/b&gt;&lt;br&gt;Dr. Carl Hart, Ziff Professor at Columbia University and former Chair of the Department of Psychology, is one of the world's preeminent experts on the effects of so-called recreational drugs on the human mind and body. Dr. Hart also is open about the fact that he uses drugs himself, in a happy balance with the rest of his full and productive life as a colleague, husband, father and friend. In &lt;i&gt;Drug Use for Grown-Ups&lt;/i&gt;, he draws on both decades of research and his own personal experience to argue definitively that the criminalization and demonization of drug use is itself far and away the greatest scourge drugs inflict on America.&lt;br&gt;Carl Hart did not always have this view, to put it mildly. He came of age in...</dc:description>
+        <dc:publisher>Penguin Publishing Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Dr. Carl L. Hart&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-06-15T19:20:25+00:00"/>
+        <meta name="calibre:title_sort" content="Drug Use for Grown-Ups"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

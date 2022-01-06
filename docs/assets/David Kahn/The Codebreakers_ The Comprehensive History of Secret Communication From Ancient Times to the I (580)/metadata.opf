@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">580</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ff47432f-1b13-4071-b3e4-ee1345096ee0</dc:identifier>
+        <dc:title>The Codebreakers: The Comprehensive History of Secret Communication From Ancient Times to the Internet</dc:title>
+        <dc:creator opf:file-as="Kahn, David" opf:role="aut">David Kahn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-12-04T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The magnificent, unrivaled history of codes and ciphers—how they're made, how they're broken, and the many and fascinating roles they've played since the dawn of civilization in war, business, diplomacy, and espionage—updated with a new chapter on computer cryptography and the Ultra secret. &lt;/p&gt;
+&lt;p&gt;Man has created codes to keep secrets and has broken codes to learn those secrets since the time of the Pharaohs. For 4,000 years, fierce battles have been waged between codemakers and codebreakers, and the story of these battles is civilization's secret history, the hidden account of how wars were won and lost, diplomatic intrigues foiled, business secrets stolen, governments ruined, computers hacked. From the XYZ Affair to the Dreyfus Affair, from the Gallic War to the Persian Gulf, from Druidic runes and the kaballah to outer space, from the Zimmermann telegram to Enigma to the Manhattan Project, codebreaking has shaped the course of human events to an extent beyond any easy reckoning. Once a government monopoly, cryptology today touches everybody. It secures the Internet, keeps e-mail private, maintains the integrity of cash machine transactions, and scrambles TV signals on unpaid-for channels. David Kahn's &lt;em&gt;The Codebreakers&lt;/em&gt; takes the measure of what codes and codebreaking have meant in human history in a single comprehensive account, astonishing in its scope and enthralling in its execution. Hailed upon first publication as a book likely to become the definitive work of its kind, &lt;em&gt;The Codebreakers&lt;/em&gt; has more than lived up to that prediction: it remains unsurpassed. With a brilliant new chapter that makes use of previously classified documents to bring the book thoroughly up to date, and to explore the myriad ways computer codes and their hackers are changing all of our lives, &lt;em&gt;The Codebreakers&lt;/em&gt; is the skeleton key to a thousand thrilling true stories of intrigue, mystery, and adventure. It is a masterpiece of the historian's art. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Scribner</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">3S8rhOEmDIIC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780684831305</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0684831309</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>History</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Military</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;David Kahn&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2019-06-02T04:21:53+00:00"/>
+        <meta name="calibre:title_sort" content="Codebreakers: The Comprehensive History of Secret Communication From Ancient Times to the Internet, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

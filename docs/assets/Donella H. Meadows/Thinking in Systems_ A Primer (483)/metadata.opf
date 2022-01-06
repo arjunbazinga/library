@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">483</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">10dada22-ec5c-4fbe-b22b-8b312547575a</dc:identifier>
+        <dc:title>Thinking in Systems: A Primer</dc:title>
+        <dc:creator opf:file-as="Meadows, Donella H. &amp; Wright, Diana" opf:role="aut">Donella H. Meadows</dc:creator>
+        <dc:creator opf:file-as="Meadows, Donella H. &amp; Wright, Diana" opf:role="aut">Diana Wright</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-09-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;In the years following her role as the lead author of the international bestseller, Limits to Growth—the first book to show the consequences of unchecked growth on a finite planet— Donella Meadows remained a pioneer of environmental and social analysis until her untimely death in 2001.Meadows' newly released manuscript, Thinking in Systems, is a concise and crucial book offering insight for problem solving on scales ranging from the personal to the global. Edited by the Sustainability Institute's Diana Wright, this essential primer brings systems thinking out of the realm of computers and equations and into the tangible world, showing readers how to develop the systems-thinking skills that thought leaders across the globe consider critical for 21st-century life.Some of the biggest problems facing the world—war, hunger, poverty, and environmental degradation—are essentially system failures. They cannot be solved by fixing one piece in isolation from the others, because even seemingly minor details have enormous power to undermine the best efforts of too-narrow thinking.While readers will learn the conceptual tools and methods of systems thinking, the heart of the book is grander than methodology. Donella Meadows was known as much for nurturing positive outcomes as she was for delving into the science behind global dilemmas. She reminds readers to pay attention to what is important, not just what is quantifiable, to stay humble, and to stay a learner.In a world growing ever more complicated, crowded, and interdependent, Thinking in Systems helps readers avoid confusion and helplessness, the first step toward finding proactive and effective solutions.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Chelsea Green Publishing</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1603580557</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781603580557</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">CpbLAgAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>System Theory</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Donella H. Meadows&quot;: &quot;&quot;, &quot;Diana Wright&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2018-08-28T13:23:44+00:00"/>
+        <meta name="calibre:title_sort" content="Thinking in Systems: A Primer"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

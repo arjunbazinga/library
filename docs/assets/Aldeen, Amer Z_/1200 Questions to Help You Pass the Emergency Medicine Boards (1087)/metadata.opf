@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1087</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5a28115d-9db5-459a-bfda-1a3f2f59ab85</dc:identifier>
+        <dc:title>1200 Questions to Help You Pass the Emergency Medicine Boards</dc:title>
+        <dc:creator opf:file-as="Aldeen, Amer Z. &amp; Rosenbaum, David H." opf:role="aut">Aldeen, Amer Z.</dc:creator>
+        <dc:creator opf:file-as="Aldeen, Amer Z. &amp; Rosenbaum, David H." opf:role="aut">Rosenbaum, David H.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-04-30T13:21:47+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Aldeen, Amer Z.&quot;: &quot;&quot;, &quot;Rosenbaum, David H.&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-11-23T07:47:37.133100+00:00" name="calibre:timestamp"/>
+        <meta content="1200 Questions to Help You Pass the Emergency Medicine Boards" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

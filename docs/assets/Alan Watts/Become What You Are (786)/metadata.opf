@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">786</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">615956f1-a7b0-4765-9cdb-0b7de9656493</dc:identifier>
+        <dc:title>Become What You Are</dc:title>
+        <dc:creator opf:file-as="Watts, Alan" opf:role="aut">Alan Watts</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-09-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;P&gt;"Life exists only at this very moment, and in this moment it is infinite and eternal. For the present moment is infinitely small; before we can measure it, it has gone, and yet it exists forever. . . . You may believe yourself out of harmony with life and its eternal Now; but you cannot be, for you are life and exist Now."&amp;#8212;from &lt;I&gt;Become What You Are &lt;/I&gt; &lt;P&gt; &lt;P&gt;In this collection of writings, including nine new chapters never before available in book form, Watts displays the intelligence, playfulness of thought, and simplicity of language that has made him so perennially popular as an interpreter of Eastern thought for Westerners. He draws on a variety of religious traditions, and covers topics such as the challenge of seeing one's life "just as it is," the Taoist approach to harmonious living, the limits of language in the face of ineffable spiritual truth, and the psychological symbolism of Christian thought.</dc:description>
+        <dc:publisher>Shambhala Publications</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">xQIG9lWkgcUC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781570629402</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Eastern</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alan Watts&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-04-23T12:12:58+00:00"/>
+        <meta name="calibre:title_sort" content="Become What You Are"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

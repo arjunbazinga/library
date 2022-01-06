@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">668</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e0fef8eb-025b-43b7-83b9-eb39c0348c1e</dc:identifier>
+        <dc:title>Walden Two</dc:title>
+        <dc:creator opf:file-as="Skinner, B. F." opf:role="aut">B. F. Skinner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1948-09-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A reprint of the 1976 Macmillan edition. This fictional outline of a modern Utopia has been a centre of controversy ever since its publication in 1948. Set in the United States, it pictures a society in which human problems are solved by a scientific technology of human conduct. FROM THE PREFACE: It is now widely recognised that great changes must be made in the American way of life. Not only can we not face the rest of the world while consuming and polluting as we do, we cannot for long face ourselves while acknowledging the violence and chaos in which we live. The choice is clear: either we do nothing and allow a miserable and probably catastrophic future to overtake us, or we use our knowledge about human behaviour to create a social environment in which we shall live productive and creative lives and do so without jeopardising the chances that those who follow us will be able to do the same. Something like a Walden Two would not be a bad start. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Hackett Publishing</dc:publisher>
+        <dc:identifier opf:scheme="EISBN 2005 ED. PRC">978-1-60384-110-8</dc:identifier>
+        <dc:identifier opf:scheme="ISBN10 2005 ED. PBK.">0-87220-778-1</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781603844178</dc:identifier>
+        <dc:identifier opf:scheme="ISBN10 2005 ED. HC">0-87220-779-X</dc:identifier>
+        <dc:identifier opf:scheme="ISBN13 1976 ED. PBK.">9780024115119</dc:identifier>
+        <dc:identifier opf:scheme="ISBN13 2005 ED. PBK.">978-0-87220-778-3</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0872207781</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B003GEKL10</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">KEiYzfCVzv4C</dc:identifier>
+        <dc:identifier opf:scheme="ISBN10 1976 ED. PBK.">0024115118</dc:identifier>
+        <dc:identifier opf:scheme="ISBN13 2005 ED. HC">978-0-87220-779-0</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Social Psychology</dc:subject>
+        <dc:subject>Movements</dc:subject>
+        <dc:subject>Behaviorism</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;B. F. Skinner&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:36+00:00"/>
+        <meta name="calibre:title_sort" content="Walden Two"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

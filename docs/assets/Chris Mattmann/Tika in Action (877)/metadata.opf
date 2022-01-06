@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">877</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1030eb68-6bcd-4813-9f01-5d6327dc2137</dc:identifier>
+        <dc:title>Tika in Action</dc:title>
+        <dc:creator opf:file-as="Mattmann, Chris &amp; Zitting, Jukka" opf:role="aut">Chris Mattmann</dc:creator>
+        <dc:creator opf:file-as="Mattmann, Chris &amp; Zitting, Jukka" opf:role="aut">Jukka Zitting</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-10T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;SummaryTika in Action is a hands-on guide to content mining with Apache Tika. The book's many examples and case studies offer real-world experience from domains ranging from search engines to digital asset management and scientific data processing.About the TechnologyTika is an Apache toolkit that has built into it everything you and your app need to know about file formats. Using Tika, your applications can discover and extract content from digital documents in almost any format, including exotic ones.About this BookTika in Action is the ultimate guide to content mining using Apache Tika. You'll learn how to pull usable information from otherwise inaccessible sources, including internet media and file archives. This example-rich book teaches you to build and extend applications based on real-world experience with search engines, digital asset management, and scientific data processing. In addition to architectural overviews, you'll find detailed chapters on features like metadata extraction, automatic language detection, and custom parser development.This book is written for developers who are new to both Scala and Lift and covers just enough Scala to get you started. Purchase of the print book comes with an offer of a free PDF, ePub, and Kindle eBook from Manning. Also available is all code from the book. What's InsideCrack MS Word, PDF, HTML, and ZIPIntegrate with search engines, CMS, and other data sourcesLearn through experimentationMany examplesThis book requires no previous knowledge of Tika or text mining techniques. It assumes a working knowledge of Java.========================================​==Table of ContentsPART 1 GETTING STARTEDThe case for the digital Babel fishGetting started with TikaThe information landscapePART 2 TIKA IN DETAILDocument type detectionContent extractionUnderstanding metadataLanguage detectionWhat's in a file?PART 3 INTEGRATION AND ADVANCED USEThe big pictureTika and the Lucene search stackExtending TikaPART 4 CASE STUDIESPowering NASA science data systemsContent management with Apache JackrabbitCurating cancer research data with TikaThe classic search engine example&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Manning Publications</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">KMqPZwEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781935182856</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>Java</dc:subject>
+        <dc:subject>Databases</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Data Mining</dc:subject>
+        <dc:subject>System Administration</dc:subject>
+        <dc:subject>Storage &amp; Retrieval</dc:subject>
+        <dc:subject>Web</dc:subject>
+        <dc:subject>Search Engines</dc:subject>
+        <dc:subject>Desktop Applications</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Chris Mattmann&quot;: &quot;&quot;, &quot;Jukka Zitting&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-07-26T13:51:32+00:00"/>
+        <meta name="calibre:title_sort" content="Tika in Action"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

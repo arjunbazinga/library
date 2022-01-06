@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Authors starting with T</title>
+  <id>Calibre2opds:authorlist:T</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Authors starting with T" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>The Atlantic</title>
+    <id>Calibre2opds:author:592</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_592_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Thomas H. Cormen</title>
+    <id>Calibre2opds:author:117</id>
+    <content type="text">Algorithms Unlocked</content>
+    <link href="../author_0/author_117_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>The U.S. Army Marine Corps</title>
+    <id>Calibre2opds:author:605</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_605_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>The Correspondent</title>
+    <id>Calibre2opds:author:751</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_751_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Tasha Eurich</title>
+    <id>Calibre2opds:author:428</id>
+    <content type="text">Insight</content>
+    <link href="../author_0/author_428_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Timothy Ferriss</title>
+    <id>Calibre2opds:author:192</id>
+    <content type="text">4 books</content>
+    <link href="../author_0/author_192_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Thomas X. Hammes</title>
+    <id>Calibre2opds:author:257</id>
+    <content type="text">The Sling and the Stone</content>
+    <link href="../author_0/author_257_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Trevor Hastie</title>
+    <id>Calibre2opds:author:206</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_206_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Thomas Hobbes</title>
+    <id>Calibre2opds:author:111</id>
+    <content type="text">Leviathan</content>
+    <link href="../author_0/author_111_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Thomas R. Ittelson</title>
+    <id>Calibre2opds:author:673</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_673_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Theodore Kaczynski</title>
+    <id>Calibre2opds:author:450</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_450_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Timothy Leary</title>
+    <id>Calibre2opds:author:55</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_55_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>The School Of Life</title>
+    <id>Calibre2opds:author:574</id>
+    <content type="text">The School of Life</content>
+    <link href="../author_0/author_574_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Tao Lin</title>
+    <id>Calibre2opds:author:54</id>
+    <content type="text">Trip</content>
+    <link href="../author_0/author_54_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Titania McGrath</title>
+    <id>Calibre2opds:author:451</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_451_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Toni Morrison</title>
+    <id>Calibre2opds:author:266</id>
+    <content type="text">Song of Solomon</content>
+    <link href="../author_0/author_266_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Tom Nichols</title>
+    <id>Calibre2opds:author:186</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_186_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Todd Palino</title>
+    <id>Calibre2opds:author:666</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_666_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Thomas Love Peacock</title>
+    <id>Calibre2opds:author:554</id>
+    <content type="text">Nightmare Abbey</content>
+    <link href="../author_0/author_554_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Tahl Raz</title>
+    <id>Calibre2opds:author:291</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_291_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>The Saint</title>
+    <id>Calibre2opds:author:306</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_306_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Tamler Sommers</title>
+    <id>Calibre2opds:author:490</id>
+    <content type="text">Why Honor Matters</content>
+    <link href="../author_0/author_490_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Taber, Mike</title>
+    <id>Calibre2opds:author:580</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_580_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest</title>
+    <id>Calibre2opds:author:303</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_303_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Thucydides</title>
+    <id>Calibre2opds:author:264</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_264_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Tom Salinsky, Deborah Frances-White</title>
+    <id>Calibre2opds:author:607</id>
+    <content type="text">The Improv Handbook</content>
+    <link href="../author_0/author_607_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Timothy D Wilson</title>
+    <id>Calibre2opds:author:31</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_31_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Titus Winters</title>
+    <id>Calibre2opds:author:730</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_730_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>The Consilient observer</title>
+    <id>Calibre2opds:author:724</id>
+    <content type="text">2 books</content>
+    <link href="../author_0/author_724_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+</feed>

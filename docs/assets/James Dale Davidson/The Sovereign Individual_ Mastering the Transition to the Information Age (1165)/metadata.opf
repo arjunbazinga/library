@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1165</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a1fe9100-8e1e-4132-9811-a91be1ca9914</dc:identifier>
+        <dc:title>The Sovereign Individual: Mastering the Transition to the Information Age</dc:title>
+        <dc:creator opf:file-as="Davidson, James Dale &amp; Rees-Mogg, Lord William" opf:role="aut">James Dale Davidson</dc:creator>
+        <dc:creator opf:file-as="Davidson, James Dale &amp; Rees-Mogg, Lord William" opf:role="aut">Lord William Rees-Mogg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-03T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Two renowned investment advisors and authors of the bestseller The Great Reckoning bring to light both currents of disaster and the potential for prosperity and renewal in the face of radical changes in human history as we move into the next century. The Sovereign Individual details strategies necessary for adapting financially to the next phase of Western civilization.Few observers of the late twentieth century have their fingers so presciently on the pulse of the global political and economic realignment ushering in the new millennium as do James Dale Davidson and Lord William Rees-Mogg. Their bold prediction of disaster on Wall Street in Blood in the Streets was borne out by Black Tuesday. In their ensuing bestsellar, The Great Reckoning, published just weeks before the coup attempt against Gorbachev, they analyzed the pending collapse of the Soviet Union and foretold the civil war in Yugoslavia and other events that have proved to be among the most searing developments of the past few years.In The Sovereign Individual, Davidson and Rees-Mogg explore the greatest economic and political transition in centuries -- the shift from an industrial to an information-based society. This transition, which they have termed "the fourth stage of human society," will liberate individuals as never before, irrevocably altering the power of government. This outstanding book will replace false hopes and fictions with new understanding and clarified values.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">22b9acf9-a66e-4b94-9fd6-ad8316f5da24</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">gxDADwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781439144732</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Economic Conditions</dc:subject>
+        <dc:subject>Economics</dc:subject>
+        <dc:subject>Macroeconomics</dc:subject>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>Political Economy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Dale Davidson&quot;: &quot;&quot;, &quot;Lord William Rees-Mogg&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-25T20:15:55+00:00"/>
+        <meta name="calibre:title_sort" content="Sovereign Individual: Mastering the Transition to the Information Age, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

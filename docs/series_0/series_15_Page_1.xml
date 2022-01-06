@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Routledge Classics</title>
+  <id>Calibre2opds::serieslistseries:15</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_15_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Routledge Classics" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series" />
+  <entry>
+    <title>1 - The Road to Serfdom</title>
+    <id>calibre:book:834</id>
+    <updated>2020-07-09T01:07:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Friedrich%20A%20von%20Hayek/The%20Road%20to%20Serfdom%20%28834%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Friedrich%20A%20von%20Hayek/The%20Road%20to%20Serfdom%20%28834%29/The%20Road%20to%20Serfdom%20-%20Friedrich%20A%20von%20Hayek.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Friedrich A von Hayek</name>
+      <uri>../author_0/author_798_Page_1.xml</uri>
+    </author>
+    <published>1944-08-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>University of Chicago Press</dcterms:publisher>
+    <category term="Business &amp; Economics" />
+    <category term="Economic History" />
+    <category term="Development" />
+    <category term="Economic Development" />
+    <category term="Economics" />
+    <category term="Theory" />
+    <category term="Philosophy" />
+    <category term="Political" />
+    <category term="Political Science" />
+    <category term="General" />
+    <category term="History &amp; Theory" />
+    <category term="Public Policy" />
+    <category term="Economic Policy" />
+    <category term="Political Ideologies" />
+    <category term="Fascism &amp; Totalitarianism" />
+    <category term="Social Science" />
+    <category term="Lang:en" />
+    <category term="Routledge Classics" />
+    <summary>Routledge Classics [1]: 
+A classic work in political philosophy, intellectual and cultural history, and economics, The Road to Serfdom has inspired and infuriated politicians, scholars, and general readers for half a century. Originally published in ...</summary>
+    <link href="../book_0/book_834.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

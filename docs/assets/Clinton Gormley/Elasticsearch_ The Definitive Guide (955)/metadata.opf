@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">955</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b915d54c-a7ad-4117-be2d-5d8c4691ea4d</dc:identifier>
+        <dc:title>Elasticsearch: The Definitive Guide</dc:title>
+        <dc:creator opf:file-as="Gormley, Clinton &amp; Tong, Zachary" opf:role="aut">Clinton Gormley</dc:creator>
+        <dc:creator opf:file-as="Gormley, Clinton &amp; Tong, Zachary" opf:role="aut">Zachary Tong</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-01-22T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Whether you need full-text search or real-time analytics of structured data—or both—the Elasticsearch distributed search engine is an ideal way to put your data to work. This practical guide not only shows you how to search, analyze, and explore data with Elasticsearch, but also helps you deal with the complexities of human language, geolocation, and relationships.If you’re a newcomer to both search and distributed systems, you’ll quickly learn how to integrate Elasticsearch into your application. More experienced users will pick up lots of advanced techniques. Throughout the book, you’ll follow a problem-based approach to learn why, when, and how to use Elasticsearch features.Understand how Elasticsearch interprets data in your documentsIndex and query your data to take advantage of search concepts such as relevance and word proximityHandle human language through the effective use of analyzers and queriesSummarize and group data to show overall trends, with aggregations and analyticsUse geo-points and geo-shapes—Elasticsearch’s approaches to geolocationModel your data to take advantage of Elasticsearch’s horizontal scalabilityLearn how to configure and monitor your cluster in production&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>"O'Reilly Media, Inc."</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781449358525</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">d19aBgAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Databases</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>Software Development &amp; Engineering</dc:subject>
+        <dc:subject>Internet</dc:subject>
+        <dc:subject>Application Development</dc:subject>
+        <dc:subject>Web</dc:subject>
+        <dc:subject>Search Engines</dc:subject>
+        <dc:subject>Web Programming</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Clinton Gormley&quot;: &quot;&quot;, &quot;Zachary Tong&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-08-25T21:50:46+00:00"/>
+        <meta name="calibre:title_sort" content="Elasticsearch: The Definitive Guide"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

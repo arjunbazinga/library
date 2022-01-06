@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1229</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bf8d5695-d3a9-48eb-81e8-9229cee837b3</dc:identifier>
+        <dc:title>Managing and Measuring Performance in Public and Nonprofit Organizations: An Integrated Approach</dc:title>
+        <dc:creator opf:file-as="Poister, Theodore H. &amp; Aristigueta, Maria P. &amp; Hall, Jeremy L." opf:role="aut">Theodore H. Poister</dc:creator>
+        <dc:creator opf:file-as="Poister, Theodore H. &amp; Aristigueta, Maria P. &amp; Hall, Jeremy L." opf:role="aut">Maria P. Aristigueta</dc:creator>
+        <dc:creator opf:file-as="Poister, Theodore H. &amp; Aristigueta, Maria P. &amp; Hall, Jeremy L." opf:role="aut">Jeremy L. Hall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-10-12T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;New edition of a classic guide to ensuring effective organizational performance&lt;/strong&gt; Thoroughly revised and updated, the second edition of &lt;em&gt;Managing and Measuring Performance in Public and Nonprofit Organizations&lt;/em&gt; is a comprehensive resource for designing and implementing effective performance management and measurement systems in public and nonprofit organizations. The ideas, tools, and processes in this vital resource are designed to help organizations develop measurement systems to support such effective management approaches as strategic management, results-based budgeting, performance management, process improvement, performance contracting, and much more. The book will help readers identify outcomes and other performance criteria to be measured, tie measures to goals and objectives, define and evaluate the worth of desired performance measures, and analyze, process, report, and utilize data effectively. * Includes significant updates that offer a more integrated approach to performance management and measurement * Offers a detailed framework and instructions for developing and implementing performance management systems * Shows how to apply the most effective performance management principles * Reveals how to overcome the barriers to effective performance management&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Managing and Measuring Performance in Public and Nonprofit Organizations&lt;/em&gt; identifies common methodological and managerial problems that often confront managers in developing performance measurement systems, and presents a number of targeted strategies for the successful implementation of such systems in public and nonprofit organizations. This must-have resource will help leaders reach their organizational goals and objectives. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Jossey-Bass</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781118439050</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">J7rlBQAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1118439058</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Education</dc:subject>
+        <dc:subject>Evaluation &amp; Assessment</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Theodore H. Poister&quot;: &quot;&quot;, &quot;Maria P. Aristigueta&quot;: &quot;&quot;, &quot;Jeremy L. Hall&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-05-26T15:19:34+00:00"/>
+        <meta name="calibre:title_sort" content="Managing and Measuring Performance in Public and Nonprofit Organizations: An Integrated Approach"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

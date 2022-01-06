@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>A History of Private Life</title>
+  <id>Calibre2opds::serieslistseries:8</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_8_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="A History of Private Life" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series" />
+  <entry>
+    <title>2 - A History of Private Life, Volume II: Revelations of the Medieval World</title>
+    <id>calibre:book:417</id>
+    <updated>2020-03-28T07:41:28Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Georges%20Duby/A%20History%20of%20Private%20Life%2C%20Volume%20II_%20Revelations%20of%20the%20Medieval%20World%20%28417%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Georges%20Duby/A%20History%20of%20Private%20Life%2C%20Volume%20II_%20Revelations%20of%20the%20Medieval%20World%20%28417%29/A%20History%20of%20Private%20Life%2C%20Volume%20II_%20Reve%20-%20Georges%20Duby.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Georges%20Duby/A%20History%20of%20Private%20Life%2C%20Volume%20II_%20Revelations%20of%20the%20Medieval%20World%20%28417%29/A%20History%20of%20Private%20Life%2C%20Volume%20II_%20Reve%20-%20Georges%20Duby.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Georges%20Duby/A%20History%20of%20Private%20Life%2C%20Volume%20II_%20Revelations%20of%20the%20Medieval%20World%20%28417%29/A%20History%20of%20Private%20Life%2C%20Volume%20II_%20Reve%20-%20Georges%20Duby.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Georges Duby</name>
+      <uri>../author_0/author_775_Page_1.xml</uri>
+    </author>
+    <published>1993-03-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Belknap Press: An Imprint of Harvard University Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="History of Private Life" />
+    <summary>A History of Private Life [2]: 
+The second volume of A History of Private Life is a treasure-trove of rich and colorful detail culled from an astounding variety of sources. This absorbing “secret epic” constructs a vivid picture of peasant and patric...</summary>
+    <link href="../book_0/book_417.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>3 - A History of Private Life: Passions of the Renaissance</title>
+    <id>calibre:book:487</id>
+    <updated>2020-03-28T07:41:50Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Goldhammer/A%20History%20of%20Private%20Life_%20Passions%20of%20the%20Renaissance%20%28487%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Goldhammer/A%20History%20of%20Private%20Life_%20Passions%20of%20the%20Renaissance%20%28487%29/A%20History%20of%20Private%20Life_%20Passions%20of%20the%20-%20Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Gold.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Goldhammer/A%20History%20of%20Private%20Life_%20Passions%20of%20the%20Renaissance%20%28487%29/A%20History%20of%20Private%20Life_%20Passions%20of%20the%20-%20Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Gold.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Goldhammer/A%20History%20of%20Private%20Life_%20Passions%20of%20the%20Renaissance%20%28487%29/A%20History%20of%20Private%20Life_%20Passions%20of%20the%20-%20Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Gold.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Phillippe Aries, Georges Duby, Arthur Goldhammer</name>
+      <uri>../author_0/author_219_Page_1.xml</uri>
+    </author>
+    <published>1989-08-27T06:30:00Z</published>
+    <dcterms:publisher>Belknap Press of Harvard University Press</dcterms:publisher>
+    <category term="History of Private Life" />
+    <summary>A History of Private Life [3]:</summary>
+    <link href="../book_0/book_487.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

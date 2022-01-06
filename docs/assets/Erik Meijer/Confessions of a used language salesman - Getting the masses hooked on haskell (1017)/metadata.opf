@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1017</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1bdc647c-a487-47f9-a18d-ee183c208a99</dc:identifier>
+        <dc:title>Confessions of a used language salesman - Getting the masses hooked on haskell</dc:title>
+        <dc:creator opf:file-as="Meijer, Erik" opf:role="aut">Erik Meijer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Erik Meijer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-09-30T11:57:13+00:00"/>
+        <meta name="calibre:title_sort" content="Confessions of a used language salesman - Getting the masses hooked on haskell"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

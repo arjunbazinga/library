@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">852</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c56e71f-7f12-4f2a-a373-552279619649</dc:identifier>
+        <dc:title>Psychological Warfare Against Nazi Germany : The Sykewar Campaign, D-Day to VE-Day</dc:title>
+        <dc:creator opf:file-as="Lerner, Daniel" opf:role="aut">Daniel Lerner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1971-11-17T06:50:33+00:00</dc:date>
+        <dc:publisher>MIT Press</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Daniel Lerner&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-07-09T07:37:32+00:00"/>
+        <meta name="calibre:title_sort" content="Psychological Warfare Against Nazi Germany : The Sykewar Campaign, D-Day to VE-Day"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

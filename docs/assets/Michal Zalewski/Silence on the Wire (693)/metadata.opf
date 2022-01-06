@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">693</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f50d3e0c-c938-43df-a67a-dd49542d0299</dc:identifier>
+        <dc:title>Silence on the Wire</dc:title>
+        <dc:creator opf:file-as="Michal Zalewski" opf:role="aut">Michal Zalewski</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-04-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Author Michal Zalewski is respected in the hacking and security communities for his\n intelligence, curiosity and creativity, and this book is truly unlike anything else.\n &lt;i&gt;Silence on the Wire&lt;/i&gt; is no humdrum white paper or how-to manual for protecting\n one's network. Rather, this narrative explores a variety of unique, uncommon and\n often elegant security challenges that defy classification and eschew the traditional\n attacker-victim model.&lt;/p&gt;</dc:description>
+        <dc:publisher>No Starch Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781593270933</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>COMPUTERS / Security / General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Michal Zalewski&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:38+00:00"/>
+        <meta name="calibre:title_sort" content="Silence on the Wire"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

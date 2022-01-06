@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">960</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">06cfddf3-4d63-4dbc-9b66-c0230e3f54d1</dc:identifier>
+        <dc:title>Boom and Bust: Financial Cycles and Human Prosperity</dc:title>
+        <dc:creator opf:file-as="Pollock, Alex J." opf:role="aut">Alex J. Pollock</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-15T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;While the recent economic crisis was a painful period for many Americans, the panic surrounding the downturn was fueled by an incomplete understanding of economic history. Economic hysteria made for riveting journalism and effective political theater, but the politicians and members of the media who declared that America was in the midst of the greatest financial calamity since the Great Depression were as wrong and misguided as the expansionists of the Roosevelt era. In reality the cyclical nature of market economies is as old as the markets themselves. In a free market system, financial downturns inevitably accompany economic prosperity-but the overall trend is upward progress in living standards and national wealth. While it is helpful to understand what caused the recent crisis, the more important questions to consider are 'What makes the 'boom and bust' cycle so predictable?' and 'What are the ethical responsibilities of the citizens of a free market economy?' In Boom and Bust: Financial Cycles and Human Prosperity, Alex J. Pollock argues that while economic downturns can be frightening and difficult, people living in free market economies enjoy greater health, better access to basic necessities, better education, work less arduous jobs, and have more choices and wider horizons than people at any other point in history. This wonderful reality would not exist in the absence of financial cycles. This book explains why. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>AEI Press</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B004RHB7T0</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">0844743836</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">B2KZpqwTfU0C</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Economic Conditions</dc:subject>
+        <dc:subject>Economic History</dc:subject>
+        <dc:subject>Rowman &amp; Littlefield</dc:subject>
+        <dc:subject>ISBN-13: 9780844743837</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alex J. Pollock&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-08-26T15:57:19+00:00"/>
+        <meta name="calibre:title_sort" content="Boom and Bust: Financial Cycles and Human Prosperity"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

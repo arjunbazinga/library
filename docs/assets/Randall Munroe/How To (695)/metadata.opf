@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">695</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">34604fa4-d900-4e60-80aa-917c5ed76c82</dc:identifier>
+        <dc:title>How To</dc:title>
+        <dc:creator opf:file-as="Munroe, Randall" opf:role="aut">Randall Munroe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-03T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;The world's most entertaining and useless self-help guide, from the brilliant mind behind the wildly popular webcomic xkcd and the #1 &lt;i&gt;New York Times&lt;/i&gt; bestsellers &lt;i&gt;What If?&lt;/i&gt; and &lt;i&gt;Thing Explainer&lt;/i&gt;&lt;/b&gt;&lt;br&gt;For any task you might want to do, there's a right way, a wrong way, and a way so monumentally bad that no one would ever try it. &lt;i&gt;How To&lt;/i&gt; is a guide to the third kind of approach. It's full of highly impractical advice for everything from landing a plane to digging a hole. &lt;br&gt;Bestselling author and cartoonist Randall Munroe explains how to predict the weather by analyzing the pixels of your Facebook photos. He teaches you how to tell if you're a baby boomer or a 90's kid by measuring the radioactivity of your teeth. He offers tips for taking a selfie with a telescope, crossing a river by boiling it, and getting to your appointments on time by destroying the Moon. And if you want to get rid of the book once you're done with it, he walks you through your...</dc:description>
+        <dc:publisher>Penguin Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">95319af8-2633-4532-a1b6-ff1b5ccb2543</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Randall Munroe&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:38+00:00"/>
+        <meta name="calibre:title_sort" content="How To"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

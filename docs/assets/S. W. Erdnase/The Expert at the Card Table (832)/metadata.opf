@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">832</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e9d1aec1-05a2-40d0-aed3-2be4e6262722</dc:identifier>
+        <dc:title>The Expert at the Card Table</dc:title>
+        <dc:creator opf:file-as="Erdnase, S. W." opf:role="aut">S. W. Erdnase</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-19T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;2015 Reprint of 1902 Edition. Facsimile of the original edition. First published in 1902 under the title: "Artifice, Ruse and Subterfuge at the Card Table", Erdnase's work has become a classic work in its field. It is arguably the most famous and most studied book in the genre. It is still considered a fundamental text for establishing card mastery and remains in print well over a century after its original publication. The first section concerns card table artifice; the second covers legerdemain. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Martino Fine Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781614278641</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1614278644</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;S. W. Erdnase&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Magic"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-07-09T07:37:26+00:00"/>
+        <meta name="calibre:title_sort" content="Expert at the Card Table, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

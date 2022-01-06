@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">341</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5b16e775-2856-4291-937d-e7e6bbd4492c</dc:identifier>
+        <dc:title>Between Parentheses: Essays, Articles and Speeches, 1998-2003</dc:title>
+        <dc:creator opf:file-as="Bolaño, Roberto &amp; Echevarria, Ignacio &amp; Wimmer, Natasha" opf:role="aut">Roberto Bolaño</dc:creator>
+        <dc:creator opf:file-as="Bolaño, Roberto &amp; Echevarria, Ignacio &amp; Wimmer, Natasha" opf:role="aut">Ignacio Echevarria</dc:creator>
+        <dc:creator opf:file-as="Bolaño, Roberto &amp; Echevarria, Ignacio &amp; Wimmer, Natasha" opf:role="aut">Natasha Wimmer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-29T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The essays of Roberto Bolano in English at last. Between Parentheses collects most of the newspaper columns and articles Bolano wrote during the last five years of his life, as well as the texts of some of his speeches and talks and a few scattered prologues. “Taken together,” as the editor Ignacio Echevarría remarks in his introduction, they provide “a personal cartography of the writer: the closest thing, among all his writings, to a kind of fragmented ‘autobiography.’” Bolano’s career as a nonfiction writer began in 1998, the year he became famous overnight for The Savage Detectives; he was suddenly in demand for articles and speeches, and he took to this new vocation like a duck to water. Cantankerous, irreverent, and insufferably opinionated, Bolano also could be tender (about his family and favorite places) as well as a fierce advocate for his heroes (Borges, Cortázar, Parra) and his favorite contemporaries, whose books he read assiduously and promoted generously. A demanding critic, he declares that in his “ideal literary kitchen there lives a warrior”: he argues for courage, and especially for bravery in the face of failure. Between Parentheses fully lives up to his own demands: “I ask for creativity from literary criticism, creativity at all levels.”&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>New Directions Publishing</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B007R9CG68</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780811218146</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">NRa3rTayJmAC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Literary Collections</dc:subject>
+        <dc:subject>Essays</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Roberto Bolaño&quot;: &quot;&quot;, &quot;Ignacio Echevarria&quot;: &quot;&quot;, &quot;Natasha Wimmer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2018-07-12T09:33:58+00:00"/>
+        <meta name="calibre:title_sort" content="Between Parentheses: Essays, Articles and Speeches, 1998-2003"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

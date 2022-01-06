@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1216</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">87d63c91-9c4b-494e-9ac3-6a8da7ceaa09</dc:identifier>
+        <dc:title>The Virtue of Selfishness: A New Concept of Egoism</dc:title>
+        <dc:creator opf:file-as="Rand, Ayn &amp; Branden, Nathaniel" opf:role="aut">Ayn Rand</dc:creator>
+        <dc:creator opf:file-as="Rand, Ayn &amp; Branden, Nathaniel" opf:role="aut">Nathaniel Branden</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1964-07-15T00:00:00+00:00</dc:date>
+        <dc:description>Ayn Rand here sets forth the moral principles of Objectivism, the philosophy that holds man's life--the life proper to a rational being--as the standard of moral values and regards altruism as incompatible with man's nature, with the creative requirements of his survival, and with a free society.</dc:description>
+        <dc:publisher>Penguin</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">d1GqjIhRejMC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780451163936</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Ethics &amp; Moral Philosophy</dc:subject>
+        <dc:subject>Ethics</dc:subject>
+        <dc:subject>General &amp; Literary Fiction</dc:subject>
+        <dc:subject>Modern &amp; contemporary fiction (post c 1945)</dc:subject>
+        <dc:subject>Epistemology</dc:subject>
+        <dc:subject>Objectivism (Philosophy)</dc:subject>
+        <dc:subject>Conduct of life</dc:subject>
+        <dc:subject>Selfishness</dc:subject>
+        <dc:subject>Philosophy (Specific Aspects)</dc:subject>
+        <dc:subject>Egoism</dc:subject>
+        <dc:subject>Ego (Psychology)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ayn Rand&quot;: &quot;&quot;, &quot;Nathaniel Branden&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-04-25T06:55:53+00:00"/>
+        <meta name="calibre:title_sort" content="Virtue of Selfishness: A New Concept of Egoism, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

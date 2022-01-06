@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">520</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e7680067-3317-44cf-ae7c-1719fd5a9042</dc:identifier>
+        <dc:title>Breakdown of Will</dc:title>
+        <dc:creator opf:file-as="AINSLIE, GEORGE" opf:role="aut">George Ainslie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-03-18T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Ainslie argues that our responses to the threat of our own inconsistency determine the basic fabric of human culture. He suggests that individuals are more like populations of bargaining agents than like the hierarchical command structures envisaged by cognitive psychologists. The forces that create and constrain these populations help us understand so much that is puzzling in human action and interaction: from addictions and other self-defeating behaviors to the experience of willfulness, from pathological over-control and self-deception to subtler forms of behavior such as altruism, sadism, gambling, and the 'social construction' of belief. This book integrates approaches from experimental psychology, philosophy of mind, microeconomics, and decision science to present one of the most profound and expert accounts of human irrationality available. It will be of great interest to philosophers and an important resource for professionals and students in psychology, economics and political science.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Cambridge University Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">7dTHzcaTRpIC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780521596947</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Economics</dc:subject>
+        <dc:subject>Theory</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Logic</dc:subject>
+        <dc:subject>Mind &amp; Body</dc:subject>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>History &amp; Theory</dc:subject>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Cognitive Psychology &amp; Cognition</dc:subject>
+        <dc:subject>Movements</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Ainslie&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2018-08-29T15:32:53+00:00"/>
+        <meta name="calibre:title_sort" content="Breakdown of Will"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

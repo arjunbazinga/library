@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1035</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">52ef9296-5e06-4932-8e4f-0fc3e8054eee</dc:identifier>
+        <dc:title>The Revolt of the Public: And the Crisis of Authority in the New Millennium</dc:title>
+        <dc:creator opf:file-as="Gurri, Martin" opf:role="aut">Martin Gurri</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-11-12T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Riding a tsunami of information, the public has trampled on the temples of authority in every domain of human activity, everywhere. The Revolt of the Public tells the story of how ordinary people, gifted amateurs networked in communities of interest, have swarmed over the hierarchies of accredited professionals, questioned their methods, and shouted their failures from the digital rooftops. In science, business, media - and, pre-eminently, in politics and government - established elites have lost the power to command attention and set the agenda.The consequences have been revolutionary. Insurgencies enabled by digital devices and a vast information sphere have mobilized millions, toppling dictators in Egypt and Tunisia, crushing the ruling Socialist Party in Spain, inspiring "Tea Parties" and "Occupations" in the United States. Trust in political authority stands at an all-time low around the world. The Revolt of the Public analyzes the composition of the public, the nature of authority and legitimacy, and the part played by the perturbing agent: information. A major theme of the book is whether democratic institutions can survive the assaults of a public that at times appears to be at war with any form of organization, if not with history itself.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Stripe Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">qD-1vAEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07J2V3PG4</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781732265141</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Martin Gurri&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-09T19:52:24+00:00"/>
+        <meta name="calibre:title_sort" content="Revolt of the Public: And the Crisis of Authority in the New Millennium, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

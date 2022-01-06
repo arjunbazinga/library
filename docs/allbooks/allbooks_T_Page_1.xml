@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with T</title>
+  <id>Calibre2opds:allbooks:T</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with T" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>The Tale of Genji (unabridged)</title>
+    <id>calibre:book:408</id>
+    <updated>2020-03-28T07:36:32Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Shikibu%20Murasaki/The%20Tale%20of%20Genji%20%28unabridged%29%20%28408%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Shikibu%20Murasaki/The%20Tale%20of%20Genji%20%28unabridged%29%20%28408%29/The%20Tale%20of%20Genji%20%28unabridged%29%20-%20Shikibu%20Murasaki.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Shikibu%20Murasaki/The%20Tale%20of%20Genji%20%28unabridged%29%20%28408%29/The%20Tale%20of%20Genji%20%28unabridged%29%20-%20Shikibu%20Murasaki.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Shikibu%20Murasaki/The%20Tale%20of%20Genji%20%28unabridged%29%20%28408%29/The%20Tale%20of%20Genji%20%28unabridged%29%20-%20Shikibu%20Murasaki.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Shikibu Murasaki</name>
+      <uri>../author_0/author_155_Page_1.xml</uri>
+    </author>
+    <published>2015-07-26T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>W. W. Norton &amp; Company</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_408.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Tao Te Ching</title>
+    <id>calibre:book:515</id>
+    <updated>2020-03-28T07:33:58Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Stephen%20Mitchell/Tao%20Te%20Ching%20%28515%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Stephen%20Mitchell/Tao%20Te%20Ching%20%28515%29/Tao%20Te%20Ching%20-%20Stephen%20Mitchell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Stephen%20Mitchell/Tao%20Te%20Ching%20%28515%29/Tao%20Te%20Ching%20-%20Stephen%20Mitchell.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Stephen%20Mitchell/Tao%20Te%20Ching%20%28515%29/Tao%20Te%20Ching%20-%20Stephen%20Mitchell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Stephen Mitchell</name>
+      <uri>../author_0/author_265_Page_1.xml</uri>
+    </author>
+    <published>1988-07-31T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Lao-tzu's Tao Te Ching, or Book of the Way, is the classic manual on the art of living, and one of the wonders of the world. In eighty-one brief chapters, the Tao Te Ching looks at the basic predicament of being alive and gives advice that imparts ba...</summary>
+    <link href="../book_0/book_515.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ten Lessons I Wish I Had Been Taught</title>
+    <id>calibre:book:851</id>
+    <updated>2020-07-09T01:07:32Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Gian-Carlo%20Rota/Ten%20Lessons%20I%20Wish%20I%20Had%20Been%20Taught%20%28851%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Gian-Carlo%20Rota/Ten%20Lessons%20I%20Wish%20I%20Had%20Been%20Taught%20%28851%29/Ten%20Lessons%20I%20Wish%20I%20Had%20Been%20Taught%20-%20Gian-Carlo%20Rota.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Gian-Carlo Rota</name>
+      <uri>../author_0/author_634_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_851.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Terraform</title>
+    <id>calibre:book:797</id>
+    <updated>2020-05-09T00:35:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Yevgeniy%20Brikman/Terraform%20%28797%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Yevgeniy%20Brikman/Terraform%20%28797%29/Terraform%20-%20Yevgeniy%20Brikman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Yevgeniy%20Brikman/Terraform%20%28797%29/Terraform%20-%20Yevgeniy%20Brikman.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Yevgeniy Brikman</name>
+      <uri>../author_0/author_582_Page_1.xml</uri>
+    </author>
+    <published>2019-08-30T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>O'Reilly Media</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Terraform has become a key player in the DevOps world for defining, launching, and managing infrastructure as code (IaC) across a variety of cloud and virtualization platforms, including AWS, Google Cloud, Azure, and more. This hands-on second editio...</summary>
+    <link href="../book_0/book_797.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Elements of Statistical Learning</title>
+    <id>calibre:book:149</id>
+    <updated>2019-12-07T00:47:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Jerome%20H.%20Friedman%2C%20Robert%20Tibshirani/The%20Elements%20of%20Statistical%20Learning%20%28149%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Jerome%20H.%20Friedman%2C%20Robert%20Tibshirani/The%20Elements%20of%20Statistical%20Learning%20%28149%29/The%20Elements%20of%20Statistical%20Learning%20-%20Jerome%20H.%20Friedman%2C%20Robert%20Tibshirani.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Jerome H. Friedman, Robert Tibshirani</name>
+      <uri>../author_0/author_205_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Trevor Hastie</name>
+      <uri>../author_0/author_206_Page_1.xml</uri>
+    </author>
+    <published>2013-01-27T08:05:01Z</published>
+    <link href="../book_0/book_149.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Measure of All Minds Evaluating Natural and Artificial Intelligence</title>
+    <id>calibre:book:481</id>
+    <updated>2019-12-07T00:47:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Jose%20Hernandez-Orallo/The%20Measure%20of%20All%20Minds%20Evaluating%20Natural%20and%20Artificial%20Intelligence%20%28481%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Jose%20Hernandez-Orallo/The%20Measure%20of%20All%20Minds%20Evaluating%20Natural%20and%20Artificial%20Intelligence%20%28481%29/The%20Measure%20of%20All%20Minds%20Evaluating%20Natura%20-%20Jose%20Hernandez-Orallo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Jose%20Hernandez-Orallo/The%20Measure%20of%20All%20Minds%20Evaluating%20Natural%20and%20Artificial%20Intelligence%20%28481%29/The%20Measure%20of%20All%20Minds%20Evaluating%20Natura%20-%20Jose%20Hernandez-Orallo.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Jose%20Hernandez-Orallo/The%20Measure%20of%20All%20Minds%20Evaluating%20Natural%20and%20Artificial%20Intelligence%20%28481%29/The%20Measure%20of%20All%20Minds%20Evaluating%20Natura%20-%20Jose%20Hernandez-Orallo.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>José Hernández-Orallo</name>
+      <uri>../author_0/author_207_Page_1.xml</uri>
+    </author>
+    <published>2017-08-04T00:07:40Z</published>
+    <category term="Artifical Intelligence" />
+    <link href="../book_0/book_481.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The transparent society</title>
+    <id>calibre:book:40</id>
+    <updated>2019-12-07T00:47:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/David%20Brin/The%20transparent%20society%20%2840%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/David%20Brin/The%20transparent%20society%20%2840%29/The%20transparent%20society%20-%20David%20Brin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/David%20Brin/The%20transparent%20society%20%2840%29/The%20transparent%20society%20-%20David%20Brin.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/David%20Brin/The%20transparent%20society%20%2840%29/The%20transparent%20society%20-%20David%20Brin.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>David Brin</name>
+      <uri>../author_0/author_37_Page_1.xml</uri>
+    </author>
+    <published>2012-01-05T07:30:25Z</published>
+    <link href="../book_0/book_40.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The_22_Immutable_Laws_of_Ma.pdf</title>
+    <id>calibre:book:552</id>
+    <updated>2019-12-07T00:47:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/The%20Saint/The_22_Immutable_Laws_of_Ma.pdf%20%28552%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/The%20Saint/The_22_Immutable_Laws_of_Ma.pdf%20%28552%29/The_22_Immutable_Laws_of_Ma.pdf%20-%20The%20Saint.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/The%20Saint/The_22_Immutable_Laws_of_Ma.pdf%20%28552%29/The_22_Immutable_Laws_of_Ma.pdf%20-%20The%20Saint.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>The Saint</name>
+      <uri>../author_0/author_306_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_552.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Theoretical Neruscience</title>
+    <id>calibre:book:582</id>
+    <updated>2019-12-07T00:47:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Larry%20Abbott%2C%20Peter%20Dayan/Theoretical%20Neruscience%20%28582%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Larry%20Abbott%2C%20Peter%20Dayan/Theoretical%20Neruscience%20%28582%29/Theoretical%20Neruscience%20-%20Larry%20Abbott%2C%20Peter%20Dayan.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Larry Abbott, Peter Dayan</name>
+      <uri>../author_0/author_340_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_582.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>They</title>
+    <id>calibre:book:583</id>
+    <updated>2019-12-07T00:47:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20Heinlein/They%20%28583%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20Heinlein/They%20%28583%29/They%20-%20Robert%20Heinlein.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20Heinlein/They%20%28583%29/They%20-%20Robert%20Heinlein.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Robert Heinlein</name>
+      <uri>../author_0/author_339_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_583.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Think and Grow Rich *****</title>
+    <id>calibre:book:729</id>
+    <updated>2020-03-28T07:24:14Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Napoleon%20Hill/Think%20and%20Grow%20Rich%20%28729%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Napoleon%20Hill/Think%20and%20Grow%20Rich%20%28729%29/Think%20and%20Grow%20Rich%20-%20Napoleon%20Hill.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Napoleon%20Hill/Think%20and%20Grow%20Rich%20%28729%29/Think%20and%20Grow%20Rich%20-%20Napoleon%20Hill.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Napoleon Hill</name>
+      <uri>../author_0/author_455_Page_1.xml</uri>
+    </author>
+    <published>1983-01-01T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Hachette UK</dcterms:publisher>
+    <category term="Business &amp; Economics" />
+    <category term="Personal Finance" />
+    <category term="General" />
+    <category term="Investing" />
+    <category term="motivation" />
+    <category term="law of attraction" />
+    <category term="positive mental attitude" />
+    <category term="get rich" />
+    <category term="personality development" />
+    <category term="positive thinking" />
+    <category term="earn" />
+    <category term="napoleon hill" />
+    <category term="the secret" />
+    <category term="become rich" />
+    <category term="self help" />
+    <category term="power of positive thinking" />
+    <category term="rich" />
+    <category term="grow rich" />
+    <category term="think and grow rich" />
+    <category term="the science of getting rich" />
+    <category term="self improvement" />
+    <category term="and grow rich" />
+    <category term="Lang:en" />
+    <summary>This book contains money-making secrets that can change your life. 
+Think and Grow Rich, based on the author’s famed Law of Success, represents the distilled wisdom of distinguished men of great wealth and achievement.  
+Andrew Carnegie’s magic form...</summary>
+    <link href="../book_0/book_729.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Thinking in Bets</title>
+    <id>calibre:book:391</id>
+    <updated>2020-03-28T07:13:40Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Annie%20Duke/Thinking%20in%20Bets%20%28391%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Annie%20Duke/Thinking%20in%20Bets%20%28391%29/Thinking%20in%20Bets%20-%20Annie%20Duke.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Annie%20Duke/Thinking%20in%20Bets%20%28391%29/Thinking%20in%20Bets%20-%20Annie%20Duke.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Annie%20Duke/Thinking%20in%20Bets%20%28391%29/Thinking%20in%20Bets%20-%20Annie%20Duke.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Annie Duke</name>
+      <uri>../author_0/author_141_Page_1.xml</uri>
+    </author>
+    <published>2018-02-06T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Poker champion turned business consultant Annie Duke teaches you how to get comfortable with uncertainty and make better decisions as a result.In Super Bowl XLIX, Seahawks coach Pete Carroll made one of the most controversial calls in football histor...</summary>
+    <link href="../book_0/book_391.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Thinking in Systems: A Primer *****</title>
+    <id>calibre:book:483</id>
+    <updated>2019-12-07T00:47:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Donella%20H.%20Meadows/Thinking%20in%20Systems_%20A%20Primer%20%28483%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Donella%20H.%20Meadows/Thinking%20in%20Systems_%20A%20Primer%20%28483%29/Thinking%20in%20Systems_%20A%20Primer%20-%20Donella%20H.%20Meadows.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Donella%20H.%20Meadows/Thinking%20in%20Systems_%20A%20Primer%20%28483%29/Thinking%20in%20Systems_%20A%20Primer%20-%20Donella%20H.%20Meadows.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Donella%20H.%20Meadows/Thinking%20in%20Systems_%20A%20Primer%20%28483%29/Thinking%20in%20Systems_%20A%20Primer%20-%20Donella%20H.%20Meadows.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Donella H. Meadows</name>
+      <uri>../author_0/author_777_Page_1.xml</uri>
+    </author>
+    <published>2008-12-02T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Chelsea Green Publishing</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>In the years following her role as the lead author of the international bestseller, Limits to Growth ―the first book to show the consequences of unchecked growth on a finite planet― Donella Meadows remained a pioneer of environmental and social anal...</summary>
+    <link href="../book_0/book_483.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Thinking, Fast and Slow</title>
+    <id>calibre:book:406</id>
+    <updated>2020-03-28T07:27:38Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Daniel%20Kahneman/Thinking%2C%20Fast%20and%20Slow%20%28406%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Daniel%20Kahneman/Thinking%2C%20Fast%20and%20Slow%20%28406%29/Thinking%2C%20Fast%20and%20Slow%20-%20Daniel%20Kahneman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Daniel%20Kahneman/Thinking%2C%20Fast%20and%20Slow%20%28406%29/Thinking%2C%20Fast%20and%20Slow%20-%20Daniel%20Kahneman.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Daniel%20Kahneman/Thinking%2C%20Fast%20and%20Slow%20%28406%29/Thinking%2C%20Fast%20and%20Slow%20-%20Daniel%20Kahneman.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Daniel Kahneman</name>
+      <uri>../author_0/author_10_Page_1.xml</uri>
+    </author>
+    <published>2011-10-24T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Farrar, Straus and Giroux</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_406.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Third Pillar</title>
+    <id>calibre:book:650</id>
+    <updated>2020-03-28T07:43:30Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Raghuram%20G.%20Rajan/The%20Third%20Pillar%20%28650%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Raghuram%20G.%20Rajan/The%20Third%20Pillar%20%28650%29/The%20Third%20Pillar%20-%20Raghuram%20G.%20Rajan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Raghuram%20G.%20Rajan/The%20Third%20Pillar%20%28650%29/The%20Third%20Pillar%20-%20Raghuram%20G.%20Rajan.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Raghuram G. Rajan</name>
+      <uri>../author_0/author_254_Page_1.xml</uri>
+    </author>
+    <published>2019-02-26T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>From one of the most important economic thinkers of our time, a brilliant and far-seeing analysis of the current populist backlash against globalization.Raghuram Rajan, distinguished University of Chicago economist, former IMF chief economist, head o...</summary>
+    <link href="../book_0/book_650.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Thought Reform and the Psychology of Totalism</title>
+    <id>calibre:book:835</id>
+    <updated>2020-07-09T01:08:08Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20Jay%20Lifton/Thought%20Reform%20and%20the%20Psychology%20of%20Totalism%20%28835%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20Jay%20Lifton/Thought%20Reform%20and%20the%20Psychology%20of%20Totalism%20%28835%29/Thought%20Reform%20and%20the%20Psychology%20of%20Total%20-%20Robert%20Jay%20Lifton.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20Jay%20Lifton/Thought%20Reform%20and%20the%20Psychology%20of%20Totalism%20%28835%29/Thought%20Reform%20and%20the%20Psychology%20of%20Total%20-%20Robert%20Jay%20Lifton.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Robert Jay Lifton</name>
+      <uri>../author_0/author_620_Page_1.xml</uri>
+    </author>
+    <published>2012-01-01T08:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>The University of North Carolina Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_835.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A Thousand Splendid Suns</title>
+    <id>calibre:book:309</id>
+    <updated>2019-12-07T00:47:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Khaled%20Hosseini/A%20Thousand%20Splendid%20Suns%20%28309%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Khaled%20Hosseini/A%20Thousand%20Splendid%20Suns%20%28309%29/A%20Thousand%20Splendid%20Suns%20-%20Khaled%20Hosseini.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Khaled Hosseini</name>
+      <uri>../author_0/author_116_Page_1.xml</uri>
+    </author>
+    <published>2008-09-17T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>A&amp;C Black</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>'A Thousand Splendid Suns' is a chronicle of Afghan history, and a deeply moving story of family, friendship, and the salvation to be found in love.</summary>
+    <link href="../book_0/book_309.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Three-Body Problem</title>
+    <id>calibre:book:3</id>
+    <updated>2020-03-28T07:30:30Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Cixin%20Liu/The%20Three-Body%20Problem%20%283%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Cixin%20Liu/The%20Three-Body%20Problem%20%283%29/The%20Three-Body%20Problem%20-%20Cixin%20Liu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Cixin%20Liu/The%20Three-Body%20Problem%20%283%29/The%20Three-Body%20Problem%20-%20Cixin%20Liu.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Cixin%20Liu/The%20Three-Body%20Problem%20%283%29/The%20Three-Body%20Problem%20-%20Cixin%20Liu.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Cixin Liu</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2014-11-11T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Tom Doherty Associates</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_3.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Tiger: A True Story of Vengeance and Survival</title>
+    <id>calibre:book:665</id>
+    <updated>2020-03-28T11:32:36Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/John%20Vaillant/The%20Tiger_%20A%20True%20Story%20of%20Vengeance%20and%20Survival%20%28665%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/John%20Vaillant/The%20Tiger_%20A%20True%20Story%20of%20Vengeance%20and%20Survival%20%28665%29/The%20Tiger_%20A%20True%20Story%20of%20Vengeance%20and%20S%20-%20John%20Vaillant.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>John Vaillant</name>
+      <uri>../author_0/author_523_Page_1.xml</uri>
+    </author>
+    <published>2010-08-24T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Knopf</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>August 2010
+
+The grisly rampage of a man-eating Amur, or Siberian, tiger and the effort to trap it frame this suspenseful and majestically narrated introduction to a world that few people, even Russians, are familiar with. Northeast of China lies Rus...</summary>
+    <link href="../book_0/book_665.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Tika in Action</title>
+    <id>calibre:book:877</id>
+    <updated>2020-07-26T07:21:32Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Chris%20A.%20Mattmann%2C%20Jukka%20L.%20Zitting/Tika%20in%20Action%20%28877%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Chris%20A.%20Mattmann%2C%20Jukka%20L.%20Zitting/Tika%20in%20Action%20%28877%29/Tika%20in%20Action%20-%20Chris%20A.%20Mattmann%2C%20Jukka%20L.%20Zitting.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Chris A. Mattmann, Jukka L. Zitting</name>
+      <uri>../author_0/author_672_Page_1.xml</uri>
+    </author>
+    <published>2011-11-09T00:20:20Z</published>
+    <link href="../book_0/book_877.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Time For Thinking</title>
+    <id>calibre:book:892</id>
+    <updated>2020-08-09T00:59:04Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Howard%20Marks/Time%20For%20Thinking%20%28892%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Howard%20Marks/Time%20For%20Thinking%20%28892%29/Time%20For%20Thinking%20-%20Howard%20Marks.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Howard Marks</name>
+      <uri>../author_0/author_715_Page_1.xml</uri>
+    </author>
+    <published>2020-08-05T00:22:27Z</published>
+    <link href="../book_0/book_892.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Timing Technology: Lessons From The Media Lab</title>
+    <id>calibre:book:701</id>
+    <updated>2020-03-28T11:32:38Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Gwen/Timing%20Technology_%20Lessons%20From%20The%20Media%20Lab%20%28701%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Gwen/Timing%20Technology_%20Lessons%20From%20The%20Media%20Lab%20%28701%29/Timing%20Technology_%20Lessons%20From%20The%20Media%20-%20Gwen.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Gwen</name>
+      <uri>../author_0/author_497_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_701.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Titan</title>
+    <id>calibre:book:558</id>
+    <updated>2020-03-28T07:07:18Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Ron%20Chernow/Titan%20%28558%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Ron%20Chernow/Titan%20%28558%29/Titan%20-%20Ron%20Chernow.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Ron%20Chernow/Titan%20%28558%29/Titan%20-%20Ron%20Chernow.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Ron%20Chernow/Titan%20%28558%29/Titan%20-%20Ron%20Chernow.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Ron Chernow</name>
+      <uri>../author_0/author_314_Page_1.xml</uri>
+    </author>
+    <published>2009-04-06T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Vintage Books</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_558.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Too Big to Fail: The Inside Story of How Wall Street and Washington Fought to Save the Financial System--and Themselves ****</title>
+    <id>calibre:book:557</id>
+    <updated>2020-03-28T07:52:44Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Andrew%20Ross%20Sorkin/Too%20Big%20to%20Fail_%20The%20Inside%20Story%20of%20How%20Wall%20Street%20and%20Washington%20Fought%20to%20Save%20the%20Financia%20%28557%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Andrew%20Ross%20Sorkin/Too%20Big%20to%20Fail_%20The%20Inside%20Story%20of%20How%20Wall%20Street%20and%20Washington%20Fought%20to%20Save%20the%20Financia%20%28557%29/Too%20Big%20to%20Fail_%20The%20Inside%20Story%20of%20How%20W%20-%20Andrew%20Ross%20Sorkin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Andrew%20Ross%20Sorkin/Too%20Big%20to%20Fail_%20The%20Inside%20Story%20of%20How%20Wall%20Street%20and%20Washington%20Fought%20to%20Save%20the%20Financia%20%28557%29/Too%20Big%20to%20Fail_%20The%20Inside%20Story%20of%20How%20W%20-%20Andrew%20Ross%20Sorkin.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Andrew%20Ross%20Sorkin/Too%20Big%20to%20Fail_%20The%20Inside%20Story%20of%20How%20Wall%20Street%20and%20Washington%20Fought%20to%20Save%20the%20Financia%20%28557%29/Too%20Big%20to%20Fail_%20The%20Inside%20Story%20of%20How%20W%20-%20Andrew%20Ross%20Sorkin.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Andrew Ross Sorkin</name>
+      <uri>../author_0/author_313_Page_1.xml</uri>
+    </author>
+    <published>2010-09-07T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Group</dcterms:publisher>
+    <category term="General" />
+    <category term="United States" />
+    <category term="History" />
+    <category term="Business &amp; Economics" />
+    <category term="Economics" />
+    <category term="Finance" />
+    <category term="Economic History" />
+    <category term="Financial crises" />
+    <category term="Economic Conditions" />
+    <category term="Global Financial Crisis; 2008-2009" />
+    <category term="21st century" />
+    <category term="Banks and banking" />
+    <category term="Financial crises - United States - History - 21st century" />
+    <category term="Lang:en" />
+    <summary>A brilliantly reported true-life thriller that goes behind the scenes of the financial crisis on Wall Street and in Washington. In one of the most gripping financial narratives in decades, Andrew Ross Sorkin-a New York Times columnist and one of the ...</summary>
+    <link href="../book_0/book_557.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Tools of Titans</title>
+    <id>calibre:book:466</id>
+    <updated>2020-03-28T07:19:18Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Timothy%20Ferriss/Tools%20of%20Titans%20%28466%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Timothy%20Ferriss/Tools%20of%20Titans%20%28466%29/Tools%20of%20Titans%20-%20Timothy%20Ferriss.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Timothy%20Ferriss/Tools%20of%20Titans%20%28466%29/Tools%20of%20Titans%20-%20Timothy%20Ferriss.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Timothy%20Ferriss/Tools%20of%20Titans%20%28466%29/Tools%20of%20Titans%20-%20Timothy%20Ferriss.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Timothy Ferriss</name>
+      <uri>../author_0/author_192_Page_1.xml</uri>
+    </author>
+    <published>2016-10-25T06:21:22Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Houghton Mifflin Harcourt</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>The latest groundbreaking tome from Tim Ferriss, the #1 New York Times best-selling author of The 4-Hour Workweek. From the author:  "For the last two years, I've interviewed nearly two hundred world-class performers for my podcast, The Tim Ferriss S...</summary>
+    <link href="../book_0/book_466.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Total Freedom: The Essential Krishnamurti</title>
+    <id>calibre:book:510</id>
+    <updated>2019-12-07T00:47:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Krishnamurti/Total%20Freedom_%20The%20Essential%20Krishnamurti%20%28510%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Krishnamurti/Total%20Freedom_%20The%20Essential%20Krishnamurti%20%28510%29/Total%20Freedom_%20The%20Essential%20Krishnamurti%20-%20Krishnamurti.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Krishnamurti/Total%20Freedom_%20The%20Essential%20Krishnamurti%20%28510%29/Total%20Freedom_%20The%20Essential%20Krishnamurti%20-%20Krishnamurti.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Krishnamurti/Total%20Freedom_%20The%20Essential%20Krishnamurti%20%28510%29/Total%20Freedom_%20The%20Essential%20Krishnamurti%20-%20Krishnamurti.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Krishnamurti</name>
+      <uri>../author_0/author_260_Page_1.xml</uri>
+    </author>
+    <published>2010-05-15T03:45:00Z</published>
+    <link href="../book_0/book_510.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Traction</title>
+    <id>calibre:book:796</id>
+    <updated>2020-05-09T00:34:58Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Gino%20Wickman/Traction%20%28796%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Gino%20Wickman/Traction%20%28796%29/Traction%20-%20Gino%20Wickman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Gino%20Wickman/Traction%20%28796%29/Traction%20-%20Gino%20Wickman.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Gino Wickman</name>
+      <uri>../author_0/author_581_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>BenBella</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_796.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Trading and Exchanges</title>
+    <id>calibre:book:848</id>
+    <updated>2020-07-09T01:08:12Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Larry%20Harris/Trading%20and%20Exchanges%20%28848%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Larry%20Harris/Trading%20and%20Exchanges%20%28848%29/Trading%20and%20Exchanges%20-%20Larry%20Harris.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Larry%20Harris/Trading%20and%20Exchanges%20%28848%29/Trading%20and%20Exchanges%20-%20Larry%20Harris.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Larry Harris</name>
+      <uri>../author_0/author_627_Page_1.xml</uri>
+    </author>
+    <published>2003-07-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Oxford University Press, Inc</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_848.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Trance and Treatment - Clinical Uses of Hypnosis</title>
+    <id>calibre:book:882</id>
+    <updated>2020-07-28T07:04:42Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Spiegel%2C%20Herbert%3B%20Spiegel%2C%20David/Trance%20and%20Treatment%20-%20Clinical%20Uses%20of%20Hypnosis%20%28882%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Spiegel%2C%20Herbert%3B%20Spiegel%2C%20David/Trance%20and%20Treatment%20-%20Clinical%20Uses%20of%20Hypnosis%20%28882%29/Trance%20and%20Treatment%20-%20Clinical%20Uses%20of%20Hy%20-%20Spiegel%2C%20Herbert%3B%20Spiegel%2C%20David.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Spiegel, Herbert; Spiegel, David</name>
+      <uri>../author_0/author_675_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_882.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Trepret: A Probabilistic Programming language for Program Induction</title>
+    <id>calibre:book:637</id>
+    <updated>2020-03-28T11:32:32Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Arxiv/Trepret_%20A%20Probabilistic%20Programming%20language%20for%20Program%20Induction%20%28637%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Arxiv/Trepret_%20A%20Probabilistic%20Programming%20language%20for%20Program%20Induction%20%28637%29/Trepret_%20A%20Probabilistic%20Programming%20langu%20-%20Arxiv.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Arxiv</name>
+      <uri>../author_0/author_503_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_637.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Trial ***</title>
+    <id>calibre:book:35</id>
+    <updated>2019-12-07T00:47:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Franz%20Kafka/The%20Trial%20%2835%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Franz%20Kafka/The%20Trial%20%2835%29/The%20Trial%20-%20Franz%20Kafka.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Franz%20Kafka/The%20Trial%20%2835%29/The%20Trial%20-%20Franz%20Kafka.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Franz%20Kafka/The%20Trial%20%2835%29/The%20Trial%20-%20Franz%20Kafka.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Franz Kafka</name>
+      <uri>../author_0/author_32_Page_1.xml</uri>
+    </author>
+    <published>1995-03-27T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Aegitas</dcterms:publisher>
+    <category term="Philosophy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Classics" />
+    <category term="Political" />
+    <category term="Mystery &amp; Detective" />
+    <category term="Police Procedural" />
+    <category term="Thrillers" />
+    <category term="Lang:en" />
+    <summary>The Trial and (original German title: Der Process,[1] later Der Proceß, Der Prozeß and Der Prozess and ) is a novel written by Franz Kafka between 1914 and 1915 and published posthumously in 1925. One of his best-known works, it tells the story of J...</summary>
+    <link href="../book_0/book_35.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Tribe</title>
+    <id>calibre:book:642</id>
+    <updated>2020-03-28T07:26:50Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Sebastian%20Junger/Tribe%20%28642%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Sebastian%20Junger/Tribe%20%28642%29/Tribe%20-%20Sebastian%20Junger.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Sebastian%20Junger/Tribe%20%28642%29/Tribe%20-%20Sebastian%20Junger.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Sebastian Junger</name>
+      <uri>../author_0/author_392_Page_1.xml</uri>
+    </author>
+    <published>2016-05-24T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Grand Central Publishing</dcterms:publisher>
+    <category term="Social Science / Violence In Society" />
+    <category term="History / Military / Iraq War (2003-2011)" />
+    <category term="History / Military / Afghan War (2001-)" />
+    <category term="Lang:en" />
+    <summary>We have a strong instinct to belong to small groups defined by clear purpose and understanding -"tribes." This tribal connection has been largely lost in modern society, but regaining it may be the key to our psychological survival. Decades before th...</summary>
+    <link href="../book_0/book_642.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Tribe of Mentors</title>
+    <id>calibre:book:465</id>
+    <updated>2020-03-28T07:19:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Timothy%20Ferriss/Tribe%20of%20Mentors%20%28465%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Timothy%20Ferriss/Tribe%20of%20Mentors%20%28465%29/Tribe%20of%20Mentors%20-%20Timothy%20Ferriss.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Timothy%20Ferriss/Tribe%20of%20Mentors%20%28465%29/Tribe%20of%20Mentors%20-%20Timothy%20Ferriss.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Timothy%20Ferriss/Tribe%20of%20Mentors%20%28465%29/Tribe%20of%20Mentors%20-%20Timothy%20Ferriss.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Timothy Ferriss</name>
+      <uri>../author_0/author_192_Page_1.xml</uri>
+    </author>
+    <published>2017-11-20T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Houghton Mifflin Harcourt</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>We All Need Mentors. Here Are More than 100 of the World's Best. When facing life's questions, who do you turn to for advice? We all need mentors, particularly when the odds seem stacked against us. For this book, best-selling author Tim Ferriss trac...</summary>
+    <link href="../book_0/book_465.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Trip</title>
+    <id>calibre:book:64</id>
+    <updated>2020-03-28T07:30:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Tao%20Lin/Trip%20%2864%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Tao%20Lin/Trip%20%2864%29/Trip%20-%20Tao%20Lin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Tao%20Lin/Trip%20%2864%29/Trip%20-%20Tao%20Lin.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Tao%20Lin/Trip%20%2864%29/Trip%20-%20Tao%20Lin.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Tao Lin</name>
+      <uri>../author_0/author_54_Page_1.xml</uri>
+    </author>
+    <published>2018-05-02T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Knopf Doubleday Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Part memoir, part history, part journalistic expos&amp;eacute;, Trip is a look at psychedelic drugs, literature, and alienation from one of the twenty-first century's most innovative novelists&amp;#8212;The Electric Kool-Aid Acid Test for a new generation. A...</summary>
+    <link href="../book_0/book_64.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Tropic of Cancer</title>
+    <id>calibre:book:564</id>
+    <updated>2020-03-28T07:33:28Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Miller%2C%20Henry/Tropic%20of%20Cancer%20%28564%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Miller%2C%20Henry/Tropic%20of%20Cancer%20%28564%29/Tropic%20of%20Cancer%20-%20Miller%2C%20Henry.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Miller%2C%20Henry/Tropic%20of%20Cancer%20%28564%29/Tropic%20of%20Cancer%20-%20Miller%2C%20Henry.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Miller, Henry</name>
+      <uri>../author_0/author_319_Page_1.xml</uri>
+    </author>
+    <published>1961-10-15T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Grove Press</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Romance" />
+    <category term="Brooklyn (New York" />
+    <category term="General" />
+    <category term="Literary" />
+    <category term="Erotic stories" />
+    <category term="Erotic Fiction" />
+    <category term="Americans" />
+    <category term="Bohemianism" />
+    <category term="Authorship" />
+    <category term="Paris (France)" />
+    <category term="N.Y.)" />
+    <category term="Sex Customs" />
+    <category term="Lang:en" />
+    <summary>Amazon.com ReviewNo punches are pulled in Henry Miller's most famous work. Still pretty rough going for even our jaded sensibilities, but Tropic of Cancer is an unforgettable novel of self-confession. Maybe the most honest book ever written, this aut...</summary>
+    <link href="../book_0/book_564.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Tryptamine Palace</title>
+    <id>calibre:book:651</id>
+    <updated>2020-03-28T07:38:40Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/James%20Oroc/Tryptamine%20Palace%20%28651%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/James%20Oroc/Tryptamine%20Palace%20%28651%29/Tryptamine%20Palace%20-%20James%20Oroc.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/James%20Oroc/Tryptamine%20Palace%20%28651%29/Tryptamine%20Palace%20-%20James%20Oroc.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>James Oroc</name>
+      <uri>../author_0/author_402_Page_1.xml</uri>
+    </author>
+    <published>2009-11-10T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Park Street Press</dcterms:publisher>
+    <category term="Entheogens" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_651.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Turing's Cathedral</title>
+    <id>calibre:book:458</id>
+    <updated>2020-03-28T07:14:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/George%20Dyson/Turing%27s%20Cathedral%20%28458%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/George%20Dyson/Turing%27s%20Cathedral%20%28458%29/Turing%27s%20Cathedral%20-%20George%20Dyson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/George%20Dyson/Turing%27s%20Cathedral%20%28458%29/Turing%27s%20Cathedral%20-%20George%20Dyson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/George%20Dyson/Turing%27s%20Cathedral%20%28458%29/Turing%27s%20Cathedral%20-%20George%20Dyson.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>George Dyson</name>
+      <uri>../author_0/author_187_Page_1.xml</uri>
+    </author>
+    <published>2012-03-05T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Knopf Doubleday Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>"It is possible to invent a single machine which can be used to compute any computable sequence," twenty-four-year-old Alan Turing announced in 1936. In Turing's Cathedral, George Dyson focuses on a small group of men and women, led by John von Neuma...</summary>
+    <link href="../book_0/book_458.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Types as axioms, or playing god with static types</title>
+    <id>calibre:book:927</id>
+    <updated>2020-08-17T08:06:33Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Blog/Types%20as%20axioms%2C%20or%20playing%20god%20with%20static%20types%20%28927%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Blog/Types%20as%20axioms%2C%20or%20playing%20god%20with%20static%20types%20%28927%29/Types%20as%20axioms%2C%20or%20playing%20god%20with%20stati%20-%20Blog.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Blog</name>
+      <uri>../author_0/author_739_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_927.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

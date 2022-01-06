@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1233</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a52a9194-a926-498b-96f0-e510967a70dc</dc:identifier>
+        <dc:title>The Wife and Other Stories</dc:title>
+        <dc:creator opf:file-as="Chekhov, Anton" opf:role="aut">Anton Chekhov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-06-16T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;YEVGRAF IVANOVITCH SHIRYAEV, a small farmer, whose father, a parish priest, now deceased, had received a gift of three hundred acres of land from Madame Kuvshinnikov, a general's widow, was standing in a corner before a copper washing-stand, washing his hands. As usual, his face looked anxious and ill-humoured, and his beard was uncombed. "What weather!" he said. "It's not weather, but a curse laid upon us. It's raining again!" He grumbled on, while his family sat waiting at table for him to have finished washing his hands before beginning dinner. Fedosya Semyonovna, his wife, his son Pyotr, a student, his eldest daughter Varvara, and three small boys, had been sitting waiting a long time. The boys--Kolka, Vanka, and Arhipka--grubby, snub-nosed little fellows with chubby faces and tousled hair that wanted cutting, moved their chairs impatiently, while their elders sat without stirring, and apparently did not care whether they ate their dinner or waited.... As though trying their patience, ...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>eBookIt.com</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">EQPHenzSrWIC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781419187940</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1419187945</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Short Stories (Single Author)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anton Chekhov&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-05-26T15:19:35+00:00"/>
+        <meta name="calibre:title_sort" content="Wife and Other Stories, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

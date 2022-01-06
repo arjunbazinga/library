@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1708</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d4e07a8b-7ed5-42d1-b8d8-3c44cdc3f548</dc:identifier>
+        <dc:title>The Alliance: Managing Talent in the Networked Age</dc:title>
+        <dc:creator opf:file-as="Reid Hoffman , Ben Casnocha , Chris Yeh" opf:role="aut">Reid Hoffman , Ben Casnocha , Chris Yeh</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;The &lt;em&gt;New York Times&lt;/em&gt; Bestelling guide for managers and executives.&lt;/p&gt;
+&lt;p&gt;Introducing the new, &lt;em&gt;realistic&lt;/em&gt; loyalty pact between employer and employee. &lt;/p&gt;
+&lt;p&gt;The employer-employee relationship is broken, and managers face a seemingly impossible dilemma: the old model of guaranteed long-term employment no longer works in a business environment defined by continuous change, but neither does a system in which every employee acts like a free agent. &lt;/p&gt;
+&lt;p&gt;The solution? Stop thinking of employees as either family or as free agents. Think of them instead as &lt;em&gt;allies&lt;/em&gt;. &lt;/p&gt;
+&lt;p&gt;As a manager you want your employees to help transform the company for the future. And your employees want the company to help transform their careers for the long term. But this win-win scenario will happen only if both sides trust each other enough to commit to mutual investment and mutual benefit. Sadly, trust in the business world is hovering at an all-time low. &lt;/p&gt;
+&lt;p&gt;We can rebuild that lost trust with straight talk that recognizes the realities of the modern economy. So, paradoxically, the alliance begins with managers acknowledging that great employees might leave the company, and with employees being honest about their own career aspirations. &lt;/p&gt;
+&lt;p&gt;By putting this new alliance at the heart of your talent management strategy, you’ll not only bring back trust, you’ll be able to recruit and retain the entrepreneurial individuals you need to adapt to a fast-changing world. &lt;/p&gt;
+&lt;p&gt;These individuals, flexible, creative, and with a bias toward action, thrive when they’re on a specific “tour of duty”—when they have a mission that’s mutually beneficial to employee and company that can be completed in a realistic period of time. &lt;/p&gt;
+&lt;p&gt;Coauthored by the founder of LinkedIn, this bold but practical guide for managers and executives will give you the tools you need to recruit, manage, and retain the kind of employees who will make your company thrive in today’s world of constant innovation and fast-paced change. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Harvard Business Press</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1625275773</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">OvefAwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781625275776</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00JTJ84EW</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Human Resources &amp; Personnel Management</dc:subject>
+        <dc:subject>Management</dc:subject>
+        <dc:subject>Leadership</dc:subject>
+        <dc:subject>Organizational Development</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Reid Hoffman , Ben Casnocha , Chris Yeh&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-07-09T19:59:49+00:00"/>
+        <meta name="calibre:title_sort" content="Alliance: Managing Talent in the Networked Age, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

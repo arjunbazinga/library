@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">823</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">de450bbd-fb48-4a54-9cba-04f3fedfe0b4</dc:identifier>
+        <dc:title>A Billion Wicked Thoughts: What the Internet Tells Us About Sexual Relationships</dc:title>
+        <dc:creator opf:file-as="Ogas, Ogi &amp; Gaddam, Sai" opf:role="aut">Ogi Ogas</dc:creator>
+        <dc:creator opf:file-as="Ogas, Ogi &amp; Gaddam, Sai" opf:role="aut">Sai Gaddam</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-05-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;span style="font-style: italic; font-weight: 600"&gt;The&lt;/span&gt; &lt;strong&gt;book on sex in the twenty-first century&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;“ &lt;strong&gt;Alfred Kinsey only scratched the surface.&lt;/strong&gt; Interviewing a mere 18,000 horny humans? Please . . . Drs. Ogas and Gaddam [offer] hot new scientific findings.”— &lt;em&gt;The Washington Post&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;Want to know what really turns your partner on? &lt;em&gt;A Billion Wicked Thoughts&lt;/em&gt; offers the clearest picture ever of the differences between male and female sexuality and the teeming diversity of human desire. What makes men attracted to images and so predictable in their appetites? What makes the set up to a romantic evening so important for a woman? Why are women’s desires so hard to predict? &lt;/p&gt;
+&lt;p&gt;Neuroscientists Ogi Ogas and Sai Gaddam reveal the mechanics of sexual relationships based on their extensive research into the mountains of new data on human behavior available in online entertainment and traffic around the world. Not since Alfred Kinsey in the 1950s has there been such a revolution in our knowledge of what is really going on in the bedroom. What Ogas and Gaddam learned, and now share, will deepen and enrich the way you, and your partner, think and talk about sex. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>PLUME</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0452297877</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780452297876</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">rEXZygAACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Human Sexuality</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ogi Ogas&quot;: &quot;&quot;, &quot;Sai Gaddam&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-07-05T08:04:15+00:00"/>
+        <meta name="calibre:title_sort" content="Billion Wicked Thoughts: What the Internet Tells Us About Sexual Relationships, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

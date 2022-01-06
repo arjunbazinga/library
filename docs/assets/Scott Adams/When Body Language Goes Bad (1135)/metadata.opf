@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1135</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a3d08b5a-2f47-43a0-8c16-c0a4046e7a08</dc:identifier>
+        <dc:title>When Body Language Goes Bad</dc:title>
+        <dc:creator opf:file-as="Admas, Scott" opf:role="aut">Scott Adams</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-14T18:30:00+00:00</dc:date>
+        <dc:description>"&lt;I&gt;Dilbert&lt;/I&gt; is easily one of the most clever and consistently funny comics in current circulation. Like all great comic strips, it provides a much-needed daily dose of comedy and, most importantly, keeps its finger firmly planted on the pulse of truth while doing so."Some might think that the corporate scandals of 2002 could make it difficult to find anything funny about today's business world. But &lt;I&gt;When Body Language Goes Bad&lt;/I&gt; proves it will take more than that to slow down the inventive wit of Scott Adams, who clearly is never at a loss for finding hysterical things to mock in corporate life.&lt;P&gt;This marks the 21st collection of Adams' wildly popular comic strip, D&lt;I&gt;ilbert, &lt;/I&gt;which is featured in more than 2,000 newspapers worldwide. This book updates loyal readers on the so-called careers of Dilbert, Alice, Wally, Asok the intern, and other regulars as they wallow through pointless projects, mismanaged company takeovers, futile team-building exercises...</dc:description>
+        <dc:publisher>Andrews McMeel Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-1-4494-1763-5</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Scott Adams&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-12-11T07:48:33.950835+00:00" name="calibre:timestamp"/>
+        <meta content="When Body Language Goes Bad" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

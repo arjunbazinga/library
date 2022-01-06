@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">623</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a48c75f0-005b-4b66-9bc1-4859ca54e5f3</dc:identifier>
+        <dc:title>The Morning Paper - September 2017</dc:title>
+        <dc:creator opf:file-as="Colyer, Adrian" opf:role="aut">Adrian Colyer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-09T09:20:37+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Adrian Colyer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="The Morning Paper - Quaterly Review"/>
+        <meta name="calibre:series_index" content="6"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:30+00:00"/>
+        <meta name="calibre:title_sort" content="Morning Paper - September 2017, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

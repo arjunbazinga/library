@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1751</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">935b58d4-7f3f-43dd-b959-1cf3cbaf4665</dc:identifier>
+        <dc:title>HBR Guides Boxed Set (7 Books) (HBR Guide Series)</dc:title>
+        <dc:creator opf:file-as="Duarte, Nancy &amp; Garner, Bryan A. &amp; Dillon, Karen &amp; Review, Harvard Business" opf:role="aut">Nancy Duarte</dc:creator>
+        <dc:creator opf:file-as="Duarte, Nancy &amp; Garner, Bryan A. &amp; Dillon, Karen &amp; Review, Harvard Business" opf:role="aut">Bryan A. Garner</dc:creator>
+        <dc:creator opf:file-as="Duarte, Nancy &amp; Garner, Bryan A. &amp; Dillon, Karen &amp; Review, Harvard Business" opf:role="aut">Karen Dillon</dc:creator>
+        <dc:creator opf:file-as="Duarte, Nancy &amp; Garner, Bryan A. &amp; Dillon, Karen &amp; Review, Harvard Business" opf:role="aut">Harvard Business Review</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-05T11:10:45+00:00</dc:date>
+        <dc:description>Master your most pressing professional challenges with this seven-volume set that collects the smartest best practices from leading experts all in one place. HBR Guide to Better Business Writing and HBR Guide to Persuasive Presentations help you perfect your communication skills; HBR Guide to Managing Up and Across and HBR Guide to Office Politics show you how to build the best professional relationships; HBR Guide to Finance Basics for Managers is the one book you'll ever need to teach you about the numbers; HBR Guide to Project Management addresses tough questions such as how to manage stakeholder expectations and how to manage uncertainty in a complex project; and HBR Guide to Getting the Right Work Done goes beyond basic productivity tips to teach you how to prioritize and focus on your work. This specially priced set of the most popular books in the series makes a perfect gift for aspiring leaders looking for trusted advice. Arm yourself with the advice you need to succeed on the job, from the most trusted brand in business. Packed with how-to essentials from leading experts, the HBR Guides provide smart answers to your most pressing work challenges.</dc:description>
+        <dc:publisher>Harvard Business Review Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">5kHxrQEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781633690936</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Finance</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Management</dc:subject>
+        <dc:subject>Leadership</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nancy Duarte&quot;: &quot;&quot;, &quot;Bryan A. Garner&quot;: &quot;&quot;, &quot;Karen Dillon&quot;: &quot;&quot;, &quot;Harvard Business Review&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-11-05T10:57:36+00:00"/>
+        <meta name="calibre:title_sort" content="HBR Guides Boxed Set (7 Books) (HBR Guide Series)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

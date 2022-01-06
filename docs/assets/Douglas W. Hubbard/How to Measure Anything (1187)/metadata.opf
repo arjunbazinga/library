@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1187</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3a69ee02-22eb-45ff-b3b5-7aa6d368337d</dc:identifier>
+        <dc:title>How to Measure Anything</dc:title>
+        <dc:creator opf:file-as="Hubbard, Douglas" opf:role="aut">Douglas W. Hubbard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-02-24T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;Now updated with new measurement methods and new examples, &lt;i&gt;How to Measure Anything&lt;/i&gt; shows managers how to inform themselves in order to make less risky, more profitable business decisions&lt;/b&gt;&lt;p&gt;This insightful and eloquent book will show you how to measure those things in your own business, government agency or other organization that, until now, you may have considered "immeasurable," including customer satisfaction, organizational flexibility, technology risk, and technology ROI.&lt;li&gt;Adds new measurement methods, showing how they can be applied to a variety of areas such as risk management and customer satisfaction&lt;li&gt;Simplifies overall content while still making the more technical applications available to those readers who want to dig deeper&lt;li&gt;Continues to boldly assert that any perception of "immeasurability" is based on certain popular misconceptions about measurement and measurement methods&lt;li&gt;Shows the common reasoning for calling something immeasurable, and...</dc:description>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Douglas W. Hubbard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-01-17T17:39:16+00:00"/>
+        <meta name="calibre:title_sort" content="How to Measure Anything"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

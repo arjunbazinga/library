@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Previous six months</title>
+  <id>Calibre2opds:recent:SIXMONTHS</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./recent_SIXMONTHS_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Previous six months" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
+  <entry>
+    <title>The Morning Paper - January 2017 [March 28, 2020]</title>
+    <id>calibre:book:620</id>
+    <updated>2020-03-28T11:32:30Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Adrian%20Colyer/The%20Morning%20Paper%20-%20January%202017%20%28620%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Adrian%20Colyer/The%20Morning%20Paper%20-%20January%202017%20%28620%29/The%20Morning%20Paper%20-%20January%202017%20-%20Adrian%20Colyer.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Adrian Colyer</name>
+      <uri>../author_0/author_520_Page_1.xml</uri>
+    </author>
+    <published>2017-01-05T08:04:08Z</published>
+    <category term="Morning Paper - Quaterly Review" />
+    <summary>The Morning Paper - Quaterly Review [3]:</summary>
+    <link href="../book_0/book_620.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Designing Data-Intensive Applications [March 28, 2020]</title>
+    <id>calibre:book:612</id>
+    <updated>2020-03-28T11:32:28Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Martin%20Kleppmann/Designing%20Data-Intensive%20Applications%20%28612%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Martin%20Kleppmann/Designing%20Data-Intensive%20Applications%20%28612%29/Designing%20Data-Intensive%20Applications%20-%20Martin%20Kleppmann.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Martin Kleppmann</name>
+      <uri>../author_0/author_372_Page_1.xml</uri>
+    </author>
+    <published>2017-03-01T06:01:20Z</published>
+    <link href="../book_0/book_612.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Essays of Ralph Waldo Emerson [March 28, 2020]</title>
+    <id>calibre:book:613</id>
+    <updated>2020-03-28T07:14:46Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Ralph%20Waldo%20Emerson/The%20Essays%20of%20Ralph%20Waldo%20Emerson%20%28613%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Ralph%20Waldo%20Emerson/The%20Essays%20of%20Ralph%20Waldo%20Emerson%20%28613%29/The%20Essays%20of%20Ralph%20Waldo%20Emerson%20-%20Ralph%20Waldo%20Emerson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Ralph%20Waldo%20Emerson/The%20Essays%20of%20Ralph%20Waldo%20Emerson%20%28613%29/The%20Essays%20of%20Ralph%20Waldo%20Emerson%20-%20Ralph%20Waldo%20Emerson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Ralph Waldo Emerson</name>
+      <uri>../author_0/author_373_Page_1.xml</uri>
+    </author>
+    <published>1987-04-01T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Belknap Press: An Imprint of Harvard University Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Ralph Waldo Emerson, Alfred Kazin observes in his Introduction, “was a great writer who turned the essay into a form all his own.” His celebrated essays―the twelve published in Essays: First Series (1841) and eight in Essays: Second Series (1844)―ar...</summary>
+    <link href="../book_0/book_613.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Pride and Prejudice [March 28, 2020]</title>
+    <id>calibre:book:614</id>
+    <updated>2020-03-28T07:00:14Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Jane%20Austen/Pride%20and%20Prejudice%20%28614%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Jane%20Austen/Pride%20and%20Prejudice%20%28614%29/Pride%20and%20Prejudice%20-%20Jane%20Austen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Jane%20Austen/Pride%20and%20Prejudice%20%28614%29/Pride%20and%20Prejudice%20-%20Jane%20Austen.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Jane Austen</name>
+      <uri>../author_0/author_374_Page_1.xml</uri>
+    </author>
+    <published>2008-08-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Ignatius Press</dcterms:publisher>
+    <category term="Literary Criticism" />
+    <category term="Women Authors" />
+    <category term="Fiction" />
+    <category term="Classics" />
+    <category term="England -- Fiction" />
+    <category term="Young women -- Fiction" />
+    <category term="Love stories" />
+    <category term="Sisters -- Fiction" />
+    <category term="Domestic fiction" />
+    <category term="Courtship -- Fiction" />
+    <category term="Social classes -- Fiction" />
+    <category term="Lang:en" />
+    <summary>Pride and Prejudice is a novel of manners by Jane Austen, first published in 1813. The story follows the main character, Elizabeth Bennet, as she deals with issues of manners, upbringing, morality, education, and marriage in the society of the lande...</summary>
+    <link href="../book_0/book_614.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Applied Category Theory [March 28, 2020]</title>
+    <id>calibre:book:615</id>
+    <updated>2020-03-28T11:32:28Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Brendan%20Fong%2C%20David%20I.%20Spivak/Applied%20Category%20Theory%20%28615%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Brendan%20Fong%2C%20David%20I.%20Spivak/Applied%20Category%20Theory%20%28615%29/Applied%20Category%20Theory%20-%20Brendan%20Fong%2C%20David%20I.%20Spivak.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Brendan Fong, David I. Spivak</name>
+      <uri>../author_0/author_499_Page_1.xml</uri>
+    </author>
+    <published>2018-10-16T00:30:07Z</published>
+    <summary>18.S097 Applied Category Theory: Textbook</summary>
+    <link href="../book_0/book_615.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Visual Display of Quantitative Information [March 28, 2020]</title>
+    <id>calibre:book:616</id>
+    <updated>2020-03-28T11:32:28Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Edward%20R.%20Tufte/The%20Visual%20Display%20of%20Quantitative%20Information%20%28616%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Edward%20R.%20Tufte/The%20Visual%20Display%20of%20Quantitative%20Information%20%28616%29/The%20Visual%20Display%20of%20Quantitative%20Informa%20-%20Edward%20R.%20Tufte.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Edward R. Tufte</name>
+      <uri>../author_0/author_474_Page_1.xml</uri>
+    </author>
+    <published>2001-05-01T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Graphics Press</dcterms:publisher>
+    <category term="Data Visualization" />
+    <category term="Story-telling" />
+    <category term="Lang:en" />
+    <summary>This book deals with the theory and practice in the design of data graphics and makes the point that the most effective way to describe, explore, and summarize a set of numbers is to look at pictures of those numbers, through the use of statistical ...</summary>
+    <link href="../book_0/book_616.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Living within Limits Ecology, Economics &amp; Population Taboos [March 28, 2020]</title>
+    <id>calibre:book:617</id>
+    <updated>2020-03-28T11:32:28Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Garrett%20Hardin/Living%20within%20Limits%20Ecology%2C%20Economics%20%26%20Population%20Taboos%20%28617%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Garrett%20Hardin/Living%20within%20Limits%20Ecology%2C%20Economics%20%26%20Population%20Taboos%20%28617%29/Living%20within%20Limits%20Ecology%2C%20Economics%20%26%20-%20Garrett%20Hardin.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Garrett Hardin</name>
+      <uri>../author_0/author_473_Page_1.xml</uri>
+    </author>
+    <published>1995-08-26T04:12:01Z</published>
+    <dcterms:publisher>Oxford University Press</dcterms:publisher>
+    <summary>-, USA (1995)</summary>
+    <link href="../book_0/book_617.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Radical Markets: Uprooting Capitalism and Democracy for a Just Society [March 28, 2020]</title>
+    <id>calibre:book:608</id>
+    <updated>2020-03-28T07:15:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Eric%20Posner%2C%20E.%20Weyl/Radical%20Markets_%20Uprooting%20Capitalism%20and%20Democracy%20for%20a%20Just%20Society%20%28608%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Eric%20Posner%2C%20E.%20Weyl/Radical%20Markets_%20Uprooting%20Capitalism%20and%20Democracy%20for%20a%20Just%20Society%20%28608%29/Radical%20Markets_%20Uprooting%20Capitalism%20and%20-%20Eric%20Posner%2C%20E.%20Weyl.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Eric%20Posner%2C%20E.%20Weyl/Radical%20Markets_%20Uprooting%20Capitalism%20and%20Democracy%20for%20a%20Just%20Society%20%28608%29/Radical%20Markets_%20Uprooting%20Capitalism%20and%20-%20Eric%20Posner%2C%20E.%20Weyl.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Eric Posner, E. Weyl</name>
+      <uri>../author_0/author_481_Page_1.xml</uri>
+    </author>
+    <published>2018-05-14T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Princeton University Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_608.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Pimp: The Story of My Life [March 15, 2020]</title>
+    <id>calibre:book:607</id>
+    <updated>2020-03-28T07:50:44Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Iceberg%20Slim/Pimp_%20The%20Story%20of%20My%20Life%20%28607%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Iceberg%20Slim/Pimp_%20The%20Story%20of%20My%20Life%20%28607%29/Pimp_%20The%20Story%20of%20My%20Life%20-%20Iceberg%20Slim.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Iceberg%20Slim/Pimp_%20The%20Story%20of%20My%20Life%20%28607%29/Pimp_%20The%20Story%20of%20My%20Life%20-%20Iceberg%20Slim.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Iceberg Slim</name>
+      <uri>../author_0/author_804_Page_1.xml</uri>
+    </author>
+    <published>2011-05-09T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Cash Money Content</dcterms:publisher>
+    <category term="Biography &amp; Autobiography" />
+    <category term="Criminals &amp; Outlaws" />
+    <category term="Philosophy" />
+    <category term="Good &amp; Evil" />
+    <category term="Social Science" />
+    <category term="Ethnic Studies" />
+    <category term="African American Studies" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>“[In Pimp ], Iceberg Slim breaks down some of the coldest, capitalist concepts I’ve ever heard in my life.” —Dave Chappelle, from his Netflix special *The Bird Revelation* 
+An immersive experience unlike anything before it, Pimp is the classic hustl...</summary>
+    <link href="../book_0/book_607.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Where Good Ideas Come From [March 15, 2020]</title>
+    <id>calibre:book:606</id>
+    <updated>2020-03-28T07:26:06Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Steven%20Johnson/Where%20Good%20Ideas%20Come%20From%20%28606%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Steven%20Johnson/Where%20Good%20Ideas%20Come%20From%20%28606%29/Where%20Good%20Ideas%20Come%20From%20-%20Steven%20Johnson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Steven%20Johnson/Where%20Good%20Ideas%20Come%20From%20%28606%29/Where%20Good%20Ideas%20Come%20From%20-%20Steven%20Johnson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Steven Johnson</name>
+      <uri>../author_0/author_368_Page_1.xml</uri>
+    </author>
+    <published>2010-09-07T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Group USA, Inc.</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_606.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Artificial Intelligence : A modern Approach [March 6, 2020]</title>
+    <id>calibre:book:602</id>
+    <updated>2020-03-06T09:43:18Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Stuart%20Russell%2C%20Peter%20Norvig/Artificial%20Intelligence%20_%20A%20modern%20Approach%20%28602%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Stuart%20Russell%2C%20Peter%20Norvig/Artificial%20Intelligence%20_%20A%20modern%20Approach%20%28602%29/Artificial%20Intelligence%20_%20A%20modern%20Approac%20-%20Stuart%20Russell%2C%20Peter%20Norvig.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Stuart Russell, Peter Norvig</name>
+      <uri>../author_0/author_485_Page_1.xml</uri>
+    </author>
+    <published>2016-06-07T06:03:46Z</published>
+    <link href="../book_0/book_602.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Elixir in Action [March 6, 2020]</title>
+    <id>calibre:book:603</id>
+    <updated>2020-03-06T09:43:18Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Sasa%20Juric/Elixir%20in%20Action%20%28603%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Sasa%20Juric/Elixir%20in%20Action%20%28603%29/Elixir%20in%20Action%20-%20Sasa%20Juric.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Saša Jurić</name>
+      <uri>../author_0/author_475_Page_1.xml</uri>
+    </author>
+    <published>2019-01-30T00:55:38Z</published>
+    <dcterms:publisher>Manning Publications</dcterms:publisher>
+    <link href="../book_0/book_603.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Who Owns the Future [March 6, 2020]</title>
+    <id>calibre:book:604</id>
+    <updated>2020-03-28T07:29:32Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Lanier%2C%20Jaron/Who%20Owns%20the%20Future%20%28604%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Lanier%2C%20Jaron/Who%20Owns%20the%20Future%20%28604%29/Who%20Owns%20the%20Future%20-%20Lanier%2C%20Jaron.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Lanier%2C%20Jaron/Who%20Owns%20the%20Future%20%28604%29/Who%20Owns%20the%20Future%20-%20Lanier%2C%20Jaron.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Lanier, Jaron</name>
+      <uri>../author_0/author_367_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <link href="../book_0/book_604.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>How to Lie with Maps [March 6, 2020]</title>
+    <id>calibre:book:601</id>
+    <updated>2020-03-28T07:35:10Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Mark%20Monmonier/How%20to%20Lie%20with%20Maps%20%28601%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Mark%20Monmonier/How%20to%20Lie%20with%20Maps%20%28601%29/How%20to%20Lie%20with%20Maps%20-%20Mark%20Monmonier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Mark%20Monmonier/How%20to%20Lie%20with%20Maps%20%28601%29/How%20to%20Lie%20with%20Maps%20-%20Mark%20Monmonier.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Mark Monmonier</name>
+      <uri>../author_0/author_364_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>The University of Chicago Press</dcterms:publisher>
+    <category term="TEC048000 Technology &amp; Engineering / Cartography" />
+    <category term="ANT000000 Antiques &amp; Collectibles / General" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_601.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Street-Fighting Mathematics [March 6, 2020]</title>
+    <id>calibre:book:600</id>
+    <updated>2020-03-06T09:42:50Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Sanjoy%20Mahajan/Street-Fighting%20Mathematics%20%28600%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Sanjoy%20Mahajan/Street-Fighting%20Mathematics%20%28600%29/Street-Fighting%20Mathematics%20-%20Sanjoy%20Mahajan.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Sanjoy Mahajan</name>
+      <uri>../author_0/author_363_Page_1.xml</uri>
+    </author>
+    <published>2010-03-03T03:05:05Z</published>
+    <link href="../book_0/book_600.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Concepts of Modern Mathematics [March 6, 2020]</title>
+    <id>calibre:book:598</id>
+    <updated>2020-03-06T09:42:48Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Ian%20Stewart/Concepts%20of%20Modern%20Mathematics%20%28598%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Ian%20Stewart/Concepts%20of%20Modern%20Mathematics%20%28598%29/Concepts%20of%20Modern%20Mathematics%20-%20Ian%20Stewart.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Ian Stewart</name>
+      <uri>../author_0/author_360_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_598.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Human Use of Human Beings: Cybernetics and Society [March 6, 2020]</title>
+    <id>calibre:book:599</id>
+    <updated>2020-03-06T09:42:48Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Norbert%20Wiener/The%20Human%20Use%20of%20Human%20Beings_%20Cybernetics%20and%20Society%20%28599%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Norbert%20Wiener/The%20Human%20Use%20of%20Human%20Beings_%20Cybernetics%20and%20Society%20%28599%29/The%20Human%20Use%20of%20Human%20Beings_%20Cybernetics%20-%20Norbert%20Wiener.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Norbert Wiener</name>
+      <uri>../author_0/author_476_Page_1.xml</uri>
+    </author>
+    <published>1988-03-21T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Hachette UK</dcterms:publisher>
+    <category term="Computers" />
+    <category term="Cybernetics" />
+    <category term="Science" />
+    <category term="Ethics" />
+    <category term="Human-Computer Interaction (HCI)" />
+    <category term="Lang:en" />
+    <summary>This is one of the fundamental documents of our time, a period epitomized by the concepts of ‘information’ and ‘communications’. Norbert Wiener, a child prodigy and a great mathematician, coined the term ‘cybernetics’ to characterize a very general ...</summary>
+    <link href="../book_0/book_599.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Arithmetical Tugs of war and Bendord's Law [March 6, 2020]</title>
+    <id>calibre:book:597</id>
+    <updated>2020-03-06T09:42:32Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Alex%20Ely%20Kossovsky/Arithmetical%20Tugs%20of%20war%20and%20Bendord%27s%20Law%20%28597%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Alex%20Ely%20Kossovsky/Arithmetical%20Tugs%20of%20war%20and%20Bendord%27s%20Law%20%28597%29/Arithmetical%20Tugs%20of%20war%20and%20Bendord%27s%20Law%20-%20Alex%20Ely%20Kossovsky.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Alex Ely Kossovsky</name>
+      <uri>../author_0/author_516_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <summary>Multiplicative effects.</summary>
+    <link href="../book_0/book_597.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Man and Superman: A Comedy and a Philosophy [March 6, 2020]</title>
+    <id>calibre:book:596</id>
+    <updated>2020-03-28T07:48:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Bernard%20Shaw/Man%20and%20Superman_%20A%20Comedy%20and%20a%20Philosophy%20%28596%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Bernard%20Shaw/Man%20and%20Superman_%20A%20Comedy%20and%20a%20Philosophy%20%28596%29/Man%20and%20Superman_%20A%20Comedy%20and%20a%20Philosoph%20-%20Bernard%20Shaw.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Bernard%20Shaw/Man%20and%20Superman_%20A%20Comedy%20and%20a%20Philosophy%20%28596%29/Man%20and%20Superman_%20A%20Comedy%20and%20a%20Philosoph%20-%20Bernard%20Shaw.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Bernard Shaw</name>
+      <uri>../author_0/author_359_Page_1.xml</uri>
+    </author>
+    <published>2006-03-21T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Man-woman relationships -- Drama" />
+    <category term="English drama" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_596.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../recent/recent_SIXMONTHS_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (3 of 4)" />
+  <link href="../recent/recent_SIXMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 4)" />
+</feed>

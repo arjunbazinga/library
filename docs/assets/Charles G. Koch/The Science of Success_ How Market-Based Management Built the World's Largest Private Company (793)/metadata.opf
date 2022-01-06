@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">793</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d001e7e1-e24d-405c-b972-91e3569b9cca</dc:identifier>
+        <dc:title>The Science of Success: How Market-Based Management Built the World's Largest Private Company</dc:title>
+        <dc:creator opf:file-as="Koch, Charles G." opf:role="aut">Charles G. Koch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-02-25T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Praise for THE SCIENCE OF SUCCESS "Evaluating the success of an individual or company is a lot like judging a trapper by his pelts. Charles Koch has a lot of pelts. He has built Koch Industries into the world's largest privately held company, and this book is an insider's guide to how he did it. Koch has studied how markets work for decades, and his commitment to pass that knowledge on will inspire entrepreneurs for generations to come."&lt;br&gt;—T. Boone Pickens "A must-read for entrepreneurs and corporate executives that is also applicable to the wider world. MBM is an invaluable tool for engendering excellence for all groups, from families to nonprofit entities. Government leaders could avoid policy failures by heeding the science of human behavior."&lt;br&gt;—Richard L. Sharp, Chairman, CarMax "My father, Sam Walton, stressed the importance of fundamental principles—such as humility, integrity, respect, and creating value—that are the foundation for success. No one makes a better case for these principles than Charles Koch."&lt;br&gt;—Rob Walton, Chairman, Wal-Mart "What accounts for Koch Industries' spectacular success? Charles Koch calls it Market-Based Management: a vision that nurtures personal qualities of humility and integrity that build trust and the confidence to enhance future success through learning from failure, and a culture of thinking in terms of opportunity cost and comparative advantage for all employees."&lt;br&gt;—Vernon Smith, 2002 Nobel laureate in economics "In a very thoughtful, creative, and understandable way, Charles Koch explains how he has used the science of human behavior to create a culture that has produced one of the world's largest and most successful private companies. A must-read for anyone interested in creating value."&lt;br&gt;—William B. Harrison Jr., Former Chairman and CEO, JPMorgan Chase &amp;amp; Co. "The same exacting thought, rooted in the realities of human nature, that the framers of the U.S. Constitution put into building a nation of entrepreneurs, Charles Koch has framed to build an enduring company of entrepreneurs—a company larger than Microsoft, Dell, HP, and other giants. Every entrepreneur should study this book."&lt;br&gt;—Verne Harnish, founder, Young Entrepreneurs' Organization, author of Mastering the Rockefeller Habits, CEO, Gazelles Inc. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">ZG1pPhxlFAIC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780470148549</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0470139889</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Decision-Making &amp; Problem Solving</dc:subject>
+        <dc:subject>Management</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles G. Koch&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-05-09T07:04:33+00:00"/>
+        <meta name="calibre:title_sort" content="Science of Success: How Market-Based Management Built the World's Largest Private Company, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

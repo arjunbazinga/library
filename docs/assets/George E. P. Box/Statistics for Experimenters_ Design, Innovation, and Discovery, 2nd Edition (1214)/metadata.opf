@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1214</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1d763fc4-5ce8-47b2-957d-c088ed0df061</dc:identifier>
+        <dc:title>Statistics for Experimenters: Design, Innovation, and Discovery, 2nd Edition</dc:title>
+        <dc:creator opf:file-as="Box, George E. P." opf:role="aut">George E. P. Box</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-05-01T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;A Classic adapted to modern times&lt;/strong&gt; Rewritten and updated, this new edition of Statistics for Experimenters adopts the same approaches as the landmark First Edition by teaching with examples, readily understood graphics, and the appropriate use of computers. Catalyzing innovation, problem solving, and discovery, the Second Edition provides experimenters with the scientific and statistical tools needed to maximize the knowledge gained from research data, illustrating how these tools may best be utilized during all stages of the investigative process. The authors’ practical approach starts with a problem that needs to be solved and then examines the appropriate statistical methods of design and analysis. Providing even greater accessibility for its users, the Second Edition is thoroughly revised and updated to reflect the changes in techniques and technologies since the publication of the classic First Edition. Among the new topics included are: * Graphical Analysis of Variance * Computer Analysis of Complex Designs * Simplification by transformation * Hands-on experimentation using Response Service Methods * Further development of robust product and process design using split plot arrangements and minimization of error transmission * Introduction to Process Control, Forecasting and Time Series * Illustrations demonstrating how multi-response problems can be solved using the concepts of active and inert factor spaces and canonical spaces * Bayesian approaches to model selection and sequential experimentation&lt;/p&gt;
+&lt;p&gt;An appendix featuring Quaquaversal quotes from a variety of sources including noted statisticians and scientists to famous philosophers is provided to illustrate key concepts and enliven the learning process. All the computations in the Second Edition can be done utilizing the statistical language R. Functions for displaying ANOVA and lamba plots, Bayesian screening, and model building are all included and R packages are available online. All theses topics can also be applied utilizing easy-to-use commercial software packages. Complete with applications covering the physical, engineering, biological, and social sciences, Statistics for Experimenters is designed for individuals who must use statistical approaches to conduct an experiment, but do not necessarily have formal training in statistics. Experimenters need only a basic understanding of mathematics to master all the statistical methods presented. This text is an essential reference for all researchers and is a highly recommended course book for undergraduate and graduate students. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Wiley-Interscience</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0471718130</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780471718130</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;George E. P. Box&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-04-25T06:55:53+00:00"/>
+        <meta name="calibre:title_sort" content="Statistics for Experimenters: Design, Innovation, and Discovery, 2nd Edition"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

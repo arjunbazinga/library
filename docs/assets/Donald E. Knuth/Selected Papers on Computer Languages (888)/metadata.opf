@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">888</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6ed06922-e93a-4a84-a19b-5ed22f6e84fe</dc:identifier>
+        <dc:title>Selected Papers on Computer Languages</dc:title>
+        <dc:creator opf:file-as="Knuth, Donald E." opf:role="aut">Donald E. Knuth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-12-01T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;This volume, sixth in a series of collected works by world-renowned computer scientist Donald E. Knuth, assembles approximately two dozen of his pioneering contributions to the field of computer languages, including papers on ALGOL, SOL, Runcible, and FORTRAN. Papers on the early development of programming languages, the history of writing compilers, the characterization of parenthesis languages, and the semantics of context-free languages are also included.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Center for the Study of Language and Inf</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781575863818</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1575863812</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Donald E. Knuth&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="CSLI Lecture Notes"/>
+        <meta name="calibre:series_index" content="139"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2002-07-29T19:27:03+00:00"/>
+        <meta name="calibre:title_sort" content="Selected Papers on Computer Languages"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">549</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6e973dc2-b10e-4de7-b6e9-9c408b0f2760</dc:identifier>
+        <dc:title>Sorting Things Out: Classification and Its Consequences</dc:title>
+        <dc:creator opf:file-as="Bowker, Geoffrey C." opf:role="aut">Geoffrey C. Bowker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-12-31T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;A revealing and surprising look at how classification systems can shape both worldviews and social interactions.&lt;/strong&gt; What do a seventeenth-century mortality table (whose causes of death include "fainted in a bath," "frighted," and "itch"); the identification of South Africans during apartheid as European, Asian, colored, or black; and the separation of machine- from hand-washables have in common? All are examples of classification―the scaffolding of information infrastructures. In &lt;em&gt;Sorting Things Out&lt;/em&gt; , Geoffrey C. Bowker and Susan Leigh Star explore the role of categories and standards in shaping the modern world. In a clear and lively style, they investigate a variety of classification systems, including the International Classification of Diseases, the Nursing Interventions Classification, race classification under apartheid in South Africa, and the classification of viruses and of tuberculosis. The authors emphasize the role of invisibility in the process by which classification orders human interaction. They examine how categories are made and kept invisible, and how people can change this invisibility when necessary. They also explore systems of classification as part of the built information environment. Much as an urban historian would review highway permits and zoning decisions to tell a city's story, the authors review archives of classification design to understand how decisions have been made. &lt;em&gt;Sorting Things Out&lt;/em&gt; has a moral agenda, for each standard and category valorizes some point of view and silences another. Standards and classifications produce advantage or suffering. Jobs are made and lost; some regions benefit at the expense of others. How these choices are made and how we think about that process are at the moral and political core of this work. The book is an important empirical source for understanding the building of information infrastructures. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>MIT Press</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0262522950</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Society</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Geoffrey C. Bowker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2019-01-30T15:12:12+00:00"/>
+        <meta name="calibre:title_sort" content="Sorting Things Out: Classification and Its Consequences"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

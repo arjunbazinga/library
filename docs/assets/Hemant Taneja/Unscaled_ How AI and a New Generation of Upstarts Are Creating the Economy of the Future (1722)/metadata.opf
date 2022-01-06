@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1722</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8f4d441c-0c94-4320-93fa-088bf2fb2654</dc:identifier>
+        <dc:title>Unscaled: How AI and a New Generation of Upstarts Are Creating the Economy of the Future</dc:title>
+        <dc:creator opf:file-as="Taneja, Hemant" opf:role="aut">Hemant Taneja</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-03-27T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Unscaled&lt;/em&gt; identifies the forces that are reshaping the global economy and turning one of the fundamental laws of business and society -- the economies of scale -- on its head.&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;An innovative trend combining technology with economics is unraveling behemoth industries -- including corporations, banks, farms, media conglomerates, energy systems, governments, and schools-that have long dominated business and society. Size and scale have become a liability. A new generation of upstarts is using artificial intelligence to automate tasks that once required expensive investment, and "renting" technology platforms to build businesses for hyper-focused markets, enabling them to grow big without the bloat of giant organizations.  &lt;/p&gt;
+&lt;p&gt;In &lt;em&gt;Unscaled&lt;/em&gt; , venture capitalist Hemant Taneja explains how the unscaled phenomenon allowed Warby Parker to cheaply and easily start a small company, build a better product, and become a global competitor in no time, upending entrenched eyewear giant Luxottica. It similarly enabled Stripe to take on established payment processors throughout the world, and Livongo to help diabetics control their disease while simultaneously cutting the cost of treatment. The unscaled economy is remaking massive, deeply rooted industries and opening up fantastic possibilities for entrepreneurs, imaginative companies, and resourceful individuals. It can be the model for solving some of the world's greatest problems, including climate change and soaring health-care costs, but will also unleash new challenges that today's leaders must address.
+**&lt;/p&gt;</dc:description>
+        <dc:publisher>PublicAffairs</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1610398122</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">xrh9swEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781610398121</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Entrepreneurship</dc:subject>
+        <dc:subject>Economic Conditions</dc:subject>
+        <dc:subject>Corporate Finance</dc:subject>
+        <dc:subject>Venture Capital</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hemant Taneja&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-08-01T07:42:32+00:00"/>
+        <meta name="calibre:title_sort" content="Unscaled: How AI and a New Generation of Upstarts Are Creating the Economy of the Future"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

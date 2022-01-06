@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">99</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">971e63ea-c0d1-4759-9e49-954d1faae207</dc:identifier>
+        <dc:title>The Age of Comfort: When Paris Discovered Casual--And the Modern Home Began</dc:title>
+        <dc:creator opf:file-as="Dejean, Joan" opf:role="aut">Joan Dejean</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-30T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Today, it is difficult to imagine a living room without a sofa. When the first sofas on record were delivered in seventeenth-century France, the result was a radical reinvention of interior space. Symptomatic of a new age of casualness and comfort, the sofa ushered in an era known as the golden age of conversation; as the first piece of furniture designed for two, it was also considered an invitation to seduction. With the sofa came many other changes in interior space we now take for granted: private bedrooms, bathrooms, and the original living rooms. &lt;br&gt;None of this could have happened without a colorful cast of visionaries-legendary architects, the first interior designers, and the women who shaped the tastes of two successive kings of France: Louis XIV's mistress Madame de Maintenon and Louis XV's mistress Madame de Pompadour. Their revolutionary ideas would have a direct influence on realms outside the home, from clothing to literature and gender relations, changing the way people lived and related to one another for the foreseeable future. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Bloomsbury USA</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B002WOD93M</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781608191352</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">77bmR51Qh9QC</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">44618b4a-f7fc-4408-b9f6-6f70d5a03e37</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Architecture</dc:subject>
+        <dc:subject>Interior Design</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>House &amp; Home</dc:subject>
+        <dc:subject>Decorating</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joan Dejean&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2018-06-26T08:49:05+00:00"/>
+        <meta name="calibre:title_sort" content="Age of Comfort: When Paris Discovered Casual--And the Modern Home Began, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">898</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">859df3d8-8430-468f-9c80-376f928ae7ca</dc:identifier>
+        <dc:title>Security Engineering: A Guide to Building Dependable Distributed Systems</dc:title>
+        <dc:creator opf:file-as="Anderson, Ross J." opf:role="aut">Ross J. Anderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-04-13T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The world has changed radically since the first edition of this book was published in 2001. Spammers, virus writers, phishermen, money launderers, and spies now trade busily with each other in a lively online criminal economy and as they specialize, they get better. In this indispensable, fully updated guide, Ross Anderson reveals how to build systems that stay dependable whether faced with error or malice. Here's straight talk on critical topics such as technical engineering basics, types of attack, specialized protection mechanisms, security psychology, policy, and more. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780470068526</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0470068523</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">ILaY4jBWXfcC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Security</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Networking</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ross J. Anderson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-08-09T07:29:04+00:00"/>
+        <meta name="calibre:title_sort" content="Security Engineering: A Guide to Building Dependable Distributed Systems"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1750</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">958f37b8-5921-485a-8572-c3ac60e207df</dc:identifier>
+        <dc:title>The Goal: A Process of Ongoing Improvement</dc:title>
+        <dc:creator opf:file-as="Goldratt, Eliyahu M. &amp; Cox, Jeff &amp; Whitford, David" opf:role="aut">Eliyahu M. Goldratt</dc:creator>
+        <dc:creator opf:file-as="Goldratt, Eliyahu M. &amp; Cox, Jeff &amp; Whitford, David" opf:role="aut">Jeff Cox</dc:creator>
+        <dc:creator opf:file-as="Goldratt, Eliyahu M. &amp; Cox, Jeff &amp; Whitford, David" opf:role="aut">David Whitford</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-06-15T11:10:50+00:00</dc:date>
+        <dc:description>"This book, which introduces the Theory of Constraints, is changing how America does business. The Goal is a gripping, fast-paced business novel about overcoming the barriers to making money. Over 2 million copies sold! Used by thousands of companies and hundreds of business schools! Required reading for anyone in the Theory of Constraints. This book, which introduces the Theory of Constraints, is changing how America does business. The Goal is a gripping, fast-paced business novel about overcoming the barriers to making money. You will learn the fundamentals of identifying and solving the problems created by constraints. From the moment you finish the book you will be able to start successfully addressing chronic productivity and quality problems."--Proporcionado por la editorial.</dc:description>
+        <dc:publisher>North River Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">6vdJLwEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780884271956</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Marketing</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Operations Research</dc:subject>
+        <dc:subject>Structural Adjustment</dc:subject>
+        <dc:subject>Organizational Behavior</dc:subject>
+        <dc:subject>Production &amp; Operations Management</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Eliyahu M. Goldratt&quot;: &quot;&quot;, &quot;Jeff Cox&quot;: &quot;&quot;, &quot;David Whitford&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-11-05T10:57:35+00:00"/>
+        <meta name="calibre:title_sort" content="Goal: A Process of Ongoing Improvement, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

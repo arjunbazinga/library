@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">933</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">98396d3b-b894-4660-b44f-d24f70d988c4</dc:identifier>
+        <dc:title>Buzzed: The Straight Facts About the Most Used and Abused Drugs From Alcohol to Ecstasy (Fully Revised and Updated Fourth Edition)</dc:title>
+        <dc:creator opf:file-as="Kuhn, Cynthia &amp; Swartzwelder, Scott &amp; Wilson, Wilkie" opf:role="aut">Cynthia Kuhn</dc:creator>
+        <dc:creator opf:file-as="Kuhn, Cynthia &amp; Swartzwelder, Scott &amp; Wilson, Wilkie" opf:role="aut">Scott Swartzwelder</dc:creator>
+        <dc:creator opf:file-as="Kuhn, Cynthia &amp; Swartzwelder, Scott &amp; Wilson, Wilkie" opf:role="aut">Wilkie Wilson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-08-10T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The fourth edition of the essential, accessible source for understanding how drugs work and their effects on body and behavior. A bestseller in its three previous editions, Buzzed is now revised and updated with the most recent discoveries about drugs. It includes new information about biological and behavioral changes in addiction, the prescription-drug abuse epidemic, distinctive drug effects on the adolescent brain, and trends from synthetic cannabinoids to e-cigarettes. “Lively, highly informative, unbiased, [and] thorough” (Addiction Research &amp;amp; Theory), this no-nonsense handbook surveys the most used and abused drugs from caffeine to heroin to methamphetamine. In both quick-reference summaries and in-depth analysis, it reports on how these drugs enter the body, how they manipulate the brain, their short-term and long-term effects, the different “highs” they produce, and the circumstances in which they can be deadly. Neither a “just say no” treatise nor a “how-to” manual, Buzzed is based on the conviction that people make better decisions with accurate information in hand.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>W. W. Norton &amp; Company</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">ea9bAwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780393349641</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Substance Abuse &amp; Addictions</dc:subject>
+        <dc:subject>Drugs</dc:subject>
+        <dc:subject>Education</dc:subject>
+        <dc:subject>Student Life &amp; Student Affairs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Cynthia Kuhn&quot;: &quot;&quot;, &quot;Scott Swartzwelder&quot;: &quot;&quot;, &quot;Wilkie Wilson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-08-21T08:16:06+00:00"/>
+        <meta name="calibre:title_sort" content="Buzzed: The Straight Facts About the Most Used and Abused Drugs From Alcohol to Ecstasy (Fully Revised and Updated Fourth Edition)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

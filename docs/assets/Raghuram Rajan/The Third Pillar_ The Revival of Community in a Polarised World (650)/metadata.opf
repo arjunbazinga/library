@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">650</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">82680f7d-bd68-4501-91c5-ff16b670f14a</dc:identifier>
+        <dc:title>The Third Pillar: The Revival of Community in a Polarised World</dc:title>
+        <dc:creator opf:file-as="Rajan, Raghuram" opf:role="aut">Raghuram Rajan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-25T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;SHORTLISTED FOR THE FINANCIAL TIMES AND MCKINSEY BUSINESS BOOK OF THE YEAR AWARD 2019 From one of the most important economic thinkers of our time, a brilliant and far-seeing analysis of the current populist backlash against globalization and how revitalising community can save liberal market democracy. Raghuram Rajan, author of the 2010 FT &amp;amp; Goldman-Sachs Book of the Year Fault Lines, has an unparalleled vantage point onto the social and economic consequences of globalization and their ultimate effect on politics and society. In The Third Pillar he offers up a magnificent big-picture framework for understanding how three key forces – the economy, society, and the state – interact, why things begin to break down, and how we can find our way back to a more secure and stable plane. The ‘third pillar’ of the title is society. Economists all too often understand their field as the relationship between the market and government, and leave social issues for other people. That's not just myopic, Rajan argues; it's dangerous. All economics is actually socioeconomics – all markets are embedded in a web of human relations, values and norms. As he shows, throughout history, technological innovations have ripped the market out of old webs and led to violent backlashes, and to what we now call populism. Eventually, a new equilibrium is reached, but it can be ugly and messy, especially if done wrong. Right now, we're doing it wrong. As markets scale up, government scales up with it, concentrating economic and political power in flourishing central hubs and leaving the periphery to decompose, figuratively and even literally. Instead, Rajan offers a way to rethink the relationship between the market and civil society and argues for a return to strengthening and empowering local communities as an antidote to growing despair and unrest. The Third Pillar is a masterpiece of explication, a book that will be a classic of its kind for its offering of a wise, authoritative and humane explanation of the forces that have wrought such a sea change in our lives. His ultimate argument that decision-making has to be watered at the grass roots or our democracy will continue to wither is sure to be both provocative and agenda-setting across the world.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins Publishers</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">SHNtDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780008276294</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Sociology</dc:subject>
+        <dc:subject>Technology &amp; Engineering</dc:subject>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>Economics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Raghuram Rajan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:34+00:00"/>
+        <meta name="calibre:title_sort" content="Third Pillar: The Revival of Community in a Polarised World, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

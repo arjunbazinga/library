@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with 7</title>
+  <id>Calibre2opds:allbooks:7</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_7_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with 7" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>7 Powers: The Foundations of Business Strategy</title>
+    <id>calibre:book:811</id>
+    <updated>2020-06-14T06:40:16Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Helmer%2C%20Hamilton/7%20Powers_%20The%20Foundations%20of%20Business%20Strategy%20%28811%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Helmer%2C%20Hamilton/7%20Powers_%20The%20Foundations%20of%20Business%20Strategy%20%28811%29/7%20Powers_%20The%20Foundations%20of%20Business%20Stra%20-%20Helmer%2C%20Hamilton.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Helmer%2C%20Hamilton/7%20Powers_%20The%20Foundations%20of%20Business%20Strategy%20%28811%29/7%20Powers_%20The%20Foundations%20of%20Business%20Stra%20-%20Helmer%2C%20Hamilton.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Helmer, Hamilton</name>
+      <uri>../author_0/author_591_Page_1.xml</uri>
+    </author>
+    <published>2016-11-15T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Deep Strategy LLC</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_811.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

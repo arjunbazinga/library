@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">952</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1901fbe3-fbf2-4d33-9a71-4f1e402671cd</dc:identifier>
+        <dc:title>How to Tame a Fox (And Build a Dog): Visionary Scientists and a Siberian Tale of Jump-Started Evolution</dc:title>
+        <dc:creator opf:file-as="Dugatkin, Lee Alan &amp; Trut, Lyudmila" opf:role="aut">Lee Alan Dugatkin</dc:creator>
+        <dc:creator opf:file-as="Dugatkin, Lee Alan &amp; Trut, Lyudmila" opf:role="aut">Lyudmila Trut</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-03-22T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Tucked away in Siberia, there are furry, four-legged creatures with wagging tails and floppy ears that are as docile and friendly as any lapdog. But, despite appearances, these are not dogs—they are foxes. They are the result of the most astonishing experiment in breeding ever undertaken—imagine speeding up thousands of years of evolution into a few decades. In 1959, biologists Dmitri Belyaev and Lyudmila Trut set out to do just that, by starting with a few dozen silver foxes from fox farms in the USSR and attempting to recreate the evolution of wolves into dogs in real time in order to witness the process of domestication. This is the extraordinary, untold story of this remarkable undertaking. Most accounts of the natural evolution of wolves place it over a span of about 15,000 years, but within a decade, Belyaev and Trut’s fox breeding experiments had resulted in puppy-like foxes with floppy ears, piebald spots, and curly tails. Along with these physical changes came genetic and behavioral changes, as well. The foxes were bred using selection criteria for tameness, and with each generation, they became increasingly interested in human companionship. Trut has been there the whole time, and has been the lead scientist on this work since Belyaev’s death in 1985, and with Lee Dugatkin, biologist and science writer, she tells the story of the adventure, science, politics, and love behind it all. In How to Tame a Fox, Dugatkin and Trut take us inside this path-breaking experiment in the midst of the brutal winters of Siberia to reveal how scientific history is made and continues to be made today. To date, fifty-six generations of foxes have been domesticated, and we continue to learn significant lessons from them about the genetic and behavioral evolution of domesticated animals. How to Tame a Fox offers an incredible tale of scientists at work, while also celebrating the deep attachments that have brought humans and animals together throughout time.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>University of Chicago Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">8ZUtDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">022644418X</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B06WWD9P7K</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780226444185</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Russia &amp; the Former Soviet Union</dc:subject>
+        <dc:subject>Nature</dc:subject>
+        <dc:subject>Animals</dc:subject>
+        <dc:subject>Mammals</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Life Sciences</dc:subject>
+        <dc:subject>Evolution</dc:subject>
+        <dc:subject>Zoology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lee Alan Dugatkin&quot;: &quot;&quot;, &quot;Lyudmila Trut&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-08-25T21:50:42+00:00"/>
+        <meta name="calibre:title_sort" content="How to Tame a Fox (And Build a Dog): Visionary Scientists and a Siberian Tale of Jump-Started Evolution"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

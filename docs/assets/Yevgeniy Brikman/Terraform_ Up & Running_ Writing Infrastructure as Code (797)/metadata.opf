@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">797</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d928108b-293e-404d-bcad-e7d85e4f83f0</dc:identifier>
+        <dc:title>Terraform: Up &amp; Running: Writing Infrastructure as Code</dc:title>
+        <dc:creator opf:file-as="Brikman, Yevgeniy" opf:role="aut">Yevgeniy Brikman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-05T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Terraform has become a key player in the DevOps world for defining, launching, and managing infrastructure as code (IaC) across a variety of cloud and virtualization platforms, including AWS, Google Cloud, Azure, and more. This hands-on second edition, expanded and thoroughly updated for Terraform version 0.12 and beyond, shows you the fastest way to get up and running.Gruntwork cofounder Yevgeniy (Jim) Brikman walks you through code examples that demonstrate Terraform’s simple, declarative programming language for deploying and managing infrastructure with a few commands. Veteran sysadmins, DevOps engineers, and novice developers will quickly go from Terraform basics to running a full stack that can support a massive amount of traffic and a large team of developers.Explore changes from Terraform 0.9 through 0.12, including backends, workspaces, and first-class expressionsLearn how to write production-grade Terraform modulesDive into manual and automated testing for Terraform codeCompare Terraform to Chef, Puppet, Ansible, CloudFormation, and Salt StackDeploy server clusters, load balancers, and databasesUse Terraform to manage the state of your infrastructureCreate reusable infrastructure with Terraform modulesUse advanced Terraform syntax to achieve zero-downtime deployment&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>"O'Reilly Media, Inc."</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">57ytDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781492046875</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>System Administration</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Systems Architecture</dc:subject>
+        <dc:subject>Distributed Systems &amp; Computing</dc:subject>
+        <dc:subject>Software Development &amp; Engineering</dc:subject>
+        <dc:subject>Systems Analysis &amp; Design</dc:subject>
+        <dc:subject>Internet</dc:subject>
+        <dc:subject>Application Development</dc:subject>
+        <dc:subject>Web</dc:subject>
+        <dc:subject>Web Programming</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Yevgeniy Brikman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-05-09T07:04:34+00:00"/>
+        <meta name="calibre:title_sort" content="Terraform: Up &amp; Running: Writing Infrastructure as Code"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

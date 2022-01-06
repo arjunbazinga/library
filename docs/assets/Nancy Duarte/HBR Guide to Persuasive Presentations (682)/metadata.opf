@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">682</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c5d7606-eef7-422d-b751-81bad16c0377</dc:identifier>
+        <dc:title>HBR Guide to Persuasive Presentations</dc:title>
+        <dc:creator opf:file-as="Duarte, Nancy" opf:role="aut">Nancy Duarte</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-09-18T07:00:00+00:00</dc:date>
+        <dc:publisher>Harvard Business Review Press</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B009G1W9JO</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Nancy Duarte&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:37+00:00"/>
+        <meta name="calibre:title_sort" content="HBR Guide to Persuasive Presentations"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

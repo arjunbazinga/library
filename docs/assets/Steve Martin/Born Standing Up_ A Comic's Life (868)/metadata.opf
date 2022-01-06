@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">868</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">68f91928-f4fd-416c-bda0-f6488dae8efd</dc:identifier>
+        <dc:title>Born Standing Up: A Comic's Life</dc:title>
+        <dc:creator opf:file-as="Martin, Steve" opf:role="aut">Steve Martin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-09-03T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The riveting, mega-bestselling, beloved and highly acclaimed memoir of a man, a vocation, and an era named one of the ten best nonfiction titles of the year by &lt;em&gt;Time&lt;/em&gt; and &lt;em&gt;Entertainment Weekly&lt;/em&gt;. &lt;/p&gt;
+&lt;p&gt;In the mid-seventies, Steve Martin exploded onto the comedy scene. By 1978 he was the biggest concert draw in the history of stand-up. In 1981 he quit forever. This book is, in his own words, the story of “why I did stand-up and why I walked away.” &lt;/p&gt;
+&lt;p&gt;Emmy and Grammy Award–winner, author of the acclaimed &lt;em&gt;New York Times&lt;/em&gt; bestsellers &lt;em&gt;Shopgirl&lt;/em&gt; and &lt;em&gt;The Pleasure of My Compan&lt;/em&gt; y, and a regular contributor to &lt;em&gt;The New Yorker&lt;/em&gt; , Martin has always been a writer. His memoir of his years in stand-up is candid, spectacularly amusing, and beautifully written. &lt;/p&gt;
+&lt;p&gt;At age ten Martin started his career at Disneyland, selling guidebooks in the newly opened theme park. In the decade that followed, he worked in the Disney magic shop and the Bird Cage Theatre at Knott’s Berry Farm, performing his first magic/comedy act a dozen times a week. The story of these years, during which he practiced and honed his craft, is moving and revelatory. The dedication to excellence and innovation is formed at an astonishingly early age and never wavers or wanes. &lt;/p&gt;
+&lt;p&gt;Martin illuminates the sacrifice, discipline, and originality that made him an icon and informs his work to this day. To be this good, to perform so frequently, was isolating and lonely. It took Martin decades to reconnect with his parents and sister, and he tells that story with great tenderness. Martin also paints a portrait of his times—the era of free love and protests against the war in Vietnam, the heady irreverence of &lt;em&gt;The Smothers Brothers Comedy Hour&lt;/em&gt; in the late sixties, and the transformative new voice of &lt;em&gt;Saturday Night Live&lt;/em&gt; in the seventies. &lt;/p&gt;
+&lt;p&gt;Throughout the text, Martin has placed photographs, many never seen before. &lt;em&gt;Born Standing Up&lt;/em&gt; is a superb testament to the sheer tenacity, focus, and daring of one of the greatest and most iconoclastic comedians of all time. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">Xjasgu7430UC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781847395849</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1416553657</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Biography &amp; Autobiography</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Steve Martin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-07-24T12:24:07+00:00"/>
+        <meta name="calibre:title_sort" content="Born Standing Up: A Comic's Life"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

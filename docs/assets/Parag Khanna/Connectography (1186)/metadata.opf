@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1186</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e31f5f17-d79a-4409-b732-8fd7b1c3f2ad</dc:identifier>
+        <dc:title>Connectography</dc:title>
+        <dc:creator opf:file-as="Khanna, Parag" opf:role="aut">Parag Khanna</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-04-19T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;From the visionary bestselling author of &lt;i&gt;The Second World &lt;/i&gt;and&lt;i&gt; How to Run the World &lt;/i&gt;comes a bracing and authoritative guide to a future shaped less by national borders than by global supply chains, a world in which the most connected powers&amp;#8212;and people&amp;#8212;will win.&lt;/b&gt;&lt;br&gt;Connectivity is the most revolutionary force of the twenty-first century. Mankind is reengineering the planet, investing up to ten trillion dollars per year in transportation, energy, and communications infrastructure linking the world's burgeoning mega-cities together. This has profound consequences for geopolitics, economics, demographics, the environment, and social identity. Connectivity, not geography, is our destiny.&lt;br&gt; In &lt;i&gt;Connectography, &lt;/i&gt;visionary strategist Parag Khanna travels from Ukraine to Iran, Mongolia to North Korea, Pakistan to Nigeria, and across the Arctic Circle and the South China Sea to explain the rapid and unprecedented changes affecting every part of the...</dc:description>
+        <dc:publisher>Random House Publishing Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Parag Khanna&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-01-17T16:56:11+00:00"/>
+        <meta name="calibre:title_sort" content="Connectography"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

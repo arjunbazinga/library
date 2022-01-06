@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">921</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9fea1260-3516-4ebe-b953-a4ded9ee88bc</dc:identifier>
+        <dc:title>Software Engineering at Google: Lessons Learned From Programming Over Time</dc:title>
+        <dc:creator opf:file-as="Winters, Titus &amp; Manshreck, Tom &amp; Wright, Hyrum" opf:role="aut">Titus Winters</dc:creator>
+        <dc:creator opf:file-as="Winters, Titus &amp; Manshreck, Tom &amp; Wright, Hyrum" opf:role="aut">Tom Manshreck</dc:creator>
+        <dc:creator opf:file-as="Winters, Titus &amp; Manshreck, Tom &amp; Wright, Hyrum" opf:role="aut">Hyrum Wright</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-27T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Today, software engineers need to know not only how to program effectively but also how to develop proper engineering practices to make their codebase sustainable and healthy. This book emphasizes this difference between programming and software engineering.How can software engineers manage a living codebase that evolves and responds to changing requirements and demands over the length of its life? Based on their experience at Google, software engineers Titus Winters and Hyrum Wright, along with technical writer Tom Manshreck, present a candid and insightful look at how some of the world’s leading practitioners construct and maintain software. This book covers Google’s unique engineering culture, processes, and tools and how these aspects contribute to the effectiveness of an engineering organization.You’ll explore three fundamental principles that software organizations should keep in mind when designing, architecting, writing, and maintaining code:How time affects the sustainability of software and how to make your code resilient over timeHow scale affects the viability of software practices within an engineering organizationWhat trade-offs a typical engineer needs to make when evaluating design and development decisions&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>"O'Reilly Media, Inc."</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">WXTTDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781492082743</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Systems Architecture</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Software Development &amp; Engineering</dc:subject>
+        <dc:subject>Systems Analysis &amp; Design</dc:subject>
+        <dc:subject>Quality Assurance &amp; Testing</dc:subject>
+        <dc:subject>Project Management</dc:subject>
+        <dc:subject>Tools</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Titus Winters&quot;: &quot;&quot;, &quot;Tom Manshreck&quot;: &quot;&quot;, &quot;Hyrum Wright&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-08-10T18:16:11+00:00"/>
+        <meta name="calibre:title_sort" content="Software Engineering at Google: Lessons Learned From Programming Over Time"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

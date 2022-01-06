@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">700</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">26b76afb-45d5-4155-bdda-f7c19a7f4ceb</dc:identifier>
+        <dc:title>Becoming a Supple Leopard</dc:title>
+        <dc:creator opf:file-as="Starrett, Kelly" opf:role="aut">Kelly Starrett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-03-14T18:30:00+00:00</dc:date>
+        <dc:publisher>Victory Belt Publishing Inc.</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Kelly Starrett&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-03-28T06:02:38.999539+00:00" name="calibre:timestamp"/>
+        <meta content="Becoming a Supple Leopard" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

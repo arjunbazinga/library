@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">706</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">925de634-a91f-4589-ad8b-a0a7f04e9412</dc:identifier>
+        <dc:title>The Fly</dc:title>
+        <dc:creator opf:file-as="Mansfield, Katherine" opf:role="aut">Katherine Mansfield</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;"The Fly", by Katherine Mansfield, deals with the aftermath of the loss of an only beloved son in the wake of World War I. Rife with symbolism, the short story leaves the listener with intriguing questions to ponder. "The Fly" is a wonderful example of writing from a century prior addressing contemporary issues.**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="AMAZON">B00JY0B6AA</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Katherine Mansfield&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:39+00:00"/>
+        <meta name="calibre:title_sort" content="Fly, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

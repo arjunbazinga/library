@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1731</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f772ad20-58a1-42c8-893f-710fc3653fc6</dc:identifier>
+        <dc:title>Sizing People Up: A Veteran FBI Agent's User Manual for Behavior Prediction</dc:title>
+        <dc:creator opf:file-as="Dreeke, Robin &amp; Stauth, Cameron" opf:role="aut">Robin Dreeke</dc:creator>
+        <dc:creator opf:file-as="Dreeke, Robin &amp; Stauth, Cameron" opf:role="aut">Cameron Stauth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-20T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A former FBI agent shares his simple but powerful toolkit for assessing who you can trust--and who you can't.After two decades as a behavior analyst in the FBI, Robin Dreeke knows a thing or two about sizing people up. He's navigated complex situations that range from handling Russian spies to navigating the internal politics at the Bureau. Through that experience, he was forced to develop a knack for reading people--their intentions, their capabilities, their desires and their fears.Dreeke's first book, It's Not All About "Me," has become a cult favorite with readers seeking to build quick rapport with others. His last book, The Code of Trust, was about how to inspire trust in others as a leader. In Sizing People Up, Dreeke shares his simple, six-step system that helps you predict anyone's future behavior based on their words, goals, patterns of action, and the situation at hand.Predicting the behavior of others is an urgent need for anyone whose work involves relationships with others, whether it's leading an organization, collaborating with a teammate, or closing a sale. But predictability is not as simple as good and evil, or truth and fiction. Allies might make a promise with every intention of keeping it, not realizing that they will be unable to do so due to some personal shortcoming. And those seeking to thwart your endeavor may not realize how reliable their malevolent tells have become.Dreeke's system is simple, but powerful. For instance, a colleague might have a strong moral code, but do they believe your relationship will be long-term? Even the most upstanding person can betray your trust if they don't see themselves tied to you or your desired result in the long term. How can you determine whether someone has both the skill and will to do what they've said they're going to do? Behaviors as subtle as how they take notes will reveal their reliability.Using this book as their manual, readers will be able to quickly and easily determine who they can trust and who they can't; who is likely to deliver on promises and who will disappoint; and when a person is vested in your success vs when they are actively plotting your demise. With this knowledge they can confidently embark on anything from a business venture to a romantic relationship to a covert operation without the stress of the unknown.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">6ACUDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780525540441</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Decision-Making &amp; Problem Solving</dc:subject>
+        <dc:subject>Business Communication</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Skills</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robin Dreeke&quot;: &quot;&quot;, &quot;Cameron Stauth&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-09-08T15:53:44+00:00"/>
+        <meta name="calibre:title_sort" content="Sizing People Up: A Veteran FBI Agent's User Manual for Behavior Prediction"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

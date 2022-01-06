@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1170</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d1b5d7c5-b3c0-4f3c-8420-ae540d34c8c9</dc:identifier>
+        <dc:title>Phil Gordon's Little Green Book: Lessons and Teachings in No Limit Texas Hold'em</dc:title>
+        <dc:creator opf:file-as="Gordon, Phil" opf:role="aut">Phil Gordon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-10-01T03:12:48+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Phil Gordon plays poker with the best players in the world. He has won -- and lost -- in tournaments and cash games around the globe, all the while studying the game and learning from every hand dealt. As the resident expert and cohost of &lt;em&gt;Celebrity Poker Showdown,&lt;/em&gt; Phil has quickly become one of the most sought-after teachers of No Limit Texas Hold'em. It's a tough game. But anyone can become a winning player with the right amount of courage, patience, aggression, observation, and, perhaps most important, dedication to becoming a better player. &lt;br&gt;After fifteen years of keeping notes on the things he's learned, the greats he's played with, and the celebrities he's taught, Phil Gordon has poured every single thing he knows about No Limit Texas Hold'em into this little green book. Taking a page from Harvey Penick's bestselling book of golf wisdom, Phil plays the role of both teacher and student, offering up insightful tips on how to think about poker and how to develop a singular style of play. Through philosophy, psychology, strategy, math, and the knowledge gleaned from playing poker with everyone from T. J. Cloutier and Phil Ivey to Hank Azaria and Ben Affleck, Phil breaks down the game into enlightening instructional tidbits and illustrative anecdotes that inspire the kind of persistence and motivation necessary to improve your game. &lt;br&gt;A book to rank with Doyle Brunson's &lt;em&gt;Super System&lt;/em&gt; and David Sklansky's &lt;em&gt;The Theory of Poker,&lt;/em&gt; &lt;em&gt;Phil Gordon's Little Green Book&lt;/em&gt; deserves a spot on the shelf of every serious student of the game. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Simon &amp; Schuster</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1416903674</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Phil Gordon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-01-05T18:53:23+00:00"/>
+        <meta name="calibre:title_sort" content="Phil Gordon's Little Green Book: Lessons and Teachings in No Limit Texas Hold'em"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

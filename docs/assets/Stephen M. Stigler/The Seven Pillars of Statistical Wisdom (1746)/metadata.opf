@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1746</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3834e821-f753-46c6-8c22-dc70083a8f0b</dc:identifier>
+        <dc:title>The Seven Pillars of Statistical Wisdom</dc:title>
+        <dc:creator opf:file-as="Stigler, Stephen M." opf:role="aut">Stephen M. Stigler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-03-07T11:11:10+00:00</dc:date>
+        <dc:description>What gives statistics its unity as a science? Stephen Stigler sets forth the seven foundational ideas of statistics—a scientific discipline related to but distinct from mathematics and computer science and one which often seems counterintuitive. His original account will fascinate the interested layperson and engage the professional statistician.</dc:description>
+        <dc:publisher>Harvard University Press</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01ELCE9Y0</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">LQUEDAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780674970212</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Statistics</dc:subject>
+        <dc:subject>Methodology</dc:subject>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Probability &amp; Statistics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>History &amp; Philosophy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen M. Stigler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-11-05T10:57:34+00:00"/>
+        <meta name="calibre:title_sort" content="Seven Pillars of Statistical Wisdom, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

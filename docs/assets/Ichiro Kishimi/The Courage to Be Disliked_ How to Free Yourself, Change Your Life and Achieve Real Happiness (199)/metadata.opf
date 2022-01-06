@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">199</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">68287c57-03b5-48c7-9f63-5ca9f4f1168c</dc:identifier>
+        <dc:title>The Courage to Be Disliked: How to Free Yourself, Change Your Life and Achieve Real Happiness</dc:title>
+        <dc:creator opf:file-as="Kishimi, Ichiro &amp; Koga, Fumitake" opf:role="aut">Ichiro Kishimi</dc:creator>
+        <dc:creator opf:file-as="Kishimi, Ichiro &amp; Koga, Fumitake" opf:role="aut">Fumitake Koga</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-03T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The Japanese phenomenon that teaches us the simple yet profound lessons required to liberate our real selves and find lasting happiness.Marie Claire's best self-help books for 2018The Courage to be Disliked shows you how to unlock the power within yourself to become your best and truest self, change your future and find lasting happiness. Using the theories of Alfred Adler, one of the three giants of 19th century psychology alongside Freud and Jung, the authors explain how we are all free to determine our own future free of the shackles of past experiences, doubts and the expectations of others. It's a philosophy that's profoundly liberating, allowing us to develop the courage to change, and to ignore the limitations that we and those around us can place on ourselves.The result is a book that is both highly accessible and profound in its importance. Millions have already read and benefited from its wisdom. Now that The Courage to be Disliked has been published for the first time in English, so can you.Three million copies sold worldwide.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Atlantic Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781760638269</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">IggxDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Happiness</dc:subject>
+        <dc:subject>Success</dc:subject>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Interpersonal Relations</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <meta content="{&quot;Ichiro Kishimi&quot;: &quot;&quot;, &quot;Fumitake Koga&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-07-12T09:24:00+00:00" name="calibre:timestamp"/>
+        <meta content="Courage to Be Disliked: How to Free Yourself, Change Your Life and Achieve Real Happiness, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

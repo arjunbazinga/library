@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">606</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">71f5ec63-74bb-4593-a147-9c804636d1dc</dc:identifier>
+        <dc:title>Where Good Ideas Come From: The Natural History of Innovation</dc:title>
+        <dc:creator opf:file-as="Johnson, Steven" opf:role="aut">Steven Johnson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-06T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Where do good ideas come from? And what do we need to know and do to have more of them? In Where Good Ideas Come From, Steven Johnson, one of our most innovative popular thinkers, explores the secrets of inspiration. Steven Johnson has spent twenty years immersed in creative industries, was active at the dawn of the internet and has a unique perspective that draws on his fluency in fields ranging from neurobiology to new media. Why have cities historically been such hubs of innovation? What do the printing press and Apple have in common? And what does this have to do with the creation and evolution of life itself? Johnson presents the answers to these questions and more in his infectious, culturally omnivoracious style, using examples from thinkers in a range of disciplines - from Charles Darwin to Tim Berners-Lee - to provide the complete, exciting, and encouraging story of inspiration.He identifies the five key principles to the genesis of great ideas, from the cultivation of hunches to the importance of connectivity and how best to make use of new technologies. Most exhilarating is his conclusion: with today's tools and environment, radical innovation is extraordinarily accessible to those who know how to cultivate it. By recognizing where and how patterns of creativity occur - whether within a school, a software platform or a social movement - he shows how we can make more of our ideas good ones.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin UK</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780141964591</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">eOfUiUNby3cC</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1594485380</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business</dc:subject>
+        <dc:subject>Economics</dc:subject>
+        <dc:subject>Knowledge Capital</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Social History</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Steven Johnson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-03-15T16:25:37+00:00"/>
+        <meta name="calibre:title_sort" content="Where Good Ideas Come From: The Natural History of Innovation"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

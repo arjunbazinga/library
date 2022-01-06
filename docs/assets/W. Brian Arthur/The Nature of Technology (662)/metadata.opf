@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">662</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">53a46d88-9020-45d7-8dc3-05e4b8c997b5</dc:identifier>
+        <dc:title>The Nature of Technology</dc:title>
+        <dc:creator opf:file-as="Arthur, W. Brian" opf:role="aut">W. Brian Arthur</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-05T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;The Nature of Technology will change the way you think about this fundamental subject forever. W. Brian Arthur's many years of thinking and writing about technology have culminated in a unique understanding of his subject. Here he examines the nature of technology itself: what is it and how does it evolve? Giving rare insights into the evolution of specific technologies and a new framework for thinking about others, every sentence points to some further truth and fascination. At a time when we are ever more reliant on technological solutions for the world's problems, it is extraordinary how little we actually understand the processes that lead to innovation and invention. Until now. This will be a landmark book that will define its subject, and inspire people to think about technology in depth for the very first time.</dc:description>
+        <dc:publisher>Penguin Adult</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780141957685</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;W. Brian Arthur&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:35+00:00"/>
+        <meta name="calibre:title_sort" content="Nature of Technology, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

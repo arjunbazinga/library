@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1117</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">61d1f804-ab53-47af-bf34-632e75cc0012</dc:identifier>
+        <dc:title>Gig: Americans Talk About Their Jobs</dc:title>
+        <dc:creator opf:file-as="Bowe, John &amp; Bowe, Marisa &amp; Streeter, Sabin" opf:role="aut">John Bowe</dc:creator>
+        <dc:creator opf:file-as="Bowe, John &amp; Bowe, Marisa &amp; Streeter, Sabin" opf:role="aut">Marisa Bowe</dc:creator>
+        <dc:creator opf:file-as="Bowe, John &amp; Bowe, Marisa &amp; Streeter, Sabin" opf:role="aut">Sabin Streeter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-03T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;“An engaging, humorous, revealing, and refreshingly human look at the bizarre, life-threatening, and delightfully humdrum exploits of everyone from sports heroes to sex workers.” -- Douglas Rushkoff, author of Coercion, Ecstasy Club, and Media VirusThis wide-ranging survey of the American economy at the turn of the millennium is stunning, surprising, and always entertaining. It gives us an unflinching view of the fabric of this country from the point of view of the people who keep it all moving. The more than 120 roughly textured monologues that make up Gig beautifully capture the voices of our fast-paced and diverse economy. The selections demonstrate how much our world has changed--and stayed the same--in the three decades prior to the turn of the millennium. If you think things have speeded up, become more complicated and more technological, you're right.But people's attitudes about their jobs, their hopes and goals and disappointments, endure. Gig's soul isn't sociological--it's emotional. The wholehearted diligence that people bring to their work is deeply, inexplicably moving. People speak in these pages of the constant and complex stresses nearly all of them confront on the job, but, nearly universally, they throw themselves without reservation into coping with them. Instead of resisting work, we seem to adapt to it. Some of us love our jobs, some of us don't, but almost all of us are not quite sure what we would do without one.With all the hallmarks of another classic on this subject, Gig is a fabulous read, filled with indelible voices from coast to coast. After hearing them, you'll never again feel quite the same about how we work.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Crown</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">qNul6gQdbj4C</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780307565761</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Labor</dc:subject>
+        <dc:subject>Workplace Culture</dc:subject>
+        <dc:subject>Biography &amp; Autobiography</dc:subject>
+        <dc:subject>Business</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Bowe&quot;: &quot;&quot;, &quot;Marisa Bowe&quot;: &quot;&quot;, &quot;Sabin Streeter&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-06T11:34:19+00:00"/>
+        <meta name="calibre:title_sort" content="Gig: Americans Talk About Their Jobs"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

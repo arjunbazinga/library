@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">796</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8017f3c3-d09f-4af1-ab75-9497ae5e92e3</dc:identifier>
+        <dc:title>Traction</dc:title>
+        <dc:creator opf:file-as="WICKMAN, GINO" opf:role="aut">Gino Wickman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>BenBella</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781936661824</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Gino Wickman&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-05-09T07:04:33.724102+00:00" name="calibre:timestamp"/>
+        <meta content="Traction" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

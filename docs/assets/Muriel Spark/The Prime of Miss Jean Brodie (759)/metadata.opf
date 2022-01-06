@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">759</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4b5699ff-8afe-41ec-930c-206ebe375f30</dc:identifier>
+        <dc:title>The Prime of Miss Jean Brodie</dc:title>
+        <dc:creator opf:file-as="Spark, Muriel" opf:role="aut">Muriel Spark</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-17T22:00:00+00:00</dc:date>
+        <dc:description>Review
+"A gloriously witty and polished vignette." -- -- Times Literary Supplement
+
+"A perfect book." -- -- Chicago Tribune
+
+"Admirably written, beautifully constructed, extremely amusing, and deeply serious." -- -- Saturday Review
+
+"A gloriously witty and polished vignette." -- Times Literary Supplement
+
+"A perfect book." -- Chicago Tribune
+
+"A remarkable novel." -- New Statesman
+
+"Admirably written, beautifully constructed, extremely amusing, and deeply serious." -- Saturday Review
+
+"Intelligent, witty...Spark's powers of invention are apparently inexhaustible." -- Commonweal
+
+"Muriel Spark is one of the few writers on either side of the Atlantic with enough resources, daring, and stamina to be altering, as well as feeding, the fiction machine." -- John Updike, The New Yorker
+
+"Remarkable: Surprises are systematically reduced until there is only one left, and it is like the stab of a stiletto." -- The Spectator
+Product Description
+The elegantly styled classic story of a young, unorthodox teacher and her special--and ultimately dangerous--relationship with six of her students.</dc:description>
+        <dc:publisher>219</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>goldenlist</dc:subject>
+        <dc:subject>ENGL</dc:subject>
+        <dc:subject>novela</dc:subject>
+        <dc:subject>PDF_file</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Muriel Spark&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-04-04T08:09:37+00:00"/>
+        <meta name="calibre:title_sort" content="Prime of Miss Jean Brodie, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

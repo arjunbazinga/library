@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">563</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">785f4157-b42a-4c9b-b5be-c7a2b558b75f</dc:identifier>
+        <dc:title>The Handmaid's Tale</dc:title>
+        <dc:creator opf:file-as="Atwood, Margaret" opf:role="aut">Margaret Atwood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1986-02-16T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;** THE SUNDAY TIMES NO. 1 BESTSELLER **Discover the dystopian novel behind the award-winning TV series before you read the Booker Prize-winning sequel The Testaments‘I believe in the resistance as I believe there can be no light without shadow; or rather, no shadow unless there is also light.’Offred is a Handmaid in The Republic of Gilead, a religious totalitarian state in what was formerly known as the United States. She is placed in the household of The Commander, Fred Waterford – her assigned name, Offred, means ‘of Fred’. She has only one function: to breed. If Offred refuses to enter into sexual servitude to repopulate a devastated world, she will be hanged. Yet even a repressive state cannot eradicate hope and desire. As she recalls her pre-revolution life in flashbacks, Offred must navigate through the terrifying landscape of torture and persecution in the present day, and between two men upon which her future hangs.Masterfully conceived and executed, this haunting vision of the future places Margaret Atwood at the forefront of dystopian fiction.'As relevant today as it was when Atwood wrote it...no television event has hit such a nerve ...’ Guardian READ THE TESTAMENTS, THE BOOKER PRIZE-WINNING SEQUEL TO THE HANDMAID’S TALE, TODAY&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Random House</dc:publisher>
+        <dc:identifier opf:scheme="URN">urn:uuid:91DED147-92F4-1014-9066-D63D42FFF4D7</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B003JFJHTS</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">o79lk6nTsRgC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781446485477</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Dystopian</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Feminism &amp; Feminist Theory</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Margaret Atwood&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="The Handmaid's Tale"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2019-04-19T16:25:10+00:00"/>
+        <meta name="calibre:title_sort" content="Handmaid's Tale, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

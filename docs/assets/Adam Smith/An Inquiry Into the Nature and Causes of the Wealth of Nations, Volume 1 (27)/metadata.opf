@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">892bd931-b621-47ce-9014-028e38a4ddf1</dc:identifier>
+        <dc:title>An Inquiry Into the Nature and Causes of the Wealth of Nations, Volume 1</dc:title>
+        <dc:creator opf:file-as="Smith, Adam" opf:role="aut">Adam Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-10-26T16:13:13+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;First published in 1776, the year in which the American Revolution officially began, Smith’s &lt;span style="font-style: italic; font-weight: 600"&gt;Wealth of Nations&lt;/span&gt; sparked a revolution of its own. In it Smith analyzes the major elements of political economy, from market pricing and the division of labor to monetary, tax, trade, and other government policies that affect economic behavior. Throughout he offers seminal arguments for free trade, free markets, and limited government. Criticizing mercantilists who sought to use the state to increase their nations’ supply of precious metals, Smith points out that a nation’s wealth should be measured by the well-being of its people. Prosperity in turn requires voluntary exchange of goods in a peaceful, well-ordered market. How to establish and maintain such markets? For Smith the answer lay in man’s social instincts, which government may encourage by upholding social standards of decency, honesty, and virtue, but which government undermines when it unduly interferes with the intrinsically private functions of production and exchange. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>University of Chicago Press</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0865970068</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Economics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Adam Smith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2018-05-06T10:58:29+00:00"/>
+        <meta name="calibre:title_sort" content="Inquiry Into the Nature and Causes of the Wealth of Nations, Volume 1, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

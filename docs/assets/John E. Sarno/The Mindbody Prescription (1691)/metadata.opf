@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1691</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ed57b7c8-2250-4231-adca-7ab45aeb8153</dc:identifier>
+        <dc:title>The Mindbody Prescription</dc:title>
+        <dc:creator opf:file-as="SARNO, JOHN E." opf:role="aut">John E. Sarno</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-03-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;For pain sufferers everywhere, bestselling author Dr. John E. Sarno brings important new information about when, where, and how emotional factors affect physical well-being, and how this process can be reversed.</dc:description>
+        <dc:publisher>Grand Central Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780759521896</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>BUS058000</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John E. Sarno&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-07-09T19:24:27+00:00"/>
+        <meta name="calibre:title_sort" content="Mindbody Prescription, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

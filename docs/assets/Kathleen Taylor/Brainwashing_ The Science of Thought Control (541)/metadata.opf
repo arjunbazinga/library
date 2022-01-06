@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">541</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">10ede1c2-a099-44be-905f-161503c72fe3</dc:identifier>
+        <dc:title>Brainwashing: The Science of Thought Control</dc:title>
+        <dc:creator opf:file-as="Taylor, Kathleen" opf:role="aut">Kathleen Taylor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-06-01T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Throughout history, humans have attempted to influence and control the thoughts of others. Since the word 'brainwashing' was coined in the aftermath of the Korean War, it has become part of the popular culture and been exploited to create sensational headlines. It has also been the subject of learned discussion from many disciplines: including history, sociology, psychology, and psychotherapy. But until now, a crucial part of the debate has been missing: that of any serious reference to the science of the human brain. Descriptions of how opinions can be changed, whether by persuasion, deceit, or force, have been almost entirely psychological. &lt;/p&gt;
+&lt;p&gt;In &lt;em&gt;Brainwashing&lt;/em&gt; , Kathleen Taylor brought the worlds of neuroscience and social psychology together for the first time. In elegant and accessible prose, and with abundant use of anecdotes and case-studies, she examines the ethical problems involved in carrying out the required experiments on humans, the limitations of animal models, and the frightening implications of such research. She also explores the history of thought-control and shows how it persists all around us, from marketing and television, to politics and education. &lt;/p&gt;
+&lt;p&gt;This edition includes a new preface from the author reflecting on the uses of brainwashing today, including by the Islamic State. &lt;/p&gt;
+&lt;p&gt;Oxford Landmark Science books are 'must-read' classics of modern science writing which have crystallized big ideas, and shaped the way we think. &lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Oxford University Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">jSgmDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0198798334</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780192529756</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Medical</dc:subject>
+        <dc:subject>Neurology</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Mind &amp; Body</dc:subject>
+        <dc:subject>Life Sciences</dc:subject>
+        <dc:subject>Neuroscience</dc:subject>
+        <dc:subject>Psychiatry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kathleen Taylor&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2018-11-18T09:11:37+00:00"/>
+        <meta name="calibre:title_sort" content="Brainwashing: The Science of Thought Control"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

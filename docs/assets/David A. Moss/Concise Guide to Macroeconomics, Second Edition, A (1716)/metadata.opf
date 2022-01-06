@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1716</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7ce1003a-0ecd-4427-8658-074543675ce1</dc:identifier>
+        <dc:title>Concise Guide to Macroeconomics, Second Edition, A</dc:title>
+        <dc:creator opf:file-as="Moss, David A." opf:role="aut">David A. Moss</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-04-19T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;In this revised and updated edition of &lt;em&gt;A Concise Guide to Macroeconomics&lt;/em&gt; , David A. Moss draws on his years of teaching at Harvard Business School to explain important macro concepts using clear and engaging language. This guidebook covers the essentials of macroeconomics and examines, in a simple and intuitive way, the core ideas of output, money, and expectations. Early chapters leave you with an understanding of everything from fiscal policy and central banking to business cycles and international trade. Later chapters provide a brief monetary history of the United States as well as the basics of macroeconomic accounting. You'll learn why countries trade, why exchange rates move, and what makes an economy grow. Moss' detailed examples will arm you with a clear picture of how the economy works and how key variables impact business and will equip you to anticipate and respond to major macroeconomic events, such as a sudden depreciation of the real exchange rate or a steep hike in the federal funds rate. 
+Read this book from start to finish for a complete overview of macroeconomics, or use it as a reference when you're confronted with specific challenges, like the need to make sense of monetary policy or to read a balance of payments statement. Either way you'll come away with a broad understanding of the subject and its key pieces, and you'll be empowered to make smarter business decisions. 
+**&lt;/p&gt;</dc:description>
+        <dc:publisher>Audible Studios on Brilliance Audio</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781511392457</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1511392452</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;David A. Moss&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-07-14T04:48:53+00:00"/>
+        <meta name="calibre:title_sort" content="Concise Guide to Macroeconomics, Second Edition, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

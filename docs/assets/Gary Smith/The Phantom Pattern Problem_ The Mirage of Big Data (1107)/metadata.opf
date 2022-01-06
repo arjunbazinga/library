@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1107</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2e31dd3b-6392-4b66-b39b-0707942169a5</dc:identifier>
+        <dc:title>The Phantom Pattern Problem: The Mirage of Big Data</dc:title>
+        <dc:creator opf:file-as="Smith, Gary &amp; Cordes, Jay" opf:role="aut">Gary Smith</dc:creator>
+        <dc:creator opf:file-as="Smith, Gary &amp; Cordes, Jay" opf:role="aut">Jay Cordes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-24T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Pattern-recognition prowess served our ancestors well, but today we are confronted by a deluge of data that is far more abstract, complicated, and difficult to interpret. The number of possible patterns that can be identified relative to the number that are genuinely useful has grown exponentially - which means that the chances that a discovered pattern is useful is rapidly approaching zero. Patterns in data are often used as evidence, but how can you tell if that evidence is worth believing? We are hard-wired to notice patterns and to think that the patterns we notice are meaningful. Streaks, clusters, and correlations are the norm, not the exception. Our challenge is to overcome our inherited inclination to think that all patterns are significant, as in this age of Big Data patterns are inevitable and usually coincidental. Through countless examples, The Phantom Pattern Problem is an engaging read that helps us avoid being duped by data, tricked into worthless investing strategies, or scared out of getting vaccinations.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Oxford University Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780192609694</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Yf7-DwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gary Smith&quot;: &quot;&quot;, &quot;Jay Cordes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-11-30T18:02:07+00:00"/>
+        <meta name="calibre:title_sort" content="Phantom Pattern Problem: The Mirage of Big Data, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

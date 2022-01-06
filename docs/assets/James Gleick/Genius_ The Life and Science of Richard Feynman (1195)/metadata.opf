@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1195</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">31116ea2-b9b6-49f4-aece-a23d0e7313dc</dc:identifier>
+        <dc:title>Genius: The Life and Science of Richard Feynman</dc:title>
+        <dc:creator opf:file-as="Gleick, James" opf:role="aut">James Gleick</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-21T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;New York Times Bestseller: This life story of the quirky physicist is “a thorough and masterful portrait of one of the great minds of the century” (The New York Review of Books). Raised in Depression-era Rockaway Beach, physicist Richard Feynman was irreverent, eccentric, and childishly enthusiastic—a new kind of scientist in a field that was in its infancy. His quick mastery of quantum mechanics earned him a place at Los Alamos working on the Manhattan Project under J. Robert Oppenheimer, where the giddy young man held his own among the nation’s greatest minds. There, Feynman turned theory into practice, culminating in the Trinity test, on July 16, 1945, when the Atomic Age was born. He was only twenty-seven. And he was just getting started. In this sweeping biography, James Gleick captures the forceful personality of a great man, integrating Feynman’s work and life in a way that is accessible to laymen and fascinating for the scientists who follow in his footsteps.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Open Road Media</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781453210437</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">j42RD66g72oC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Biography &amp; Autobiography</dc:subject>
+        <dc:subject>Science &amp; Technology</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Physics</dc:subject>
+        <dc:subject>Quantum Theory</dc:subject>
+        <dc:subject>Atomic &amp; Molecular</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Gleick&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-01-22T18:19:27+00:00"/>
+        <meta name="calibre:title_sort" content="Genius: The Life and Science of Richard Feynman"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

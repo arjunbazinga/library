@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1228</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">97ebc361-0d5c-4e0c-babe-8b6152e5bd8a</dc:identifier>
+        <dc:title>Code: The Hidden Language of Computer Hardware and Software</dc:title>
+        <dc:creator opf:file-as="Petzold, Charles" opf:role="aut">Charles Petzold</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-10-10T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;What do flashlights, the British invasion, black cats, and seesaws have to do with computers? In CODE, they show us the ingenious ways we manipulate language and invent new means of communicating with each other. And through CODE, we see how this ingenuity and our very human compulsion to communicate have driven the technological innovations of the past two centuries. &lt;br&gt;Using everyday objects and familiar language systems such as Braille and Morse code, author Charles Petzold weaves an illuminating narrative for anyone who’s ever wondered about the secret inner life of computers and other smart machines. &lt;br&gt;It’s a cleverly illustrated and eminently comprehensible story—and along the way, you’ll discover you’ve gained a real context for understanding today’s world of PCs, digital media, and the Internet. No matter what your level of technical savvy, CODE will charm you—and perhaps even awaken the technophile within. **&lt;/p&gt;&lt;/div&gt;
+
+&lt;div xmlns="http://www.w3.org/1999/xhtml"&gt;&lt;p&gt;Using everyday objects and familiar language systems such as Braille and Morse code, CODE shows us the ingenious ways we manipulate language and invent new means of communicating with each other, culminating in today\u2019s digital technologies.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Microsoft Press</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0735611319</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780735611313</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">iptCAwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00JDMPOK2</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Software Development &amp; Engineering</dc:subject>
+        <dc:subject>COMPUTERS / General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Petzold&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-05-26T15:19:34+00:00"/>
+        <meta name="calibre:title_sort" content="Code: The Hidden Language of Computer Hardware and Software"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

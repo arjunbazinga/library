@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">809</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ed4f8c7-5853-4db5-8ab1-98f82e46c73c</dc:identifier>
+        <dc:title>Graphic Design</dc:title>
+        <dc:creator opf:file-as="Lupton, Ellen" opf:role="aut">Ellen Lupton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-06-14T18:30:00+00:00</dc:date>
+        <dc:description>Our bestselling introduction to graphic design is now available in a revised and updated edition. In Graphic Design: The New Basics, bestselling author Ellen Lupton (Thinking with Type, Type on Screen) and design educator Jennifer Cole Phillips explain the key concepts of visual language that inform any work of design, from logo or letterhead to a complex website. Through visual demonstrations and concise commentary, students and professionals explore the formal elements of twodimensional design, such as point, line, plane, scale, hierarchy, layers, and transparency.&lt;br&gt;This revised edition replaces sixty-four pages of the original publication with new content, including new chapters on visualizing data, typography, modes of representation, and Gestalt principles, and adds sixteen pages of new student and professional work covering such topics as working with grids and designing with color.</dc:description>
+        <dc:publisher>Princeton Architectural Press</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Ellen Lupton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-06-02T11:26:44+00:00"/>
+        <meta name="calibre:title_sort" content="Graphic Design"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

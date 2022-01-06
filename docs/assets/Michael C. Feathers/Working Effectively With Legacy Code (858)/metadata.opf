@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">858</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">57188b3a-f5c4-404f-8ea5-87455a522aa8</dc:identifier>
+        <dc:title>Working Effectively With Legacy Code</dc:title>
+        <dc:creator opf:file-as="Feathers, Michael C." opf:role="aut">Michael C. Feathers</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-10T18:30:00+00:00</dc:date>
+        <dc:publisher>Addison-Wesley Professional</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780321793201</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">032179320X</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Software</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Michael C. Feathers&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-07-12T17:46:41+00:00"/>
+        <meta name="calibre:title_sort" content="Working Effectively With Legacy Code"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

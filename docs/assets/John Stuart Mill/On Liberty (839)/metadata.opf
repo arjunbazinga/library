@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">839</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7a67f273-0896-4a87-91b5-096921753996</dc:identifier>
+        <dc:title>On Liberty</dc:title>
+        <dc:creator opf:file-as="Mill, John Stuart" opf:role="aut">John Stuart Mill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-06-18T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Discussed and debated from time immemorial, the concept of personal liberty went without codification until the 1859 publication of &lt;em&gt;On Liberty&lt;/em&gt;. John Stuart Mill's complete and resolute dedication to the cause of freedom inspired this treatise, an enduring work through which the concept remains well known and studied.&lt;br&gt;The British economist, philosopher, and ethical theorist's argument does not focus on "the so-called Liberty of the Will…but Civil, or Social Liberty: the nature and limits of the power which can be legitimately exercised by society over the individual." Mill asks and answers provocative questions relating to the boundaries of social authority and individual sovereignty. In powerful and persuasive prose, he declares that there is "one very simple principle" regarding the use of coercion in society — one may only coerce others either to defend oneself or to defend others from harm.&lt;br&gt;The new edition offers students of political science and philosophy, in an inexpensive volume, one of the most influential studies on the nature of individual liberty and its role in a democratic society. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Dover Publications</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0486421309</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780486421308</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Batoche</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Stuart Mill&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-07-09T07:37:28+00:00"/>
+        <meta name="calibre:title_sort" content="On Liberty"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

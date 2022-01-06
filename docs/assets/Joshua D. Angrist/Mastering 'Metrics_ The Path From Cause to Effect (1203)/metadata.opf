@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1203</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e8b18453-0bc1-4513-8ca8-929323a3194b</dc:identifier>
+        <dc:title>Mastering 'Metrics: The Path From Cause to Effect</dc:title>
+        <dc:creator opf:file-as="Angrist, Joshua D. &amp; Pischke, Jörn-Steffen" opf:role="aut">Joshua D. Angrist</dc:creator>
+        <dc:creator opf:file-as="Angrist, Joshua D. &amp; Pischke, Jörn-Steffen" opf:role="aut">Jörn-Steffen Pischke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-12-20T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;An accessible and fun guide to the essential tools of econometric researchApplied econometrics, known to aficionados as 'metrics, is the original data science. 'Metrics encompasses the statistical methods economists use to untangle cause and effect in human affairs. Through accessible discussion and with a dose of kung fu–themed humor, Mastering 'Metrics presents the essential tools of econometric research and demonstrates why econometrics is exciting and useful.The five most valuable econometric methods, or what the authors call the Furious Five--random assignment, regression, instrumental variables, regression discontinuity designs, and differences in differences--are illustrated through well-crafted real-world examples (vetted for awesomeness by Kung Fu Panda's Jade Palace). Does health insurance make you healthier? Randomized experiments provide answers. Are expensive private colleges and selective public high schools better than more pedestrian institutions? Regression analysis and a regression discontinuity design reveal the surprising truth. When private banks teeter, and depositors take their money and run, should central banks step in to save them? Differences-in-differences analysis of a Depression-era banking crisis offers a response. Could arresting O. J. Simpson have saved his ex-wife's life? Instrumental variables methods instruct law enforcement authorities in how best to respond to domestic abuse.Wielding econometric tools with skill and confidence, Mastering 'Metrics uses data and statistics to illuminate the path from cause to effect.Shows why econometrics is importantExplains econometric research through humorous and accessible discussionOutlines empirical methods central to modern econometric practiceWorks through interesting and relevant real-world examples&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Princeton University Press</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00MZG71MC</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">dEh-BAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781400852383</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Econometrics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joshua D. Angrist&quot;: &quot;&quot;, &quot;Jörn-Steffen Pischke&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-01-26T14:03:48+00:00"/>
+        <meta name="calibre:title_sort" content="Mastering 'Metrics: The Path From Cause to Effect"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

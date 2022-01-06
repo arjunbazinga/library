@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">677</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b2c4584b-4926-48ac-a1ab-d487b02d1b3d</dc:identifier>
+        <dc:title>Difficult Conversations: How to Discuss What Matters Most</dc:title>
+        <dc:creator opf:file-as="Stone, Douglas &amp; Heen, Sheila" opf:role="aut">Douglas Stone</dc:creator>
+        <dc:creator opf:file-as="Stone, Douglas &amp; Heen, Sheila" opf:role="aut">Sheila Heen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-01T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;The 10th-anniversary edition of the &lt;em&gt;New York Times&lt;/em&gt; business bestseller-now updated with "Answers to Ten Questions People Ask" &lt;/p&gt;
+&lt;p&gt;We attempt or avoid difficult conversations every day-whether dealing with an underperforming employee, disagreeing with a spouse, or negotiating with a client. From the Harvard Negotiation Project, the organization that brought you &lt;em&gt;Getting to Yes, Difficult Conversations&lt;/em&gt; provides a step-by-step approach to having those tough conversations with less stress and more success. you'll learn how to: &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;·&lt;/strong&gt; Decipher the underlying structure of every difficult conversation &lt;br&gt;&lt;strong&gt;·&lt;/strong&gt; Start a conversation without defensiveness &lt;br&gt;&lt;strong&gt;·&lt;/strong&gt;  Listen for the meaning of what is not said &lt;br&gt;&lt;strong&gt;·&lt;/strong&gt; Stay balanced in the face of attacks and accusations&lt;br&gt;&lt;strong&gt;·&lt;/strong&gt; Move from emotion to productive problem solving **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Books</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">6ca92732-3994-4b1d-b780-dd23aff326d5</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0143118447</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780143118442</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Douglas Stone&quot;: &quot;&quot;, &quot;Sheila Heen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:37+00:00"/>
+        <meta name="calibre:title_sort" content="Difficult Conversations: How to Discuss What Matters Most"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

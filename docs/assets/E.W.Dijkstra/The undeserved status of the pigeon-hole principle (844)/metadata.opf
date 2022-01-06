@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">844</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b5b56a20-980c-42d4-9d8d-2e5c4dda2183</dc:identifier>
+        <dc:title>The undeserved status of the pigeon-hole principle</dc:title>
+        <dc:creator opf:file-as="E.W.Dijkstra" opf:role="aut">E.W.Dijkstra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-03-06T11:02:33+00:00</dc:date>
+        <dc:description>ewd1094</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Mathematics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E.W.Dijkstra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-07-09T07:37:29+00:00"/>
+        <meta name="calibre:title_sort" content="undeserved status of the pigeon-hole principle, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

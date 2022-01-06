@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">933</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">98396d3b-b894-4660-b44f-d24f70d988c4</dc:identifier>
+        <dc:title>Buzzed</dc:title>
+        <dc:creator opf:file-as="Cynthia Kuhn, Scott Swartzwelder, Wilkie Wilson" opf:role="aut">Cynthia Kuhn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-08T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;The essential source for understanding how drugs affect the body and behavior.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Fully updated, this matter-of-fact handbook includes the most recent discoveries about drug use, including new information on electronic smoking devices, abuse of prescription stimulants, and the opioid crisis. "Lively, highly informative, unbiased, [and] thorough" (Addiction Research &amp;amp; Theory), Buzzed surveys drugs from caffeine to heroin to reveal how these drugs affect the body, the different "highs" they produce, and the circumstances in which they can be deadly.&lt;/p&gt;&lt;p&gt;Neither a "Just Say No" treatise nor a "How to" manual, Buzzed is based on the conviction that people make better decisions with accurate information at hand.&lt;/p&gt;</dc:description>
+        <dc:publisher>W. W. Norton &amp; Company</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Epub3</dc:subject>
+        <meta content="{&quot;Cynthia Kuhn&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-08-21T08:16:06.167367+00:00" name="calibre:timestamp"/>
+        <meta content="Buzzed" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

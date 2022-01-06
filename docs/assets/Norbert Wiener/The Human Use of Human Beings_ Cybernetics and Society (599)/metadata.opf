@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">599</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">14e59b87-8317-483d-9e79-48fb2691ef54</dc:identifier>
+        <dc:title>The Human Use of Human Beings: Cybernetics and Society</dc:title>
+        <dc:creator opf:file-as="Wiener, Norbert" opf:role="aut">Norbert Wiener</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1988-03-21T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;This is one of the fundamental documents of our time, a period epitomized by the concepts of ‘information’ and ‘communications’. Norbert Wiener, a child prodigy and a great mathematician, coined the term ‘cybernetics’ to characterize a very general science of ‘control and communication in the animal and machine’. It brought together ideas from engineering, the study of the nervous system and statistical mechanics (e.g. entropy). From these he developed concepts that have become pervasive through science (especially biology and computing) and common parlance: ‘information’, ‘message’, feedback’ and ‘control’. He wrote, ‘The thought of every age is reflected in its technique…If the seventeenth and early eighteenth centuries are the age of clocks, and the later eighteenth and nineteenth centuries constitute the age of steam engines, the present time is the age of communication and control.’ In this volume Norbert Wiener spells out his theories for the general reader and reflects on the social issues raised by the dramatically increasing role of science and technology in the new age – the age in which we are now deeply and problematically embroiled. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Hachette UK</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781853430756</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">DydKDgAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1853430757</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Cybernetics</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Ethics</dc:subject>
+        <dc:subject>Human-Computer Interaction (HCI)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Norbert Wiener&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-03-06T16:12:49+00:00"/>
+        <meta name="calibre:title_sort" content="Human Use of Human Beings: Cybernetics and Society, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

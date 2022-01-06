@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Series</title>
+  <id />
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Series" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <entry>
+    <title>A History of Private Life</title>
+    <id>Calibre2opds::serieslistseries:8</id>
+    <content type="text">2 books</content>
+    <link href="../series_0/series_8_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Cambridge Texts in the History of Political Thought</title>
+    <id>Calibre2opds::serieslistseries:19</id>
+    <content type="text">1 book</content>
+    <link href="../series_0/series_19_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>CFA Level 1</title>
+    <id>Calibre2opds::serieslistseries:13</id>
+    <content type="text">1 book</content>
+    <link href="../series_0/series_13_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>CSLI Lecture Notes</title>
+    <id>Calibre2opds::serieslistseries:18</id>
+    <content type="text">5 books</content>
+    <link href="../series_0/series_18_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Ender's Game: Publication Order</title>
+    <id>Calibre2opds::serieslistseries:11</id>
+    <content type="text">Ender's Game</content>
+    <link href="../series_0/series_11_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>finance</title>
+    <id>Calibre2opds::serieslistseries:17</id>
+    <content type="text">1 book</content>
+    <link href="../series_0/series_17_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>London Trilogy</title>
+    <id>Calibre2opds::serieslistseries:20</id>
+    <content type="text">Money: A Suicide Note</content>
+    <link href="../series_0/series_20_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Magic</title>
+    <id>Calibre2opds::serieslistseries:16</id>
+    <content type="text">The Expert at the Card Table</content>
+    <link href="../series_0/series_16_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Routledge Classics</title>
+    <id>Calibre2opds::serieslistseries:15</id>
+    <content type="text">The Road to Serfdom</content>
+    <link href="../series_0/series_15_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Springer Texts in Statistics</title>
+    <id>Calibre2opds::serieslistseries:14</id>
+    <content type="text">1 book</content>
+    <link href="../series_0/series_14_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>The autobiography of America's master swindler</title>
+    <id>Calibre2opds::serieslistseries:10</id>
+    <content type="text">"Yellow Kid" Weil</content>
+    <link href="../series_0/series_10_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>The Collected Works of F.A. Hayek</title>
+    <id>Calibre2opds::serieslistseries:21</id>
+    <content type="text">1 book</content>
+    <link href="../series_0/series_21_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>The Consuming Passions of Classical Athens</title>
+    <id>Calibre2opds::serieslistseries:9</id>
+    <content type="text">Courtesans and Fishcakes</content>
+    <link href="../series_0/series_9_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>The Handmaid's Tale</title>
+    <id>Calibre2opds::serieslistseries:22</id>
+    <content type="text">The Handmaid's Tale</content>
+    <link href="../series_0/series_22_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>The Morning Paper - Quaterly Review</title>
+    <id>Calibre2opds::serieslistseries:12</id>
+    <content type="text">8 books</content>
+    <link href="../series_0/series_12_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+</feed>

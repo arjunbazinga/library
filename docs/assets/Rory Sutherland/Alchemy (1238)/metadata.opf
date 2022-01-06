@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1238</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">48ca056e-c899-45f7-94f4-0f26970ec288</dc:identifier>
+        <dc:title>Alchemy</dc:title>
+        <dc:creator opf:file-as="Sutherland, Rory" opf:role="aut">Rory Sutherland</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-21T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;HOW DOES MAGIC HAPPEN?&lt;/strong&gt; &lt;strong&gt;The Ogilvy advertising legend&amp;#8212;"one of the leading minds in the world of branding" (NPR)&amp;#8212;explores the art and science of &lt;/strong&gt;&lt;strong&gt;conjuring irresistible products and ideas&lt;/strong&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;"A breakthrough book. Wonderfully applicable to about everything in life. Funny as hell." &amp;#8212;NASSIM NICHOLAS TALEB, author of The Black Swan&lt;/p&gt;&lt;p&gt;"Veins of wisdom emerge regularly and brilliantly from these pages. Don't miss this book." &amp;#8212;ROBERT B. CIALDINI, author of Influence&lt;/p&gt;&lt;p&gt;Why is Red Bull so popular, though everyone&amp;#8212;everyone!&amp;#8212;hates the taste? Humans are, in a word, irrational, basing decisions as much on subtle external signals (that little blue can) as on objective qualities (flavor, price, quality). The surrounding world, meanwhile, is irreducibly complex and random. This means future success can't be projected on any accounting spreadsheet. To strike gold, you must master the...</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Rory Sutherland&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-06-15T19:20:25+00:00"/>
+        <meta name="calibre:title_sort" content="Alchemy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

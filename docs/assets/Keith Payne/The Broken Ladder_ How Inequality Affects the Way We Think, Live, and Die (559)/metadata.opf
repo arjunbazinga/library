@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">559</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">de1bc3db-f77b-481c-87a1-a070ab75ff5c</dc:identifier>
+        <dc:title>The Broken Ladder: How Inequality Affects the Way We Think, Live, and Die</dc:title>
+        <dc:creator opf:file-as="Payne, Keith" opf:role="aut">Keith Payne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-05-08T17:00:09+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;**"A persuasive and highly readable account." —President Barack Obama &lt;/p&gt;
+&lt;p&gt;“Brilliant. . . . an important, fascinating read arguing that inequality creates a public health crisis in America.”  &lt;strong&gt;—&lt;/strong&gt; Nicholas Kristof, &lt;em&gt;New York Times&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;“ &lt;em&gt;The Broken Ladder&lt;/em&gt;  is an important, timely, and beautifully written account of how inequality affects us all.”  &lt;strong&gt;—Adam Alter, &lt;/strong&gt;&lt;span style="font-style: italic; font-weight: 600"&gt;New York Times&lt;/span&gt;&lt;strong&gt;  bestselling author of  &lt;/strong&gt;&lt;span style="font-style: italic; font-weight: 600"&gt;Irresistible&lt;/span&gt;&lt;strong&gt;  and  *Drunk Tank Pink&lt;/strong&gt;* &lt;/p&gt;
+&lt;p&gt;A timely examination by a leading scientist of the physical, psychological, and moral effects of inequality. &lt;br&gt;&lt;em&gt;&lt;br&gt;The levels of inequality in the world today are on a scale that have not been seen in our lifetimes, yet the disparity between rich and poor has ramifications that extend far beyond mere financial means. In The Broken Ladder&lt;/em&gt; psychologist Keith Payne examines how inequality divides us not just economically; it also has profound consequences for how we think, how we respond to stress, how our immune systems function, and even how we view moral concepts such as justice and fairness. &lt;/p&gt;
+&lt;p&gt;Research in psychology, neuroscience, and behavioral economics has not only revealed important new insights into how inequality changes people in predictable ways but also provided a corrective to the flawed view of poverty as being the result of individual character failings. Among modern developed societies, inequality is not primarily a matter of the actual amount of money people have. It is, rather, people's sense of where they stand in relation to others. Feeling poor matters—not just being poor. Regardless of their average incomes, countries or states with greater levels of income inequality have much higher rates of all the social maladies we associate with poverty, including lower than average life expectancies, serious health problems, mental illness, and crime.&lt;br&gt;&lt;br&gt;&lt;em&gt;The Broken Ladder&lt;/em&gt; explores such issues as why women in poor societies often have more children, and why they have them at a younger age; why there is little trust among the working class in the prudence of investing for the future; why people's perception of their social status affects their political beliefs and leads to greater political divisions; how poverty raises stress levels as effectively as actual physical threats; how inequality in the workplace affects performance; and why unequal societies tend to become more religious. Understanding how inequality shapes our world can help us better understand what drives ideological divides, why high inequality makes the middle class feel left behind, and how to disconnect from the endless treadmill of social comparison. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0525429816</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Keith Payne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2019-02-10T05:11:46+00:00"/>
+        <meta name="calibre:title_sort" content="Broken Ladder: How Inequality Affects the Way We Think, Live, and Die, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">612</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4c159461-e6c3-4742-b7c6-627adbcfbfc8</dc:identifier>
+        <dc:title>Designing Data-Intensive Applications</dc:title>
+        <dc:creator opf:file-as="Kleppmann, Martin" opf:role="aut">Martin Kleppmann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-03-01T18:01:20+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Martin Kleppmann&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-03-28T06:02:28.406622+00:00" name="calibre:timestamp"/>
+        <meta content="Designing Data-Intensive Applications" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

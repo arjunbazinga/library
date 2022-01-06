@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1199</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">48f7f4d7-7159-4466-b1ea-7c1ec039cf78</dc:identifier>
+        <dc:title>The Clock of the Long Now: Time and Responsibility</dc:title>
+        <dc:creator opf:file-as="Brand, Stewart" opf:role="aut">Stewart Brand</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-31T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Using the designing and building of the &lt;em&gt;Clock of the Long Now&lt;/em&gt; as a framework, this is a book about the practical use of long time perspective: how to get it, how to use it, how to keep it in and out of sight. Here are the central questions it inspires: How do we make long-term thinking automatic and common instead of difficult and rare? Discipline in thought allows freedom. One needs the space and reliability to predict continuity to have the confidence not to be afraid of revolutions Taking the time to think of the future is more essential now than ever, as culture accelerates beyond its ability to be measured Probable things are vastly outnumbered by countless near-impossible eventualities. Reality is statistically forced to be extraordinary; fiction is not allowed this freedom This is a potent book that combines the chronicling of fantastic technology with equally visionary philosophical inquiry. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Hachette UK</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">QnE4DgAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B003P9XCY4</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780786722921</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Metaphysics</dc:subject>
+        <dc:subject>Technology &amp; Engineering</dc:subject>
+        <dc:subject>Materials Science</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Astronomy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stewart Brand&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-01-22T18:19:28+00:00"/>
+        <meta name="calibre:title_sort" content="Clock of the Long Now: Time and Responsibility, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

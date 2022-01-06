@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1131</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c87e5a8d-3820-4318-97b8-a758656c7a6d</dc:identifier>
+        <dc:title>Dilbert Gives You the Business</dc:title>
+        <dc:creator opf:file-as="Scott Adams" opf:role="aut">Scott Adams</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-12-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Everyone who reads DILBERT and works in an office will appreciate this collection, &lt;i&gt;Dilbert Gives You the Business.&lt;/i&gt;&lt;p&gt;Creator Scott Adams tells it like it is through the insane business world inhabited by Dilbert. If frustration and lunacy are an inevitable part of your workday, appropriate measures must be taken immediately. Andrews McMeel has the perfect antidote to your workplace stress. &lt;i&gt;Dilbert&lt;/i&gt; is universally recognized as the definitive source of office humor. What makes this 14th &lt;i&gt;Dilbert&lt;/i&gt; book so unique is that it is a collection of the most popular strips requested by fans for reprints and downloads from Dilbert.com gathered together. Arranged by topics for quick reference, this hilarious book is the comprehensive &lt;i&gt;Dilbert&lt;/i&gt; source book, sure to alleviate work burnout.&lt;p&gt;Packed within these colorful pages, fans will find all their favorite characters, including Dilbert, as he encounters daily issues from delegating to decision-making, trade shows...</dc:description>
+        <dc:publisher>Andrews McMeel Publishing, LLC</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781449424114</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Scott Adams&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-11T07:48:30+00:00"/>
+        <meta name="calibre:title_sort" content="Dilbert Gives You the Business"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

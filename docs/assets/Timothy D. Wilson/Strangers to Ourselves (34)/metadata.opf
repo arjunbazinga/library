@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">be868505-30aa-4187-aedd-759f18e48192</dc:identifier>
+        <dc:title>Strangers to Ourselves</dc:title>
+        <dc:creator opf:file-as="Wilson, Timothy D." opf:role="aut">Timothy D. Wilson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-05-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;"Know thyself," a precept as old as Socrates, is still good advice. But is introspection the best path to self-knowledge? Wilson makes the case for better ways of discovering our unconscious selves. If you want to know who you are or what you feel or what you're like, Wilson advises, pay attention to what you actually do and what other people think about you. Showing us an unconscious more powerful than Freud's, and even more pervasive in our daily life, Strangers to Ourselves marks a revolution in how we know ourselves.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Harvard University Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780674045217</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">W4yzugYjz08C</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Cognitive Psychology &amp; Cognition</dc:subject>
+        <dc:subject>Psychotherapy</dc:subject>
+        <dc:subject>Cognitive Psychology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Timothy D. Wilson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2018-05-13T15:15:35+00:00"/>
+        <meta name="calibre:title_sort" content="Strangers to Ourselves"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

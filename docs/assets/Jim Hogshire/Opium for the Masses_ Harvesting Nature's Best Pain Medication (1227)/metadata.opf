@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1227</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">69360ad6-63fe-4170-9e13-e3a037428199</dc:identifier>
+        <dc:title>Opium for the Masses: Harvesting Nature's Best Pain Medication</dc:title>
+        <dc:creator opf:file-as="Hogshire, Jim" opf:role="aut">Jim Hogshire</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-01T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;"Contrary to general belief, there is no federal law against growing P. somniferum."— &lt;em&gt;Martha Stewart Living&lt;/em&gt; "Regarded as 'God's own medicine,' preparations of opium were as common in the Victorian medicine cabinet as aspirin is in ours. As late as 1915, pamphlets issued by the U.S. Department of Agriculture were still mentioning opium poppies as a good cash crop for northern farmers. Well into this century, Russian, Greek, and Arab immigrants in America have used poppy-head tea as a mild sedative and a remedy for headaches, muscle pain, cough, and diarrhea. During the Civil War, gardeners in the South were encouraged to plant opium for the war effort, in order to ensure a supply of painkillers for the Confederate Army. What Hogshire has done is to excavate this vernacular knowledge and then publish it to the world—in how-to form, with recipes."— Michael Pollan First published fifteen years ago, &lt;em&gt;Opium for the Masses&lt;/em&gt; instantly became a national phenomenon. Michael Pollan wrote a lengthy feature ("Opium, made easy") about Jim Hogshire in &lt;em&gt;Harper’s Magazine&lt;/em&gt; , amazed that the common plant, P. somniferum, or opium poppies, which grows wild in many states and is available at crafts and hobby stores and nurseries, could also be made into a drinkable tea that acts in a way similar to codeine or Vicodin. With &lt;em&gt;Opium for the Masses&lt;/em&gt; as their guide, Americans can learn how to supplement their own medicine chest with natural and legal pain medicine, without costly and difficult trips to the doctor and pharmacy. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Feral House</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1932595465</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">ZFNjCwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781932595468</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Gardening</dc:subject>
+        <dc:subject>Herbs</dc:subject>
+        <dc:subject>Essays &amp; Narratives</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Popular Culture</dc:subject>
+        <dc:subject>Body; Mind &amp; Spirit</dc:subject>
+        <dc:subject>Entheogens &amp; Visionary Substances</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jim Hogshire&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-05-26T15:19:34+00:00"/>
+        <meta name="calibre:title_sort" content="Opium for the Masses: Harvesting Nature's Best Pain Medication"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">417</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bb1e9d51-668b-4e59-a304-059c65fb4c6f</dc:identifier>
+        <dc:title>A History of Private Life, Volume II: Revelations of the Medieval World</dc:title>
+        <dc:creator opf:file-as="Duby, Georges" opf:role="aut">Georges Duby</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1993-03-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The second volume of &lt;em&gt;A History of Private Life&lt;/em&gt; is a treasure-trove of rich and colorful detail culled from an astounding variety of sources. This absorbing “secret epic” constructs a vivid picture of peasant and patrician life in the eleventh to fifteenth centuries. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Belknap Press: An Imprint of Harvard University Press</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0674400011</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780674400016</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Georges Duby&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="A History of Private Life"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2018-08-01T12:59:41+00:00"/>
+        <meta name="calibre:title_sort" content="History of Private Life, Volume II: Revelations of the Medieval World, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

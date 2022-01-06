@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1763</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d7f47baa-78d3-480d-9a49-73a079eeb198</dc:identifier>
+        <dc:title>The Four: The Hidden DNA of Amazon, Apple, Facebook and Google</dc:title>
+        <dc:creator opf:file-as="Galloway, Scott" opf:role="aut">Scott Galloway</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-10-04T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;‘A fantastic, provocative book about where we are now and where we are going’ Phil Simon Huffington PostAmazon, Apple, Facebook, and Google are the four most influential companies on the planet. Just about everyone thinks they know how they got there. Just about everyone is wrong.For all that’s been written about the Four over the last two decades, no one has captured their power and staggering success as insightfully as Scott Galloway.Instead of buying the myths these companies broadcast, Galloway asks fundamental questions:- How did the Four infiltrate our lives so completely that they’re almost impossible to avoid (or boycott)? - Why does the stock market forgive them for sins that would destroy other firms? - And as they race to become the world’s first trillion-dollar company, can anyone challenge them? In the same irreverent style that has made him one of the world’s most celebrated business professors, Galloway deconstructs the strategies of the Four that lurk beneath their shiny veneers. He shows how they manipulate the fundamental emotional needs that have driven us since our ancestors lived in caves, at a speed and scope others can’t match. And he reveals how you can apply the lessons of their ascent to your own business or career.Whether you want to compete with them, do business with them, or simply live in the world they dominate, you need to understand the Four.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Random House</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781473542105</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">_eTACwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Management</dc:subject>
+        <dc:subject>Industries</dc:subject>
+        <dc:subject>Computers &amp; Information Technology</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Economics</dc:subject>
+        <dc:subject>Biography &amp; Autobiography</dc:subject>
+        <dc:subject>Business</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Scott Galloway&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-11-05T10:57:40+00:00"/>
+        <meta name="calibre:title_sort" content="Four: The Hidden DNA of Amazon, Apple, Facebook and Google, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

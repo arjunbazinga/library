@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">157</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c5a388a4-534c-493b-abb0-e6311f5dbeed</dc:identifier>
+        <dc:title>Influence: The Psychology of Persuasion</dc:title>
+        <dc:creator opf:file-as="Cialdini, Robert B. Phd" opf:role="aut">Robert B. Cialdini Phd</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-01T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;The widely adopted, now classic book on influence and persuasion—a major national and international bestseller with more than four million copies sold!&lt;/strong&gt; In this highly acclaimed  &lt;em&gt;New York Times&lt;/em&gt;  bestseller, Dr. Robert B. Cialdini—the seminal expert in the field of influence and persuasion—explains the psychology of why people say yes and how to apply these principles ethically in business and everyday situations. You’ll learn the six universal principles of influence and how to use them to become a skilled persuader—and, just as importantly, how to defend yourself against dishonest influence attempts: 1. &lt;strong&gt;Reciprocation&lt;/strong&gt; : The internal pull to repay what another person has provided us. 2. &lt;strong&gt;Commitment&lt;/strong&gt; &lt;strong&gt;and Consistency&lt;/strong&gt; : Once we make a choice or take a stand, we work to behave consistently with that commitment in order to justify our decisions. 3. &lt;strong&gt;Social Proof&lt;/strong&gt; : When we are unsure, we look to similar others to provide us with the correct actions to take. And the more, people undertaking that action, the more we consider that action correct. 4. &lt;strong&gt;Liking&lt;/strong&gt; : The propensity to agree with people we like and, just as important, the propensity for others to agree with us, if we like them. 5. &lt;strong&gt;Authority&lt;/strong&gt; : We are more likely to say “yes” to others who are authorities, who carry greater knowledge, experience or expertise. 6. &lt;strong&gt;Scarcity&lt;/strong&gt; : We want more of what is less available or dwindling in availability.&lt;/p&gt;
+&lt;p&gt;Understanding and applying the six principles ethically is cost-free and deceptively easy. Backed by Dr. Cialdini’s 35 years of evidence-based, peer-reviewed scientific research—as well as by a three-year field study on what moves people to change behavior— &lt;em&gt;Influence&lt;/em&gt;  is a comprehensive guide to using these principles effectively to amplify your ability to change the behavior of others. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins e-books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061241895</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B002BD2UUC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Robert B. Cialdini Phd&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2018-07-12T09:22:55+00:00"/>
+        <meta name="calibre:title_sort" content="Influence: The Psychology of Persuasion"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

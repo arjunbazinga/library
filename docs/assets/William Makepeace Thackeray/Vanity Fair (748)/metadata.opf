@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">748</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">77b038a2-a08c-427f-9721-9375719542e5</dc:identifier>
+        <dc:title>Vanity Fair</dc:title>
+        <dc:creator opf:file-as="Thackeray, William Makepeace" opf:role="aut">William Makepeace Thackeray</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-10-25T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Vanity Fair is an English novel by William Makepeace Thackeray which follows the lives of Becky Sharp and Emmy Sedley amid their friends and families during and after the Napoleonic Wars. It was first published as a 19-volume monthly serial from 1847 to 1848, carrying the subtitle Pen and Pencil Sketches of English Life, reflecting both its satirisation of early 19th-century British society and the many illustrations drawn by Thackeray to accompany the text. It was published as a single volume in 1848 with the subtitle A Novel without a Hero, reflecting Thackeray's interest in deconstructing his era's conventions regarding literary heroism. It is sometimes considered the "principal founder" of the Victorian domestic novel. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>CreateSpace Independent Publishing Platform</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781539772750</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1539772756</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Women</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Historical</dc:subject>
+        <dc:subject>Regency</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Makepeace Thackeray&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-04-04T08:09:36+00:00"/>
+        <meta name="calibre:title_sort" content="Vanity Fair"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

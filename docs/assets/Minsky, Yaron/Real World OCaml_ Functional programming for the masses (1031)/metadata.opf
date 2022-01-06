@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1031</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7c1567ba-b68d-43d4-bc74-c4d7cd159795</dc:identifier>
+        <dc:title>Real World OCaml: Functional programming for the masses</dc:title>
+        <dc:creator opf:file-as="Minsky, Yaron" opf:role="aut">Minsky, Yaron</dc:creator>
+        <dc:creator opf:file-as="Minsky, Yaron" opf:role="aut">Madhavapeddy, Anil</dc:creator>
+        <dc:creator opf:file-as="Minsky, Yaron" opf:role="aut">Hickey, Jason</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-11-04T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;This fast-moving tutorial introduces you to OCaml, an industrial-strength programming language designed for expressiveness, safety, and speed. Through the book&amp;#8217;s many examples, you&amp;#8217;ll quickly learn how OCaml stands out as a tool for writing fast, succinct, and readable systems code.&lt;/p&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781449323905</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00GG21E2O</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>COMPUTERS / Programming / General</dc:subject>
+        <dc:subject>www.it-ebooks.info</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Minsky, Yaron&quot;: &quot;&quot;, &quot;Madhavapeddy, Anil&quot;: &quot;&quot;, &quot;Hickey, Jason&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-09T11:26:34+00:00"/>
+        <meta name="calibre:title_sort" content="Real World OCaml: Functional programming for the masses"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

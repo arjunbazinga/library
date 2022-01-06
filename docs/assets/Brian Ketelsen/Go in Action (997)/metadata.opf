@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">997</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6083ba07-522e-4a11-977c-c15e0259afa3</dc:identifier>
+        <dc:title>Go in Action</dc:title>
+        <dc:creator opf:file-as="Ketelsen, Brian &amp; Martin, Erik St. &amp; Kennedy, William" opf:role="aut">Brian Ketelsen</dc:creator>
+        <dc:creator opf:file-as="Ketelsen, Brian &amp; Martin, Erik St. &amp; Kennedy, William" opf:role="aut">Erik St. Martin</dc:creator>
+        <dc:creator opf:file-as="Ketelsen, Brian &amp; Martin, Erik St. &amp; Kennedy, William" opf:role="aut">William Kennedy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-11-26T11:27:21+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Go in Action&lt;/em&gt; introduces the Go language, guiding you from inquisitive developer to Go guru. The book begins by introducing the unique features and concepts of Go. Then, you'll get hands-on experience writing real-world applications including websites and network servers, as well as techniques to manipulate and convert data at speeds that will make your friends jealous. &lt;/p&gt;
+&lt;p&gt;Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the Technology&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;Application development can be tricky enough even when you aren't dealing with complex systems programming problems like web-scale concurrency and real-time performance. While it's possible to solve these common issues with additional tools and frameworks, Go handles them right out of the box, making for a more natural and productive coding experience. Developed at Google, Go powers nimble startups as well as big enterprises—companies that rely on high-performing services in their infrastructure. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the Book&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Go in Action&lt;/em&gt; is for any intermediate-level developer who has experience with other programming languages and wants a jump-start in learning Go or a more thorough understanding of the language and its internals. This book provides an intensive, comprehensive, and idiomatic view of Go. It focuses on the specification and implementation of the language, including topics like language syntax, Go's type system, concurrency, channels, and testing. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What's Inside&lt;/strong&gt; &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Language specification and implementation&lt;/li&gt;
+&lt;li&gt;Go's type system&lt;/li&gt;
+&lt;li&gt;Internals of Go's data structures&lt;/li&gt;
+&lt;li&gt;Testing and benchmarking&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;About the Reader&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;This book assumes you're a working developer proficient with another language like Java, Ruby, Python, C#, or C++. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the Authors&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;William Kennedy&lt;/strong&gt; is a seasoned software developer and author of the blog GoingGo.Net. &lt;strong&gt;Brian Ketelsen&lt;/strong&gt; and &lt;strong&gt;Erik St. Martin&lt;/strong&gt; are the organizers of GopherCon and coauthors of the Go-based Skynet framework. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt; &lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;Introducing Go&lt;/li&gt;
+&lt;li&gt;Go quick-start&lt;/li&gt;
+&lt;li&gt;Packaging and tooling&lt;/li&gt;
+&lt;li&gt;Arrays, slices, and maps&lt;/li&gt;
+&lt;li&gt;Go's type system&lt;/li&gt;
+&lt;li&gt;Concurrency&lt;/li&gt;
+&lt;li&gt;Concurrency patterns&lt;/li&gt;
+&lt;li&gt;Standard library&lt;/li&gt;
+&lt;li&gt;Testing and benchmarking&lt;/li&gt;&lt;/ol&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Manning Publications</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1617291781</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">HDMmrgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781617291784</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Data Processing</dc:subject>
+        <dc:subject>Databases</dc:subject>
+        <dc:subject>Networking</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>C</dc:subject>
+        <dc:subject>Java</dc:subject>
+        <dc:subject>C#</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Ruby</dc:subject>
+        <dc:subject>Web</dc:subject>
+        <dc:subject>Browsers</dc:subject>
+        <dc:subject>Internet</dc:subject>
+        <dc:subject>Software Development &amp; Engineering</dc:subject>
+        <dc:subject>Search Engines</dc:subject>
+        <dc:subject>Design</dc:subject>
+        <dc:subject>Web Services &amp; APIs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Brian Ketelsen&quot;: &quot;&quot;, &quot;Erik St. Martin&quot;: &quot;&quot;, &quot;William Kennedy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-09-22T11:32:12+00:00"/>
+        <meta name="calibre:title_sort" content="Go in Action"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

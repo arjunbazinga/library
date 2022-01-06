@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">437</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ef7f34dc-71e9-4029-9b1a-850df679a4f6</dc:identifier>
+        <dc:title>Letters From a Stoic</dc:title>
+        <dc:creator opf:file-as="Seneca, Lucius Annaeus" opf:role="aut">Lucius Annaeus Seneca</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1969-07-29T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;"It is philosophy that has the duty of protecting us...without it no one can lead a life free of fear or worry."&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;For several years of his turbulent life, Seneca was the guiding hand of the Roman Empire. His inspired reasoning derived mainly from the Stoic principles, which had originally been developed some centuries earlier in Athens. This selection of Seneca's letters shows him upholding the austere ethical ideals of Stoicism—the wisdom of the self-possessed person immune to overmastering emotions and life’s setbacks—while valuing friendship and the courage of ordinary men, and criticizing the harsh treatment  of slaves and the cruelties in the gladiatorial arena. The humanity and wit revealed in Seneca’s interpretation of Stoicism is a moving and inspiring declaration of the dignity of the individual mind. &lt;/p&gt;
+&lt;p&gt;For more than seventy years, Penguin has been the leading publisher of classic literature in the English-speaking world. With more than 1,700 titles, Penguin Classics represents a global bookshelf of the best works throughout history and across genres and disciplines. Readers trust the series to provide authoritative texts enhanced by introductions and notes by distinguished scholars and contemporary authors, as well as up-to-date translations by award-winning translators. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Lulu.com</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0140442103</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">-RGbCwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781329894747</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Ethics &amp; Moral Philosophy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lucius Annaeus Seneca&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2018-08-02T11:57:52+00:00"/>
+        <meta name="calibre:title_sort" content="Letters From a Stoic"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

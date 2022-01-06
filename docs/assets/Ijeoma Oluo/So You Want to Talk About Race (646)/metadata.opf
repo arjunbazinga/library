@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">646</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">847e1b08-fd99-48ae-8e1f-1defc2838fe2</dc:identifier>
+        <dc:title>So You Want to Talk About Race</dc:title>
+        <dc:creator opf:file-as="Oluo, Ijeoma" opf:role="aut">Ijeoma Oluo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-23T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;In this &lt;/strong&gt;&lt;span style="font-style: italic; font-weight: 600"&gt;New York Times&lt;/span&gt;&lt;strong&gt; bestseller, Ijeoma Oluo offers a hard-hitting but user-friendly examination of race in America&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;Widespread reporting on aspects of white supremacy -- from police brutality to the mass incarceration of Black Americans -- has put a media spotlight on racism in our society. Still, it is a difficult subject to talk about. How do you tell your roommate her jokes are racist? Why did your sister-in-law take umbrage when you asked to touch her hair -- and how do you make it right? How do you explain white privilege to your white, privileged friend? &lt;/p&gt;
+&lt;p&gt;In &lt;em&gt;So You Want to Talk About Race&lt;/em&gt; , Ijeoma Oluo guides readers of all races through subjects ranging from intersectionality and affirmative action to "model minorities" in an attempt to make the seemingly impossible possible: honest conversations about race and racism, and how they infect almost every aspect of American life. &lt;/p&gt;
+&lt;p&gt;"Oluo gives us -- both white people and people of color -- that language to engage in clear, constructive, and confident dialogue with each other about how to deal with racial prejudices and biases." &lt;em&gt;-- National Book Review&lt;/em&gt; * &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;"Generous and empathetic, yet usefully blunt . . . it's for anyone who wants to be smarter and more empathetic about matters of race and engage in more productive anti-racist action." -- &lt;em&gt;Salon&lt;/em&gt; (Required Reading) **&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Hachette UK</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">f3mRDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781541619227</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1580056776</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Discrimination &amp; Race Relations</dc:subject>
+        <dc:subject>Ethnic Studies</dc:subject>
+        <dc:subject>African American Studies</dc:subject>
+        <dc:subject>Black Studies (Global)</dc:subject>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>Civil Rights</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Human Resources &amp; Personnel Management</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ijeoma Oluo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:33+00:00"/>
+        <meta name="calibre:title_sort" content="So You Want to Talk About Race"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

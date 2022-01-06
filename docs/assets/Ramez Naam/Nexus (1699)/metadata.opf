@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1699</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a7017a02-bb03-4750-95a2-111e5e0268e4</dc:identifier>
+        <dc:title>Nexus</dc:title>
+        <dc:creator opf:file-as="Naam, Ramez" opf:role="aut">Ramez Naam</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-03T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;Mankind gets an upgrade&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In the near future, the experimental nano-drug Nexus can link human together, mind to mind. There are some who want to improve it. There are some who want to eradicate it. And there are others who just want to exploit it.&lt;/p&gt;
+&lt;p&gt;When a young scientist is caught improving Nexus, he’s thrust over his head into a world of danger and international espionage – for there is far more at stake than anyone realizes.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;File Under&lt;/em&gt;: &lt;strong&gt;Science Fiction&lt;/strong&gt; [ Humanity 2.0 | Mind Matters | Hive | This Will Happen ]&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Angry Robot</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780857662941</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>secret agent</dc:subject>
+        <dc:subject>government control</dc:subject>
+        <dc:subject>mental enhancement</dc:subject>
+        <dc:subject>neural networking</dc:subject>
+        <dc:subject>transhumanism</dc:subject>
+        <dc:subject>post-humanity</dc:subject>
+        <dc:subject>hive mind</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ramez Naam&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-07-09T19:31:36+00:00"/>
+        <meta name="calibre:title_sort" content="Nexus"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

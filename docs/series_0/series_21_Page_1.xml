@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Collected Works of F.A. Hayek</title>
+  <id>Calibre2opds::serieslistseries:21</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_21_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="The Collected Works of F.A. Hayek" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series" />
+  <entry>
+    <title>9 - Contra Keynes and Cambridge: Essays, Correspondence</title>
+    <id>calibre:book:488</id>
+    <updated>2019-12-07T00:47:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/F.%20A.%20Hayek/Contra%20Keynes%20and%20Cambridge_%20Essays%2C%20Correspondence%20%28488%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/F.%20A.%20Hayek/Contra%20Keynes%20and%20Cambridge_%20Essays%2C%20Correspondence%20%28488%29/Contra%20Keynes%20and%20Cambridge_%20Essays%2C%20Corre%20-%20F.%20A.%20Hayek.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/F.%20A.%20Hayek/Contra%20Keynes%20and%20Cambridge_%20Essays%2C%20Correspondence%20%28488%29/Contra%20Keynes%20and%20Cambridge_%20Essays%2C%20Corre%20-%20F.%20A.%20Hayek.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>F. A. Hayek</name>
+      <uri>../author_0/author_787_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Bruce Caldwell</name>
+      <uri>../author_0/author_788_Page_1.xml</uri>
+    </author>
+    <published>2012-09-20T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>University of Chicago Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Collected Works of F.A. Hayek" />
+    <summary>The Collected Works of F.A. Hayek [9]: 
+In 1931, when the young F. A. Hayek challenged the economic theories of John Maynard Keynes, sixteen years his senior, and one of the world's leading economists, he sparked a spirited debate that would influenc...</summary>
+    <link href="../book_0/book_488.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

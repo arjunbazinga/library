@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">676</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">588991de-aa8a-4295-a6a1-779319512d7e</dc:identifier>
+        <dc:title>The 5 Love Languages: The Secret to Love That Lasts</dc:title>
+        <dc:creator opf:file-as="Chapman, Gary" opf:role="aut">Gary Chapman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW: Marriage should be based on love, right? But does it seem as though you and your spouse are speaking two different languages? *New York Times* bestselling author Dr. Gary Chapman guides couples in identifying, understanding, and speaking their spouse’s primary love language—quality time, words of affirmation, gifts, acts of service, or physical touch. By learning the five love languages, you and your spouse will discover your unique love languages and learn practical steps in truly loving each other. Chapters are categorized by love language for easy reference, and each one ends with specific, simple steps to express a specific language to your spouse and guide your marriage in the right direction. A newly designed love languages assessment will help you understand and strengthen your relationship. You can build a lasting, loving marriage together. Gary Chapman hosts a nationally syndicated daily radio program called *A Love Language Minute* that can be heard on more than 150 radio stations as well as the weekly syndicated program *Building Relationships with Gary Chapman*, which can both be heard on fivelovelanguages.com. *The Five Love Languages* is a consistent new York Times bestseller - with over **5 million copies** sold and translated into 38 languages. This book is a sales phenomenon, with each year outselling the prior for 16 years running! Includes a promotional code to gain exclusive online access to the new comprehensive love languages assessment.</dc:description>
+        <dc:publisher>Moody Publishers</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780802473158</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Love</dc:subject>
+        <dc:subject>Interpersonal Communication</dc:subject>
+        <dc:subject>Self Help</dc:subject>
+        <dc:subject>Marriage</dc:subject>
+        <dc:subject>Family</dc:subject>
+        <dc:subject>Relationships</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gary Chapman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:37+00:00"/>
+        <meta name="calibre:title_sort" content="5 Love Languages: The Secret to Love That Lasts, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

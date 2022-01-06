@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e0289011-2f48-420a-99e4-9b33846698bd</dc:identifier>
+        <dc:title>The Transparent Society: Will Technology Force Us to Choose Between Privacy and Freedom?</dc:title>
+        <dc:creator opf:file-as="Brin, David" opf:role="aut">David Brin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-05-06T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;In New York and Baltimore, police cameras scan public areas twenty-four hours a day. Huge commercial databases track you finances and sell that information to anyone willing to pay. Host sites on the World Wide Web record every page you view, and “smart” toll roads know where you drive. Every day, new technology nibbles at our privacy.Does that make you nervous? David Brin is worried, but not just about privacy. He fears that society will overreact to these technologies by restricting the flow of information, frantically enforcing a reign of secrecy. Such measures, he warns, won't really preserve our privacy. Governments, the wealthy, criminals, and the techno-elite will still find ways to watch us. But we'll have fewer ways to watch them. We'll lose the key to a free society: accountability. &lt;em&gt;The Transparent Society&lt;/em&gt; is a call for “reciprocal transparency.” If police cameras watch us, shouldn't we be able to watch police stations? If credit bureaus sell our data, shouldn't we know who buys it? Rather than cling to an illusion of anonymity-a historical anomaly, given our origins in close-knit villages-we should focus on guarding the most important forms of privacy and preserving mutual accountability. The biggest threat to our freedom, Brin warns, is that surveillance technology will be used by too few people, now by too many.A society of glass houses may seem too fragile. Fearing technology-aided crime, governments seek to restrict online anonymity; fearing technology-aided tyranny, citizens call for encrypting all data. Brins shows how, contrary to both approaches, windows offer us much better protection than walls; after all, the strongest deterrent against snooping has always been the fear of being spotted. Furthermore, Brin argues, Western culture now encourages eccentricity-we're programmed to rebel! That gives our society a natural protection against error and wrong-doing, like a body's immune system. But “social T-cells” need openness to spot trouble and get the word out. &lt;em&gt;The Transparent Society&lt;/em&gt; is full of such provocative and far-reaching analysis.The inescapable rush of technology is forcing us to make new choices about how we want to live. This daring book reminds us that an open society is more robust and flexible than one where secrecy reigns. In an era of gnat-sized cameras, universal databases, and clothes-penetrating radar, it will be more vital than ever for us to be able to watch the watchers. With reciprocal transparency we can detect dangers early and expose wrong-doers. We can gauge the credibility of pundits and politicians. We can share technological advances and news. But all of these benefits depend on the free, two-way flow of information. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Hachette UK</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0738201448</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Voc5DgAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780465027903</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>History</dc:subject>
+        <dc:subject>World</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;David Brin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2018-05-23T12:01:47+00:00"/>
+        <meta name="calibre:title_sort" content="Transparent Society: Will Technology Force Us to Choose Between Privacy and Freedom?, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

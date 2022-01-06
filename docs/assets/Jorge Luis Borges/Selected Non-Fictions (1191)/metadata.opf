@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1191</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ea8e5d8c-375e-4303-a88e-cf2a81cf5524</dc:identifier>
+        <dc:title>Selected Non-Fictions</dc:title>
+        <dc:creator opf:file-as="Borges, Jorge Luis" opf:role="aut">Jorge Luis Borges</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-01-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;It will come as a surprise to some readers that the greater part of Jorge Luis Borges's extraordinary writing was not in the genres of fiction or poetry, but in the various forms of non-fiction prose. His thousands of pages of essays, reviews, prologues, lectures, and notes on politics and culture?though revered in Latin America and Europe as among his finest work?have scarcely been translated into English. Selected Non-Fictions presents a Borges almost entirely unknown to American readers. Here is the dazzling metaphysician speculating on the nature of time and reality and the inventions of heaven and hell, and the almost superhumanly erudite reader of the world's literatures, from Homer to Ray Bradbury, James Joyce to Lady Murasaki. Here, too, the political Borges, taking courageous stands against fascism, anti-Semitism, and the Peron dictatorship; Borges the moive critic, on King Kong and Citizen Kane and the Borgesian art of dubbing; and Borges the regular columnist for the Argentine equivalent of the Ladies' Home Journal, writing hilarious book reviews and capsule biographies of modern writers. The first comprehensive selection of this work in any language, Selected Non-Fiction presents over 160 of these astonishing writings, from his youthful manifestos to his last meditations on his favorite books. More than a hundred of these pieces have never before appeared in English, and all have been rendered in brilliant new translations by Esther Allen, Suzanne Jill Levine, and Eliot Weinberger. This unique selection, the third and final volume in Penguin's centenary edition of the Collected Work in English, presents Borges as at once a deceptively self-effacing guide to the universe and the inventor of a universe that is an idispensable guide to Borges.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Books</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">BpUrAQAAMAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780140290110</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Biography &amp; Autobiography</dc:subject>
+        <dc:subject>Literary Figures</dc:subject>
+        <dc:subject>Literary Collections</dc:subject>
+        <dc:subject>Caribbean &amp; Latin American</dc:subject>
+        <dc:subject>Essays</dc:subject>
+        <dc:subject>Literary Criticism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jorge Luis Borges&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-01-22T18:19:25+00:00"/>
+        <meta name="calibre:title_sort" content="Selected Non-Fictions"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

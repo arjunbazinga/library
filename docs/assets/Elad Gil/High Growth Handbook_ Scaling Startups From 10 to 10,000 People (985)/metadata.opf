@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">985</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">22cf97c2-3a91-4f1e-bd79-e77699b47e7e</dc:identifier>
+        <dc:title>High Growth Handbook: Scaling Startups From 10 to 10,000 People</dc:title>
+        <dc:creator opf:file-as="Gil, Elad" opf:role="aut">Elad Gil</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-07-16T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Well known technology executive and angel investor Elad Gil has worked with high growth tech companies like Airbnb, Twitter, Google, Instacart, Coinbase, Stripe, and Square as they've grown from small companies into global brands. Across all of these break-out companies, a set of common patterns has evolved into a repeatable playbook that Gil has codified in High Growth Handbook. Covering key topics including the role of the CEO, managing your board, recruiting and managing an executive team, M&amp;amp;A, IPOs and late stage funding rounds, and interspersed with over a dozen interviews with some of the biggest names in Silicon Valley including Reid Hoffman (LinkedIn), Marc Andreessen (Andreessen Horowitz), and Aaron Levie (Box), High Growth Handbook presents crystal clear guidance for navigating the most complex challenges that confront leaders and operators in high-growth startups. In what Reid Hoffman, cofounder of LinkedIn and co-author of the #1 NYT bestsellers The Alliance and The Startup of You calls "a trenchant guide," High Growth Handbook is the playbook for turning a startup into a unicorn.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Stripe Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">9U1BuQEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">d2939ca5-360f-4fae-af50-e6517cd283e2</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781732265103</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Elad Gil&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-09-02T13:09:35+00:00"/>
+        <meta name="calibre:title_sort" content="High Growth Handbook: Scaling Startups From 10 to 10,000 People"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">796</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8017f3c3-d09f-4af1-ab75-9497ae5e92e3</dc:identifier>
+        <dc:title>Traction: Get a Grip on Your Business</dc:title>
+        <dc:creator opf:file-as="Wickman, Gino" opf:role="aut">Gino Wickman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-04-02T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Do you have a grip on your business, or does your business have a grip on you? &lt;/p&gt;
+&lt;p&gt;All entrepreneurs and business leaders face similar frustrations—personnel conflict, profit woes, and inadequate growth. Decisions never seem to get made, or, once made, fail to be properly implemented. But there is a solution. It’s not complicated or theoretical.The Entrepreneurial Operating System® is a practical method for achieving the business success you have always envisioned. More than 80,000 companies have discovered what EOS can do. &lt;/p&gt;
+&lt;p&gt;In &lt;em&gt;Traction&lt;/em&gt; , you’ll learn the secrets of strengthening the six key components of your business. You’ll discover simple yet powerful ways to run your company that will give you and your leadership team more focus, more growth, and more enjoyment. Successful companies are applying &lt;em&gt;Traction&lt;/em&gt; every day to run profitable, frustration-free businesses—and you can too. &lt;/p&gt;
+&lt;p&gt;For an illustrative, real-world lesson on how to apply &lt;em&gt;Traction&lt;/em&gt; to your business, check out its companion book, &lt;em&gt;Get A Grip&lt;/em&gt;. &lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>BenBella Books, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781936661824</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">1sl__J9p70AC</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1936661837</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business</dc:subject>
+        <dc:subject>Economics</dc:subject>
+        <dc:subject>Management</dc:subject>
+        <dc:subject>Production &amp; Operations Management</dc:subject>
+        <dc:subject>Leadership</dc:subject>
+        <dc:subject>Entrepreneurship</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gino Wickman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-05-09T07:04:33+00:00"/>
+        <meta name="calibre:title_sort" content="Traction: Get a Grip on Your Business"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

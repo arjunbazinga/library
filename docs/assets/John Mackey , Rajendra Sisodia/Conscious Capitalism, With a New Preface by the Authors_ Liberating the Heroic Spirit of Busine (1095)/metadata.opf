@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1095</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a8e1d5b9-9ed6-429a-a707-d1ea5dcb0330</dc:identifier>
+        <dc:title>Conscious Capitalism, With a New Preface by the Authors: Liberating the Heroic Spirit of Business</dc:title>
+        <dc:creator opf:file-as="John Mackey , Rajendra Sisodia" opf:role="aut">John Mackey , Rajendra Sisodia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-01-06T14:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;b&gt;Uploaded by [StormRG]&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;The bestselling book, now with a new preface by the authors&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;At once a bold defense and reimagining of capitalism and a blueprint for a new system for doing business, &lt;em&gt;Conscious Capitalism&lt;/em&gt; is for anyone hoping to build a more cooperative, humane, and positive future.&lt;br&gt;&lt;/p&gt;&lt;p&gt;Whole Foods Market cofounder John Mackey and professor and Conscious Capitalism, Inc. cofounder Raj Sisodia argue that both business and capitalism are inherently good, and they use some of today’s best-known and most successful companies to illustrate their point. From Southwest Airlines, UPS, and Tata to Costco, Panera, Google, the Container Store, and Amazon, today’s organizations are creating value for all stakeholders—including customers, employees, suppliers, investors, society, and the environment.&lt;br&gt;&lt;/p&gt;&lt;p&gt;Read this book and you’ll better understand how four specific tenets—&lt;em&gt;higher purpose&lt;/em&gt;, &lt;em&gt;stakeholder integration&lt;/em&gt;, &lt;em&gt;conscious leadership&lt;/em&gt;, and &lt;em&gt;conscious culture and management&lt;/em&gt;—can help build strong businesses, move capitalism closer to its highest potential, and foster a more positive environment for all of us.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Harvard Business Review Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781625271754</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00GQDL7MA</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Management</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Business Ethics</dc:subject>
+        <dc:subject>Free Enterprise</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Mackey , Rajendra Sisodia&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-11-25T08:44:08+00:00"/>
+        <meta name="calibre:title_sort" content="Conscious Capitalism, With a New Preface by the Authors: Liberating the Heroic Spirit of Business"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

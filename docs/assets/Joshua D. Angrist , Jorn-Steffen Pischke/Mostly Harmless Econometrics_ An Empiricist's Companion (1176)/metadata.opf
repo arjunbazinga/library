@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1176</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fa0514e3-d1d5-40fb-8f64-6ee8ad9da4ee</dc:identifier>
+        <dc:title>Mostly Harmless Econometrics: An Empiricist's Companion</dc:title>
+        <dc:creator opf:file-as="Joshua D. Angrist , Jörn-Steffen Pischke" opf:role="aut">Joshua D. Angrist , Jörn-Steffen Pischke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-14T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;span style="color: #000000"&gt;Business &amp;amp; Economics, Econometrics&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000"&gt;The core methods in today's econometric toolkit are linear regression for statistical control, instrumental variables methods for the analysis of natural experiments, and differences-in-differences methods that exploit policy changes. In the modern experimentalist paradigm, these techniques address clear causal questions such as: Do smaller classes increase learning? Should wife batterers be arrested? How much does education raise wages? Mostly Harmless Econometrics shows how the basic tools of applied econometrics allow the data to speak. In addition to econometric essentials, Mostly Harmless Econometrics covers important new extensions--regression-discontinuity designs and quantile regression--as well as how to get standard errors right. Joshua Angrist and Jörn-Steffen Pischke explain why fancier econometric techniques are typically unnecessary and even dangerous. The applied econometric methods emphasized in this book are easy to use and relevant for many areas of contemporary social science. An irreverent review of econometric essentials A focus on tools that applied researchers use most Chapters on regression-discontinuity designs, quantile regression, and standard errors Many empirical examples A clear and concise resource with wide applications &lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Princeton University Press</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B003TSELA0</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Joshua D. Angrist , Jörn-Steffen Pischke&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-01-13T07:03:58+00:00"/>
+        <meta name="calibre:title_sort" content="Mostly Harmless Econometrics: An Empiricist's Companion"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

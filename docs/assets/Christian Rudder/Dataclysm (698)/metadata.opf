@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">698</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4bd72bf9-388e-443f-a913-8d219bfb4766</dc:identifier>
+        <dc:title>Dataclysm</dc:title>
+        <dc:creator opf:file-as="Rudder, Christian" opf:role="aut">Christian Rudder</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-09-08T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;What is the secret to a stable marriage? How many gay people are still in the closet? Do we truly live in a postracial society? Has Twitter made us dumber? These are just a few of the questions Christian Rudder answers in &lt;i&gt;Dataclysm,&lt;/i&gt; a smart, funny, irreverent look at how we act when we think no one's looking.&lt;br&gt;  &lt;br&gt; For centuries we've relied on polling or small-scale lab experiments to study human behavior. Today a new approach is possible. As we live more of our lives online, researchers can finally observe us directly, in vast numbers and without filters. Data scientists can quantify the formerly unquantifiable and show with unprecedented precision how we fight, how we age, how we love, and how we change. Our personal data has been used to spy on us, hire and fire us, and sell us stuff we don't need. In &lt;i&gt;Dataclysm,&lt;/i&gt; Rudder uses it to show us who we are as people. &lt;br&gt;  &lt;br&gt; He reveals how Facebook "likes" can predict, with surprising accuracy, a person's...</dc:description>
+        <dc:publisher>Crown Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-0-385-34738-9</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Christian Rudder&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-03-28T06:02:38.767510+00:00" name="calibre:timestamp"/>
+        <meta content="Dataclysm" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

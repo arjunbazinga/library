@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1690</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bc47b050-b185-48d2-9fbc-69284d100aeb</dc:identifier>
+        <dc:title>Isaac Asimov's Science Fiction Magazine - Vol. 1, No. 1, Spring 1977</dc:title>
+        <dc:creator opf:file-as="Isaac Asimov, John Varley, Arthur C. Clarke, Gordon R. Dickson, Fred Saberhagen, Sherwood Springer, Edward D. Hoch" opf:role="aut">Isaac Asimov, John Varley, Arthur C. Clarke, Gordon R. Dickson, Fred Saberhagen, Sherwood Springer, Edward D. Hoch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>B000YHCVWE</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Isaac Asimov, John Varley, Arthur C. Clarke, Gordon R. Dickson, Fred Saberhagen, Sherwood Springer, Edward D. Hoch&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-07-09T19:23:56+00:00"/>
+        <meta name="calibre:title_sort" content="Isaac Asimov's Science Fiction Magazine - Vol. 1, No. 1, Spring 1977"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

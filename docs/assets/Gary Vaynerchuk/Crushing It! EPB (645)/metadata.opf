@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">645</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f03ab29c-5a9a-4fd3-8c5c-56f70d77223e</dc:identifier>
+        <dc:title>Crushing It! EPB</dc:title>
+        <dc:creator opf:file-as="Vaynerchuk, Gary" opf:role="aut">Gary Vaynerchuk</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-30T00:00:00+00:00</dc:date>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gary Vaynerchuk&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:33+00:00"/>
+        <meta name="calibre:title_sort" content="Crushing It! EPB"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

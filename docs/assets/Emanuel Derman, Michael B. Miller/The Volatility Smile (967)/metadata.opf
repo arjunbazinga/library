@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">967</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7572fbb4-0c6d-43c4-a720-ba7f4be7e88a</dc:identifier>
+        <dc:title>The Volatility Smile</dc:title>
+        <dc:creator opf:file-as="Emanuel Derman, Michael B. Miller" opf:role="aut">Emanuel Derman, Michael B. Miller</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-09-05T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;The Volatility Smile&lt;/strong&gt; The Black-Scholes-Merton option model was the greatest innovation of 20th century finance, and remains the most widely applied theory in all of finance. Despite this success, the model is fundamentally at odds with the observed behavior of option markets: a graph of implied volatilities against strike will typically display a curve or skew, which practitioners refer to as the smile, and which the model cannot explain. Option valuation is not a solved problem, and the past forty years have witnessed an abundance of new models that try to reconcile theory with markets. &lt;em&gt;The Volatility Smile&lt;/em&gt; presents a unified treatment of the Black-Scholes-Merton model and the more advanced models that have replaced it. It is also a book about the principles of financial valuation and how to apply them. Celebrated author and quant Emanuel Derman and Michael B. Miller explain not just the mathematics but the ideas behind the models. By examining the foundations, the implementation, and the pros and cons of various models, and by carefully exploring their derivations and their assumptions, readers will learn not only how to handle the volatility smile but how to evaluate and build their own financial models. Topics covered include: * The principles of valuation * Static and dynamic replication * The Black-Scholes-Merton model * Hedging strategies * Transaction costs * The behavior of the volatility smile * Implied distributions * Local volatility models * Stochastic volatility models * Jump-diffusion models&lt;/p&gt;
+&lt;p&gt;The first half of the book, Chapters 1 through 13, can serve as a standalone textbook for a course on option valuation and the Black-Scholes-Merton model, presenting the principles of financial modeling, several derivations of the model, and a detailed discussion of how it is used in practice. The second half focuses on the behavior of the volatility smile, and, in conjunction with the first half, can be used for as the basis for a more advanced course. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781118959169</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">WKfBDAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1118959167</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Investments &amp; Securities</dc:subject>
+        <dc:subject>Analysis &amp; Trading Strategies</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Emanuel Derman, Michael B. Miller&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-08-26T15:57:21+00:00"/>
+        <meta name="calibre:title_sort" content="Volatility Smile, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">506</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9454e535-c3c8-451b-95d5-6d6d3b740100</dc:identifier>
+        <dc:title>The Sling and the Stone: On War in the 21st Century</dc:title>
+        <dc:creator opf:file-as="Hammes, Thomas X." opf:role="aut">Thomas X. Hammes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-02-16T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;4GW (Fourth Generation Warfare) is the only kind of war America has ever lost. And we have done so three times - in Vietnam, Lebanon, and Somalia. This form of warfare has also defeated the French in Vietnam and Algeria, and the USSR in Afghanistan.As the only Goliath left in the world, we should be worried that the world's Davids have found a sling and stone that work." - Chapter 1, The Sling and the Stone: On War in the 21st Century. The War in Iraq. The War on Terror. These types of "asymmetrical" warfare are the conflicts of the 21st century - and show how difficult it is for the world's remaining superpower to battle insurgents and terrorists who will fight unconventionally in the face of superior military power. This change in military conflict may seem sudden.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Voyageur Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780760324073</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">d2Ux1lz0PUgC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Modern</dc:subject>
+        <dc:subject>21st Century</dc:subject>
+        <dc:subject>Military</dc:subject>
+        <dc:subject>Strategy</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Technology &amp; Engineering</dc:subject>
+        <dc:subject>Military Science</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas X. Hammes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2018-08-28T19:06:09+00:00"/>
+        <meta name="calibre:title_sort" content="Sling and the Stone: On War in the 21st Century, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

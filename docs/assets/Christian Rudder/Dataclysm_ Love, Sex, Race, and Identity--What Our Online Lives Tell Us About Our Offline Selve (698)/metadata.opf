@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">698</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4bd72bf9-388e-443f-a913-8d219bfb4766</dc:identifier>
+        <dc:title>Dataclysm: Love, Sex, Race, and Identity--What Our Online Lives Tell Us About Our Offline Selves</dc:title>
+        <dc:creator opf:file-as="Rudder, Christian" opf:role="aut">Christian Rudder</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-09-08T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;span style="font-style: italic; font-weight: 600"&gt;*A &lt;/span&gt;&lt;strong&gt;New York Times* Bestseller&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;An audacious, irreverent investigation of human behavior—and a first look at a revolution in the making&lt;strong&gt;&lt;br&gt;&lt;br&gt;Our personal data has been used to spy on us, hire and fire us, and sell us stuff we don’t need. In &lt;/strong&gt;&lt;span style="font-style: italic; font-weight: 600"&gt;Dataclysm&lt;/span&gt;&lt;strong&gt; , Christian Rudder uses it to show us who we truly are. &lt;br&gt;&lt;br&gt;For centuries, we’ve relied on polling or small-scale lab experiments to study human behavior. Today, a new approach is possible. As we live more of our lives online, researchers can finally observe us directly, in vast numbers, and without filters. Data scientists have become the new demographers.&lt;br&gt;&lt;br&gt;In this daring and original book, Rudder explains how Facebook "likes" can predict, with surprising accuracy, a person’s sexual orientation and even intelligence; how attractive women receive exponentially more interview requests; and why you must have haters to be hot. He charts the rise and fall of America’s most reviled word through Google Search and examines the new dynamics of collaborative rage on Twitter. He shows how people express themselves, both privately and publicly. What is the least Asian thing you can say? Do people bathe more in Vermont or New Jersey? What do black women think about Simon &amp;amp; Garfunkel? (Hint: they don’t think about Simon &amp;amp; Garfunkel.) Rudder also traces human migration over time, showing how groups of people move from certain small towns to the same big cities across the globe. And he grapples with the challenge of maintaining privacy in a world where these explorations are possible.&lt;br&gt;&lt;br&gt;Visually arresting and full of wit and insight, &lt;/strong&gt;&lt;span style="font-style: italic; font-weight: 600"&gt;Dataclysm&lt;/span&gt;&lt;strong&gt; is a new way of seeing ourselves—a brilliant alchemy, in which math is made human and numbers become the narrative of our time. &lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Crown</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0385347391</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">-xEcAwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780385347389</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Statistics</dc:subject>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Social Psychology</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Data Modeling &amp; Design</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Christian Rudder&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:38+00:00"/>
+        <meta name="calibre:title_sort" content="Dataclysm: Love, Sex, Race, and Identity--What Our Online Lives Tell Us About Our Offline Selves"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">648</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">04f22429-8fe4-4452-bec8-62a1d0dada7b</dc:identifier>
+        <dc:title>A People's History of the United States</dc:title>
+        <dc:creator opf:file-as="Zinn, Howard" opf:role="aut">Howard Zinn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-26T10:20:52+00:00</dc:date>
+        <dc:description>Since its original landmark publication in 1980, A People's History of the United States has been chronicling American history from the bottom up, throwing out the official version of history taught in schools–with its emphasis on great men in high places–to focus on the street, the home, and the workplace.Known for its lively, clear prose as well as its scholarly research, A People's History is the only volume to tell America's story from the point of view of–and in the words of–America's women, factory workers, African Americans, Native Americans, working poor, and immigrant laborers. As historian Howard Zinn shows, many of our country's greatest battles–for a fair wage, an eight-hour workday, child-labor laws, health and safety standards, universal suffrage, women's rights, racial equality–were carried out at the grassroots level, against bloody resistance. Covering Christopher Columbus's arrival through the 2000 Election and the "war on terrorism," A People's History of the United States, which was nominated for the American Book Award in 1981 and has sold more than one million copies, features insightful analysis of the most important events in our history.This new edition contains two new chapters covering the Clinton presidency, the 2000 Election, and the "war on terrorism," continuing Zinn's important contribution to a complete and balanced understanding of American history.</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061989834</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">0031a853-5dba-40ca-9d18-2921bc1fb5d6</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Vu-hxQypyjkC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>History</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>United States</dc:subject>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>Political Ideologies</dc:subject>
+        <dc:subject>Democracy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Howard Zinn&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:33+00:00"/>
+        <meta name="calibre:title_sort" content="People's History of the United States, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

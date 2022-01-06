@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">848</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">db8e9f9e-7d7c-4c5f-a0e9-cbd4028d70ea</dc:identifier>
+        <dc:title>Trading and Exchanges: Market Microstructure for Practitioners</dc:title>
+        <dc:creator opf:file-as="Harris, Larry" opf:role="aut">Larry Harris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-09-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;This book is about trading, the people who trade securities and contracts, the marketplaces where they trade, and the rules that govern it. Readers will learn about investors, brokers, dealers, arbitrageurs, retail traders, day traders, rogue traders, and gamblers; exchanges, boards of trade, dealer networks, ECNs (electronic communications networks), crossing markets, and pink sheets. Also covered in this text are single price auctions, open outcry auctions, and brokered markets limit orders, market orders, and stop orders. Finally, the author covers the areas of program trades, block trades, and short trades, price priority, time precedence, public order precedence, and display precedence, insider trading, scalping, and bluffing, and investing, speculating, and gambling.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Oxford University Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780195144703</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Rd9hDRR1Yx4C</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Investments</dc:subject>
+        <dc:subject>Securities</dc:subject>
+        <dc:subject>Business</dc:subject>
+        <dc:subject>Economics</dc:subject>
+        <dc:subject>Finance</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Larry Harris&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-07-09T07:37:31+00:00"/>
+        <meta name="calibre:title_sort" content="Trading and Exchanges: Market Microstructure for Practitioners"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

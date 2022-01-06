@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1111</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e0dc555a-1746-49af-be12-4edd9056b817</dc:identifier>
+        <dc:title>Ninety Percent of Everything: Inside Shipping, the Invisible Industry That Puts Clothes on Your Back, Gas in Your Car, and Food on Your Plate</dc:title>
+        <dc:creator opf:file-as="George, Rose" opf:role="aut">Rose George</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-09-08T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;On ship-tracking Web sites, the waters are black with dots. Each dot is a ship; each ship is laden with boxes; each box is laden with goods. In postindustrial economies, we no longer produce but buy, and so we must ship. Without shipping there would be no clothes, food, paper, or fuel. Without all those dots, the world would not work. Yet freight shipping is all but invisible. Away from public scrutiny, it revels in suspect practices, dubious operators, and a shady system of "flags of convenience." And then there are the pirates.Rose George, acclaimed chronicler of what we would rather ignore, sails from Rotterdam to Suez to Singapore on ships the length of football fields and the height of Niagara Falls; she patrols the Indian Ocean with an anti-piracy task force; she joins seafaring chaplains, and investigates the harm that ships inflict on endangered whales. Sharply informative and entertaining, Ninety Percent of Everything reveals the workings and perils of an unseen world that holds the key to our economy, our environment, and our very civilization.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Picador</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781250058294</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">QUyPngEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Sociology</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Transportation</dc:subject>
+        <dc:subject>Ships &amp; Shipbuilding</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Industries</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rose George&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-06T11:34:16+00:00"/>
+        <meta name="calibre:title_sort" content="Ninety Percent of Everything: Inside Shipping, the Invisible Industry That Puts Clothes on Your Back, Gas in Your Car, and Food on Your Plate"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

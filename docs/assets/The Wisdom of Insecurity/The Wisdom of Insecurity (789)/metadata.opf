@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">789</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9bc17ecd-6fcc-4954-bb95-eca3d73f34e0</dc:identifier>
+        <dc:title>The Wisdom of Insecurity</dc:title>
+        <dc:creator opf:file-as="Insecurity, The Wisdom of" opf:role="aut">The Wisdom of Insecurity</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-03-22T01:52:46+00:00</dc:date>
+        <dc:description>The Wisdom of Insecurity</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>The Wisdom of Insecurity</dc:subject>
+        <meta content="{&quot;The Wisdom of Insecurity&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-23T12:13:03.428559+00:00" name="calibre:timestamp"/>
+        <meta content="Wisdom of Insecurity, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

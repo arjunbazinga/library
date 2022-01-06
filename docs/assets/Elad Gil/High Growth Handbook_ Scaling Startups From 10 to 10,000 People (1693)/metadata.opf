@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1693</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">67af63aa-57b3-485c-9bc5-3064e51ddf26</dc:identifier>
+        <dc:title>High Growth Handbook: Scaling Startups From 10 to 10,000 People</dc:title>
+        <dc:creator opf:file-as="Gil, Elad" opf:role="aut">Elad Gil</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-07-17T19:25:30+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;High Growth Handbook&lt;/em&gt; is &lt;em&gt;the&lt;/em&gt; playbook for growing your startup into a global brand.&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;"If you want the chance to turn your startup into the next Google or Twitter, then read this trenchant guide from someone who played key roles in the growth of these companies."&lt;br /&gt;
+&lt;strong&gt;--Reid Hoffman, co-founder of LinkedIn and &lt;em&gt;New York Times&lt;/em&gt; #1 bestselling author&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;Global technology executive, serial entrepreneur, and angel investor Elad Gil has worked with high-growth, tech companies like Airbnb, Twitter, Google, Stripe, and Square as they've grown from small companies to global enterprises.  &lt;/p&gt;
+&lt;p&gt;Across all of these breakout companies, a set of common patterns has evolved into a repeatable playbook that Gil has now codified in &lt;em&gt;High Growth Handbook&lt;/em&gt;. In this definitive guide, Gil covers key topics, including:  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the role of the CEO &lt;/li&gt;
+&lt;li&gt;managing a board &lt;/li&gt;
+&lt;li&gt;recruiting and managing an executive team &lt;/li&gt;
+&lt;li&gt;mergers and acquisitions &lt;/li&gt;
+&lt;li&gt;initial public offerings &lt;/li&gt;
+&lt;li&gt;late-stage funding &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Interspersed with and informed by interviews with some of the biggest names in Silicon Valley including Reid Hoffman (LinkedIn), Marc Andreessen (Andreessen Horowitz), and Aaron Levie (Box), &lt;em&gt;High Growth Handbook&lt;/em&gt; presents crystal-clear guidance for navigating the most complex challenges that confront leaders and operators in high-growth startups.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Praise for &lt;em&gt;High Growth Handbook&lt;/em&gt; :&lt;/strong&gt;&lt;br /&gt;
+"Elad eschews trite management aphorisms in favor of pragmatic and straight-shooting insights on complex topics like managing a board of directors, executing functional re-organizations with as little trauma as possible, and everything in-between."&lt;br /&gt;
+--Dick Costolo, former CEO of Twitter and serial entrepreneur  &lt;/p&gt;
+&lt;p&gt;"Elad first invested in Airbnb when we were less than 10 people and provided early advice on scaling the company. This book shares these learnings for the next generation of entrepreneurs."&lt;br /&gt;
+--Nathan Blecharczyk, cofounder of Airbnb, Chief Strategy Officer, and Chairman of Airbnb China  &lt;/p&gt;
+&lt;p&gt;"Elad jam-packs every useful lesson about building and scaling companies into a single, digestible book. My only gripe is that he didn't write this when we were in the early days of Box as it would have saved my ass countless times."&lt;br /&gt;
+--Aaron Levie, cofounder and CEO of Box  &lt;/p&gt;
+&lt;p&gt;"Armed with observations gathered scaling some of the most successful and important companies of Silicon Valley, Elad has no-nonsense, highly applicable advice to any operator transitioning a company from the proverbial garage to the next stage and beyond."&lt;br /&gt;
+--Max Levchin, cofounder and CEO of Affirm, cofounder and CTO of PayPal  &lt;/p&gt;
+&lt;p&gt;"Elad is one of the most experienced operators in Silicon Valley having seen numerous companies hit their inflection point. His advice has been key for Coinbase as we go through hypergrowth, from hiring executives to improving M&amp;amp;A."&lt;br /&gt;
+--Brian Armstrong, cofounder and CEO of Coinbase  &lt;/p&gt;
+&lt;p&gt;"Elad is one of the best connected and respected early stage investors in the Valley - he invested in Minted when we had fewer than 50 employees and his advice was critical to us in growing our business to where we are now, in the low hundreds of millions in sales. In his book, he crystallizes all of these learnings for the next generation of companies."&lt;br /&gt;
+--Mariam Naficy, cofounder and CEO of Minted
+**&lt;/p&gt;</dc:description>
+        <dc:publisher>Stripe Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781732265103</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07DRPGGQ7</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1732265100</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">9U1BuQEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Elad Gil&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-07-09T19:25:17+00:00"/>
+        <meta name="calibre:title_sort" content="High Growth Handbook: Scaling Startups From 10 to 10,000 People"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

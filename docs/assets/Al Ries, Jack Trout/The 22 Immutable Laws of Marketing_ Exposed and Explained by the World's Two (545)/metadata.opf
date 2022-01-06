@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">545</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9628dc16-d32f-495a-aedc-cadc28e19be6</dc:identifier>
+        <dc:title>The 22 Immutable Laws of Marketing: Exposed and Explained by the World's Two</dc:title>
+        <dc:creator opf:file-as="Al Ries, Jack Trout" opf:role="aut">Al Ries, Jack Trout</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-12T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Two world-renowned marketing consultants and bestselling authors present the definitive rules of marketing.&lt;/p&gt;</dc:description>
+        <dc:publisher>Harper Collins</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">MxtRa_ozsewC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780061798177</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business</dc:subject>
+        <dc:subject>Economics</dc:subject>
+        <dc:subject>Marketing</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Al Ries, Jack Trout&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2019-01-27T09:36:36+00:00"/>
+        <meta name="calibre:title_sort" content="22 Immutable Laws of Marketing: Exposed and Explained by the World's Two, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

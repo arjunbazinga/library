@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">919</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">46f6157b-0501-4efa-aa20-919becd18eca</dc:identifier>
+        <dc:title>Cynical Theories: How Activist Scholarship Made Everything About Race, Gender, and Identity—and Why This Harms Everybody</dc:title>
+        <dc:creator opf:file-as="Helen Pluckrose , James A. Lindsay" opf:role="aut">Helen Pluckrose , James A. Lindsay</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-04T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Have you heard that language is violence and that science is sexist? Have you read that you shouldn't practice yoga or cook Chinese food? Are you confused by these ideas and wonder how they have managed to challenge so quickly the very logic of Western society? In this probing and intrepid volume, Helen Pluckrose and James A. Lindsay document the evolution of this dogma, from its coarse origins in French postmodernism to its refinement within activist academic fields. As Pluckrose and Lindsay warn, the unchecked proliferation of these anti-Enlightenment beliefs presents a threat not only to liberal democracy but also to modernity itself. Only through a proper understanding of the evolution of these ideas can those who value science, reason, and consistently liberal ethics successfully challenge this dangerous and authoritarian orthodoxy.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Pitchstone Publishing (US&amp;CA)</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">md7sDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781634312035</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Education</dc:subject>
+        <dc:subject>Philosophy; Theory &amp; Social Aspects</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Popular Culture</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Helen Pluckrose , James A. Lindsay&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-08-09T11:10:24+00:00"/>
+        <meta name="calibre:title_sort" content="Cynical Theories: How Activist Scholarship Made Everything About Race, Gender, and Identity—and Why This Harms Everybody"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

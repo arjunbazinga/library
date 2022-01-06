@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">521</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d72b781d-2d32-4197-82fc-d480844658ec</dc:identifier>
+        <dc:title>We Need to Talk: How to Have Conversations That Matter</dc:title>
+        <dc:creator opf:file-as="Headlee, Celeste" opf:role="aut">Celeste Headlee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-04T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;“WE NEED TO TALK.”&lt;/strong&gt; &lt;strong&gt;In this urgent and insightful book, public radio journalist Celeste Headlee shows us how to bridge what divides us--by having real conversations&lt;/strong&gt; BASED ON THE TED TALK WITH OVER 10 MILLION VIEWS&lt;br&gt;NPR's Best Books of 2017 Winner of the 2017 Silver Nautilus Award in Relationships &amp;amp; Communication &lt;em&gt;“We Need to Talk&lt;/em&gt; is an important read for a conversationally-challenged, disconnected age. Headlee is a talented, honest storyteller, and her advice has helped me become a better spouse, friend, and mother.”  (Jessica Lahey, author of  &lt;em&gt;New York Times&lt;/em&gt;  bestseller  &lt;em&gt;The Gift of Failure&lt;/em&gt; ) Today most of us communicate from behind electronic screens, and studies show that Americans feel less connected and more divided than ever before. The blame for some of this disconnect can be attributed to our political landscape, but the erosion of our conversational skills as a society lies with us as individuals. And the only way forward, says Headlee, is to start talking to each other. In &lt;em&gt;We Need to Talk&lt;/em&gt; , she outlines the strategies that have made her a better conversationalist—and offers simple tools that can improve anyone’s communication. For example:  * BE THERE OR GO ELSEWHERE. Human beings are incapable of multitasking, and this is especially true of tasks that involve language. Think you can type up a few emails while on a business call, or hold a conversation with your child while texting your spouse? Think again. * CHECK YOUR BIAS. The belief that your intelligence protects you from erroneous assumptions can end up making you more vulnerable to them. We all have blind spots that affect the way we view others. Check your bias before you judge someone else. * HIDE YOUR PHONE. Don’t just put down your phone, put it away. New research suggests that the mere presence of a cell phone can negatively impact the quality of a conversation. &lt;/p&gt;
+&lt;p&gt;Whether you’re struggling to communicate with your kid’s teacher at school, an employee at work, or the people you love the most—Headlee offers smart strategies that can help us all have conversations that matter.   **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Hachette UK</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780349416397</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">UeZzDQAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0062669001</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business</dc:subject>
+        <dc:subject>Economics</dc:subject>
+        <dc:subject>Personal Success</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Communication</dc:subject>
+        <dc:subject>Social Skills</dc:subject>
+        <dc:subject>Careers</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Family</dc:subject>
+        <dc:subject>Relationships</dc:subject>
+        <dc:subject>Business Communication</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Success</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Celeste Headlee&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2018-09-03T04:23:04+00:00"/>
+        <meta name="calibre:title_sort" content="We Need to Talk: How to Have Conversations That Matter"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

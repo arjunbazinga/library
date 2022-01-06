@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">890</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1386916c-a6e0-4594-b244-da138c268820</dc:identifier>
+        <dc:title>AI Superpowers</dc:title>
+        <dc:creator opf:file-as="Lee, Kai-Fu" opf:role="aut">Kai-Fu Lee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Houghton Mifflin Harcourt Publishing Company</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Kai-Fu Lee&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-08-09T07:29:03.482099+00:00" name="calibre:timestamp"/>
+        <meta content="AI Superpowers" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

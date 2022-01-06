@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">883</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b098ae9a-be43-46c0-8cb2-f9155d9728a7</dc:identifier>
+        <dc:title>Breath: The New Science of a Lost Art</dc:title>
+        <dc:creator opf:file-as="Nestor, James" opf:role="aut">James Nestor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-20T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;'I highly recommend this book' Wim HofTHE INTERNATIONAL BESTSELLERAS HEARD ON THE CHRIS EVANS SHOWThere is nothing more essential to our health and wellbeing than breathing: take air in, let it out, repeat 25,000 times a day. Yet, as a species, humans have lost the ability to breathe correctly, with grave consequences. In Breath, journalist James Nestor travels the world to discover the hidden science behind ancient breathing practices to figure out what went wrong and how to fix it.Modern research is showing us that making even slight adjustments can:- jump-start athletic performance- rejuvenate internal organs- halt snoring, allergies, asthma and autoimmune disease, and even straighten scoliotic spinesNone of this should be possible, and yet it is. Drawing on thousands of years of ancient wisdom and cutting-edge studies in pulmonology, psychology, biochemistry and human physiology, Breath turns the conventional wisdom of what we thought we knew about our most basic biological function on its head.You will never breathe the same again._____________________________'If there's one book you read this year, make it this one' Chris Evans'Who would have thought something as simple as changing the way we breathe could be so revolutionary for our health, from snoring to allergies to immunity? James Nestor is the perfect guide to the pulmonary world and has written a fascinating book, full of dazzling revelations' Dr Rangan Chatterjee, author of Feel Better in FiveA fascinating scientific, cultural, spiritual and evolutionary history of the way humans breathe - and how we've all been doing it wrong for a long, long time. I already feel calmer and healthier just in the last few days, from making a few simple changes in my breathing, based on what I've read. Our breath is a beautiful, healing, mysterious gift, and so is this book' Elizabeth Gilbert, author of Eat, Pray, Love&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin UK</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">-ZuzDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780241289099</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0735213615</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Body; Mind &amp; Spirit</dc:subject>
+        <dc:subject>Mindfulness &amp; Meditation</dc:subject>
+        <dc:subject>Sports &amp; Recreation</dc:subject>
+        <dc:subject>Scuba &amp; Snorkeling</dc:subject>
+        <dc:subject>Extreme Sports</dc:subject>
+        <dc:subject>Health &amp; Fitness</dc:subject>
+        <dc:subject>Longevity</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Sports Psychology</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Education</dc:subject>
+        <dc:subject>Physical Education</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Nestor&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-07-28T15:03:23+00:00"/>
+        <meta name="calibre:title_sort" content="Breath: The New Science of a Lost Art"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1147</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d65e8196-b9b4-4291-8abe-e04f540f9bbf</dc:identifier>
+        <dc:title>mice: Multivariate Imputation by Chained Equations in R</dc:title>
+        <dc:creator opf:file-as="Stef van Buuren, Karin Groothuis-Oudshoorn" opf:role="aut">Stef van Buuren, Karin Groothuis-Oudshoorn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>Journal of Statistical Software</dc:subject>
+        <dc:subject>MICE</dc:subject>
+        <dc:subject>multiple imputation</dc:subject>
+        <dc:subject>chained equations</dc:subject>
+        <dc:subject>fully conditional specification</dc:subject>
+        <dc:subject>Gibbs sampler</dc:subject>
+        <dc:subject>predictor selection</dc:subject>
+        <dc:subject>passive imputation</dc:subject>
+        <dc:subject>R</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stef van Buuren, Karin Groothuis-Oudshoorn&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-18T20:46:09+00:00"/>
+        <meta name="calibre:title_sort" content="mice: Multivariate Imputation by Chained Equations in R"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

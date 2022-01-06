@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">961</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f66b77f-fac1-4ddf-97cb-adb2199d3238</dc:identifier>
+        <dc:title>Options, Futures, and Other Derivatives, Global Edition</dc:title>
+        <dc:creator opf:file-as="Hull, John C" opf:role="aut">John C Hull</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-15T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;For graduate courses in business, economics, financial mathematics, and financial engineering; for advanced undergraduate courses with students who have good quantitative skills; and for practitioners involved in derivatives markets Practitioners refer to it as “the bible;” in the university and college marketplace it’s the best seller; and now it’s been revised and updated to cover the industry’s hottest topics and the most up-to-date material on new regulations. Options, Futures, and Other Derivatives by John C. Hull bridges the gap between theory and practice by providing a current look at the industry, a careful balance of mathematical sophistication, and an outstanding ancillary package that makes it accessible to a wide audience. Through its coverage of important topics such as the securitization and the credit crisis, the overnight indexed swap, the Black-Scholes-Merton formulas, and the way commodity prices are modeled and commodity derivatives valued, it helps students and practitioners alike keep up with the fast pace of change in today’s derivatives markets.  This program provides a better teaching and learning experience—for you and your students. Here’s how:·    NEW! Available with DerivaGem 3.00 software—including two Excel applications, the Options Calculator and the Applications Builder·    Bridges the gap between theory and practice—a best-selling college text, and considered “the bible” by practitioners, it provides the latest information in the industry·    Provides the right balance of mathematical sophistication—careful attention to mathematics and notation·    Offers outstanding ancillaries toround out the high quality of the teaching and learning package  **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Pearson</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781292212890</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1292212896</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Derivatives</dc:subject>
+        <dc:subject>options and futures</dc:subject>
+        <dc:subject>Financial Engineering</dc:subject>
+        <dc:subject>financial mathematics</dc:subject>
+        <dc:subject>and risk management</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John C Hull&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-08-26T15:57:20+00:00"/>
+        <meta name="calibre:title_sort" content="Options, Futures, and Other Derivatives, Global Edition"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

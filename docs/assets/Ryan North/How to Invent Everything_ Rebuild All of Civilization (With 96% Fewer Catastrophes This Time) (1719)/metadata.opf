@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1719</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">35ce3e1a-4ba9-4188-b131-c67ff057057d</dc:identifier>
+        <dc:title>How to Invent Everything: Rebuild All of Civilization (With 96% Fewer Catastrophes This Time)</dc:title>
+        <dc:creator opf:file-as="North, Ryan" opf:role="aut">Ryan North</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-09-20T04:50:09+00:00</dc:date>
+        <dc:description>***One of BBC Focus magazine's top books of 2018***Get ready to make history better... on the second try.Imagine you are stranded in the past (your time machine has broken) and the only way home is to rebuild civilization yourself. But you need to do it better and faster this time round. In this one amazing book, you will learn How to Invent Everything.Ryan North -- bestselling author, programmer and comic book legend -- provides all the science, engineering, mathematics, art, music, philosophy, facts and figures required for this challenge. Thanks to his detailed blueprint, humanity will mature quickly and efficiently – instead of spending 200,000 years stumbling around in the dark without language, not realising that tying a rock to a string would mean we could navigate the entire world. Or thinking disease was caused by weird smells.Fascinating and hilarious, How To Invent Everything is an epic, deeply researched history of the key technologies that made each stage of human history possible (from writing and farming to buttons and birth control) – and it's as entertaining as a great time-travel novel.So if you’ve ever secretly wondered if you could do history better yourself, now is your chance to find out how.</dc:description>
+        <dc:publisher>Random House</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">rhtFDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780753552551</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Philosophy &amp; Social Aspects</dc:subject>
+        <dc:subject>Humor</dc:subject>
+        <dc:subject>Form</dc:subject>
+        <dc:subject>Parodies</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Social History</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Anthropology</dc:subject>
+        <dc:subject>Technology &amp; Engineering</dc:subject>
+        <dc:subject>Inventions</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ryan North&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-07-14T04:48:53+00:00"/>
+        <meta name="calibre:title_sort" content="How to Invent Everything: Rebuild All of Civilization (With 96% Fewer Catastrophes This Time)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

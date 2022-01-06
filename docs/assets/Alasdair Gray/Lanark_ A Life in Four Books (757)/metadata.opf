@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">757</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6f7ba6bd-d832-4c27-b7b3-5d6a71a64e96</dc:identifier>
+        <dc:title>Lanark: A Life in Four Books</dc:title>
+        <dc:creator opf:file-as="Gray, Alasdair" opf:role="aut">Alasdair Gray</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1981-09-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;From its first publication in 1981, Lanark was hailed as a masterpiece and it has come to be widely regarded as the most remarkable and influential Scottish novel of the second half of the twentieth century. A work of extraordinary imagination and wide-ranging concerns, its playful narrative conveys at its core a profound message, both personal and political, about humankind's inability to love, and yet our compulsion to go on trying. With its echoes of Dante, Blake, Joyce, Kafka, and Lewis Carroll, Lanark has been published all over the world and to unanimous acclaim. This edition marks the novel's return to its original publisher and features a superb new introduction by the award-winning novelist Janice Galloway, and the author's Tailpiece, a fascinating addendum to the novel. "It was time Scotland produced a shattering work of fiction in the modern idiom. This is it." -- Anthony Burgess "Alasdair Gray is one of the most important living writers in English." -- Stephen Bernstein, The New York Times Book Review "Remarkable ... Lanark is a work of loving and vivid imagination, yielding copious riches." -- William Boyd, The Times Literary Supplement (London) "Undoubtedly the best work of fiction written by a Scottish author for decades." -- Time Out (London) "A quite extraordinary achievement, the most remarkable thing in Scottish fiction for a very long time." -- The Scotsman **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Harper &amp; Row</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1841951838</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780060908621</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">N2a2yAEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Alasdair Gray&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-04-04T08:09:37+00:00"/>
+        <meta name="calibre:title_sort" content="Lanark: A Life in Four Books"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

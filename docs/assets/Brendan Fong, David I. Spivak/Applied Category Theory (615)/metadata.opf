@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">615</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2a00eebc-e2e5-4326-b08f-22a8c744d8a4</dc:identifier>
+        <dc:title>Applied Category Theory</dc:title>
+        <dc:creator opf:file-as="Brendan Fong, David I. Spivak" opf:role="aut">Brendan Fong, David I. Spivak</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-10-16T00:30:07+00:00</dc:date>
+        <dc:description>&lt;font face="Ubuntu, sans-serif"&gt;18.S097 Applied Category Theory: Textbook&lt;/font&gt;</dc:description>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Brendan Fong, David I. Spivak&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:28+00:00"/>
+        <meta name="calibre:title_sort" content="Applied Category Theory"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

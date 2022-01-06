@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with K</title>
+  <id>Calibre2opds:allbooks:K</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_K_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with K" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale</title>
+    <id>calibre:book:873</id>
+    <updated>2020-07-24T05:55:42Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Neha%20Narkhede/Kafka_%20The%20Definitive%20Guide_%20Real-Time%20Data%20and%20Stream%20Processing%20at%20Scale%20%28873%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Neha%20Narkhede/Kafka_%20The%20Definitive%20Guide_%20Real-Time%20Data%20and%20Stream%20Processing%20at%20Scale%20%28873%29/Kafka_%20The%20Definitive%20Guide_%20Real-Time%20Dat%20-%20Neha%20Narkhede.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Neha%20Narkhede/Kafka_%20The%20Definitive%20Guide_%20Real-Time%20Data%20and%20Stream%20Processing%20at%20Scale%20%28873%29/Kafka_%20The%20Definitive%20Guide_%20Real-Time%20Dat%20-%20Neha%20Narkhede.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Neha Narkhede</name>
+      <uri>../author_0/author_667_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Gwen Shapira</name>
+      <uri>../author_0/author_668_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Todd Palino</name>
+      <uri>../author_0/author_666_Page_1.xml</uri>
+    </author>
+    <published>2017-08-30T09:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>O'Reilly Media</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Learn how to take full advantage of Apache Kafka, the distributed, publish/subscribe queue for handling real-time data feeds. With this comprehensive book, you’ll understand how Kafka works and how it’s designed. Authors Neha Narkhede, Gwen Shapira, ...</summary>
+    <link href="../book_0/book_873.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Kelly Criterion : In Detail</title>
+    <id>calibre:book:800</id>
+    <updated>2020-05-09T00:35:52Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Unknown/Kelly%20Criterion%20_%20In%20Detail%20%28800%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Unknown/Kelly%20Criterion%20_%20In%20Detail%20%28800%29/Kelly%20Criterion%20_%20In%20Detail%20-%20Unknown.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Unknown</name>
+      <uri>../author_0/author_278_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <link href="../book_0/book_800.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Kelly Criterion in Blackjack,Sports Betting, and the Stock Market</title>
+    <id>calibre:book:709</id>
+    <updated>2020-03-28T11:32:38Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Edward%20O.%20Thorp/Kelly%20Criterion%20in%20Blackjack%2CSports%20Betting%2C%20and%20the%20Stock%20Market%20%28709%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Edward%20O.%20Thorp/Kelly%20Criterion%20in%20Blackjack%2CSports%20Betting%2C%20and%20the%20Stock%20Market%20%28709%29/Kelly%20Criterion%20in%20Blackjack%2CSports%20Bettin%20-%20Edward%20O.%20Thorp.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Edward O. Thorp</name>
+      <uri>../author_0/author_416_Page_1.xml</uri>
+    </author>
+    <published>2006-04-10T11:44:19Z</published>
+    <category term="Statistics" />
+    <category term="Decision-Making" />
+    <link href="../book_0/book_709.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Kids are worth it!</title>
+    <id>calibre:book:505</id>
+    <updated>2020-03-28T07:08:12Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Barbara%20Coloroso/kids%20are%20worth%20it%21%20%28505%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Barbara%20Coloroso/kids%20are%20worth%20it%21%20%28505%29/kids%20are%20worth%20it%21%20-%20Barbara%20Coloroso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Barbara%20Coloroso/kids%20are%20worth%20it%21%20%28505%29/kids%20are%20worth%20it%21%20-%20Barbara%20Coloroso.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Barbara%20Coloroso/kids%20are%20worth%20it%21%20%28505%29/kids%20are%20worth%20it%21%20-%20Barbara%20Coloroso.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Barbara Coloroso</name>
+      <uri>../author_0/author_256_Page_1.xml</uri>
+    </author>
+    <published>2010-01-14T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_505.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Kluge</title>
+    <id>calibre:book:403</id>
+    <updated>2020-03-28T07:31:30Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Gary%20Marcus/Kluge%20%28403%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Gary%20Marcus/Kluge%20%28403%29/Kluge%20-%20Gary%20Marcus.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Gary%20Marcus/Kluge%20%28403%29/Kluge%20-%20Gary%20Marcus.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Gary%20Marcus/Kluge%20%28403%29/Kluge%20-%20Gary%20Marcus.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Gary Marcus</name>
+      <uri>../author_0/author_5_Page_1.xml</uri>
+    </author>
+    <published>2009-04-07T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Mariner Books</dcterms:publisher>
+    <category term="Itzy" />
+    <category term="Kickass.to" />
+    <category term="Lang:en" />
+    <summary>How is it that we can recognize photos from our high school yearbook decades later, but cannot remember what we ate for breakfast yesterday? And why are we inclined to buy more cans of soup if the sign says "LIMIT 12 PER CUSTOMER" rather than "LIMIT ...</summary>
+    <link href="../book_0/book_403.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Kochland</title>
+    <id>calibre:book:791</id>
+    <updated>2020-05-09T00:35:18Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Christopher%20Leonard/Kochland%20%28791%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Christopher%20Leonard/Kochland%20%28791%29/Kochland%20-%20Christopher%20Leonard.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Christopher%20Leonard/Kochland%20%28791%29/Kochland%20-%20Christopher%20Leonard.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Christopher Leonard</name>
+      <uri>../author_0/author_577_Page_1.xml</uri>
+    </author>
+    <published>2019-08-12T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Simon &amp; Schuster</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Just as Steve Coll told the story of globalization through ExxonMobil and Andrew Ross Sorkin told the story of Wall Street excess through Too Big to Fail, Christopher Leonard's Kochland uses the extraordinary account of how the biggest private compan...</summary>
+    <link href="../book_0/book_791.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The kite runner ****</title>
+    <id>calibre:book:307</id>
+    <updated>2020-03-28T07:31:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Khaled%20Hosseini/The%20kite%20runner%20%28307%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Khaled%20Hosseini/The%20kite%20runner%20%28307%29/The%20kite%20runner%20-%20Khaled%20Hosseini.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Khaled%20Hosseini/The%20kite%20runner%20%28307%29/The%20kite%20runner%20-%20Khaled%20Hosseini.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Khaled Hosseini</name>
+      <uri>../author_0/author_116_Page_1.xml</uri>
+    </author>
+    <published>2004-03-15T07:00:00Z</published>
+    <dcterms:publisher>Riverhead Books</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Fiction - General" />
+    <category term="Social classes" />
+    <category term="Suspense" />
+    <category term="Mystery" />
+    <category term="Coming of age" />
+    <category term="Male friendship" />
+    <category term="Boys" />
+    <category term="Afghanistan" />
+    <category term="Kabul (Afghanistan)" />
+    <category term="Betrayal" />
+    <category term="Kābol (Afghanistan)" />
+    <summary>An epic tale of fathers and sons, of friendship and betrayal, that takes us from Afghanistan in the final days of the monarchy to the atrocities of the present. The unforgettable, heartbreaking story of the unlikely friendship between a wealthy boy a...</summary>
+    <link href="../book_0/book_307.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

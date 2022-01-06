@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">600</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">919c51c4-0cce-4a45-90b5-1e4a92bcfb3e</dc:identifier>
+        <dc:title>Street-Fighting Mathematics: The Art of Educated Guessing and Opportunistic Problem Solving</dc:title>
+        <dc:creator opf:file-as="Mahajan, Sanjoy" opf:role="aut">Sanjoy Mahajan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-04T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;An antidote to mathematical rigor mortis, teaching how to guess answers without needing a proof or an exact calculation.In problem solving, as in street fighting, rules are for fools: do whatever works—don't just stand there! Yet we often fear an unjustified leap even though it may land us on a correct result. Traditional mathematics teaching is largely about solving exactly stated problems exactly, yet life often hands us partly defined problems needing only moderately accurate solutions. This engaging book is an antidote to the rigor mortis brought on by too much mathematical rigor, teaching us how to guess answers without needing a proof or an exact calculation.In Street-Fighting Mathematics, Sanjoy Mahajan builds, sharpens, and demonstrates tools for educated guessing and down-and-dirty, opportunistic problem solving across diverse fields of knowledge—from mathematics to management. Mahajan describes six tools: dimensional analysis, easy cases, lumping, picture proofs, successive approximation, and reasoning by analogy. Illustrating each tool with numerous examples, he carefully separates the tool—the general principle—from the particular application so that the reader can most easily grasp the tool itself to use on problems of particular interest. Street-Fighting Mathematics grew out of a short course taught by the author at MIT for students ranging from first-year undergraduates to graduate students ready for careers in physics, mathematics, management, electrical engineering, computer science, and biology. They benefited from an approach that avoided rigor and taught them how to use mathematics to solve real problems.Street-Fighting Mathematics will appear in print and online under a Creative Commons Noncommercial Share Alike license.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>MIT Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780262265591</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">VrkZN0T0GaUC</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">026251429X</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sanjoy Mahajan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-03-06T16:12:50+00:00"/>
+        <meta name="calibre:title_sort" content="Street-Fighting Mathematics: The Art of Educated Guessing and Opportunistic Problem Solving"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

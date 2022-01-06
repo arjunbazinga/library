@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">556</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cae309b9-c571-4bfa-a122-de1d4158c294</dc:identifier>
+        <dc:title>Liar's Poker</dc:title>
+        <dc:creator opf:file-as="Lewis, Michael" opf:role="aut">Michael Lewis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-10-26T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;The time was the 1980s. The place was Wall Street. The game was called Liar’s Poker.&lt;/p&gt;
+&lt;p&gt;Before there was &lt;em&gt;Flash Boys&lt;/em&gt; and &lt;em&gt;The Big Short&lt;/em&gt; , there was &lt;em&gt;Liar's Poker&lt;/em&gt;. A knowing and unnervingly talented debut, this insider’s account of 1980s Wall Street excess transformed Michael Lewis from a disillusioned bond salesman to the best-selling literary icon he is today. Together, the three books cover thirty years of endemic global corruption—perhaps the defining problem of our age—which has never been so hilariously skewered as in &lt;em&gt;Liar's Poker&lt;/em&gt; , now in a twenty-fifth-anniversary edition with a new afterword by the author. &lt;/p&gt;
+&lt;p&gt;It was wonderful to be young and working on Wall Street in the 1980s: never before had so many twenty-four-year-olds made so much money in so little time. After you learned the trick of it, all you had to do was pick up the phone and the money poured in your lap.&lt;/p&gt;
+&lt;p&gt;This wickedly funny book endures as the best record we have of those heady, frenzied years. In it Lewis describes his own rake’s progress through a powerful investment bank. From an unlikely beginning (art history at Princeton?) he rose in two short years from Salomon Brothers trainee to Geek (the lowest form of life on the trading floor) to Big Swinging Dick, the most dangerous beast in the jungle, a bond salesman who could turn over millions of dollars' worth of doubtful bonds with just one call.&lt;/p&gt;
+&lt;p&gt;As he has continued to do for a quarter century, Michael Lewis here shows us how things really worked on Wall Street. In the Salomon training program a roomful of aspirants is stunned speechless by the vitriolic profanity of the Human Piranha; out on the trading floor, bond traders throw telephones at the heads of underlings and Salomon chairmen Gutfreund challenges his chief trader to a hand of liar’s poker for one million dollars. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>W. W. Norton &amp; Company</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B00KSHZT2O</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Michael Lewis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2019-02-07T11:07:00+00:00"/>
+        <meta name="calibre:title_sort" content="Liar's Poker"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

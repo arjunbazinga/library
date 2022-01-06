@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">464</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">92610e36-4a5e-4d94-af4e-7367d4dd3bcc</dc:identifier>
+        <dc:title>Gödel, Escher, Bach: An Eternal Golden Braid</dc:title>
+        <dc:creator opf:file-as="Hofstadter, Douglas R." opf:role="aut">Douglas R. Hofstadter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-02-04T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Winner of the Pulitzer Prize&lt;/strong&gt; &lt;strong&gt;&lt;br&gt;A metaphorical fugue on minds and machines in the spirit of Lewis Carroll&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Douglas Hofstadter's book is concerned directly with the nature of "maps" or links between formal systems. However, according to Hofstadter, the formal system that underlies all mental activity transcends the system that supports it. If life can grow out of the formal chemical substrate of the cell, if consciousness can emerge out of a formal system of firing neurons, then so too will computers attain human intelligence. &lt;em&gt;Gödel, Escher, Bach&lt;/em&gt; is a wonderful exploration of fascinating ideas at the heart of cognitive science: meaning, reduction, recursion, and much more. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Basic Books</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0465026567</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780465026562</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Douglas R. Hofstadter&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2018-08-16T20:56:50+00:00"/>
+        <meta name="calibre:title_sort" content="Gödel, Escher, Bach: An Eternal Golden Braid"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1226</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3f937aec-57ca-4fe3-9f57-4f01a40bcb1a</dc:identifier>
+        <dc:title>A History of the World in 100 Objects</dc:title>
+        <dc:creator opf:file-as="MacGregor, Neil" opf:role="aut">Neil MacGregor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-13T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;This book takes a dramatically original approach to the history of humanity, using objects which previous civilisations have left behind them, often accidentally, as prisms through which we can explore past worlds and the lives of the men and women who lived in them. The book's range is enormous. It begins with one of the earliest surviving objects made by human hands, a chopping tool from the Olduvai gorge in Africa, and ends with an object from the 21st century which represents the world we live in today. Neil MacGregor's aim is not simply to describe these remarkable things, but to show us their significance - how a stone pillar tells us about a great Indian emperor preaching tolerance to his people, how Spanish pieces of eight tell us about the beginning of a global currency or how an early Victorian tea-set tells us about the impact of empire. Each chapter immerses the reader in a past civilisation accompanied by an exceptionally well-informed guide. Seen through this...</dc:description>
+        <dc:publisher>Penguin Books Ltd</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780141966830</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Neil MacGregor&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-05-26T15:19:34+00:00"/>
+        <meta name="calibre:title_sort" content="History of the World in 100 Objects, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

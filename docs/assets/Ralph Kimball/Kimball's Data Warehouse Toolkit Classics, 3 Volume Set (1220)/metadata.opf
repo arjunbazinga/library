@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1220</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b05873fc-86ac-4c90-a130-db0de17f9090</dc:identifier>
+        <dc:title>Kimball's Data Warehouse Toolkit Classics, 3 Volume Set</dc:title>
+        <dc:creator opf:file-as="Kimball, Ralph &amp; Ross, Margy" opf:role="aut">Ralph Kimball</dc:creator>
+        <dc:creator opf:file-as="Kimball, Ralph &amp; Ross, Margy" opf:role="aut">Margy Ross</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-02-23T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Three books by the bestselling authors on Data Warehousing! The most authoritative guides from the inventor of the technique all for a value price. &lt;strong&gt;The Data Warehouse Toolkit, 3rd Edition (9781118530801)&lt;/strong&gt; Ralph Kimball invented a data warehousing technique called "dimensional modeling" and popularized it in his first Wiley book, The Data Warehouse Toolkit. Since this book was first published in 1996, dimensional modeling has become the most widely accepted technique for data warehouse design. Over the past 10 years, Kimball has improved on his earlier techniques and created many new ones. In this 3rd edition, he will provide a comprehensive collection of all of these techniques, from basic to advanced. &lt;strong&gt;The Data Warehouse Lifecycle Toolkit, 2 nd Edition (9780470149775)&lt;/strong&gt; Complete coverage of best practices from data warehouse project inception through on-going program management. Updates industry best practices to be in sync with current recommendations of Kimball Group. Streamlines the lifecycle methodology to be more efficient and user-friendly &lt;strong&gt;The Data Warehouse ETL Toolkit&lt;/strong&gt; &lt;strong&gt;(9780764567575)&lt;/strong&gt; shows data warehouse developers how to effectively manage the ETL (Extract, Transform, Load) phase of the data warehouse development lifecycle. The authors show developers the best methods for extracting data from scattered sources throughout the enterprise, removing obsolete, redundant, and innaccurate data, transforming the remaining data into correctly formatted data structures, and then physically loading them into the data warehouse. This book provides complete coverage of proven, time-saving ETL techniques. It begins with a quick overview of ETL fundamentals and the role of the ETL development team. It then quickly moves into an overview of the ETL data structures, both relational and dimensional. The authors show how to build useful dimensional stuctures, providing practical examples of beginning through advanced techniques. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1118875184</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781118875186</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Ralph Kimball&quot;: &quot;&quot;, &quot;Margy Ross&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-04-25T06:55:53+00:00"/>
+        <meta name="calibre:title_sort" content="Kimball's Data Warehouse Toolkit Classics, 3 Volume Set"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

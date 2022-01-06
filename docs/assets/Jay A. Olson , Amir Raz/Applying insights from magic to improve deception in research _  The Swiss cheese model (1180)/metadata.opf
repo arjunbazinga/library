@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1180</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">227ff49d-d51e-4c75-9afd-5ce2d47aa33b</dc:identifier>
+        <dc:title>Applying insights from magic to improve deception in research :  The Swiss cheese model</dc:title>
+        <dc:creator opf:file-as="Jay A. Olson , Amir Raz" opf:role="aut">Jay A. Olson , Amir Raz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-09T18:30:00+00:00</dc:date>
+        <dc:description>Journal of Experimental Social Psychology, 92 (2021) 104053. doi:10.1016/j.jesp.2020.104053</dc:description>
+        <dc:publisher>Elsevier</dc:publisher>
+        <dc:identifier opf:scheme="DOI">10.1016/j.jesp.2020.104053</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Deception</dc:subject>
+        <dc:subject>Suspicion</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Placebo</dc:subject>
+        <dc:subject>Blinding</dc:subject>
+        <dc:subject>Ethics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jay A. Olson , Amir Raz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-01-13T09:52:58+00:00"/>
+        <meta name="calibre:title_sort" content="Applying insights from magic to improve deception in research :  The Swiss cheese model"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

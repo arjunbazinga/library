@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1212</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8a8f3863-37ad-42fc-a3e1-16128b69fb91</dc:identifier>
+        <dc:title>What I Wish I Knew When Learning Haskell</dc:title>
+        <dc:creator opf:file-as="Diehl, Stephen" opf:role="aut">Stephen Diehl</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>haskell</dc:subject>
+        <dc:subject>Computer Science</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>ghc</dc:subject>
+        <dc:subject>monads</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen Diehl&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-02-11T06:24:31+00:00"/>
+        <meta name="calibre:title_sort" content="What I Wish I Knew When Learning Haskell"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

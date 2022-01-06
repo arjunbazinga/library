@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5a0dd0fd-0347-4db3-b1e7-4c6f9bc6948e</dc:identifier>
+        <dc:title>The Selfish Gene</dc:title>
+        <dc:creator opf:file-as="Dawkins, Richard" opf:role="aut">Richard Dawkins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1989-09-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Richard Dawkins' brilliant reformulation of the theory of natural selection has the rare distinction of having provoked as much excitement and interest outside the scientific community as within it. His theories have helped change the whole nature of the study of social biology, and have forced thousands of readers to rethink their beliefs about life.&lt;br&gt;In his internationally bestselling, now classic volume, &lt;em&gt;The Selfish Gene&lt;/em&gt; , Dawkins explains how the selfish gene can also be a subtle gene. The world of the selfish gene revolves around savage competition, ruthless exploitation, and deceit, and yet, Dawkins argues, acts of apparent altruism do exist in nature. Bees, for example, will commit suicide when they sting to protect the hive, and birds will risk their lives to warn the flock of an approaching hawk.&lt;br&gt;This revised edition of Dawkins' fascinating book contains two new chapters. One, entitled "Nice Guys Finish First," demonstrates how cooperation can evolve even in a basically selfish world. The other new chapter, entitled "The Long Reach of the Gene," which reflects the arguments presented in Dawkins' &lt;em&gt;The Extended Phenotype&lt;/em&gt; , clarifies the startling view that genes may reach outside the bodies in which they dwell and manipulate other individuals and even the world at large. Containing a wealth of remarkable new insights into the biological world, the second edition once again drives home the fact that truth is stranger than fiction. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Oxford University Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780192860927</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0192860925</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">WkHO9HI7koEC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Literary Criticism</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>African American</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Richard Dawkins&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2018-05-20T10:34:41+00:00"/>
+        <meta name="calibre:title_sort" content="Selfish Gene, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

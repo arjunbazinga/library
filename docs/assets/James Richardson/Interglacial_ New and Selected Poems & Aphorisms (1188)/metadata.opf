@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1188</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c74988d-b74b-4855-a304-f781b23e0a45</dc:identifier>
+        <dc:title>Interglacial: New and Selected Poems &amp; Aphorisms</dc:title>
+        <dc:creator opf:file-as="Richardson, James" opf:role="aut">James Richardson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-01-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;This book gathers under one roof poems from all of Richardson's earlier collections, a number of which are out of print: Reservations (1977), Second Guesses (1984), As If(1992), A Suite for Lucretians (1999), How Things Are (2000), and Vectors: Aphorisms &amp;amp; Ten-Second Essays (2001), as well as a large selection of new poems and aphorisms.A distillation of three decades of work, Interglacial will introduce this poet to a new generation of readers. Richardson fans will be pleased to discover early poems long out of print, and to see this poet's work in a larger, retrospective context.Praise for Vectors: Aphorisms &amp;amp; Ten-Second Essays:“Not since the appearance of W.S. Merwin's translations and adaptations of aphorisms in Asian Figures, some thirty years ago, has an American poet put down so much delightful and compelling wisdom.”—Daryl Scroggins in American Literary Review“Page after page there is the exciting sense of something hidden and true coming to light, bringing with it a sense of delighted recognition and discovery for the reader, and articulated in a way that has never quite been done before. I can think of no deeper pleasure a work can bring.”—Laurie Sheck“Vectors is the kind of book you read, reread, thumb through, and pick up several extra copies because you want to share the joy you found in perusing it with friends.”—Scott Hightower in Barrow StreetJames Richardson was born in 1950, and is the author of six books of poetry and three critical studies. The recipient of the Cecil Hemley and Robert H. Winner Prizes from the Poetry Society of America and fellowships from the New Jersey State Council on the Arts and the National Endowment for the Humanities, he is Professor of English and Creative Writing at Princeton University.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ausable Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781931337212</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">lU2V3KnvM9IC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Poetry</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Richardson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-01-22T17:16:54+00:00"/>
+        <meta name="calibre:title_sort" content="Interglacial: New and Selected Poems &amp; Aphorisms"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

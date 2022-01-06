@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7803c224-1551-4cba-abca-23861f1b2432</dc:identifier>
+        <dc:title>The Book of Why: The New Science of Cause and Effect</dc:title>
+        <dc:creator opf:file-as="Pearl, Judea &amp; Mackenzie, Dana" opf:role="aut">Judea Pearl</dc:creator>
+        <dc:creator opf:file-as="Pearl, Judea &amp; Mackenzie, Dana" opf:role="aut">Dana Mackenzie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The hugely influential book on how the understanding of causality revolutionized science and the world, by the pioneer of artificial intelligence'Wonderful ... illuminating and fun to read' Daniel Kahneman, Nobel Prize-winner and author of Thinking, Fast and Slow'Correlation does not imply causation.' For decades, this mantra was invoked by scientists in order to avoid taking positions as to whether one thing caused another, such as smoking and cancer, or carbon dioxide and global warming. But today, that taboo is dead. The causal revolution, sparked by world-renowned computer scientist Judea Pearl and his colleagues, has cut through a century of confusion and placed cause and effect on a firm scientific basis. Now, Pearl and science journalist Dana Mackenzie explain causal thinking to general readers for the first time, showing how it allows us to explore the world that is and the worlds that could have been. It is the essence of human and artificial intelligence. And just as Pearl's discoveries have enabled machines to think better, The Book of Why explains how we too can think better.'Pearl's accomplishments over the last 30 years have provided the theoretical basis for progress in artificial intelligence and have redefined the term "thinking machine"' Vint Cerf&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin UK</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">EmY8DwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780241242643</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">046509760X</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Mind &amp; Body</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Intelligence (AI) &amp; Semantics</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Cognitive Science</dc:subject>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Probability &amp; Statistics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Judea Pearl&quot;: &quot;&quot;, &quot;Dana Mackenzie&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2018-05-21T19:42:20+00:00"/>
+        <meta name="calibre:title_sort" content="Book of Why: The New Science of Cause and Effect, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

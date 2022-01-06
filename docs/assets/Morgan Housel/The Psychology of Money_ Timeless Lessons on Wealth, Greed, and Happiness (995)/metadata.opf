@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">995</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c42c5885-44a4-4cf9-b820-275c077380cd</dc:identifier>
+        <dc:title>The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness</dc:title>
+        <dc:creator opf:file-as="Housel, Morgan" opf:role="aut">Morgan Housel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-07T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Doing well with money isn’t necessarily about what you know. It’s about how you behave. And behavior is hard to teach, even to really smart people. Money―investing, personal finance, and business decisions―is typically taught as a math-based field, where data and formulas tell us exactly what to do. But in the real world people don’t make financial decisions on a spreadsheet. They make them at the dinner table, or in a meeting room, where personal history, your own unique view of the world, ego, pride, marketing, and odd incentives are scrambled together. In &lt;em&gt;The Psychology of Money&lt;/em&gt; , award-winning author Morgan Housel shares 19 short stories exploring the strange ways people think about money and teaches you how to make better sense of one of life’s most important topics. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Harriman House Limited</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780857197696</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">TnrrDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0857197681</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Personal Finance</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Investing</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Morgan Housel&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-09-21T19:05:52+00:00"/>
+        <meta name="calibre:title_sort" content="Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

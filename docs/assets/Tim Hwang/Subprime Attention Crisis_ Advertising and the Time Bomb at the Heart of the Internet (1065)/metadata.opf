@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1065</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e4da0420-a540-4203-9fd5-39c6a0def681</dc:identifier>
+        <dc:title>Subprime Attention Crisis: Advertising and the Time Bomb at the Heart of the Internet</dc:title>
+        <dc:creator opf:file-as="Hwang, Tim" opf:role="aut">Tim Hwang</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-12T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;em&gt;From FSGO x Logic&lt;/em&gt; : a revealing examination of digital advertising and the internet's precarious foundation &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;In Subprime Attention Crisis&lt;/em&gt;, Tim Hwang investigates the way big tech financializes attention. In the process, he shows us how digital advertising—the beating heart of the internet—is at risk of collapsing, and that its potential demise bears an uncanny resemblance to the housing crisis of 2008. &lt;/p&gt;
+&lt;p&gt;From the unreliability of advertising numbers and the unregulated automation of advertising bidding wars, to the simple fact that online ads mostly fail to work, Hwang demonstrates that while consumers’ attention has never been more prized, the true value of that attention itself—much like subprime mortgages—is wildly misrepresented. And if online advertising goes belly-up, the internet—and its free services—will suddenly be accessible only to those who can afford it. &lt;/p&gt;
+&lt;p&gt;Deeply researched, convincing, and alarming, &lt;em&gt;Subprime Attention Crisis&lt;/em&gt; will change the way you look at the internet, and its precarious future. &lt;/p&gt;
+&lt;p&gt;FSG Originals × &lt;em&gt;Logic&lt;/em&gt; dissects the way technology functions in everyday lives. The titans of Silicon Valley, for all their utopian imaginings, never really had our best interests at heart: recent threats to democracy, truth, privacy, and safety, as a result of tech’s reckless pursuit of progress, have shown as much. We present an alternate story, one that delights in capturing technology in all its contradictions and innovation, across borders and socioeconomic divisions, from history through the future, beyond platitudes and PR hype, and past doom and gloom. Our collaboration features four brief but provocative forays into the tech industry’s many worlds, and aspires to incite fresh conversations about technology focused on nuanced and accessible explorations of the emerging tools that reorganize and redefine life today. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Farrar, Straus and Giroux</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780374721244</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B084M1R3JW</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">iyPQDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>E-Commerce</dc:subject>
+        <dc:subject>Internet Marketing</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Social Aspects</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Tim Hwang&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-11-07T18:29:29+00:00"/>
+        <meta name="calibre:title_sort" content="Subprime Attention Crisis: Advertising and the Time Bomb at the Heart of the Internet"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">652</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">67220c4b-ed76-4067-8663-638eaf9189b8</dc:identifier>
+        <dc:title>12 Rules for Life: An Antidote to Chaos</dc:title>
+        <dc:creator opf:file-as="Peterson, Jordan B." opf:role="aut">Jordan B. Peterson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-15T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The #1 Sunday Times and International Bestseller from 'the most influential public intellectual in the Western world right now' (New York Times)What are the most valuable things that everyone should know? Acclaimed clinical psychologist Jordan Peterson has influenced the modern understanding of personality, and now he has become one of the world's most popular public thinkers, with his lectures on topics from the Bible to romantic relationships to mythology drawing tens of millions of viewers. In an era of unprecedented change and polarizing politics, his frank and refreshing message about the value of individual responsibility and ancient wisdom has resonated around the world.In this book, he provides twelve profound and practical principles for how to live a meaningful life, from setting your house in order before criticising others to comparing yourself to who you were yesterday, not someone else today. Happiness is a pointless goal, he shows us. Instead we must search for meaning, not for its own sake, but as a defence against the suffering that is intrinsic to our existence. Drawing on vivid examples from the author's clinical practice and personal life, cutting edge psychology and philosophy, and lessons from humanity's oldest myths and stories, 12 Rules for Life offers a deeply rewarding antidote to the chaos in our lives: eternal truths applied to our modern problems.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin UK</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">u8w_DwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780241351659</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">997b8d02-007b-4d2e-a987-81c9e1737ca0</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0345816021</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Happiness</dc:subject>
+        <dc:subject>Success</dc:subject>
+        <dc:subject>Self-Management</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Political</dc:subject>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Clinical Psychology</dc:subject>
+        <dc:subject>Social</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordan B. Peterson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:34+00:00"/>
+        <meta name="calibre:title_sort" content="12 Rules for Life: An Antidote to Chaos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

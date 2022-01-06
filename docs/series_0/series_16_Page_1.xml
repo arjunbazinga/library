@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Magic</title>
+  <id>Calibre2opds::serieslistseries:16</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_16_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Magic" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series" />
+  <entry>
+    <title>1 - The Expert at the Card Table</title>
+    <id>calibre:book:832</id>
+    <updated>2020-07-09T01:07:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/S.%20W.%20Erdnase/The%20Expert%20at%20the%20Card%20Table%20%28832%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/S.%20W.%20Erdnase/The%20Expert%20at%20the%20Card%20Table%20%28832%29/The%20Expert%20at%20the%20Card%20Table%20-%20S.%20W.%20Erdnase.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>S. W. Erdnase</name>
+      <uri>../author_0/author_797_Page_1.xml</uri>
+    </author>
+    <published>2015-08-19T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Martino Fine Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Magic" />
+    <summary>Magic [1]: 
+2015 Reprint of 1902 Edition. Facsimile of the original edition. First published in 1902 under the title: "Artifice, Ruse and Subterfuge at the Card Table", Erdnase's work has become a classic work in its field. It is arguably the most fa...</summary>
+    <link href="../book_0/book_832.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

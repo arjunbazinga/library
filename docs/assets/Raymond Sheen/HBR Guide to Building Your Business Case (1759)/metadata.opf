@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1759</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">46b9d263-6361-4217-a1e5-ff5b1ecc9215</dc:identifier>
+        <dc:title>HBR Guide to Building Your Business Case</dc:title>
+        <dc:creator opf:file-as="Sheen, Raymond &amp; Gallo, Amy" opf:role="aut">Raymond Sheen</dc:creator>
+        <dc:creator opf:file-as="Sheen, Raymond &amp; Gallo, Amy" opf:role="aut">Amy Gallo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-11-15T11:10:01+00:00</dc:date>
+        <dc:description>Get your idea off the ground.You've got a great idea that will increase revenue or boost productivity--but how do you get the buy-in you need to make it happen? By building a business case that clearly shows your idea's value. That's not always easy: Maybe you're not sure what kind of data your stakeholders will trust. Or perhaps you're intimidated by number crunching.The HBR Guide to Building Your Business Case, written by project management expert Raymond Sheen, gives you the guidance and tools you need to make a strong case. You'll learn how to: Spell out the business need for your ideaAlign your case with strategic goalsBuild the right team to shape and test your ideaCalculate the return on investmentAnalyze risks and opportunitiesPresent your case to stakeholders</dc:description>
+        <dc:publisher>Harvard Business Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">KORKCQAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781633690028</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Business Communication</dc:subject>
+        <dc:subject>Meetings &amp; Presentations</dc:subject>
+        <dc:subject>Management</dc:subject>
+        <dc:subject>Strategic Planning</dc:subject>
+        <dc:subject>Economics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Raymond Sheen&quot;: &quot;&quot;, &quot;Amy Gallo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-11-05T10:57:39+00:00"/>
+        <meta name="calibre:title_sort" content="HBR Guide to Building Your Business Case"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

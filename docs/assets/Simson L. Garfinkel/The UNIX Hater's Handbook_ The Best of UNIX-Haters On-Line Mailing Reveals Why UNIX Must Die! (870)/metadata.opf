@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">870</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8a2b44a2-123a-4ee1-bc3c-e4779beb0ccf</dc:identifier>
+        <dc:title>The UNIX Hater's Handbook: The Best of UNIX-Haters On-Line Mailing Reveals Why UNIX Must Die!</dc:title>
+        <dc:creator opf:file-as="Garfinkel, Simson L." opf:role="aut">Simson L. Garfinkel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-08-23T22:20:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;In the tradition of 12-step programs that help people overcome their addictions by sharing stories, &lt;strong&gt;The UNIX-Haters Handbook&lt;/strong&gt; is the self-help guide for people affected by the world's most esoteric and most widely used operating system. Turn here for answers to all-important questions, such as... Why does the online documentation lie to us? Why does the operating system overwrite valuable files with garbage? Why does the user's guide bear no relationship to reality? Why do the commands have cryptic names that have no bearing on their function? What is a grep? What is vi? Do troffs live under bridges, or are they inverted trons? WHERE ARE THEY SENDING ALL THE UPPERCASE LETTERS? **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="AMAZON">1568842031</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Unix</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Simson L. Garfinkel&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-07-24T12:24:11+00:00"/>
+        <meta name="calibre:title_sort" content="UNIX Hater's Handbook: The Best of UNIX-Haters On-Line Mailing Reveals Why UNIX Must Die!, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

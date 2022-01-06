@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with C</title>
+  <id>Calibre2opds:allbooks:C</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with C" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>Can't Hurt Me: Master Your Mind and Defy the Odds</title>
+    <id>calibre:book:688</id>
+    <updated>2020-03-28T07:21:28Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/David%20Goggins/Can%27t%20Hurt%20Me_%20Master%20Your%20Mind%20and%20Defy%20the%20Odds%20%28688%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/David%20Goggins/Can%27t%20Hurt%20Me_%20Master%20Your%20Mind%20and%20Defy%20the%20Odds%20%28688%29/Can%27t%20Hurt%20Me_%20Master%20Your%20Mind%20and%20Defy%20t%20-%20David%20Goggins.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/David%20Goggins/Can%27t%20Hurt%20Me_%20Master%20Your%20Mind%20and%20Defy%20the%20Odds%20%28688%29/Can%27t%20Hurt%20Me_%20Master%20Your%20Mind%20and%20Defy%20t%20-%20David%20Goggins.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>David Goggins</name>
+      <uri>../author_0/author_435_Page_1.xml</uri>
+    </author>
+    <published>2018-12-04T08:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Lioncrest Publishing</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_688.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Canterville Ghost</title>
+    <id>calibre:book:388</id>
+    <updated>2020-03-28T08:04:46Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Oscar%20Wilde/The%20Canterville%20Ghost%20%28388%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Oscar%20Wilde/The%20Canterville%20Ghost%20%28388%29/The%20Canterville%20Ghost%20-%20Oscar%20Wilde.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Oscar%20Wilde/The%20Canterville%20Ghost%20%28388%29/The%20Canterville%20Ghost%20-%20Oscar%20Wilde.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Oscar%20Wilde/The%20Canterville%20Ghost%20%28388%29/The%20Canterville%20Ghost%20-%20Oscar%20Wilde.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Oscar Wilde</name>
+      <uri>../author_0/author_138_Page_1.xml</uri>
+    </author>
+    <published>1887-07-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Feedbooks</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Occult &amp; Supernatural" />
+    <category term="Supernatural Creatures" />
+    <category term="Ghost" />
+    <category term="Humorous" />
+    <category term="Short Stories" />
+    <category term="Lang:en" />
+    <summary>The Canterville Ghost is a popular 1887 novella by Oscar Wilde, widely adapted for the screen and stage.
+“The Canterville Ghost” is a parody featuring a dramatic spirit named Sir Simon and the United States minister (ambassador) to the Court of St. J...</summary>
+    <link href="../book_0/book_388.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Case Against the Fed ****</title>
+    <id>calibre:book:653</id>
+    <updated>2020-03-28T07:46:42Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Murray%20N.%20Rothbard/The%20Case%20Against%20the%20Fed%20%28653%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Murray%20N.%20Rothbard/The%20Case%20Against%20the%20Fed%20%28653%29/The%20Case%20Against%20the%20Fed%20-%20Murray%20N.%20Rothbard.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Murray%20N.%20Rothbard/The%20Case%20Against%20the%20Fed%20%28653%29/The%20Case%20Against%20the%20Fed%20-%20Murray%20N.%20Rothbard.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Murray N. Rothbard</name>
+      <uri>../author_0/author_404_Page_1.xml</uri>
+    </author>
+    <published>2007-09-03T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Ludwig von Mises Institute</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>The most powerful case against the American central bank ever written. This work begins with a minitreatment of money and banking theory, and then plunges right in with the real history of the Federal Reserve System. Rothbard covers the struggle bet...</summary>
+    <link href="../book_0/book_653.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Catcher in the Rye</title>
+    <id>calibre:book:760</id>
+    <updated>2020-04-04T01:39:36Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/J.D.%20Salinger/The%20Catcher%20in%20the%20Rye%20%28760%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/J.D.%20Salinger/The%20Catcher%20in%20the%20Rye%20%28760%29/The%20Catcher%20in%20the%20Rye%20-%20J.D.%20Salinger.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>J.D. Salinger</name>
+      <uri>../author_0/author_548_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_760.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Cathedral and the Bazaar</title>
+    <id>calibre:book:572</id>
+    <updated>2019-12-07T00:47:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Eric%20Steven%20Raymond/The%20Cathedral%20and%20the%20Bazaar%20%28572%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Eric%20Steven%20Raymond/The%20Cathedral%20and%20the%20Bazaar%20%28572%29/The%20Cathedral%20and%20the%20Bazaar%20-%20Eric%20Steven%20Raymond.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Eric%20Steven%20Raymond/The%20Cathedral%20and%20the%20Bazaar%20%28572%29/The%20Cathedral%20and%20the%20Bazaar%20-%20Eric%20Steven%20Raymond.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Eric Steven Raymond</name>
+      <uri>../author_0/author_329_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <category term="Protocol" />
+    <category term="Analysis and Theory of Open Source Projects" />
+    <category term="Open Source Development" />
+    <category term="Hacker Culture" />
+    <link href="../book_0/book_572.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Centuries of Childhood ***</title>
+    <id>calibre:book:907</id>
+    <updated>2020-08-09T00:59:06Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Philippe%20Aries/Centuries%20of%20Childhood%20%28907%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Philippe%20Aries/Centuries%20of%20Childhood%20%28907%29/Centuries%20of%20Childhood%20-%20Philippe%20Aries.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Philippe Aries</name>
+      <uri>../author_0/author_719_Page_1.xml</uri>
+    </author>
+    <published>1996-07-03T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Pimlico</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>In this pioneering and important book, Philippe Aries surveys children and their place in family life from the Middle Ages to the end of the eighteenth century. The first section of the book explores the gradual change from the medieval attitude to ...</summary>
+    <link href="../book_0/book_907.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Chaos : Charles Manson, the CIA, and the Secret History of the Sixties (9780316529211)</title>
+    <id>calibre:book:810</id>
+    <updated>2020-06-06T03:44:14Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/O%27Neill%2C%20Tom%3B%20Piepenbring%2C%20Dan%20%28CON%29/Chaos%20_%20Charles%20Manson%2C%20the%20CIA%2C%20and%20the%20Secret%20History%20of%20the%20Sixties%20%289780316529211%29%20%28810%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/O%27Neill%2C%20Tom%3B%20Piepenbring%2C%20Dan%20%28CON%29/Chaos%20_%20Charles%20Manson%2C%20the%20CIA%2C%20and%20the%20Secret%20History%20of%20the%20Sixties%20%289780316529211%29%20%28810%29/Chaos%20_%20Charles%20Manson%2C%20the%20CIA%2C%20and%20the%20S%20-%20O%27Neill%2C%20Tom%3B%20Piepenbring%2C%20Dan%20%28CON%29.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/O%27Neill%2C%20Tom%3B%20Piepenbring%2C%20Dan%20%28CON%29/Chaos%20_%20Charles%20Manson%2C%20the%20CIA%2C%20and%20the%20Secret%20History%20of%20the%20Sixties%20%289780316529211%29%20%28810%29/Chaos%20_%20Charles%20Manson%2C%20the%20CIA%2C%20and%20the%20S%20-%20O%27Neill%2C%20Tom%3B%20Piepenbring%2C%20Dan%20%28CON%29.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>O'Neill, Tom; Piepenbring, Dan (CON)</name>
+      <uri>../author_0/author_589_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Dan Piepenbring</name>
+      <uri>../author_0/author_590_Page_1.xml</uri>
+    </author>
+    <published>2019-06-25T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Hachette Book Group USA</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_810.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Characteristic function (probability theory)</title>
+    <id>calibre:book:703</id>
+    <updated>2020-03-28T11:32:38Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Wikipedia/Characteristic%20function%20%28probability%20theory%29%20%28703%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Wikipedia/Characteristic%20function%20%28probability%20theory%29%20%28703%29/Characteristic%20function%20%28probability%20theor%20-%20Wikipedia.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Wikipedia</name>
+      <uri>../author_0/author_498_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <category term="Statistics" />
+    <link href="../book_0/book_703.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Chinese indoctrination program for prisoners of war: A study of attempted brainwashing</title>
+    <id>calibre:book:431</id>
+    <updated>2019-12-07T00:47:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Edgar%20H.%20Schein/The%20Chinese%20indoctrination%20program%20for%20prisoners%20of%20war_%20A%20study%20of%20attempted%20brainwashing%20%28431%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Edgar%20H.%20Schein/The%20Chinese%20indoctrination%20program%20for%20prisoners%20of%20war_%20A%20study%20of%20attempted%20brainwashing%20%28431%29/The%20Chinese%20indoctrination%20program%20for%20pri%20-%20Edgar%20H.%20Schein.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Edgar%20H.%20Schein/The%20Chinese%20indoctrination%20program%20for%20prisoners%20of%20war_%20A%20study%20of%20attempted%20brainwashing%20%28431%29/The%20Chinese%20indoctrination%20program%20for%20pri%20-%20Edgar%20H.%20Schein.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Edgar H. Schein</name>
+      <uri>../author_0/author_223_Page_1.xml</uri>
+    </author>
+    <published>2012-06-28T10:10:52Z</published>
+    <dcterms:publisher>MIT</dcterms:publisher>
+    <link href="../book_0/book_431.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>City of Glass</title>
+    <id>calibre:book:752</id>
+    <updated>2020-04-04T01:39:36Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Paul%20Auster/City%20of%20Glass%20%28752%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Paul%20Auster/City%20of%20Glass%20%28752%29/City%20of%20Glass%20-%20Paul%20Auster.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Paul Auster</name>
+      <uri>../author_0/author_552_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:publisher>Faber &amp; Faber</dcterms:publisher>
+    <link href="../book_0/book_752.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Codebreakers: The Comprehensive History of Secret Communication From Ancient Times to the Internet *****</title>
+    <id>calibre:book:580</id>
+    <updated>2019-12-07T00:47:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/David%20Kahn/The%20Codebreakers_%20The%20Comprehensive%20History%20of%20Secret%20Communication%20From%20Ancient%20Times%20to%20the%20I%20%28580%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/David%20Kahn/The%20Codebreakers_%20The%20Comprehensive%20History%20of%20Secret%20Communication%20From%20Ancient%20Times%20to%20the%20I%20%28580%29/The%20Codebreakers_%20The%20Comprehensive%20Histor%20-%20David%20Kahn.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>David Kahn</name>
+      <uri>../author_0/author_341_Page_1.xml</uri>
+    </author>
+    <published>1996-12-04T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Scribner</dcterms:publisher>
+    <category term="History" />
+    <category term="General" />
+    <category term="Military" />
+    <category term="Social Science" />
+    <category term="Lang:en" />
+    <summary>The magnificent, unrivaled history of codes and ciphers—how they're made, how they're broken, and the many and fascinating roles they've played since the dawn of civilization in war, business, diplomacy, and espionage—updated with a new chapter on c...</summary>
+    <link href="../book_0/book_580.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Coders</title>
+    <id>calibre:book:585</id>
+    <updated>2020-03-28T08:02:28Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Clive%20Thompson/Coders%20%28585%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Clive%20Thompson/Coders%20%28585%29/Coders%20-%20Clive%20Thompson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Clive%20Thompson/Coders%20%28585%29/Coders%20-%20Clive%20Thompson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Clive Thompson</name>
+      <uri>../author_0/author_337_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Pan Macmillan UK</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>You use software nearly every instant you're awake. And this may sound weirdly obvious, but every single one of those pieces of software was written by a programmer. Programmers are thus among the most quietly influential people on the planet. As we ...</summary>
+    <link href="../book_0/book_585.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Coders at Work</title>
+    <id>calibre:book:687</id>
+    <updated>2020-03-28T07:47:50Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Peter%20Seibel/Coders%20at%20Work%20%28687%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Peter%20Seibel/Coders%20at%20Work%20%28687%29/Coders%20at%20Work%20-%20Peter%20Seibel.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Peter%20Seibel/Coders%20at%20Work%20%28687%29/Coders%20at%20Work%20-%20Peter%20Seibel.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Peter Seibel</name>
+      <uri>../author_0/author_434_Page_1.xml</uri>
+    </author>
+    <published>2011-12-28T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Apress®</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_687.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Common Stock Volatilities In Option Formulas</title>
+    <id>calibre:book:859</id>
+    <updated>2020-07-22T10:44:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Edward%20O.%20Thorp/Common%20Stock%20Volatilities%20In%20Option%20Formulas%20%28859%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Edward%20O.%20Thorp/Common%20Stock%20Volatilities%20In%20Option%20Formulas%20%28859%29/Common%20Stock%20Volatilities%20In%20Option%20Formul%20-%20Edward%20O.%20Thorp.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Edward O. Thorp</name>
+      <uri>../author_0/author_416_Page_1.xml</uri>
+    </author>
+    <published>2008-08-25T04:15:44Z</published>
+    <category term="finance" />
+    <summary>finance [1]:</summary>
+    <link href="../book_0/book_859.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Communicating sequential processes</title>
+    <id>calibre:book:938</id>
+    <updated>2020-08-21T01:46:07Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/C.%20A.%20R.%20Hoare/Communicating%20sequential%20processes%20%28938%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/C.%20A.%20R.%20Hoare/Communicating%20sequential%20processes%20%28938%29/Communicating%20sequential%20processes%20-%20C.%20A.%20R.%20Hoare.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>C. A. R. Hoare</name>
+      <uri>../author_0/author_749_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <category term="http://doi.acm.org/10.1145/359576.359585" />
+    <category term="classes" />
+    <category term="concurrency" />
+    <category term="conditional critical regions" />
+    <category term="coroutines" />
+    <category term="data representations" />
+    <category term="guarded commands" />
+    <category term="input" />
+    <category term="iterative arrays" />
+    <category term="monitors" />
+    <category term="multiple entries" />
+    <category term="multiple exits" />
+    <category term="nondeterminacy" />
+    <category term="output" />
+    <category term="parallel programming" />
+    <category term="procedures" />
+    <category term="program structures" />
+    <category term="Programming" />
+    <category term="programming languages" />
+    <category term="programming primitives" />
+    <category term="recursion" />
+    <link href="../book_0/book_938.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A Comparison of Approaches to Advertising Measurement: Evidence from Big Field Experiments at Facebook *****</title>
+    <id>calibre:book:946</id>
+    <updated>2020-08-21T01:46:09Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Bret%20R.%20Gordon/A%20Comparison%20of%20Approaches%20to%20Advertising%20Measurement_%20Evidence%20from%20Big%20Field%20Experiments%20at%20F%20%28946%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Bret%20R.%20Gordon/A%20Comparison%20of%20Approaches%20to%20Advertising%20Measurement_%20Evidence%20from%20Big%20Field%20Experiments%20at%20F%20%28946%29/A%20Comparison%20of%20Approaches%20to%20Advertising%20-%20Bret%20R.%20Gordon.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Bret R. Gordon</name>
+      <uri>../author_0/author_763_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_946.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Competitive Programming</title>
+    <id>calibre:book:75</id>
+    <updated>2019-12-07T00:47:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Steven%20Halim%2C%20Felix%20Halim/Competitive%20Programming%20%2875%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Steven%20Halim%2C%20Felix%20Halim/Competitive%20Programming%20%2875%29/Competitive%20Programming%20-%20Steven%20Halim%2C%20Felix%20Halim.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Steven%20Halim%2C%20Felix%20Halim/Competitive%20Programming%20%2875%29/Competitive%20Programming%20-%20Steven%20Halim%2C%20Felix%20Halim.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Steven%20Halim%2C%20Felix%20Halim/Competitive%20Programming%20%2875%29/Competitive%20Programming%20-%20Steven%20Halim%2C%20Felix%20Halim.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Steven Halim, Felix Halim</name>
+      <uri>../author_0/author_224_Page_1.xml</uri>
+    </author>
+    <published>2010-08-09T00:45:31Z</published>
+    <link href="../book_0/book_75.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Compilers: Principles, Techniques, and Tools ****</title>
+    <id>calibre:book:546</id>
+    <updated>1970-01-01T05:30:00Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Alfred%20V.%20Aho/Compilers_%20Principles%2C%20Techniques%2C%20and%20Tools%20%28546%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Alfred%20V.%20Aho/Compilers_%20Principles%2C%20Techniques%2C%20and%20Tools%20%28546%29/Compilers_%20Principles%2C%20Techniques%2C%20and%20Too%20-%20Alfred%20V.%20Aho.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Alfred%20V.%20Aho/Compilers_%20Principles%2C%20Techniques%2C%20and%20Tools%20%28546%29/Compilers_%20Principles%2C%20Techniques%2C%20and%20Too%20-%20Alfred%20V.%20Aho.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Alfred V. Aho</name>
+      <uri>../author_0/author_768_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Monica S. Lam</name>
+      <uri>../author_0/author_769_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Ravi Sethi</name>
+      <uri>../author_0/author_770_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Jeffrey D. Ullman</name>
+      <uri>../author_0/author_771_Page_1.xml</uri>
+    </author>
+    <published>2006-09-09T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Addison Wesley</dcterms:publisher>
+    <category term="Programming" />
+    <category term="Lang:en" />
+    <summary>Compilers: Principles, Techniques and Tools , known to professors, students, and developers worldwide as the "Dragon Book," is available in a new edition.  Every chapter has been completely revised to reflect developments in software engineering, pr...</summary>
+    <link href="../book_0/book_546.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Computer Architecture: A Quantitative Approach</title>
+    <id>calibre:book:411</id>
+    <updated>2019-12-07T00:47:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/John%20L.%20Hennessy%2C%20David%20A.%20Patterson/Computer%20Architecture_%20A%20Quantitative%20Approach%20%28411%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/John%20L.%20Hennessy%2C%20David%20A.%20Patterson/Computer%20Architecture_%20A%20Quantitative%20Approach%20%28411%29/Computer%20Architecture_%20A%20Quantitative%20Appr%20-%20John%20L.%20Hennessy%2C%20David%20A.%20Patterson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>John L. Hennessy, David A. Patterson</name>
+      <uri>../author_0/author_512_Page_1.xml</uri>
+    </author>
+    <published>2011-04-15T09:59:40Z</published>
+    <category term="Computer Architecture: A Quantitative Approach" />
+    <category term="Sixth Edition (2019) 1-1527. 978-0-12-811905-1" />
+    <summary>Computer Architecture: A Quantitative Approach, Sixth Edition (2019) 1-1527. 978-0-12-811905-1</summary>
+    <link href="../book_0/book_411.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Concepts of Modern Mathematics</title>
+    <id>calibre:book:598</id>
+    <updated>2020-03-06T09:42:48Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Ian%20Stewart/Concepts%20of%20Modern%20Mathematics%20%28598%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Ian%20Stewart/Concepts%20of%20Modern%20Mathematics%20%28598%29/Concepts%20of%20Modern%20Mathematics%20-%20Ian%20Stewart.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Ian Stewart</name>
+      <uri>../author_0/author_360_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_598.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Concrete Mathematics: A Foundation for Computer Science ****</title>
+    <id>calibre:book:577</id>
+    <updated>2019-12-07T00:47:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Donald%20E.%20Knuth%2C%20Oren%20Patashnik/Concrete%20Mathematics_%20A%20Foundation%20for%20Computer%20Science%20%28577%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Donald%20E.%20Knuth%2C%20Oren%20Patashnik/Concrete%20Mathematics_%20A%20Foundation%20for%20Computer%20Science%20%28577%29/Concrete%20Mathematics_%20A%20Foundation%20for%20Com%20-%20Donald%20E.%20Knuth%2C%20Oren%20Patashnik.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Donald E. Knuth, Oren Patashnik</name>
+      <uri>../author_0/author_790_Page_1.xml</uri>
+    </author>
+    <published>1994-03-09T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Addison-Wesley Professional</dcterms:publisher>
+    <category term="Mathematics computer science" />
+    <category term="Lang:en" />
+    <summary>This book introduces the mathematics that supports advanced computer programming and the analysis of algorithms. The primary aim of its well-known authors is to provide a solid and relevant base of mathematical skills - the skills needed to solve co...</summary>
+    <link href="../book_0/book_577.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Confessions of J. J. Rousseau</title>
+    <id>calibre:book:477</id>
+    <updated>2020-03-28T07:46:54Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Jean-Jacques%20Rousseau/The%20Confessions%20of%20J.%20J.%20Rousseau%20%28477%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Jean-Jacques%20Rousseau/The%20Confessions%20of%20J.%20J.%20Rousseau%20%28477%29/The%20Confessions%20of%20J.%20J.%20Rousseau%20-%20Jean-Jacques%20Rousseau.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Jean-Jacques%20Rousseau/The%20Confessions%20of%20J.%20J.%20Rousseau%20%28477%29/The%20Confessions%20of%20J.%20J.%20Rousseau%20-%20Jean-Jacques%20Rousseau.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Jean-Jacques%20Rousseau/The%20Confessions%20of%20J.%20J.%20Rousseau%20%28477%29/The%20Confessions%20of%20J.%20J.%20Rousseau%20-%20Jean-Jacques%20Rousseau.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Jean-Jacques Rousseau</name>
+      <uri>../author_0/author_202_Page_1.xml</uri>
+    </author>
+    <published>2004-08-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <category term="Unread" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_477.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Conspiracy</title>
+    <id>calibre:book:68</id>
+    <updated>2020-03-28T07:24:40Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Ryan%20Holiday/Conspiracy%20%2868%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Ryan%20Holiday/Conspiracy%20%2868%29/Conspiracy%20-%20Ryan%20Holiday.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Ryan%20Holiday/Conspiracy%20%2868%29/Conspiracy%20-%20Ryan%20Holiday.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Ryan%20Holiday/Conspiracy%20%2868%29/Conspiracy%20-%20Ryan%20Holiday.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Ryan Holiday</name>
+      <uri>../author_0/author_57_Page_1.xml</uri>
+    </author>
+    <published>2018-02-27T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>In the tradition of Janet Malcolm's THE JOURNALIST AND THE MURDERER and Robert Greene's THE 48 LAWS OF POWER, author Ryan Holiday examines the case that rocked the media world&amp;#8212;and the billionaire mastermind behind itIn 2007, a short blogpost on...</summary>
+    <link href="../book_0/book_68.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Conspiracy Theories</title>
+    <id>calibre:book:833</id>
+    <updated>2020-07-09T01:07:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Cass%20R.%20Sunstein%2C%20Adrian%20Vermeule/Conspiracy%20Theories%20%28833%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Cass%20R.%20Sunstein%2C%20Adrian%20Vermeule/Conspiracy%20Theories%20%28833%29/Conspiracy%20Theories%20-%20Cass%20R.%20Sunstein%2C%20Adrian%20Vermeule.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Cass R. Sunstein, Adrian Vermeule</name>
+      <uri>../author_0/author_643_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_833.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Contra Keynes and Cambridge: Essays, Correspondence ****</title>
+    <id>calibre:book:488</id>
+    <updated>2019-12-07T00:47:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/F.%20A.%20Hayek/Contra%20Keynes%20and%20Cambridge_%20Essays%2C%20Correspondence%20%28488%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/F.%20A.%20Hayek/Contra%20Keynes%20and%20Cambridge_%20Essays%2C%20Correspondence%20%28488%29/Contra%20Keynes%20and%20Cambridge_%20Essays%2C%20Corre%20-%20F.%20A.%20Hayek.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/F.%20A.%20Hayek/Contra%20Keynes%20and%20Cambridge_%20Essays%2C%20Correspondence%20%28488%29/Contra%20Keynes%20and%20Cambridge_%20Essays%2C%20Corre%20-%20F.%20A.%20Hayek.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>F. A. Hayek</name>
+      <uri>../author_0/author_787_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Bruce Caldwell</name>
+      <uri>../author_0/author_788_Page_1.xml</uri>
+    </author>
+    <published>2012-09-20T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>University of Chicago Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Collected Works of F.A. Hayek" />
+    <summary>The Collected Works of F.A. Hayek [9]: 
+In 1931, when the young F. A. Hayek challenged the economic theories of John Maynard Keynes, sixteen years his senior, and one of the world's leading economists, he sparked a spirited debate that would influenc...</summary>
+    <link href="../book_0/book_488.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Counterinsurgency Field Manual</title>
+    <id>calibre:book:815</id>
+    <updated>2020-06-14T06:39:52Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/The%20U.S.%20Army%20Marine%20Corps/Counterinsurgency%20Field%20Manual%20%28815%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/The%20U.S.%20Army%20Marine%20Corps/Counterinsurgency%20Field%20Manual%20%28815%29/Counterinsurgency%20Field%20Manual%20-%20The%20U.S.%20Army%20Marine%20Corps.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>The U.S. Army Marine Corps</name>
+      <uri>../author_0/author_605_Page_1.xml</uri>
+    </author>
+    <published>2007-04-05T11:41:57Z</published>
+    <category term="aVe4EvA" />
+    <link href="../book_0/book_815.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Counterinsurgency Manual</title>
+    <id>calibre:book:819</id>
+    <updated>2020-06-14T06:39:56Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/US%20ARMY/Counterinsurgency%20Manual%20%28819%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/US%20ARMY/Counterinsurgency%20Manual%20%28819%29/Counterinsurgency%20Manual%20-%20US%20ARMY.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>US ARMY</name>
+      <uri>../author_0/author_602_Page_1.xml</uri>
+    </author>
+    <published>2006-12-13T10:27:53Z</published>
+    <link href="../book_0/book_819.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Courage to Be Disliked</title>
+    <id>calibre:book:199</id>
+    <updated>2020-03-28T07:28:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Ichiro%20Kishimi%2C%20Fumitake%20Koga/The%20Courage%20to%20Be%20Disliked%20%28199%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Ichiro%20Kishimi%2C%20Fumitake%20Koga/The%20Courage%20to%20Be%20Disliked%20%28199%29/The%20Courage%20to%20Be%20Disliked%20-%20Ichiro%20Kishimi%2C%20Fumitake%20Koga.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Ichiro%20Kishimi%2C%20Fumitake%20Koga/The%20Courage%20to%20Be%20Disliked%20%28199%29/The%20Courage%20to%20Be%20Disliked%20-%20Ichiro%20Kishimi%2C%20Fumitake%20Koga.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Ichiro%20Kishimi%2C%20Fumitake%20Koga/The%20Courage%20to%20Be%20Disliked%20%28199%29/The%20Courage%20to%20Be%20Disliked%20-%20Ichiro%20Kishimi%2C%20Fumitake%20Koga.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Ichiro Kishimi, Fumitake Koga</name>
+      <uri>../author_0/author_513_Page_1.xml</uri>
+    </author>
+    <published>2018-01-03T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Atria Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>The Courage to Be Disliked, already an enormous bestseller in Asia with more than 3.5 million copies sold, demonstrates how to unlock the power within yourself to be the person you truly want to be.Using the theories of Alfred Adler, one of the three...</summary>
+    <link href="../book_0/book_199.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Courtesans and Fishcakes</title>
+    <id>calibre:book:489</id>
+    <updated>2019-12-07T00:47:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/James%20Davidson/Courtesans%20and%20Fishcakes%20%28489%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/James%20Davidson/Courtesans%20and%20Fishcakes%20%28489%29/Courtesans%20and%20Fishcakes%20-%20James%20Davidson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/James%20Davidson/Courtesans%20and%20Fishcakes%20%28489%29/Courtesans%20and%20Fishcakes%20-%20James%20Davidson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>James Davidson</name>
+      <uri>../author_0/author_230_Page_1.xml</uri>
+    </author>
+    <published>1997-05-24T09:27:34Z</published>
+    <dcterms:publisher>Fontana Press</dcterms:publisher>
+    <category term="Consuming Passions of Classical Athens" />
+    <summary>The Consuming Passions of Classical Athens [1]:</summary>
+    <link href="../book_0/book_489.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cracking the Coding Interview, 189 Programming Questions and Solutions-CareerCup (2015)</title>
+    <id>calibre:book:105</id>
+    <updated>2019-12-07T00:47:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Gayle%20Laakmann%20McDowell/Cracking%20the%20Coding%20Interview%2C%20189%20Programming%20Questions%20and%20Solutions-CareerCup%20%282015%29%20%28105%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Gayle%20Laakmann%20McDowell/Cracking%20the%20Coding%20Interview%2C%20189%20Programming%20Questions%20and%20Solutions-CareerCup%20%282015%29%20%28105%29/Cracking%20the%20Coding%20Interview%2C%20189%20Program%20-%20Gayle%20Laakmann%20McDowell.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Gayle Laakmann McDowell</name>
+      <uri>../author_0/author_208_Page_1.xml</uri>
+    </author>
+    <published>2016-06-08T09:46:13Z</published>
+    <link href="../book_0/book_105.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Crushing It! EPB</title>
+    <id>calibre:book:645</id>
+    <updated>2020-03-28T08:03:50Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Gary%20Vaynerchuk/Crushing%20It%21%20EPB%20%28645%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Gary%20Vaynerchuk/Crushing%20It%21%20EPB%20%28645%29/Crushing%20It%21%20EPB%20-%20Gary%20Vaynerchuk.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Gary%20Vaynerchuk/Crushing%20It%21%20EPB%20%28645%29/Crushing%20It%21%20EPB%20-%20Gary%20Vaynerchuk.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Gary Vaynerchuk</name>
+      <uri>../author_0/author_396_Page_1.xml</uri>
+    </author>
+    <published>2018-01-30T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="Business" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_645.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Culture Code: An Ingenious Way to Understand Why People Around the World Live and Buy as They Do ****</title>
+    <id>calibre:book:666</id>
+    <updated>2020-03-28T07:43:42Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Clotaire%20Rapaille/The%20Culture%20Code_%20An%20Ingenious%20Way%20to%20Understand%20Why%20People%20Around%20the%20World%20Live%20and%20Buy%20as%20Th%20%28666%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Clotaire%20Rapaille/The%20Culture%20Code_%20An%20Ingenious%20Way%20to%20Understand%20Why%20People%20Around%20the%20World%20Live%20and%20Buy%20as%20Th%20%28666%29/The%20Culture%20Code_%20An%20Ingenious%20Way%20to%20Unde%20-%20Clotaire%20Rapaille.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Clotaire%20Rapaille/The%20Culture%20Code_%20An%20Ingenious%20Way%20to%20Understand%20Why%20People%20Around%20the%20World%20Live%20and%20Buy%20as%20Th%20%28666%29/The%20Culture%20Code_%20An%20Ingenious%20Way%20to%20Unde%20-%20Clotaire%20Rapaille.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Clotaire Rapaille</name>
+      <uri>../author_0/author_414_Page_1.xml</uri>
+    </author>
+    <published>2006-06-06T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Crown Business</dcterms:publisher>
+    <category term="Business &amp; Money" />
+    <category term="Business Culture" />
+    <category term="Workplace Culture" />
+    <category term="Marketing &amp; Sales" />
+    <category term="Consumer Behavior" />
+    <category term="Politics &amp; Social Sciences" />
+    <category term="Sociology" />
+    <category term="Organizational Behavior" />
+    <category term="Workplace" />
+    <category term="Lang:en" />
+    <summary>Why are people around the world so very different? What makes us live, buy, even love as we do? The answers are in the codes.  In The Culture Code, internationally revered cultural anthropologist and marketing expert Clotaire Rapaille reveals for the...</summary>
+    <link href="../book_0/book_666.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A Culture of Growth: The Origins of the Modern Economy</title>
+    <id>calibre:book:59</id>
+    <updated>2020-03-28T07:34:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Mokyr%2C%20Joel/A%20Culture%20of%20Growth_%20The%20Origins%20of%20the%20Modern%20Economy%20%2859%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Mokyr%2C%20Joel/A%20Culture%20of%20Growth_%20The%20Origins%20of%20the%20Modern%20Economy%20%2859%29/A%20Culture%20of%20Growth_%20The%20Origins%20of%20the%20Mo%20-%20Mokyr%2C%20Joel.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Mokyr%2C%20Joel/A%20Culture%20of%20Growth_%20The%20Origins%20of%20the%20Modern%20Economy%20%2859%29/A%20Culture%20of%20Growth_%20The%20Origins%20of%20the%20Mo%20-%20Mokyr%2C%20Joel.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Mokyr%2C%20Joel/A%20Culture%20of%20Growth_%20The%20Origins%20of%20the%20Modern%20Economy%20%2859%29/A%20Culture%20of%20Growth_%20The%20Origins%20of%20the%20Mo%20-%20Mokyr%2C%20Joel.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Mokyr, Joel</name>
+      <uri>../author_0/author_50_Page_1.xml</uri>
+    </author>
+    <published>2016-06-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Princeton University Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_59.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cynical Theories</title>
+    <id>calibre:book:919</id>
+    <updated>2020-08-09T04:40:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Helen%20Pluckrose%2CJames%20A.%20Lindsay/Cynical%20Theories%20%28919%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Helen%20Pluckrose%2CJames%20A.%20Lindsay/Cynical%20Theories%20%28919%29/Cynical%20Theories%20-%20Helen%20Pluckrose%2CJames%20A.%20Lindsay.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Helen Pluckrose,James A. Lindsay</name>
+      <uri>../author_0/author_728_Page_1.xml</uri>
+    </author>
+    <published>2020-08-15T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Independent Publishers Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Have you heard that language is violence and that science is sexist? Have you read that certain people shouldn't practice yoga or cook Chinese food? Or been told that being obese is healthy, that there is no such thing as biological sex, or that only...</summary>
+    <link href="../book_0/book_919.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cypherpunks: Freedom and the Future of the Internet</title>
+    <id>calibre:book:727</id>
+    <updated>2020-03-28T07:26:40Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Julian%20Assange%2C%20Jacob%20Appelbaum%2C%20Andy%20Muller-Maguhn%2C%20Jeremie%20Zimmermann/Cypherpunks_%20Freedom%20and%20the%20Future%20of%20the%20Internet%20%28727%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Julian%20Assange%2C%20Jacob%20Appelbaum%2C%20Andy%20Muller-Maguhn%2C%20Jeremie%20Zimmermann/Cypherpunks_%20Freedom%20and%20the%20Future%20of%20the%20Internet%20%28727%29/Cypherpunks_%20Freedom%20and%20the%20Future%20of%20the%20-%20Julian%20Assange%2C%20Jacob%20Appelbaum%2C%20Andy%20Mull.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Julian%20Assange%2C%20Jacob%20Appelbaum%2C%20Andy%20Muller-Maguhn%2C%20Jeremie%20Zimmermann/Cypherpunks_%20Freedom%20and%20the%20Future%20of%20the%20Internet%20%28727%29/Cypherpunks_%20Freedom%20and%20the%20Future%20of%20the%20-%20Julian%20Assange%2C%20Jacob%20Appelbaum%2C%20Andy%20Mull.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Julian Assange, Jacob Appelbaum, Andy Muller-Maguhn, Jeremie Zimmermann</name>
+      <uri>../author_0/author_452_Page_1.xml</uri>
+    </author>
+    <published>2012-11-25T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>OR Books</dcterms:publisher>
+    <category term="Bisac Code 1: POL039000" />
+    <category term="Lang:en" />
+    <summary>The harassment of WikiLeaks and other Internet activists, together with attempts to introduce anti-file sharing legislation such as SOPA and ACTA, indicate that the politics of the Internet have reached a crossroads. In one direction lies a future th...</summary>
+    <link href="../book_0/book_727.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

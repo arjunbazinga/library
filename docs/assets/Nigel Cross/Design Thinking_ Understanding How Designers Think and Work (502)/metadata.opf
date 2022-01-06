@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">502</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f6c9e3e-eed4-4246-aa0a-2f1ef1db8d80</dc:identifier>
+        <dc:title>Design Thinking: Understanding How Designers Think and Work</dc:title>
+        <dc:creator opf:file-as="Cross, Nigel" opf:role="aut">Nigel Cross</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-31T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Design thinking is the core creative process for any designer; this book explores and explains this apparently mysterious "design ability".Focusing on what designers do when they design, Design Thinking is structured around a series of in-depth case studies of outstanding and expert designers at work, interwoven with overviews and analyses. The range covered reflects the breadth of Design, from hardware to software product design, from architecture to Formula One design. The book offers new insights and understanding of design thinking, based on evidence from observation and investigation of design practice.Design Thinking is the distillation of the work of one of Design's most influential thinkers. Nigel Cross goes to the heart of what it means to think and work as a designer. The book is an ideal guide for anyone who wants to be a designer or to know how good designers work in the field of contemporary Design.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Berg</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">F4SUVT1XCCwC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781847888464</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1847886361</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Design</dc:subject>
+        <dc:subject>Graphic Arts</dc:subject>
+        <dc:subject>Commercial &amp; Corporate</dc:subject>
+        <dc:subject>Architecture</dc:subject>
+        <dc:subject>Design; Drafting; Drawing &amp; Presentation</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nigel Cross&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2018-08-28T19:05:59+00:00"/>
+        <meta name="calibre:title_sort" content="Design Thinking: Understanding How Designers Think and Work"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

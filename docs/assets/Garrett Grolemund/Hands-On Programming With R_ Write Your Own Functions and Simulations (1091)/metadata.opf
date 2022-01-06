@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1091</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">60f0b9aa-fbac-4cc5-83d6-a48facf79186</dc:identifier>
+        <dc:title>Hands-On Programming With R: Write Your Own Functions and Simulations</dc:title>
+        <dc:creator opf:file-as="Grolemund, Garrett" opf:role="aut">Garrett Grolemund</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-06-12T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Learn how to program by diving into the R language, and then use your newfound skills to solve practical data science problems. With this book, you’ll learn how to load data, assemble and disassemble data objects, navigate R’s environment system, write your own functions, and use all of R’s programming tools.RStudio Master Instructor Garrett Grolemund not only teaches you how to program, but also shows you how to get more from R than just visualizing and modeling data. You’ll gain valuable programming skills and support your work as a data scientist at the same time.Work hands-on with three practical data analysis projects based on casino gamesStore, retrieve, and change data values in your computer’s memoryWrite programs and simulations that outperform those written by typical R usersUse R programming tools such as if else statements, for loops, and S3 classesLearn how to write lightning-fast vectorized R codeTake advantage of R’s package system and debugging toolsPractice and apply R programming concepts as you learn them&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>"O'Reilly Media, Inc."</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781449359119</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">S04BBAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Data Processing</dc:subject>
+        <dc:subject>Probability &amp; Statistics</dc:subject>
+        <dc:subject>Mathematical &amp; Statistical Software</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Garrett Grolemund&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-11-25T08:44:07+00:00"/>
+        <meta name="calibre:title_sort" content="Hands-On Programming With R: Write Your Own Functions and Simulations"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

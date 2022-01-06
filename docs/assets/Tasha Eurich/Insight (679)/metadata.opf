@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">679</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3c777b5c-b929-4c17-85a8-ae41985c54f0</dc:identifier>
+        <dc:title>Insight</dc:title>
+        <dc:creator opf:file-as="Eurich, Tasha" opf:role="aut">Tasha Eurich</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-05-02T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;&lt;i&gt;The&lt;/i&gt; first definitive book exploring the science of self-awareness, the meta-skill of the 21st century, &lt;i&gt;Insight &lt;/i&gt;is a fascinating journey into everyone's favorite topic: themselves.&lt;br&gt;&lt;/b&gt;&lt;br&gt; Do you know who you &lt;i&gt;really&lt;/i&gt; are? Do you ever wonder how other people&lt;i&gt; really&lt;/i&gt; see you? Though we are usually confident that we do, we are wrong more often than we think. And if we could see ourselves through others' eyes, we might be &lt;i&gt;really&lt;/i&gt; surprised. &lt;br&gt;Yet regardless of our line of work or stage of life, success depends on understanding who we are and how we come across. Research shows that self-awareness means better work performance, smarter life choices, deeper, more meaningful relationships, and a more fulfilling career. There's just one problem: people can be remarkably poor judges of their behavior, performance, and impact on others. And despite the lip service given today to "feedback," in the business world and beyond, it's rare to get candid,...</dc:description>
+        <dc:publisher>The Crown Publishing Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Tasha Eurich&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:37+00:00"/>
+        <meta name="calibre:title_sort" content="Insight"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

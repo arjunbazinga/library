@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">883</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b098ae9a-be43-46c0-8cb2-f9155d9728a7</dc:identifier>
+        <dc:title>Breath</dc:title>
+        <dc:creator opf:file-as="Nestor, James" opf:role="aut">James Nestor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-26T00:00:00+00:00</dc:date>
+        <dc:publisher>Penguin Random House LLC</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;James Nestor&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-07-28T15:03:23.925865+00:00" name="calibre:timestamp"/>
+        <meta content="Breath" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

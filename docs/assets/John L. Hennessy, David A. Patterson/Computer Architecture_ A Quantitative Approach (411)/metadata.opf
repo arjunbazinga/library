@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">411</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7416f4ae-9d93-434c-ace6-d1e3fb484547</dc:identifier>
+        <dc:title>Computer Architecture: A Quantitative Approach</dc:title>
+        <dc:creator opf:file-as="John L. Hennessy, David A. Patterson" opf:role="aut">John L. Hennessy, David A. Patterson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-15T09:59:40+00:00</dc:date>
+        <dc:description>Computer Architecture: A Quantitative Approach, Sixth Edition (2019) 1-1527. 978-0-12-811905-1</dc:description>
+        <dc:identifier opf:scheme="ISBN">9780128119051</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Computer Architecture: A Quantitative Approach</dc:subject>
+        <dc:subject>Sixth Edition (2019) 1-1527. 978-0-12-811905-1</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John L. Hennessy, David A. Patterson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2018-08-01T03:37:42+00:00"/>
+        <meta name="calibre:title_sort" content="Computer Architecture: A Quantitative Approach"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

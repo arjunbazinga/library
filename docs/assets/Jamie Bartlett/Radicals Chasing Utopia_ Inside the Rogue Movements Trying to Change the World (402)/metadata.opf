@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">402</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">23348416-11fe-4d4d-8f95-7ae25ea4ad88</dc:identifier>
+        <dc:title>Radicals Chasing Utopia: Inside the Rogue Movements Trying to Change the World</dc:title>
+        <dc:creator opf:file-as="Bartlett, Jamie" opf:role="aut">Jamie Bartlett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-06-13T11:34:06+00:00</dc:date>
+        <dc:description>"It's the hubris of every generation to think that they have arrived at the best way of living. But all the things we now take for granted, all the modern wisdoms we hold to be self-evident, were once derided as dangerous or foolish radical thinking." -- From the Prologue In Radicals Chasing Utopia, Jamie Bartlett, one of the world's leading thinkers on radical politics and technology, takes readers inside the strange and exciting worlds of the innovators, disrupters, idealists, and extremists who think we can do better-and believe they know how. Bartlett introduces us to some of the most influential movements today: techno-futurists questing for immortality, far-right groups seeking to close borders, militant environmentalists striving to save the planet by any means necessary, and psychedelic pioneers attempting to heal society with the help of powerful hallucinogens. The success of democratic societies hinges on our ability to listen to-and in some cases learn from-the radical movements in our midst. Their methods may be extreme, but in chasing utopia, these groups are challenging what is possible and previewing the world to come.</dc:description>
+        <dc:publisher>PublicAffairs</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781568589879</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">fHIODQAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>Political Ideologies</dc:subject>
+        <dc:subject>Radicalism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jamie Bartlett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2018-07-29T12:04:04+00:00"/>
+        <meta name="calibre:title_sort" content="Radicals Chasing Utopia: Inside the Rogue Movements Trying to Change the World"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

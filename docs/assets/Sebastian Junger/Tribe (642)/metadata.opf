@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">642</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3a92aab7-ebad-4707-b3cf-786e915b1bba</dc:identifier>
+        <dc:title>Tribe</dc:title>
+        <dc:creator opf:file-as="JUNGER, SEBASTIAN" opf:role="aut">Sebastian Junger</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-05-24T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;We have a strong instinct to belong to small groups defined by clear purpose and understanding -"tribes." This tribal connection has been largely lost in modern society, but regaining it may be the key to our psychological survival.&lt;/b&gt;&lt;br&gt; Decades before the American Revolution, Benjamin Franklin lamented that English settlers were constantly fleeing over to the Indians-but Indians almost never did the same. Tribal society has been exerting an almost gravitational pull on Westerners for hundreds of years, and the reason lies deep in our evolutionary past as a communal species. The most recent example of that attraction are combat veterans who come home to find themselves missing the incredibly intimate bonds of platoon life. The loss of closeness that comes at the end of deployment may explain the high rates of post-traumatic stress disorder suffered by military veterans today.&lt;br&gt; Combining history, psychology, and anthropology, Tribe explores what we can learn from tribal...</dc:description>
+        <dc:publisher>Grand Central Publishing</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Social Science / Violence In Society</dc:subject>
+        <dc:subject>History / Military / Iraq War (2003-2011)</dc:subject>
+        <dc:subject>History / Military / Afghan War (2001-)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sebastian Junger&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:33+00:00"/>
+        <meta name="calibre:title_sort" content="Tribe"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

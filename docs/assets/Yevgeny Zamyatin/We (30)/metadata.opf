@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0b29914e-a9ff-4273-906d-72342f7ae008</dc:identifier>
+        <dc:title>We</dc:title>
+        <dc:creator opf:file-as="Zamyatin, Yevgeny &amp; Brown, Clarence" opf:role="aut">Yevgeny Zamyatin</dc:creator>
+        <dc:creator opf:file-as="Zamyatin, Yevgeny &amp; Brown, Clarence" opf:role="aut">Clarence Brown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1993-08-01T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;The exhilarating dystopian novel that inspired George Orwell's &lt;/strong&gt;&lt;span style="font-style: italic; font-weight: 600"&gt;1984&lt;/span&gt;&lt;strong&gt; and foreshadowed the worst excesses of Soviet Russia&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;Yevgeny Zamyatin's &lt;em&gt;We&lt;/em&gt; is a powerfully inventive vision that has influenced writers from George Orwell to Ayn Rand. In a glass-enclosed city of absolute straight lines, ruled over by the all-powerful 'Benefactor', the citizens of the totalitarian society of OneState live out lives devoid of passion and creativity - until D-503, a mathematician who dreams in numbers, makes a discovery: he has an individual soul. Set in the twenty-sixth century AD, &lt;em&gt;We&lt;/em&gt; is the classic dystopian novel and was the forerunner of works such as George Orwell's &lt;em&gt;1984&lt;/em&gt; and Aldous Huxley's &lt;em&gt;Brave New World&lt;/em&gt;. It was suppressed for many years in Russia and remains a resounding cry for individual freedom, yet is also a powerful, exciting and vivid work of science fiction. Clarence Brown's brilliant translation is based on the corrected text of the novel, first published in Russia in 1988 after more than sixty years' suppression. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Twentieth Century Classics</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B002CIY8QA</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0140185852</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780140185850</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Yevgeny Zamyatin&quot;: &quot;&quot;, &quot;Clarence Brown&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2018-05-13T14:31:48+00:00" name="calibre:timestamp"/>
+        <meta content="We" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

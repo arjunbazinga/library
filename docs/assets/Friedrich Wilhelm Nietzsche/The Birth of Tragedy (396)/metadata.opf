@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">396</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a5d74390-2566-4eed-bf00-134954b54ff6</dc:identifier>
+        <dc:title>The Birth of Tragedy</dc:title>
+        <dc:creator opf:file-as="Nietzsche, Friedrich Wilhelm" opf:role="aut">Friedrich Wilhelm Nietzsche</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-09-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;'Yes, what is Dionysian? - This book provides an answer - "a man who knows" speaks in it, the initiate and disciple of his god.'The Birth of Tragedy (1872) is a book about the origins of Greek tragedy and its relevance to the German culture of its time. For Nietzsche, Greek tragedy is the expression of a culture which has achieved a delicate but powerful balance between Dionysian insight into the chaos and suffering whichunderlies all existence and the discipline and clarity of rational Apollonian form. In order to promote a return to these values, Nietzsche undertakes a critique of the complacent rationalism of late nineteenth-century German culture and makes an impassioned plea for the regenerative potential ofthe music of Wagner. In its wide-ranging discussion of the nature of art, science and religion, Nietzsche's argument raises important questions about the problematic nature of cultural origins which are still of concern today.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Oxford University Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">1Fpvj1WWeLwC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780192832924</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Aesthetics</dc:subject>
+        <dc:subject>History &amp; Surveys</dc:subject>
+        <dc:subject>Modern</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Friedrich Wilhelm Nietzsche&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2018-07-25T12:52:32+00:00"/>
+        <meta name="calibre:title_sort" content="Birth of Tragedy, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

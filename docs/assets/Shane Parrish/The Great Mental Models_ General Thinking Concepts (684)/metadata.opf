@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">684</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">80c2e4dd-8fce-40d4-b359-8024ce08c1ef</dc:identifier>
+        <dc:title>The Great Mental Models: General Thinking Concepts</dc:title>
+        <dc:creator opf:file-as="Parrish, Shane" opf:role="aut">Shane Parrish</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-09T03:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;The old saying goes, ''To the man with a hammer, everything looks like a nail.'' But anyone who has done any kind of project knows a hammer often isn't enough. 
+The more tools you have at your disposal, the more likely you'll use the right tool for the job -- and get it done right. 
+The same is true when it comes to your thinking. The quality of your outcomes depends on the mental models in your head. And most people are going through life with little more than a hammer. 
+Until now. 
+&lt;em&gt;The Great Mental Models: General Thinking Concepts&lt;/em&gt; is the first book in The Great Mental Models series designed to upgrade your thinking with the best, most useful and powerful tools so you always have the right one on hand. 
+This volume details nine of the most versatile, all-purpose mental models you can use right away to improve your decision making, productivity, and how clearly you see the world. You will discover what forces govern the universe and how to focus your efforts so you can harness them to your advantage, rather than fight with them or worse yet-- ignore them. 
+Upgrade your mental toolbox and get the first volume today.
+**&lt;/p&gt;</dc:description>
+        <dc:publisher>Farnam Street Media Inc.</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1999449002</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781999449001</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">44578509</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07P79P8ST</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Psychology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Shane Parrish&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:37+00:00"/>
+        <meta name="calibre:title_sort" content="Great Mental Models: General Thinking Concepts, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

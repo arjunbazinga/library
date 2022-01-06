@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Authors starting with D</title>
+  <id>Calibre2opds:authorlist:D</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Authors starting with D" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>David Allen</title>
+    <id>Calibre2opds:author:97</id>
+    <content type="text">Getting Things Done</content>
+    <link href="../author_0/author_97_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Dan Ariely</title>
+    <id>Calibre2opds:author:46</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_46_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>David Beyer</title>
+    <id>Calibre2opds:author:88</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_88_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>David Brin</title>
+    <id>Calibre2opds:author:37</id>
+    <content type="text">The transparent society</content>
+    <link href="../author_0/author_37_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>de Mesquita Bueno</title>
+    <id>Calibre2opds:author:298</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_298_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>David D. Burns</title>
+    <id>Calibre2opds:author:226</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_226_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>David Cain</title>
+    <id>Calibre2opds:author:494</id>
+    <content type="text">How To Save The World</content>
+    <link href="../author_0/author_494_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Dr. William F. Clocksin</title>
+    <id>Calibre2opds:author:496</id>
+    <content type="text">Prolog: Clause and Effect</content>
+    <link href="../author_0/author_496_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Douglas Crockford</title>
+    <id>Calibre2opds:author:608</id>
+    <content type="text">JavaScript: The Good Parts</content>
+    <link href="../author_0/author_608_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>David P. Barash, Judith Eve Lipton</title>
+    <id>Calibre2opds:author:505</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_505_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Donald E. Knuth, Multiple</title>
+    <id>Calibre2opds:author:687</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_687_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Donald E. Knuth, Oren Patashnik</title>
+    <id>Calibre2opds:author:790</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_790_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>David Epstein</title>
+    <id>Calibre2opds:author:347</id>
+    <content type="text">Range</content>
+    <link href="../author_0/author_347_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Daniel Gilbert</title>
+    <id>Calibre2opds:author:151</id>
+    <content type="text">2 books</content>
+    <link href="../author_0/author_151_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>David Goggins</title>
+    <id>Calibre2opds:author:435</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_435_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>David Heinemeier Hansson</title>
+    <id>Calibre2opds:author:395</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_395_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Douglas R. Hofstadter</title>
+    <id>Calibre2opds:author:227</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_227_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Dr. Sue Johnson</title>
+    <id>Calibre2opds:author:391</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_391_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>David Kahn</title>
+    <id>Calibre2opds:author:341</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_341_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Daniel Kahneman</title>
+    <id>Calibre2opds:author:10</id>
+    <content type="text">Thinking, Fast and Slow</content>
+    <link href="../author_0/author_10_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>David R. Klein</title>
+    <id>Calibre2opds:author:753</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_753_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Donald E. Knuth</title>
+    <id>Calibre2opds:author:686</id>
+    <content type="text">3 books</content>
+    <link href="../author_0/author_686_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Daniel Lerner</title>
+    <id>Calibre2opds:author:633</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_633_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Donella H. Meadows</title>
+    <id>Calibre2opds:author:777</id>
+    <content type="text">Thinking in Systems: A Primer</content>
+    <link href="../author_0/author_777_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>David Mumford</title>
+    <id>Calibre2opds:author:635</id>
+    <content type="text">Ridiculous Math Problems</content>
+    <link href="../author_0/author_635_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>David Ogilvy</title>
+    <id>Calibre2opds:author:632</id>
+    <content type="text">Ogilvy on Advertising</content>
+    <link href="../author_0/author_632_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>David Perell</title>
+    <id>Calibre2opds:author:778</id>
+    <content type="text">Peter Thiel's Religion</content>
+    <link href="../author_0/author_778_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Dan Piepenbring</title>
+    <id>Calibre2opds:author:590</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_590_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Dr. Surya Prakash</title>
+    <id>Calibre2opds:author:517</id>
+    <content type="text">Parallel Computing - IITI</content>
+    <link href="../author_0/author_517_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Didier Remy</title>
+    <id>Calibre2opds:author:761</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_761_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>David G. Rethwisch</title>
+    <id>Calibre2opds:author:782</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_782_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Douglas Stone</title>
+    <id>Calibre2opds:author:426</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_426_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Daniel Weise</title>
+    <id>Calibre2opds:author:663</id>
+    <content type="text">The UNIX-HATERS Handbook</content>
+    <link href="../author_0/author_663_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+</feed>

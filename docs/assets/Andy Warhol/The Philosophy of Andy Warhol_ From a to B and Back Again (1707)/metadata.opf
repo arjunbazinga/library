@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1707</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4c3c76aa-26dc-4a67-8380-66576dbdaa35</dc:identifier>
+        <dc:title>The Philosophy of Andy Warhol: From a to B and Back Again</dc:title>
+        <dc:creator opf:file-as="Warhol, Andy" opf:role="aut">Andy Warhol</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-12-15T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A loosely formed autobiography by Andy Warhol, told with his trademark blend of irony and detachmentIn The Philosophy of Andy Warhol—which, with the subtitle "(From A to B and Back Again)," is less a memoir than a collection of riffs and reflections—he talks about love, sex, food, beauty, fame, work, money, and success; about New York, America, and his childhood in McKeesport, Pennsylvania; about his good times and bad in New York, the explosion of his career in the sixties, and his life among celebrities.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Houghton Mifflin Harcourt</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">utihBQAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780547543437</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Biography &amp; Autobiography</dc:subject>
+        <dc:subject>Artists; Architects; Photographers</dc:subject>
+        <dc:subject>Art</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Art &amp; Politics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Andy Warhol&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-07-09T19:56:17+00:00"/>
+        <meta name="calibre:title_sort" content="Philosophy of Andy Warhol: From a to B and Back Again, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

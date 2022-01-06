@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">673</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">50aa3ffe-f4bf-4713-b603-2be7e04e39c1</dc:identifier>
+        <dc:title>Getting to Yes: Negotiating Agreement Without Giving In</dc:title>
+        <dc:creator opf:file-as="Fisher, Roger &amp; Patton, Bruce" opf:role="aut">Roger Fisher</dc:creator>
+        <dc:creator opf:file-as="Fisher, Roger &amp; Patton, Bruce" opf:role="aut">Bruce Patton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1991-12-01T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Since its original publication nearly thirty years ago, &lt;em&gt;Getting to Yes&lt;/em&gt; has helped millions of people learn a better way to negotiate. One of the primary business texts of the modern era, it is based on the work of the Harvard Negotiation Project, a group that deals with all levels of negotiation and conflict resolution. &lt;em&gt;Getting to Yes&lt;/em&gt; offers a proven, step-by-step strategy for coming to mutually acceptable agreements in every sort of conflict. Thoroughly updated and revised, it offers readers a straight- forward, universally applicable method for negotiating personal and professional disputes without getting angry-or getting taken. &lt;/p&gt;
+&lt;p&gt;"This is by far the best thing I've ever read about negotiation. It is equally relevant for the individual who would like to keep his friends, property, and income and the statesman who would like to keep the peace." --John Kenneth Galbraith. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780140157352</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0140157352</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0051SDM5Q</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Roger Fisher&quot;: &quot;&quot;, &quot;Bruce Patton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:36+00:00"/>
+        <meta name="calibre:title_sort" content="Getting to Yes: Negotiating Agreement Without Giving In"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

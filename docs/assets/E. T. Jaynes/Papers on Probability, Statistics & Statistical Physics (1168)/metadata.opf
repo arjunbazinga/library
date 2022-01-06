@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1168</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8792c18a-ca78-4c7a-8780-e9d91acb020d</dc:identifier>
+        <dc:title>Papers on Probability, Statistics &amp; Statistical Physics</dc:title>
+        <dc:creator opf:file-as="Jaynes, E. T." opf:role="aut">E. T. Jaynes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-01T06:02:30+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;E. T. Jaynes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-25T20:15:56+00:00"/>
+        <meta name="calibre:title_sort" content="Papers on Probability, Statistics &amp; Statistical Physics"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

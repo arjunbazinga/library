@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">989</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bcd6d2c1-4ce2-404d-a4ae-5b82572eff86</dc:identifier>
+        <dc:title>Design Systems: A Practical Guide to Creating Design Languages for Digital Products</dc:title>
+        <dc:creator opf:file-as="Kholmatova, Alla" opf:role="aut">Alla Kholmatova</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Not all design systems are equally effective. Some can generate coherent user experiences, others produce confusing patchwork designs. Some inspire teams to contribute to them, while others are neglected. Some get better with time, more cohesive and better functioning; others get worse, becoming bloated and cumbersome. Throughout this book, Alla Kholmatova, previously a lead designer at FutureLearn, will share an approach and the key qualities of effective, enduring design systems. It's based on Alla's experiences, case-studies from AirBnB, Atlassian, Eurostar, TED, and Sipgate, plus 18 months of research and interviews -- all attempting to figure out what works and what doesn't work in real-life products. It may not answer every question, but it will help you figure out just the right strategy for establishing and evolving a design system in your organization.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Smashing Media AG</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">UWhMswEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9783945749586</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Smashing eBooks</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alla Kholmatova&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-09-05T04:59:14+00:00"/>
+        <meta name="calibre:title_sort" content="Design Systems: A Practical Guide to Creating Design Languages for Digital Products"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

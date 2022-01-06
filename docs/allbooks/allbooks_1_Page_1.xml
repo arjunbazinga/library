@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with 1</title>
+  <id>Calibre2opds:allbooks:1</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_1_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with 1" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works--A True Story</title>
+    <id>calibre:book:530</id>
+    <updated>2020-03-28T07:23:36Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Harris%2C%20Dan/10%25%20Happier_%20How%20I%20Tamed%20the%20Voice%20in%20My%20Head%2C%20Reduced%20Stress%20Without%20Losing%20My%20Edge%2C%20and%20Found%20%28530%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Harris%2C%20Dan/10%25%20Happier_%20How%20I%20Tamed%20the%20Voice%20in%20My%20Head%2C%20Reduced%20Stress%20Without%20Losing%20My%20Edge%2C%20and%20Found%20%28530%29/10%25%20Happier_%20How%20I%20Tamed%20the%20Voice%20in%20My%20H%20-%20Harris%2C%20Dan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Harris%2C%20Dan/10%25%20Happier_%20How%20I%20Tamed%20the%20Voice%20in%20My%20Head%2C%20Reduced%20Stress%20Without%20Losing%20My%20Edge%2C%20and%20Found%20%28530%29/10%25%20Happier_%20How%20I%20Tamed%20the%20Voice%20in%20My%20H%20-%20Harris%2C%20Dan.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Harris, Dan</name>
+      <uri>../author_0/author_282_Page_1.xml</uri>
+    </author>
+    <published>2014-03-11T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_530.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>12 Rules for Life: An Antidote to Chaos</title>
+    <id>calibre:book:652</id>
+    <updated>2020-03-28T07:40:58Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Jordan%20B.%20Peterson/12%20Rules%20for%20Life_%20An%20Antidote%20to%20Chaos%20%28652%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Jordan%20B.%20Peterson/12%20Rules%20for%20Life_%20An%20Antidote%20to%20Chaos%20%28652%29/12%20Rules%20for%20Life_%20An%20Antidote%20to%20Chaos%20-%20Jordan%20B.%20Peterson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Jordan%20B.%20Peterson/12%20Rules%20for%20Life_%20An%20Antidote%20to%20Chaos%20%28652%29/12%20Rules%20for%20Life_%20An%20Antidote%20to%20Chaos%20-%20Jordan%20B.%20Peterson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Jordan B. Peterson</name>
+      <uri>../author_0/author_403_Page_1.xml</uri>
+    </author>
+    <published>2018-01-16T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Books Ltd</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_652.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>1984</title>
+    <id>calibre:book:129</id>
+    <updated>2019-12-07T00:47:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/George%20Orwell/1984%20%28129%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/George%20Orwell/1984%20%28129%29/1984%20-%20George%20Orwell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/George%20Orwell/1984%20%28129%29/1984%20-%20George%20Orwell.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/George%20Orwell/1984%20%28129%29/1984%20-%20George%20Orwell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>George Orwell</name>
+      <uri>../author_0/author_91_Page_1.xml</uri>
+    </author>
+    <published>2012-08-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Oberon Books</dcterms:publisher>
+    <category term="Drama" />
+    <category term="European" />
+    <category term="Fiction" />
+    <category term="Dystopian" />
+    <category term="Lang:en" />
+    <summary>In a world where cheap entertainment keeps the proles ignorant but content, where a war without end is always fought and the government is always watching, can Winston possibly hold onto what he feels inside? Or will he renounce everything, accept th...</summary>
+    <link href="../book_0/book_129.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

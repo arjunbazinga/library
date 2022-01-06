@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1077</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">79427ce2-7c0c-463d-87c7-eb6e174a2736</dc:identifier>
+        <dc:title>Zero Trust Networks: Building Secure Systems in Untrusted Networks</dc:title>
+        <dc:creator opf:file-as="Gilman, Evan &amp; Barth, Doug" opf:role="aut">Evan Gilman</dc:creator>
+        <dc:creator opf:file-as="Gilman, Evan &amp; Barth, Doug" opf:role="aut">Doug Barth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-06-18T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The perimeter defenses guarding your network perhaps are not as secure as you think. Hosts behind the firewall have no defenses of their own, so when a host in the "trusted" zone is breached, access to your data center is not far behind. That’s an all-too-familiar scenario today. With this practical book, you’ll learn the principles behind zero trust architecture, along with details necessary to implement it.The Zero Trust Model treats all hosts as if they’re internet-facing, and considers the entire network to be compromised and hostile. By taking this approach, you’ll focus on building strong authentication, authorization, and encryption throughout, while providing compartmentalized access and better operational agility.Understand how perimeter-based defenses have evolved to become the broken model we use todayExplore two case studies of zero trust in production networks on the client side (Google) and on the server side (PagerDuty)Get example configuration for open source tools that you can use to build a zero trust networkLearn how to migrate from a perimeter-based network to a zero trust network in production&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>"O'Reilly Media, Inc."</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781491962169</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">eawoDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Security</dc:subject>
+        <dc:subject>Networking</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Evan Gilman&quot;: &quot;&quot;, &quot;Doug Barth&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-11-19T07:29:32+00:00"/>
+        <meta name="calibre:title_sort" content="Zero Trust Networks: Building Secure Systems in Untrusted Networks"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

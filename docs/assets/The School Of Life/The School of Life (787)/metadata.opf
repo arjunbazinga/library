@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">787</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5ae293cf-e5a9-43cf-b88d-5771497905ba</dc:identifier>
+        <dc:title>The School of Life</dc:title>
+        <dc:creator opf:file-as="Life, The School Of" opf:role="aut">The School Of Life</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-05T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;Discover everything you were never taught at school about how to lead a better life...&lt;/b&gt; &lt;/p&gt;&lt;p&gt;&lt;b&gt;Introduced and edited by the bestselling author of &lt;i&gt;The Consolations of Philosophy, The Art of Travel &lt;/i&gt;and &lt;i&gt;The Course of Love&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;'Alain de Botton likes to take big, complex subjects and write about them with thoughtful and deceptive innocence' &lt;i&gt;Observer&lt;/i&gt; &lt;/b&gt;&lt;/p&gt;&lt;p&gt;We spend years in school learning facts and figures but the one thing we're never taught is how to live a fulfilled life. That's why we need The School of Life - a real organisation founded ten years ago by writer and philosopher Alain de Botton. The School of Life has one simple aim: to equip people with the tools to survive and thrive in the modern world. And the most important of these tools is emotional intelligence.&lt;/p&gt;&lt;p&gt;This book brings together ten years of essential and transformative research on emotional intelligence, with practical topics including: &lt;/p&gt;&lt;p&gt;- how to understand...</dc:description>
+        <dc:publisher>Penguin Books Ltd</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780241985854</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">78bf062f-c90a-4ce2-80f8-2fba682c8223</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;The School Of Life&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-23T12:12:59.381482+00:00" name="calibre:timestamp"/>
+        <meta content="School of Life, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

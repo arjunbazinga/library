@@ -1,0 +1,948 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>More than one year</title>
+  <id>Calibre2opds:recent:MORE</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./recent_MORE_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="More than one year" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
+  <link href="../recent/recent_MORE_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 6)" />
+  <entry>
+    <title>Of Human Bondage [November 4, 2018]</title>
+    <id>calibre:book:538</id>
+    <updated>2019-12-07T00:47:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/W.%20Somerset%20Maugham/Of%20Human%20Bondage%20%28538%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/W.%20Somerset%20Maugham/Of%20Human%20Bondage%20%28538%29/Of%20Human%20Bondage%20-%20W.%20Somerset%20Maugham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/W.%20Somerset%20Maugham/Of%20Human%20Bondage%20%28538%29/Of%20Human%20Bondage%20-%20W.%20Somerset%20Maugham.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>W. Somerset Maugham</name>
+      <uri>../author_0/author_796_Page_1.xml</uri>
+    </author>
+    <published>1991-06-01T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Bantam Classics</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Classics" />
+    <category term="Lang:en" />
+    <summary>A masterpiece of modern literature that mirrors Maugham’s own career. Of Human Bondage is the first and most autobiographical of Maugham's novels. It is the story of Philip Carey, an orphan eager for life, love and adventure. After a few months stud...</summary>
+    <link href="../book_0/book_538.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Numerical Optimization [November 4, 2018]</title>
+    <id>calibre:book:537</id>
+    <updated>2019-12-07T00:47:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Jorge%20Nocedal%2C%20Stephen%20J.%20Wright/Numerical%20Optimization%20%28537%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Jorge%20Nocedal%2C%20Stephen%20J.%20Wright/Numerical%20Optimization%20%28537%29/Numerical%20Optimization%20-%20Jorge%20Nocedal%2C%20Stephen%20J.%20Wright.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Jorge%20Nocedal%2C%20Stephen%20J.%20Wright/Numerical%20Optimization%20%28537%29/Numerical%20Optimization%20-%20Jorge%20Nocedal%2C%20Stephen%20J.%20Wright.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Jorge Nocedal, Stephen J. Wright</name>
+      <uri>../author_0/author_495_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_537.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Options, Futures, and Other Derivatives [October 23, 2018]</title>
+    <id>calibre:book:536</id>
+    <updated>2019-12-07T00:47:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/John%20C.%20Hull/Options%2C%20Futures%2C%20and%20Other%20Derivatives%20%28536%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/John%20C.%20Hull/Options%2C%20Futures%2C%20and%20Other%20Derivatives%20%28536%29/Options%2C%20Futures%2C%20and%20Other%20Derivatives%20-%20John%20C.%20Hull.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/John%20C.%20Hull/Options%2C%20Futures%2C%20and%20Other%20Derivatives%20%28536%29/Options%2C%20Futures%2C%20and%20Other%20Derivatives%20-%20John%20C.%20Hull.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>John C. Hull</name>
+      <uri>../author_0/author_286_Page_1.xml</uri>
+    </author>
+    <published>2014-01-24T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Pearson</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>For graduate courses in business, economics, financial mathematics, and financial engineering; for advanced undergraduate courses with students who have good quantitative skills; and for practitioners involved in derivatives markets   Practitioners ...</summary>
+    <link href="../book_0/book_536.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>How to Calculate Quickly [October 23, 2018]</title>
+    <id>calibre:book:535</id>
+    <updated>2020-03-28T07:59:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Henry%20Sticker/How%20to%20Calculate%20Quickly%20%28535%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Henry%20Sticker/How%20to%20Calculate%20Quickly%20%28535%29/How%20to%20Calculate%20Quickly%20-%20Henry%20Sticker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Henry%20Sticker/How%20to%20Calculate%20Quickly%20%28535%29/How%20to%20Calculate%20Quickly%20-%20Henry%20Sticker.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Henry%20Sticker/How%20to%20Calculate%20Quickly%20%28535%29/How%20to%20Calculate%20Quickly%20-%20Henry%20Sticker.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Henry Sticker</name>
+      <uri>../author_0/author_285_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Dover Publications</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_535.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Don Quixote [October 13, 2018]</title>
+    <id>calibre:book:533</id>
+    <updated>2019-12-07T00:47:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Miguel%20de%20Cervantes/Don%20Quixote%20%28533%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Miguel%20de%20Cervantes/Don%20Quixote%20%28533%29/Don%20Quixote%20-%20Miguel%20de%20Cervantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Miguel de Cervantes</name>
+      <uri>../author_0/author_283_Page_1.xml</uri>
+    </author>
+    <published>2003-06-09T06:30:00Z</published>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <link href="../book_0/book_533.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works--A True Story [October 13, 2018]</title>
+    <id>calibre:book:530</id>
+    <updated>2020-03-28T07:23:36Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Harris%2C%20Dan/10%25%20Happier_%20How%20I%20Tamed%20the%20Voice%20in%20My%20Head%2C%20Reduced%20Stress%20Without%20Losing%20My%20Edge%2C%20and%20Found%20%28530%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Harris%2C%20Dan/10%25%20Happier_%20How%20I%20Tamed%20the%20Voice%20in%20My%20Head%2C%20Reduced%20Stress%20Without%20Losing%20My%20Edge%2C%20and%20Found%20%28530%29/10%25%20Happier_%20How%20I%20Tamed%20the%20Voice%20in%20My%20H%20-%20Harris%2C%20Dan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Harris%2C%20Dan/10%25%20Happier_%20How%20I%20Tamed%20the%20Voice%20in%20My%20Head%2C%20Reduced%20Stress%20Without%20Losing%20My%20Edge%2C%20and%20Found%20%28530%29/10%25%20Happier_%20How%20I%20Tamed%20the%20Voice%20in%20My%20H%20-%20Harris%2C%20Dan.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Harris, Dan</name>
+      <uri>../author_0/author_282_Page_1.xml</uri>
+    </author>
+    <published>2014-03-11T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_530.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Making of the Atomic Bomb [October 13, 2018]</title>
+    <id>calibre:book:529</id>
+    <updated>2020-03-28T07:45:38Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Richard%20Rhodes/Making%20of%20the%20Atomic%20Bomb%20%28529%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Richard%20Rhodes/Making%20of%20the%20Atomic%20Bomb%20%28529%29/Making%20of%20the%20Atomic%20Bomb%20-%20Richard%20Rhodes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Richard%20Rhodes/Making%20of%20the%20Atomic%20Bomb%20%28529%29/Making%20of%20the%20Atomic%20Bomb%20-%20Richard%20Rhodes.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Richard Rhodes</name>
+      <uri>../author_0/author_281_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Simon &amp; Schuster</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Winner of the Pulitzer Prize, the National Book Award, and the National Book Critics Circle Award.Twenty-five years after its initial publication, The Making of the Atomic Bomb remains the seminal and complete story of how the bomb was developed, fro...</summary>
+    <link href="../book_0/book_529.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Design of Everyday Things: Revised and Expanded Edition [October 13, 2018]</title>
+    <id>calibre:book:528</id>
+    <updated>2020-03-28T07:37:42Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Norman%2C%20Don/The%20Design%20of%20Everyday%20Things_%20Revised%20and%20Expanded%20Edition%20%28528%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Norman%2C%20Don/The%20Design%20of%20Everyday%20Things_%20Revised%20and%20Expanded%20Edition%20%28528%29/The%20Design%20of%20Everyday%20Things_%20Revised%20and%20-%20Norman%2C%20Don.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Norman%2C%20Don/The%20Design%20of%20Everyday%20Things_%20Revised%20and%20Expanded%20Edition%20%28528%29/The%20Design%20of%20Everyday%20Things_%20Revised%20and%20-%20Norman%2C%20Don.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Norman%2C%20Don/The%20Design%20of%20Everyday%20Things_%20Revised%20and%20Expanded%20Edition%20%28528%29/The%20Design%20of%20Everyday%20Things_%20Revised%20and%20-%20Norman%2C%20Don.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Norman, Don</name>
+      <uri>../author_0/author_280_Page_1.xml</uri>
+    </author>
+    <published>2013-11-05T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Basic Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_528.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Get a Financial Life [October 13, 2018]</title>
+    <id>calibre:book:527</id>
+    <updated>2020-03-28T07:28:50Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Beth%20Kobliner/Get%20a%20Financial%20Life%20%28527%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Beth%20Kobliner/Get%20a%20Financial%20Life%20%28527%29/Get%20a%20Financial%20Life%20-%20Beth%20Kobliner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Beth%20Kobliner/Get%20a%20Financial%20Life%20%28527%29/Get%20a%20Financial%20Life%20-%20Beth%20Kobliner.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Beth Kobliner</name>
+      <uri>../author_0/author_279_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Touchstone</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>A completely revised and updated fourth edition of the New York Times bestseller, designed to guide younger adults through the world of personal finance.More than ever before, people in their twenties and thirties need help getting their financial li...</summary>
+    <link href="../book_0/book_527.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Parallel Computing - IITI [October 5, 2018]</title>
+    <id>calibre:book:526</id>
+    <updated>2020-03-29T01:39:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Dr.%20Surya%20Prakash/Parallel%20Computing%20-%20IITI%20%28526%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Dr.%20Surya%20Prakash/Parallel%20Computing%20-%20IITI%20%28526%29/Parallel%20Computing%20-%20IITI%20-%20Dr.%20Surya%20Prakash.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Dr.%20Surya%20Prakash/Parallel%20Computing%20-%20IITI%20%28526%29/Parallel%20Computing%20-%20IITI%20-%20Dr.%20Surya%20Prakash.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Dr. Surya Prakash</name>
+      <uri>../author_0/author_517_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_526.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Lolita [September 20, 2018]</title>
+    <id>calibre:book:525</id>
+    <updated>2020-03-28T07:40:04Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Vladimir%20Nabokov/Lolita%20%28525%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Vladimir%20Nabokov/Lolita%20%28525%29/Lolita%20-%20Vladimir%20Nabokov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Vladimir%20Nabokov/Lolita%20%28525%29/Lolita%20-%20Vladimir%20Nabokov.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Vladimir Nabokov</name>
+      <uri>../author_0/author_277_Page_1.xml</uri>
+    </author>
+    <published>2008-10-01T06:33:58Z</published>
+    <dcterms:publisher>Penguin</dcterms:publisher>
+    <category term="Fiction / General" />
+    <category term="Fiction / Literary" />
+    <category term="Fiction" />
+    <category term="Middle-aged men" />
+    <category term="Intergenerational relations" />
+    <category term="General" />
+    <category term="Literary" />
+    <category term="Pedophilia" />
+    <summary>Vladimir Nabokov's Lolita is a dark and daring story of obsessive love and transgression. Humbert Humbert's lust for his pubescent step-daughter, Lolita, shocked readers when it was first published in the 1950s; yet the novel was also celebrated for ...</summary>
+    <link href="../book_0/book_525.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Programming for the Puzzled [September 20, 2018]</title>
+    <id>calibre:book:524</id>
+    <updated>2020-03-28T07:12:00Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Srini%20Devadas/Programming%20for%20the%20Puzzled%20%28524%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Srini%20Devadas/Programming%20for%20the%20Puzzled%20%28524%29/Programming%20for%20the%20Puzzled%20-%20Srini%20Devadas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Srini%20Devadas/Programming%20for%20the%20Puzzled%20%28524%29/Programming%20for%20the%20Puzzled%20-%20Srini%20Devadas.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Srini Devadas</name>
+      <uri>../author_0/author_276_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>The MIT Press</dcterms:publisher>
+    <category term="computer science; programming languages; problems; algorithms; Python; coding; data structures; optimization; software engineering; recursion; Divide and Conquer; greedy algorithm; exhaustive search; backtracking; case analysis; information; encoding information; decoding information; functions; control flow; hashing; hash tables; radix representation; conflict detection; implication; binary search; bisection search; independent set; set covering; Decrease-by-One search; pivoting; in-place algorithm; Object-oriented programming; breadth-first search; depth-first search; graph; graph traversal; Binary Search Trees" />
+    <category term="Lang:en" />
+    <summary>Learning programming with one of “the coolest applications around“: algorithmic puzzles ranging from scheduling selfie time to verifying the six degrees of separation hypothesis.</summary>
+    <link href="../book_0/book_524.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Other Minds [September 20, 2018]</title>
+    <id>calibre:book:523</id>
+    <updated>2020-03-28T07:21:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Peter%20Godfrey-Smith/Other%20Minds%20%28523%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Peter%20Godfrey-Smith/Other%20Minds%20%28523%29/Other%20Minds%20-%20Peter%20Godfrey-Smith.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Peter%20Godfrey-Smith/Other%20Minds%20%28523%29/Other%20Minds%20-%20Peter%20Godfrey-Smith.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Peter Godfrey-Smith</name>
+      <uri>../author_0/author_275_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Farrar, Straus and Giroux</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Although mammals and birds are widely regarded as the smartest creatures on earth, it has lately become clear that a very distant branch of the tree of life has also sprouted higher intelligence: the cephalopods, consisting of the squid, the cuttlefi...</summary>
+    <link href="../book_0/book_523.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>We Need to Talk [September 3, 2018]</title>
+    <id>calibre:book:521</id>
+    <updated>2020-03-28T07:24:06Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Celeste%20Headlee/We%20Need%20to%20Talk%20%28521%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Celeste%20Headlee/We%20Need%20to%20Talk%20%28521%29/We%20Need%20to%20Talk%20-%20Celeste%20Headlee.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Celeste%20Headlee/We%20Need%20to%20Talk%20%28521%29/We%20Need%20to%20Talk%20-%20Celeste%20Headlee.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Celeste%20Headlee/We%20Need%20to%20Talk%20%28521%29/We%20Need%20to%20Talk%20-%20Celeste%20Headlee.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Celeste Headlee</name>
+      <uri>../author_0/author_273_Page_1.xml</uri>
+    </author>
+    <published>2017-08-02T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>"WE NEED TO TALK."They are, perhaps, the most dreaded four words in the English language. But in her timely, insightful, and wonderfully practical book, We Need to Talk, Celeste Headlee&amp;#8212;who earns a living by talking on the airwaves of National ...</summary>
+    <link href="../book_0/book_521.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Breakdown of will [August 29, 2018]</title>
+    <id>calibre:book:520</id>
+    <updated>2019-12-07T00:47:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/George%20Ainslie/Breakdown%20of%20will%20%28520%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/George%20Ainslie/Breakdown%20of%20will%20%28520%29/Breakdown%20of%20will%20-%20George%20Ainslie.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/George%20Ainslie/Breakdown%20of%20will%20%28520%29/Breakdown%20of%20will%20-%20George%20Ainslie.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/George%20Ainslie/Breakdown%20of%20will%20%28520%29/Breakdown%20of%20will%20-%20George%20Ainslie.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>George Ainslie</name>
+      <uri>../author_0/author_272_Page_1.xml</uri>
+    </author>
+    <published>2004-08-04T00:56:51Z</published>
+    <link href="../book_0/book_520.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Watchmen #01 - #12 [August 28, 2018]</title>
+    <id>calibre:book:518</id>
+    <updated>2019-12-07T00:47:18Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20Moore/Watchmen%20%2301%20-%20%2312%20%28518%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20Moore/Watchmen%20%2301%20-%20%2312%20%28518%29/Watchmen%20%2301%20-%20%2312%20-%20Alan%20Moore.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20Moore/Watchmen%20%2301%20-%20%2312%20%28518%29/Watchmen%20%2301%20-%20%2312%20-%20Alan%20Moore.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Alan Moore</name>
+      <uri>../author_0/author_267_Page_1.xml</uri>
+    </author>
+    <published>2006-02-15T00:38:02Z</published>
+    <link href="../book_0/book_518.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A Pattern Language : Towns, Buildings, Construction [August 28, 2018]</title>
+    <id>calibre:book:517</id>
+    <updated>2019-12-07T00:47:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Christopher%20Alexander%2C%20Murray%20Silverstein%2C%20Sara%20Ishikawa/A%20Pattern%20Language%20_%20Towns%2C%20Buildings%2C%20Construction%20%28517%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Christopher%20Alexander%2C%20Murray%20Silverstein%2C%20Sara%20Ishikawa/A%20Pattern%20Language%20_%20Towns%2C%20Buildings%2C%20Construction%20%28517%29/A%20Pattern%20Language%20_%20Towns%2C%20Buildings%2C%20Con%20-%20Christopher%20Alexander%2C%20Murray%20Silverstein%2C.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Christopher%20Alexander%2C%20Murray%20Silverstein%2C%20Sara%20Ishikawa/A%20Pattern%20Language%20_%20Towns%2C%20Buildings%2C%20Construction%20%28517%29/A%20Pattern%20Language%20_%20Towns%2C%20Buildings%2C%20Con%20-%20Christopher%20Alexander%2C%20Murray%20Silverstein%2C.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Christopher Alexander, Murray Silverstein, Sara Ishikawa</name>
+      <uri>../author_0/author_270_Page_1.xml</uri>
+    </author>
+    <published>1977-04-01T07:04:32Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <link href="../book_0/book_517.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Song of Solomon [August 28, 2018]</title>
+    <id>calibre:book:516</id>
+    <updated>2020-03-28T07:34:42Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Toni%20Morrison/Song%20of%20Solomon%20%28516%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Toni%20Morrison/Song%20of%20Solomon%20%28516%29/Song%20of%20Solomon%20-%20Toni%20Morrison.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Toni%20Morrison/Song%20of%20Solomon%20%28516%29/Song%20of%20Solomon%20-%20Toni%20Morrison.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Toni%20Morrison/Song%20of%20Solomon%20%28516%29/Song%20of%20Solomon%20-%20Toni%20Morrison.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Toni Morrison</name>
+      <uri>../author_0/author_266_Page_1.xml</uri>
+    </author>
+    <published>2004-02-26T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Knopf Doubleday Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_516.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Tao Te Ching [August 28, 2018]</title>
+    <id>calibre:book:515</id>
+    <updated>2020-03-28T07:33:58Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Stephen%20Mitchell/Tao%20Te%20Ching%20%28515%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Stephen%20Mitchell/Tao%20Te%20Ching%20%28515%29/Tao%20Te%20Ching%20-%20Stephen%20Mitchell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Stephen%20Mitchell/Tao%20Te%20Ching%20%28515%29/Tao%20Te%20Ching%20-%20Stephen%20Mitchell.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Stephen%20Mitchell/Tao%20Te%20Ching%20%28515%29/Tao%20Te%20Ching%20-%20Stephen%20Mitchell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Stephen Mitchell</name>
+      <uri>../author_0/author_265_Page_1.xml</uri>
+    </author>
+    <published>1988-07-31T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Lao-tzu's Tao Te Ching, or Book of the Way, is the classic manual on the art of living, and one of the wonders of the world. In eighty-one brief chapters, the Tao Te Ching looks at the basic predicament of being alive and gives advice that imparts ba...</summary>
+    <link href="../book_0/book_515.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The History of the Peloponnesian War [August 28, 2018]</title>
+    <id>calibre:book:514</id>
+    <updated>2020-03-28T08:02:46Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Thucydides/The%20History%20of%20the%20Peloponnesian%20War%20%28514%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Thucydides/The%20History%20of%20the%20Peloponnesian%20War%20%28514%29/The%20History%20of%20the%20Peloponnesian%20War%20-%20Thucydides.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Thucydides/The%20History%20of%20the%20Peloponnesian%20War%20%28514%29/The%20History%20of%20the%20Peloponnesian%20War%20-%20Thucydides.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Thucydides/The%20History%20of%20the%20Peloponnesian%20War%20%28514%29/The%20History%20of%20the%20Peloponnesian%20War%20-%20Thucydides.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Thucydides</name>
+      <uri>../author_0/author_264_Page_1.xml</uri>
+    </author>
+    <published>2012-07-31T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Duke Classics</dcterms:publisher>
+    <category term="History" />
+    <category term="Lang:en" />
+    <summary>Written by Thucydides around 400 AD, The History of the Peloponnesian War is a meticulous account by the Athenian general of the extended struggle that raged between Athens and Sparta for the better part of twenty years. Thucydides eschews the romanc...</summary>
+    <link href="../book_0/book_514.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Enigma of Anger: Essays on a Sometimes Deadly Sin [August 28, 2018]</title>
+    <id>calibre:book:513</id>
+    <updated>2019-12-07T00:47:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Garret%20Keizer/The%20Enigma%20of%20Anger_%20Essays%20on%20a%20Sometimes%20Deadly%20Sin%20%28513%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Garret%20Keizer/The%20Enigma%20of%20Anger_%20Essays%20on%20a%20Sometimes%20Deadly%20Sin%20%28513%29/The%20Enigma%20of%20Anger_%20Essays%20on%20a%20Sometimes%20-%20Garret%20Keizer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Garret%20Keizer/The%20Enigma%20of%20Anger_%20Essays%20on%20a%20Sometimes%20Deadly%20Sin%20%28513%29/The%20Enigma%20of%20Anger_%20Essays%20on%20a%20Sometimes%20-%20Garret%20Keizer.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Garret%20Keizer/The%20Enigma%20of%20Anger_%20Essays%20on%20a%20Sometimes%20Deadly%20Sin%20%28513%29/The%20Enigma%20of%20Anger_%20Essays%20on%20a%20Sometimes%20-%20Garret%20Keizer.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Garret Keizer</name>
+      <uri>../author_0/author_263_Page_1.xml</uri>
+    </author>
+    <published>2002-07-31T06:30:00Z</published>
+    <summary>0787957283</summary>
+    <link href="../book_0/book_513.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Propaganda [August 28, 2018]</title>
+    <id>calibre:book:512</id>
+    <updated>2020-03-28T07:02:16Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Edward%20Bernays/Propaganda%20%28512%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Edward%20Bernays/Propaganda%20%28512%29/Propaganda%20-%20Edward%20Bernays.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Edward%20Bernays/Propaganda%20%28512%29/Propaganda%20-%20Edward%20Bernays.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Edward%20Bernays/Propaganda%20%28512%29/Propaganda%20-%20Edward%20Bernays.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Edward Bernays</name>
+      <uri>../author_0/author_262_Page_1.xml</uri>
+    </author>
+    <published>2010-07-11T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>IG Publishing</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_512.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Hero With a Thousand Faces [August 28, 2018]</title>
+    <id>calibre:book:511</id>
+    <updated>2020-03-28T07:05:52Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Joseph%20Campbell/The%20Hero%20With%20a%20Thousand%20Faces%20%28511%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Joseph%20Campbell/The%20Hero%20With%20a%20Thousand%20Faces%20%28511%29/The%20Hero%20With%20a%20Thousand%20Faces%20-%20Joseph%20Campbell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Joseph%20Campbell/The%20Hero%20With%20a%20Thousand%20Faces%20%28511%29/The%20Hero%20With%20a%20Thousand%20Faces%20-%20Joseph%20Campbell.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Joseph%20Campbell/The%20Hero%20With%20a%20Thousand%20Faces%20%28511%29/The%20Hero%20With%20a%20Thousand%20Faces%20-%20Joseph%20Campbell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Joseph Campbell</name>
+      <uri>../author_0/author_261_Page_1.xml</uri>
+    </author>
+    <published>2010-08-18T11:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fontana Press</dcterms:publisher>
+    <category term="Mythology" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_511.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Total Freedom: The Essential Krishnamurti [August 28, 2018]</title>
+    <id>calibre:book:510</id>
+    <updated>2019-12-07T00:47:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Krishnamurti/Total%20Freedom_%20The%20Essential%20Krishnamurti%20%28510%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Krishnamurti/Total%20Freedom_%20The%20Essential%20Krishnamurti%20%28510%29/Total%20Freedom_%20The%20Essential%20Krishnamurti%20-%20Krishnamurti.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Krishnamurti/Total%20Freedom_%20The%20Essential%20Krishnamurti%20%28510%29/Total%20Freedom_%20The%20Essential%20Krishnamurti%20-%20Krishnamurti.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Krishnamurti/Total%20Freedom_%20The%20Essential%20Krishnamurti%20%28510%29/Total%20Freedom_%20The%20Essential%20Krishnamurti%20-%20Krishnamurti.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Krishnamurti</name>
+      <uri>../author_0/author_260_Page_1.xml</uri>
+    </author>
+    <published>2010-05-15T03:45:00Z</published>
+    <link href="../book_0/book_510.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Mastery: The Keys to Success and Long-Term Fulfillment [August 28, 2018]</title>
+    <id>calibre:book:509</id>
+    <updated>2019-12-07T00:47:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/George%20Leonard/Mastery_%20The%20Keys%20to%20Success%20and%20Long-Term%20Fulfillment%20%28509%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/George%20Leonard/Mastery_%20The%20Keys%20to%20Success%20and%20Long-Term%20Fulfillment%20%28509%29/Mastery_%20The%20Keys%20to%20Success%20and%20Long-Term%20-%20George%20Leonard.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/George%20Leonard/Mastery_%20The%20Keys%20to%20Success%20and%20Long-Term%20Fulfillment%20%28509%29/Mastery_%20The%20Keys%20to%20Success%20and%20Long-Term%20-%20George%20Leonard.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/George%20Leonard/Mastery_%20The%20Keys%20to%20Success%20and%20Long-Term%20Fulfillment%20%28509%29/Mastery_%20The%20Keys%20to%20Success%20and%20Long-Term%20-%20George%20Leonard.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>George Leonard</name>
+      <uri>../author_0/author_259_Page_1.xml</uri>
+    </author>
+    <published>2005-08-22T05:58:29Z</published>
+    <category term="Self-Help" />
+    <category term="mastery" />
+    <category term="long-term success" />
+    <category term="personal transformation" />
+    <category term="goals" />
+    <summary>self-help, mastery, long-term success, personal transformation, goals</summary>
+    <link href="../book_0/book_509.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Quiet: The Power of Introverts in a World That Can't Stop Talking [August 28, 2018]</title>
+    <id>calibre:book:508</id>
+    <updated>2020-03-28T07:04:46Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Susan%20Cain/Quiet_%20The%20Power%20of%20Introverts%20in%20a%20World%20That%20Can%27t%20Stop%20Talking%20%28508%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Susan%20Cain/Quiet_%20The%20Power%20of%20Introverts%20in%20a%20World%20That%20Can%27t%20Stop%20Talking%20%28508%29/Quiet_%20The%20Power%20of%20Introverts%20in%20a%20World%20-%20Susan%20Cain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Susan%20Cain/Quiet_%20The%20Power%20of%20Introverts%20in%20a%20World%20That%20Can%27t%20Stop%20Talking%20%28508%29/Quiet_%20The%20Power%20of%20Introverts%20in%20a%20World%20-%20Susan%20Cain.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Susan%20Cain/Quiet_%20The%20Power%20of%20Introverts%20in%20a%20World%20That%20Can%27t%20Stop%20Talking%20%28508%29/Quiet_%20The%20Power%20of%20Introverts%20in%20a%20World%20-%20Susan%20Cain.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Susan Cain</name>
+      <uri>../author_0/author_258_Page_1.xml</uri>
+    </author>
+    <published>2012-01-24T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Broadway</dcterms:publisher>
+    <category term="Psychology" />
+    <category term="Self-Help" />
+    <category term="Personal Growth" />
+    <category term="Creative Ability" />
+    <category term="Success" />
+    <category term="Personality" />
+    <category term="Lang:en" />
+    <summary>At least one-third of the people we know are introverts. They are the ones who prefer listening to speaking, reading to partying; who innovate and create but dislike self-promotion; who favor working on their own over brainstorming in teams. Although...</summary>
+    <link href="../book_0/book_508.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>How the University Works Higher Education and the Low-Wage Nation [August 28, 2018]</title>
+    <id>calibre:book:507</id>
+    <updated>2019-12-07T00:47:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Marc%20Bousquet/How%20the%20University%20Works%20Higher%20Education%20and%20the%20Low-Wage%20Nation%20%28507%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Marc%20Bousquet/How%20the%20University%20Works%20Higher%20Education%20and%20the%20Low-Wage%20Nation%20%28507%29/How%20the%20University%20Works%20Higher%20Education%20-%20Marc%20Bousquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Marc%20Bousquet/How%20the%20University%20Works%20Higher%20Education%20and%20the%20Low-Wage%20Nation%20%28507%29/How%20the%20University%20Works%20Higher%20Education%20-%20Marc%20Bousquet.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Marc%20Bousquet/How%20the%20University%20Works%20Higher%20Education%20and%20the%20Low-Wage%20Nation%20%28507%29/How%20the%20University%20Works%20Higher%20Education%20-%20Marc%20Bousquet.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Marc Bousquet</name>
+      <uri>../author_0/author_268_Page_1.xml</uri>
+    </author>
+    <published>2008-07-31T06:30:00Z</published>
+    <dcterms:publisher>New York University Press</dcterms:publisher>
+    <link href="../book_0/book_507.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Sling and the Stone [August 28, 2018]</title>
+    <id>calibre:book:506</id>
+    <updated>2020-03-28T07:23:02Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Thomas%20X.%20Hammes/The%20Sling%20and%20the%20Stone%20%28506%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Thomas%20X.%20Hammes/The%20Sling%20and%20the%20Stone%20%28506%29/The%20Sling%20and%20the%20Stone%20-%20Thomas%20X.%20Hammes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Thomas%20X.%20Hammes/The%20Sling%20and%20the%20Stone%20%28506%29/The%20Sling%20and%20the%20Stone%20-%20Thomas%20X.%20Hammes.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Thomas%20X.%20Hammes/The%20Sling%20and%20the%20Stone%20%28506%29/The%20Sling%20and%20the%20Stone%20-%20Thomas%20X.%20Hammes.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Thomas X. Hammes</name>
+      <uri>../author_0/author_257_Page_1.xml</uri>
+    </author>
+    <published>2010-08-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>MBI</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>4GW (Fourth Generation Warfare) is the only kind of war America has ever lost. And we have done so three times &amp;#8211; in Vietnam, Lebanon, and Somalia. This form of warfare has also defeated the French in Vietnam and Algeria, and the USSR in Afghani...</summary>
+    <link href="../book_0/book_506.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Kids are worth it! [August 28, 2018]</title>
+    <id>calibre:book:505</id>
+    <updated>2020-03-28T07:08:12Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Barbara%20Coloroso/kids%20are%20worth%20it%21%20%28505%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Barbara%20Coloroso/kids%20are%20worth%20it%21%20%28505%29/kids%20are%20worth%20it%21%20-%20Barbara%20Coloroso.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Barbara%20Coloroso/kids%20are%20worth%20it%21%20%28505%29/kids%20are%20worth%20it%21%20-%20Barbara%20Coloroso.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Barbara%20Coloroso/kids%20are%20worth%20it%21%20%28505%29/kids%20are%20worth%20it%21%20-%20Barbara%20Coloroso.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Barbara Coloroso</name>
+      <uri>../author_0/author_256_Page_1.xml</uri>
+    </author>
+    <published>2010-01-14T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_505.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Why Honor Matters [August 28, 2018]</title>
+    <id>calibre:book:504</id>
+    <updated>2020-03-28T07:52:00Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Tamler%20Sommers/Why%20Honor%20Matters%20%28504%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Tamler%20Sommers/Why%20Honor%20Matters%20%28504%29/Why%20Honor%20Matters%20-%20Tamler%20Sommers.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Tamler%20Sommers/Why%20Honor%20Matters%20%28504%29/Why%20Honor%20Matters%20-%20Tamler%20Sommers.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Tamler%20Sommers/Why%20Honor%20Matters%20%28504%29/Why%20Honor%20Matters%20-%20Tamler%20Sommers.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Tamler Sommers</name>
+      <uri>../author_0/author_490_Page_1.xml</uri>
+    </author>
+    <published>2018-05-08T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Hachette Book Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_504.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>I Do What I Do [August 28, 2018]</title>
+    <id>calibre:book:503</id>
+    <updated>2019-12-07T00:47:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Raghuram%20G.%20Rajan/I%20Do%20What%20I%20Do%20%28503%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Raghuram%20G.%20Rajan/I%20Do%20What%20I%20Do%20%28503%29/I%20Do%20What%20I%20Do%20-%20Raghuram%20G.%20Rajan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Raghuram%20G.%20Rajan/I%20Do%20What%20I%20Do%20%28503%29/I%20Do%20What%20I%20Do%20-%20Raghuram%20G.%20Rajan.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Raghuram%20G.%20Rajan/I%20Do%20What%20I%20Do%20%28503%29/I%20Do%20What%20I%20Do%20-%20Raghuram%20G.%20Rajan.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Raghuram G. Rajan</name>
+      <uri>../author_0/author_254_Page_1.xml</uri>
+    </author>
+    <published>2017-09-03T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins Publishers India</dcterms:publisher>
+    <category term="null" />
+    <category term="Lang:en" />
+    <summary>null</summary>
+    <link href="../book_0/book_503.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Design Thinking [August 28, 2018]</title>
+    <id>calibre:book:502</id>
+    <updated>2020-03-28T07:08:46Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Nigel%20Cross/Design%20Thinking%20%28502%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Nigel%20Cross/Design%20Thinking%20%28502%29/Design%20Thinking%20-%20Nigel%20Cross.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Nigel%20Cross/Design%20Thinking%20%28502%29/Design%20Thinking%20-%20Nigel%20Cross.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Nigel%20Cross/Design%20Thinking%20%28502%29/Design%20Thinking%20-%20Nigel%20Cross.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Nigel Cross</name>
+      <uri>../author_0/author_253_Page_1.xml</uri>
+    </author>
+    <published>2011-08-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Berg Publishers</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Design thinking is the core creative process for any designer; this book explores and explains this apparently mysterious "design ability". Focusing on what designers do when they design, Design Thinking is structured around a series of in-depth case...</summary>
+    <link href="../book_0/book_502.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Monoculture: How One Story is Changing Everything [August 28, 2018]</title>
+    <id>calibre:book:501</id>
+    <updated>2020-03-28T07:32:40Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Michaels%2C%20F.S_/Monoculture_%20How%20One%20Story%20is%20Changing%20Everything%20%28501%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Michaels%2C%20F.S_/Monoculture_%20How%20One%20Story%20is%20Changing%20Everything%20%28501%29/Monoculture_%20How%20One%20Story%20is%20Changing%20Eve%20-%20Michaels%2C%20F.S_.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Michaels%2C%20F.S_/Monoculture_%20How%20One%20Story%20is%20Changing%20Everything%20%28501%29/Monoculture_%20How%20One%20Story%20is%20Changing%20Eve%20-%20Michaels%2C%20F.S_.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Michaels%2C%20F.S_/Monoculture_%20How%20One%20Story%20is%20Changing%20Everything%20%28501%29/Monoculture_%20How%20One%20Story%20is%20Changing%20Eve%20-%20Michaels%2C%20F.S_.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Michaels, F.S.</name>
+      <uri>../author_0/author_252_Page_1.xml</uri>
+    </author>
+    <published>2011-04-25T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Red Clover Press</dcterms:publisher>
+    <category term="Business and Economics" />
+    <category term="Social Science - General" />
+    <category term="Lang:en" />
+    <summary>As human beings, we’ve always told stories: stories about who we are, where we come from, and where we’re going. Now imagine that one of those stories is taking over the others, narrowing our diversity and creating a monoculture. Because of the rise ...</summary>
+    <link href="../book_0/book_501.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Operating System Concepts [August 28, 2018]</title>
+    <id>calibre:book:500</id>
+    <updated>2019-12-07T00:47:18Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Abraham%20Silberschatz/Operating%20System%20Concepts%20%28500%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Abraham%20Silberschatz/Operating%20System%20Concepts%20%28500%29/Operating%20System%20Concepts%20-%20Abraham%20Silberschatz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Abraham%20Silberschatz/Operating%20System%20Concepts%20%28500%29/Operating%20System%20Concepts%20-%20Abraham%20Silberschatz.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Abraham Silberschatz</name>
+      <uri>../author_0/author_269_Page_1.xml</uri>
+    </author>
+    <published>2012-11-27T10:33:42Z</published>
+    <summary>The dinosaur book</summary>
+    <link href="../book_0/book_500.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Montaigne's Essays [August 28, 2018]</title>
+    <id>calibre:book:499</id>
+    <updated>2019-12-07T00:47:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Montaigne%2C%20John%20Florio/Montaigne%27s%20Essays%20%28499%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Montaigne%2C%20John%20Florio/Montaigne%27s%20Essays%20%28499%29/Montaigne%27s%20Essays%20-%20Montaigne%2C%20John%20Florio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Montaigne%2C%20John%20Florio/Montaigne%27s%20Essays%20%28499%29/Montaigne%27s%20Essays%20-%20Montaigne%2C%20John%20Florio.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Montaigne%2C%20John%20Florio/Montaigne%27s%20Essays%20%28499%29/Montaigne%27s%20Essays%20-%20Montaigne%2C%20John%20Florio.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Montaigne, John Florio</name>
+      <uri>../author_0/author_271_Page_1.xml</uri>
+    </author>
+    <published>1965-08-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Everyman's Library</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_499.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Rational Optimist [August 28, 2018]</title>
+    <id>calibre:book:498</id>
+    <updated>2020-03-28T07:45:00Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Matt%20Ridley/The%20Rational%20Optimist%20%28498%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Matt%20Ridley/The%20Rational%20Optimist%20%28498%29/The%20Rational%20Optimist%20-%20Matt%20Ridley.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Matt%20Ridley/The%20Rational%20Optimist%20%28498%29/The%20Rational%20Optimist%20-%20Matt%20Ridley.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Matt%20Ridley/The%20Rational%20Optimist%20%28498%29/The%20Rational%20Optimist%20-%20Matt%20Ridley.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Matt Ridley</name>
+      <uri>../author_0/author_249_Page_1.xml</uri>
+    </author>
+    <published>2010-06-15T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins e-books</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_498.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Red Queen: Sex and the Evolution of Human Nature [August 28, 2018]</title>
+    <id>calibre:book:497</id>
+    <updated>2020-03-28T07:45:30Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Matt%20Ridley/The%20Red%20Queen_%20Sex%20and%20the%20Evolution%20of%20Human%20Nature%20%28497%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Matt%20Ridley/The%20Red%20Queen_%20Sex%20and%20the%20Evolution%20of%20Human%20Nature%20%28497%29/The%20Red%20Queen_%20Sex%20and%20the%20Evolution%20of%20Hu%20-%20Matt%20Ridley.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Matt%20Ridley/The%20Red%20Queen_%20Sex%20and%20the%20Evolution%20of%20Human%20Nature%20%28497%29/The%20Red%20Queen_%20Sex%20and%20the%20Evolution%20of%20Hu%20-%20Matt%20Ridley.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Matt%20Ridley/The%20Red%20Queen_%20Sex%20and%20the%20Evolution%20of%20Human%20Nature%20%28497%29/The%20Red%20Queen_%20Sex%20and%20the%20Evolution%20of%20Hu%20-%20Matt%20Ridley.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Matt Ridley</name>
+      <uri>../author_0/author_249_Page_1.xml</uri>
+    </author>
+    <published>1994-10-05T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin UK</dcterms:publisher>
+    <category term="Psychology" />
+    <category term="Human Sexuality" />
+    <category term="Science" />
+    <category term="Life Sciences" />
+    <category term="Evolution" />
+    <category term="Social Science" />
+    <category term="Sociology" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>Sex is as fascinating to scientists as it is to the rest of us. A vast pool of knowledge, therefore, has been gleaned from research into the nature of sex, from the contentious problem of why the wasteful reproductive process exists at all, to how i...</summary>
+    <link href="../book_0/book_497.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships (Nonviolent Communication Guides) [August 28, 2018]</title>
+    <id>calibre:book:494</id>
+    <updated>2020-03-28T07:46:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Marshall%20B.%20Rosenberg/Nonviolent%20Communication_%20A%20Language%20of%20Life_%20Life-Changing%20Tools%20for%20Healthy%20Relationships%20%28No%20%28494%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Marshall%20B.%20Rosenberg/Nonviolent%20Communication_%20A%20Language%20of%20Life_%20Life-Changing%20Tools%20for%20Healthy%20Relationships%20%28No%20%28494%29/Nonviolent%20Communication_%20A%20Language%20of%20Li%20-%20Marshall%20B.%20Rosenberg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Marshall%20B.%20Rosenberg/Nonviolent%20Communication_%20A%20Language%20of%20Life_%20Life-Changing%20Tools%20for%20Healthy%20Relationships%20%28No%20%28494%29/Nonviolent%20Communication_%20A%20Language%20of%20Li%20-%20Marshall%20B.%20Rosenberg.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Marshall%20B.%20Rosenberg/Nonviolent%20Communication_%20A%20Language%20of%20Life_%20Life-Changing%20Tools%20for%20Healthy%20Relationships%20%28No%20%28494%29/Nonviolent%20Communication_%20A%20Language%20of%20Li%20-%20Marshall%20B.%20Rosenberg.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Marshall B. Rosenberg</name>
+      <uri>../author_0/author_204_Page_1.xml</uri>
+    </author>
+    <published>2015-08-31T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Puddledancer Press</dcterms:publisher>
+    <category term="1. Interpersonal communication. 2. Interpersonal relations. 3. Nonviolence." />
+    <category term="Lang:en" />
+    <summary>The latest edition of the communication guide that has sold more than 1,000,000 copiesAn enlightening look at how peaceful communication can create compassionate connections with family, friends, and other acquaintances, this international bestseller...</summary>
+    <link href="../book_0/book_494.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Homo Deus: A Brief History of Tomorrow [August 28, 2018]</title>
+    <id>calibre:book:493</id>
+    <updated>2020-03-28T07:23:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Yuval%20Noah%20Harari/Homo%20Deus_%20A%20Brief%20History%20of%20Tomorrow%20%28493%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Yuval%20Noah%20Harari/Homo%20Deus_%20A%20Brief%20History%20of%20Tomorrow%20%28493%29/Homo%20Deus_%20A%20Brief%20History%20of%20Tomorrow%20-%20Yuval%20Noah%20Harari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Yuval%20Noah%20Harari/Homo%20Deus_%20A%20Brief%20History%20of%20Tomorrow%20%28493%29/Homo%20Deus_%20A%20Brief%20History%20of%20Tomorrow%20-%20Yuval%20Noah%20Harari.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Yuval%20Noah%20Harari/Homo%20Deus_%20A%20Brief%20History%20of%20Tomorrow%20%28493%29/Homo%20Deus_%20A%20Brief%20History%20of%20Tomorrow%20-%20Yuval%20Noah%20Harari.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Yuval Noah Harari</name>
+      <uri>../author_0/author_203_Page_1.xml</uri>
+    </author>
+    <published>2016-09-13T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Signal</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_493.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Courtesans and Fishcakes [August 28, 2018]</title>
+    <id>calibre:book:489</id>
+    <updated>2019-12-07T00:47:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/James%20Davidson/Courtesans%20and%20Fishcakes%20%28489%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/James%20Davidson/Courtesans%20and%20Fishcakes%20%28489%29/Courtesans%20and%20Fishcakes%20-%20James%20Davidson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/James%20Davidson/Courtesans%20and%20Fishcakes%20%28489%29/Courtesans%20and%20Fishcakes%20-%20James%20Davidson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>James Davidson</name>
+      <uri>../author_0/author_230_Page_1.xml</uri>
+    </author>
+    <published>1997-05-24T09:27:34Z</published>
+    <dcterms:publisher>Fontana Press</dcterms:publisher>
+    <category term="Consuming Passions of Classical Athens" />
+    <summary>The Consuming Passions of Classical Athens [1]:</summary>
+    <link href="../book_0/book_489.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Contra Keynes and Cambridge: Essays, Correspondence [August 28, 2018]</title>
+    <id>calibre:book:488</id>
+    <updated>2019-12-07T00:47:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/F.%20A.%20Hayek/Contra%20Keynes%20and%20Cambridge_%20Essays%2C%20Correspondence%20%28488%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/F.%20A.%20Hayek/Contra%20Keynes%20and%20Cambridge_%20Essays%2C%20Correspondence%20%28488%29/Contra%20Keynes%20and%20Cambridge_%20Essays%2C%20Corre%20-%20F.%20A.%20Hayek.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/F.%20A.%20Hayek/Contra%20Keynes%20and%20Cambridge_%20Essays%2C%20Correspondence%20%28488%29/Contra%20Keynes%20and%20Cambridge_%20Essays%2C%20Corre%20-%20F.%20A.%20Hayek.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>F. A. Hayek</name>
+      <uri>../author_0/author_787_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Bruce Caldwell</name>
+      <uri>../author_0/author_788_Page_1.xml</uri>
+    </author>
+    <published>2012-09-20T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>University of Chicago Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Collected Works of F.A. Hayek" />
+    <summary>The Collected Works of F.A. Hayek [9]: 
+In 1931, when the young F. A. Hayek challenged the economic theories of John Maynard Keynes, sixteen years his senior, and one of the world's leading economists, he sparked a spirited debate that would influenc...</summary>
+    <link href="../book_0/book_488.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A History of Private Life: Passions of the Renaissance [August 28, 2018]</title>
+    <id>calibre:book:487</id>
+    <updated>2020-03-28T07:41:50Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Goldhammer/A%20History%20of%20Private%20Life_%20Passions%20of%20the%20Renaissance%20%28487%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Goldhammer/A%20History%20of%20Private%20Life_%20Passions%20of%20the%20Renaissance%20%28487%29/A%20History%20of%20Private%20Life_%20Passions%20of%20the%20-%20Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Gold.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Goldhammer/A%20History%20of%20Private%20Life_%20Passions%20of%20the%20Renaissance%20%28487%29/A%20History%20of%20Private%20Life_%20Passions%20of%20the%20-%20Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Gold.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Goldhammer/A%20History%20of%20Private%20Life_%20Passions%20of%20the%20Renaissance%20%28487%29/A%20History%20of%20Private%20Life_%20Passions%20of%20the%20-%20Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Gold.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Phillippe Aries, Georges Duby, Arthur Goldhammer</name>
+      <uri>../author_0/author_219_Page_1.xml</uri>
+    </author>
+    <published>1989-08-27T06:30:00Z</published>
+    <dcterms:publisher>Belknap Press of Harvard University Press</dcterms:publisher>
+    <category term="History of Private Life" />
+    <summary>A History of Private Life [3]:</summary>
+    <link href="../book_0/book_487.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Thinking in Systems: A Primer [August 28, 2018]</title>
+    <id>calibre:book:483</id>
+    <updated>2019-12-07T00:47:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Donella%20H.%20Meadows/Thinking%20in%20Systems_%20A%20Primer%20%28483%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Donella%20H.%20Meadows/Thinking%20in%20Systems_%20A%20Primer%20%28483%29/Thinking%20in%20Systems_%20A%20Primer%20-%20Donella%20H.%20Meadows.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Donella%20H.%20Meadows/Thinking%20in%20Systems_%20A%20Primer%20%28483%29/Thinking%20in%20Systems_%20A%20Primer%20-%20Donella%20H.%20Meadows.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Donella%20H.%20Meadows/Thinking%20in%20Systems_%20A%20Primer%20%28483%29/Thinking%20in%20Systems_%20A%20Primer%20-%20Donella%20H.%20Meadows.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Donella H. Meadows</name>
+      <uri>../author_0/author_777_Page_1.xml</uri>
+    </author>
+    <published>2008-12-02T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Chelsea Green Publishing</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>In the years following her role as the lead author of the international bestseller, Limits to Growth ―the first book to show the consequences of unchecked growth on a finite planet― Donella Meadows remained a pioneer of environmental and social anal...</summary>
+    <link href="../book_0/book_483.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Measure of All Minds Evaluating Natural and Artificial Intelligence [August 28, 2018]</title>
+    <id>calibre:book:481</id>
+    <updated>2019-12-07T00:47:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Jose%20Hernandez-Orallo/The%20Measure%20of%20All%20Minds%20Evaluating%20Natural%20and%20Artificial%20Intelligence%20%28481%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Jose%20Hernandez-Orallo/The%20Measure%20of%20All%20Minds%20Evaluating%20Natural%20and%20Artificial%20Intelligence%20%28481%29/The%20Measure%20of%20All%20Minds%20Evaluating%20Natura%20-%20Jose%20Hernandez-Orallo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Jose%20Hernandez-Orallo/The%20Measure%20of%20All%20Minds%20Evaluating%20Natural%20and%20Artificial%20Intelligence%20%28481%29/The%20Measure%20of%20All%20Minds%20Evaluating%20Natura%20-%20Jose%20Hernandez-Orallo.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Jose%20Hernandez-Orallo/The%20Measure%20of%20All%20Minds%20Evaluating%20Natural%20and%20Artificial%20Intelligence%20%28481%29/The%20Measure%20of%20All%20Minds%20Evaluating%20Natura%20-%20Jose%20Hernandez-Orallo.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>José Hernández-Orallo</name>
+      <uri>../author_0/author_207_Page_1.xml</uri>
+    </author>
+    <published>2017-08-04T00:07:40Z</published>
+    <category term="Artifical Intelligence" />
+    <link href="../book_0/book_481.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Feeling Good : The New Mood Therapy [August 28, 2018]</title>
+    <id>calibre:book:478</id>
+    <updated>2020-03-28T07:04:14Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/David%20D.%20Burns/Feeling%20Good%20_%20The%20New%20Mood%20Therapy%20%28478%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/David%20D.%20Burns/Feeling%20Good%20_%20The%20New%20Mood%20Therapy%20%28478%29/Feeling%20Good%20_%20The%20New%20Mood%20Therapy%20-%20David%20D.%20Burns.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/David%20D.%20Burns/Feeling%20Good%20_%20The%20New%20Mood%20Therapy%20%28478%29/Feeling%20Good%20_%20The%20New%20Mood%20Therapy%20-%20David%20D.%20Burns.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/David%20D.%20Burns/Feeling%20Good%20_%20The%20New%20Mood%20Therapy%20%28478%29/Feeling%20Good%20_%20The%20New%20Mood%20Therapy%20-%20David%20D.%20Burns.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>David D. Burns</name>
+      <uri>../author_0/author_226_Page_1.xml</uri>
+    </author>
+    <published>1999-12-30T06:30:00Z</published>
+    <dcterms:publisher>Harper Paperbacks</dcterms:publisher>
+    <link href="../book_0/book_478.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Confessions of J. J. Rousseau [August 28, 2018]</title>
+    <id>calibre:book:477</id>
+    <updated>2020-03-28T07:46:54Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Jean-Jacques%20Rousseau/The%20Confessions%20of%20J.%20J.%20Rousseau%20%28477%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Jean-Jacques%20Rousseau/The%20Confessions%20of%20J.%20J.%20Rousseau%20%28477%29/The%20Confessions%20of%20J.%20J.%20Rousseau%20-%20Jean-Jacques%20Rousseau.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Jean-Jacques%20Rousseau/The%20Confessions%20of%20J.%20J.%20Rousseau%20%28477%29/The%20Confessions%20of%20J.%20J.%20Rousseau%20-%20Jean-Jacques%20Rousseau.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Jean-Jacques%20Rousseau/The%20Confessions%20of%20J.%20J.%20Rousseau%20%28477%29/The%20Confessions%20of%20J.%20J.%20Rousseau%20-%20Jean-Jacques%20Rousseau.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Jean-Jacques Rousseau</name>
+      <uri>../author_0/author_202_Page_1.xml</uri>
+    </author>
+    <published>2004-08-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <category term="Unread" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_477.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Letters From the Earth: Uncensored Writings [August 28, 2018]</title>
+    <id>calibre:book:476</id>
+    <updated>2019-12-07T00:47:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Mark%20Twain/Letters%20From%20the%20Earth_%20Uncensored%20Writings%20%28476%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Mark%20Twain/Letters%20From%20the%20Earth_%20Uncensored%20Writings%20%28476%29/Letters%20From%20the%20Earth_%20Uncensored%20Writing%20-%20Mark%20Twain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Mark%20Twain/Letters%20From%20the%20Earth_%20Uncensored%20Writings%20%28476%29/Letters%20From%20the%20Earth_%20Uncensored%20Writing%20-%20Mark%20Twain.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Mark%20Twain/Letters%20From%20the%20Earth_%20Uncensored%20Writings%20%28476%29/Letters%20From%20the%20Earth_%20Uncensored%20Writing%20-%20Mark%20Twain.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Mark Twain</name>
+      <uri>../author_0/author_201_Page_1.xml</uri>
+    </author>
+    <published>2004-02-16T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Harper Perennial Modern Classics</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>“The most impressive contribution to books by Mark Twain since The Mysterious Stranger of 1916...The attitude is that of Swift, the intellectual contempt is that of Voltaire, and the imagination is that of one of the great masters of American writin...</summary>
+    <link href="../book_0/book_476.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Mark Twain on Religion: What Is Man, the War Prayer, Thou Shalt Not Kill, the Fly, Letters From the Earth [August 28, 2018]</title>
+    <id>calibre:book:475</id>
+    <updated>2020-03-28T08:03:00Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Mark%20Twain/Mark%20Twain%20on%20Religion_%20What%20Is%20Man%2C%20the%20War%20Prayer%2C%20Thou%20Shalt%20Not%20Kill%2C%20the%20Fly%2C%20Letters%20From%20%28475%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Mark%20Twain/Mark%20Twain%20on%20Religion_%20What%20Is%20Man%2C%20the%20War%20Prayer%2C%20Thou%20Shalt%20Not%20Kill%2C%20the%20Fly%2C%20Letters%20From%20%28475%29/Mark%20Twain%20on%20Religion_%20What%20Is%20Man%2C%20the%20W%20-%20Mark%20Twain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Mark%20Twain/Mark%20Twain%20on%20Religion_%20What%20Is%20Man%2C%20the%20War%20Prayer%2C%20Thou%20Shalt%20Not%20Kill%2C%20the%20Fly%2C%20Letters%20From%20%28475%29/Mark%20Twain%20on%20Religion_%20What%20Is%20Man%2C%20the%20W%20-%20Mark%20Twain.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Mark%20Twain/Mark%20Twain%20on%20Religion_%20What%20Is%20Man%2C%20the%20War%20Prayer%2C%20Thou%20Shalt%20Not%20Kill%2C%20the%20Fly%2C%20Letters%20From%20%28475%29/Mark%20Twain%20on%20Religion_%20What%20Is%20Man%2C%20the%20W%20-%20Mark%20Twain.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Mark Twain</name>
+      <uri>../author_0/author_201_Page_1.xml</uri>
+    </author>
+    <published>2007-01-01T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Forgotten Books</dcterms:publisher>
+    <category term="Essays" />
+    <category term="Lang:en" />
+    <summary>Book Description:   Mark Twain talks about his personal views on religion, the Bible and God, in these five writings.  Table of Contents:   Publisher’s Preface; What Is Man? And Other Essays Of Mark Twain; What Is Man?; The Death Of Jean; The Turning...</summary>
+    <link href="../book_0/book_475.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Fountainhead [August 27, 2018]</title>
+    <id>calibre:book:474</id>
+    <updated>2020-03-28T07:01:06Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Ayn%20Rand%2C%20Peikoff%20Rand/The%20Fountainhead%20%28474%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Ayn%20Rand%2C%20Peikoff%20Rand/The%20Fountainhead%20%28474%29/The%20Fountainhead%20-%20Ayn%20Rand%2C%20Peikoff%20Rand.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Ayn%20Rand%2C%20Peikoff%20Rand/The%20Fountainhead%20%28474%29/The%20Fountainhead%20-%20Ayn%20Rand%2C%20Peikoff%20Rand.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Ayn%20Rand%2C%20Peikoff%20Rand/The%20Fountainhead%20%28474%29/The%20Fountainhead%20-%20Ayn%20Rand%2C%20Peikoff%20Rand.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Ayn Rand, Peikoff Rand</name>
+      <uri>../author_0/author_483_Page_1.xml</uri>
+    </author>
+    <published>1971-07-31T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Plume</dcterms:publisher>
+    <category term="Psychological" />
+    <category term="Man-Woman Relationships" />
+    <category term="Psychological Fiction" />
+    <category term="Architects" />
+    <category term="Fiction" />
+    <category term="Romance" />
+    <category term="Literary" />
+    <category term="General" />
+    <category term="Individual Architect" />
+    <category term="Architecture" />
+    <category term="Classics" />
+    <category term="Didactic Fiction" />
+    <category term="Individualism" />
+    <category term="Lang:en" />
+    <summary>A special edition hardcover in celebration of Ayn Rand's centennial.When it was first published in 1943, The Fountainhead--containing Ayn Rand's daringly original literary vision with the seeds of her groundbreaking philosophy, Objectivismwon immedi...</summary>
+    <link href="../book_0/book_474.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Moneyball [August 27, 2018]</title>
+    <id>calibre:book:473</id>
+    <updated>2020-03-28T07:29:40Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Michael%20Lewis/Moneyball%20%28473%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Michael%20Lewis/Moneyball%20%28473%29/Moneyball%20-%20Michael%20Lewis.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Michael%20Lewis/Moneyball%20%28473%29/Moneyball%20-%20Michael%20Lewis.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Michael%20Lewis/Moneyball%20%28473%29/Moneyball%20-%20Michael%20Lewis.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Michael Lewis</name>
+      <uri>../author_0/author_312_Page_1.xml</uri>
+    </author>
+    <published>2004-03-17T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>W. W. Norton &amp; Company</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_473.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../recent/recent_MORE_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 6)" />
+  <link href="../recent/recent_MORE_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (6 of 6)" />
+</feed>

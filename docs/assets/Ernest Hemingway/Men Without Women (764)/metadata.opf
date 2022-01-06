@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">764</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d1fe2b2-588e-4510-8f91-40f3df53a60d</dc:identifier>
+        <dc:title>Men Without Women</dc:title>
+        <dc:creator opf:file-as="Hemingway, Ernest" opf:role="aut">Ernest Hemingway</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-02-20T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;CLASSIC SHORT STORIES FROM THE MASTER OF AMERICAN FICTION&lt;/strong&gt; &lt;br&gt;First published in 1927, &lt;em&gt;Men Without Women&lt;/em&gt; represents some of Hemingway's most important and compelling early writing. In these fourteen stories, Hemingway begins to examine the themes that would occupy his later works: the casualties of war, the often uneasy relationship between men and women, sport and sportsmanship. In "Banal Story," Hemingway offers a lasting tribute to the famed matador Maera. "In Another Country" tells of an Italian major recovering from war wounds as he mourns the untimely death of his wife. "The Killers" is the hard-edged story about two Chicago gunmen and their potential victim. Nick Adams makes an appearance in "Ten Indians," in which he is presumably betrayed by his Indian girlfriend, Prudence. And "Hills Like White Elephants" is a young couple's subtle, heartwrenching discussion of abortion. Pared down, gritty, and subtly expressive, these stories show the young Hemingway emerging as America's finest short story writer. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Scribner</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781476770178</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">7544755215</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">ht9SAgAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ernest Hemingway&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-04-04T08:09:38+00:00"/>
+        <meta name="calibre:title_sort" content="Men Without Women"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

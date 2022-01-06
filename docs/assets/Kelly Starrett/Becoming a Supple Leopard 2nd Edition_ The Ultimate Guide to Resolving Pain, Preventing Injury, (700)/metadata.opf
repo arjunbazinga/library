@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">700</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">26b76afb-45d5-4155-bdda-f7c19a7f4ceb</dc:identifier>
+        <dc:title>Becoming a Supple Leopard 2nd Edition: The Ultimate Guide to Resolving Pain, Preventing Injury, and Optimizing Athletic Performance</dc:title>
+        <dc:creator opf:file-as="Starrett, Kelly &amp; Cordoza, Glen" opf:role="aut">Kelly Starrett</dc:creator>
+        <dc:creator opf:file-as="Starrett, Kelly &amp; Cordoza, Glen" opf:role="aut">Glen Cordoza</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-18T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Updated and expanded with more than 80 pages of new content!&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;Improve your athletic performance, extend your athletic career, treat stiffness and achy joints, and prevent and rehabilitate injuries—all without having to seek out a coach, doctor, chiropractor, physical therapist, or masseur. In &lt;em&gt;Becoming a Supple Leopard,&lt;/em&gt; Dr. Kelly Starrett—founder of MobilityWOD.com—shares his revolutionary approach to mobility and maintenance of the human body and teaches you how to hack your own movement, allowing you to live a healthier, more fulfilling life. This new edition of the &lt;em&gt;New York Times&lt;/em&gt; and &lt;em&gt;Wall Street Journal&lt;/em&gt; bestseller has been thoroughly revised to make it even easier to put to use. &lt;/p&gt;
+&lt;p&gt;Want to truly understand the principles that guide human movement? &lt;em&gt;Becoming a Supple Leopard&lt;/em&gt; lays out a blueprint for moving safely and effectively through life and sport. Want to learn how to apply those principles to specific movements, whether you are doing squats in the gym or picking up a bag of groceries? Hundreds of step-by-step photos show you not only how to perform a host of exercise movements, such the squat, deadlift, pushup, kettlebell swing, clean, snatch, and muscle-up, but also how to correct the common faults associated with those movements. Frustrated because you can’t perform a certain movement correctly due to range of motion restrictions? Breaking the body down into 14 distinct areas, Starrett demonstrates hundreds of mobilization techniques that will help you resolve restrictions and reclaim your mobility. Unsure how to put it all together into a program that addresses your individual needs? This updated edition lays out dozens of prescriptions that allow you to hone in on a specific limitation, a nagging injury, or an exercise fault that you just can’t seem to get right. It even offers a 14-day full-body mobility overhaul. &lt;/p&gt;
+&lt;p&gt;Performance is what drives us as human beings, but dysfunctional movement patterns can bring the human body to an abrupt halt. Often, the factors that impede performance are invisible even to seasoned athletes and coaches. &lt;em&gt;Becoming a Supple Leopard&lt;/em&gt; makes the invisible visible. Whether you are a professional athlete, a weekend warrior, or simply someone wanting to live healthy and free from physical restrictions, this one-of-a-kind training manual will teach you how to harness your athletic potential and maintain your body. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Learn how to perform basic maintenance on your body, unlock your athletic potential, live pain-free…and become a Supple Leopard.&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;This step-by-step guide to movement and mobility will show you how to: &lt;/p&gt;
+&lt;p&gt;Move safely and efficiently in all situations &lt;/p&gt;
+&lt;p&gt;Organize your spine and joints in optimal, stable positions &lt;/p&gt;
+&lt;p&gt;Restore normal function to your joints and tissues &lt;/p&gt;
+&lt;p&gt;Accelerate recovery after training sessions and competition &lt;/p&gt;
+&lt;p&gt;Properly perform strength and conditioning movements like the squat, bench press, pushup, deadlift, clean, and snatch &lt;/p&gt;
+&lt;p&gt;Build efficient, transferable movement patterns and skill progressions from simple to more advanced exercises &lt;/p&gt;
+&lt;p&gt;Identify, diagnose, and correct inefficient movement patterns &lt;/p&gt;
+&lt;p&gt;Treat and resolve common symptoms like low back pain, carpal tunnel, shoulder pain, and tennis elbow &lt;/p&gt;
+&lt;p&gt;Prevent and rehabilitate common athletic injuries &lt;/p&gt;
+&lt;p&gt;Use mobilization techniques to address short and stiff muscles, soft tissue and joint capsule restriction, motor control problems, and joint range of motion limitations &lt;/p&gt;
+&lt;p&gt;Create personalized mobility prescriptions to improve movement efficiency **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Victory Belt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781628600889</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1628600837</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">SlRKDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sports &amp; Recreation</dc:subject>
+        <dc:subject>Training</dc:subject>
+        <dc:subject>Health &amp; Fitness</dc:subject>
+        <dc:subject>Exercise</dc:subject>
+        <dc:subject>Massage &amp; Reflexotherapy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kelly Starrett&quot;: &quot;&quot;, &quot;Glen Cordoza&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:38+00:00"/>
+        <meta name="calibre:title_sort" content="Becoming a Supple Leopard 2nd Edition: The Ultimate Guide to Resolving Pain, Preventing Injury, and Optimizing Athletic Performance"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

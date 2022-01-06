@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">963</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">02853f57-b8c1-4340-a636-c4ef9054bf8f</dc:identifier>
+        <dc:title>Theory of Financial Risk and Derivative Pricing: From Statistical Physics to Risk Management</dc:title>
+        <dc:creator opf:file-as="Bouchaud, Jean-Philippe &amp; Potters, Marc" opf:role="aut">Jean-Philippe Bouchaud</dc:creator>
+        <dc:creator opf:file-as="Bouchaud, Jean-Philippe &amp; Potters, Marc" opf:role="aut">Marc Potters</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-12-10T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Risk control and derivative pricing have become of major concern to financial institutions, and there is a real need for adequate statistical tools to measure and anticipate the amplitude of the potential moves of the financial markets. Summarising theoretical developments in the field, this 2003 second edition has been substantially expanded. Additional chapters now cover stochastic processes, Monte-Carlo methods, Black-Scholes theory, the theory of the yield curve, and Minority Game. There are discussions on aspects of data analysis, financial products, non-linear correlations, and herding, feedback and agent based models. This book has become a classic reference for graduate students and researchers working in econophysics and mathematical finance, and for quantitative analysts working on risk management, derivative pricing and quantitative trading strategies.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Cambridge University Press</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0521819164</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780521819169</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">neT6jVyMtlIC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Finance</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Statistics</dc:subject>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Probability &amp; Statistics</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Physics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jean-Philippe Bouchaud&quot;: &quot;&quot;, &quot;Marc Potters&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2020-08-26T15:57:20+00:00"/>
+        <meta name="calibre:title_sort" content="Theory of Financial Risk and Derivative Pricing: From Statistical Physics to Risk Management"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

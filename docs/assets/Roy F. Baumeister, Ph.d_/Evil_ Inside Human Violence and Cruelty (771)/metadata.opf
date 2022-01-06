@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">771</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b9f257cf-70d3-4dca-a62d-aed130aec84c</dc:identifier>
+        <dc:title>Evil: Inside Human Violence and Cruelty</dc:title>
+        <dc:creator opf:file-as="Roy F. Baumeister, Ph.d." opf:role="aut">Roy F. Baumeister, Ph.d.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-04-13T19:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Why is there evil, and what can scientific research tell us about the origins and persistence of evil behavior? Considering evil from the unusual perspective of the perpetrator, Baumeister asks, How do ordinary people find themselves beating their wives? Murdering rival gang members? Torturing political prisoners? Betraying their colleagues to the secret police? Why do cycles of revenge so often escalate? Baumeister casts new light on these issues as he examines the gap between the victim's viewpoint and that of the perpetrator, and also the roots of evil behavior, from egotism and revenge to idealism and sadism. A fascinating study of one of humankind's oldest problems, Evil has profound implications for the way we conduct our lives and govern our society.&lt;/p&gt;</dc:description>
+        <dc:publisher>Henry Holt and Company</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00UFR5ITQ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781627795630</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">XhMRBwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Anthropology</dc:subject>
+        <dc:subject>Cultural &amp; Social</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Roy F. Baumeister, Ph.d.&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-04-10T07:19:49+00:00"/>
+        <meta name="calibre:title_sort" content="Evil: Inside Human Violence and Cruelty"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

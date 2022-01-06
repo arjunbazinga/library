@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">657</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">338bca94-be9d-49a6-b230-d91f26b7c645</dc:identifier>
+        <dc:title>Deep Simplicity: Chaos, Complexity and the Emergence of Life</dc:title>
+        <dc:creator opf:file-as="Gribbin, John R." opf:role="aut">John R. Gribbin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-01-26T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;'Gribbin takes us through the basics with his customary talent for accessibility and clarity' - "Sunday Times". The world around us can be a complex, confusing place. Earthquakes happen without warning, stock markets fluctuate, weather forecasters seldom seem to get it right - even other people continue to baffle us. How do we make sense of it all? In fact, John Gribbin reveals, our seemingly random universe is actually built on simple laws of cause and effect that can explain why, for example, just one vehicle braking can cause a traffic jam; why wild storms result from a slight atmospheric change; even how we evolved from the most basic materials. Like a zen painting, a fractal image or the pattern on a butterfly's wings, simple elements form the bedrock of a sophisticated whole. Synthesizing chaos and complexity theory for the perplexed, "Deep Simplicity" brilliantly illuminates the harmony underlying our existence. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780739460085</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0141007222</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;John R. Gribbin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2020-03-28T06:02:34+00:00" name="calibre:timestamp"/>
+        <meta content="Deep Simplicity: Chaos, Complexity and the Emergence of Life" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">688</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bae28db2-000d-4665-b1a9-16099ae6cd21</dc:identifier>
+        <dc:title>Can't Hurt Me: Master Your Mind and Defy the Odds</dc:title>
+        <dc:creator opf:file-as="Goggins, David" opf:role="aut">David Goggins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-12-04T08:00:00+00:00</dc:date>
+        <dc:publisher>Lioncrest Publishing</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07H453KGH</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;David Goggins&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-03-28T06:02:38.015433+00:00" name="calibre:timestamp"/>
+        <meta content="Can't Hurt Me: Master Your Mind and Defy the Odds" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1128</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8bab2dfe-9f91-4623-a7df-4f85b653a569</dc:identifier>
+        <dc:title>The Dilbert Future: Thriving on Business Stupidity in the 21st Century</dc:title>
+        <dc:creator opf:file-as="Adams, Scott" opf:role="aut">Scott Adams</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-10-07T11:19:21+00:00</dc:date>
+        <dc:description>Step aside, Bill Gates! Here comes today′s real technology guru and his totally original, laugh-out-loud New York Times bestseller that looks at the approaching new millennium and boldly predicts: more stupidity ahead.  In The Dilbert Principle and Dogbert′s Top Secret Management Handbook, Scott Adams skewered the absurdities of the corporate world. Now he takes the next logical step, turning his keen analytical focus on how human greed, stupidity and horniness will shape the future. Featuring the same irresistible amalgam of essays and cartoons that made Adams previous works so singularly entertaining, this uproariously funny, dead-on-target tome offers half-truthful, half-farcical predictions that push all of today′s hot buttons - from business and technology to society and government.  Children - they are our future, so we′re pretty much hosed. Tip: Grab what you can while they′re still too little to stop us.  Human Potential - we′ll finally learn to use the 90 percent of the brain we don′t use today, and find out that there wasn′t anything in that part.  Computers - Technology and homeliness will combine to form a powerful type of birth control.  In The Dilbert Principle and Dogbert′s Top Secret Management Handbook, Scott Adams skewered the absurdities of the corporate world. Now he takes the next logical step, turning his keen analytical focus on how human greed, stupidity and horniness will shape the future. Featuring the same irresistible amalgam of essays and cartoons that made Adams previous works so singularly entertaining, this uproariously</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0887309100</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">KUF__RU5-UkC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780887309106</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Humor</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Scott Adams&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2020-12-11T07:48:26+00:00"/>
+        <meta name="calibre:title_sort" content="Dilbert Future: Thriving on Business Stupidity in the 21st Century, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

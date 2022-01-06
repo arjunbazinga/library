@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1696</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c0eb5bfd-9fe4-4c54-87ba-289d4c3a6f9b</dc:identifier>
+        <dc:title>The Start-Up of You: Adapt to the Future, Invest in Yourself, and Transform Your Career</dc:title>
+        <dc:creator opf:file-as="Reid Hoffman , Ben Casnocha" opf:role="aut">Reid Hoffman , Ben Casnocha</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-14T19:28:44+00:00</dc:date>
+        <dc:description>A blueprint for thriving in your job and building a career by applying the lessons of Silicon Valley’s most innovative entrepreneurs. LinkedIn cofounder and chairman Reid Hoffman and author Ben Casnocha show how to accelerate your career in today’s competitive world. The key is to manage your career as if it were a start-up business: a living, breathing, growing start-up of you. Why? Start-ups—and the entrepreneurs who run them—are nimble. They invest in themselves. They build their professional networks. They take intelligent risks. They make uncertainty and volatility work to their advantage.  These are the very same skills professionals need to get ahead today.  This book isn’t about cover letters or resumes. Instead, you will learn the best practices of Silicon Valley start-ups, and how to apply these entrepreneurial strategies to your career. Whether you work for a giant multinational corporation, a small local business, or launching your own venture, you need to know how to: * Adapt your career plans as you change, the people around you change, and industries change.* Develop a competitive advantage to win the best jobs and opportunities.* Strengthen your professional network by building powerful alliances and maintaining a diverse mix of relationships. * Find the unique breakout opportunities that massively accelerate career growth.* Take proactive risks to become more resilient to industry tsunamis. * Tap your network for information and intelligence that help you make smarter decisions. A revolutionary new guide to thriving in today's fractured world of work, the strategies in this book will help you survive and thrive and achieve your boldest professional ambitions. The Start-Up of You empowers you to become the CEO of your career and take control of your future.</dc:description>
+        <dc:publisher>Crown Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307888921</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">uWdSEALLNYEC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Personal Success</dc:subject>
+        <dc:subject>Careers</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Entrepreneurship</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Reid Hoffman , Ben Casnocha&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-07-09T19:27:47+00:00"/>
+        <meta name="calibre:title_sort" content="Start-Up of You: Adapt to the Future, Invest in Yourself, and Transform Your Career, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

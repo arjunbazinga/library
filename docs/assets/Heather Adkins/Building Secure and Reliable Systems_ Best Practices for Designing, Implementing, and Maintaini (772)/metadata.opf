@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">772</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d74f6ba5-7142-477b-9046-19e80d5c2c3a</dc:identifier>
+        <dc:title>Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems</dc:title>
+        <dc:creator opf:file-as="Adkins, Heather &amp; Beyer, Betsy &amp; Blankinship, Paul &amp; Lewandowski, Piotr &amp; Oprea, Ana &amp; Stubblefield, Adam" opf:role="aut">Heather Adkins</dc:creator>
+        <dc:creator opf:file-as="Adkins, Heather &amp; Beyer, Betsy &amp; Blankinship, Paul &amp; Lewandowski, Piotr &amp; Oprea, Ana &amp; Stubblefield, Adam" opf:role="aut">Betsy Beyer</dc:creator>
+        <dc:creator opf:file-as="Adkins, Heather &amp; Beyer, Betsy &amp; Blankinship, Paul &amp; Lewandowski, Piotr &amp; Oprea, Ana &amp; Stubblefield, Adam" opf:role="aut">Paul Blankinship</dc:creator>
+        <dc:creator opf:file-as="Adkins, Heather &amp; Beyer, Betsy &amp; Blankinship, Paul &amp; Lewandowski, Piotr &amp; Oprea, Ana &amp; Stubblefield, Adam" opf:role="aut">Piotr Lewandowski</dc:creator>
+        <dc:creator opf:file-as="Adkins, Heather &amp; Beyer, Betsy &amp; Blankinship, Paul &amp; Lewandowski, Piotr &amp; Oprea, Ana &amp; Stubblefield, Adam" opf:role="aut">Ana Oprea</dc:creator>
+        <dc:creator opf:file-as="Adkins, Heather &amp; Beyer, Betsy &amp; Blankinship, Paul &amp; Lewandowski, Piotr &amp; Oprea, Ana &amp; Stubblefield, Adam" opf:role="aut">Adam Stubblefield</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-15T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Can a system be considered truly reliable if it isn't fundamentally secure? Or can it be considered secure if it's unreliable? Security is crucial to the design and operation of scalable systems in production, as it plays an important part in product quality, performance, and availability. In this book, experts from Google share best practices to help your organization design scalable and reliable systems that are fundamentally secure.Two previous O’Reilly books from Google—Site Reliability Engineering and The Site Reliability Workbook—demonstrated how and why a commitment to the entire service lifecycle enables organizations to successfully build, deploy, monitor, and maintain software systems. In this latest guide, the authors offer insights into system design, implementation, and maintenance from practitioners who specialize in security and reliability. They also discuss how building and adopting their recommended best practices requires a culture that’s supportive of such change.You’ll learn about secure and reliable systems through:Design strategiesRecommendations for coding, testing, and debugging practicesStrategies to prepare for, respond to, and recover from incidentsCultural best practices that help teams across your organization collaborate effectively&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>"O'Reilly Media, Inc."</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781492083092</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">93HnDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>System Administration</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Security</dc:subject>
+        <dc:subject>Online Safety &amp; Privacy</dc:subject>
+        <dc:subject>Cloud Computing</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Heather Adkins&quot;: &quot;&quot;, &quot;Betsy Beyer&quot;: &quot;&quot;, &quot;Paul Blankinship&quot;: &quot;&quot;, &quot;Piotr Lewandowski&quot;: &quot;&quot;, &quot;Ana Oprea&quot;: &quot;&quot;, &quot;Adam Stubblefield&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-04-10T07:19:49+00:00"/>
+        <meta name="calibre:title_sort" content="Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

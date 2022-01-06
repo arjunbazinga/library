@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">692</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4f7677b7-526d-41a2-9c03-62f864f29be7</dc:identifier>
+        <dc:title>Mulligan Stew</dc:title>
+        <dc:creator opf:file-as="Sorrentino, Gilbert" opf:role="aut">Gilbert Sorrentino</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1979-01-14T13:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Widely regarded as Sorrentino's finest achievement, ?"Mulligan Stew"?takes as its subject the comic possibilities of the modern literary imagination. As avant-garde novelist Antony Lamont struggles to write a "new wave murder mystery," his frustrating emotional and sexual life wreaks havoc on his work-in-progress. As a result, his narrative (the very book we are reading) turns into a literary "stew" an uproariously funny melange of journal entries, erotic poetry, parodies of all kinds, love letters, interviews, and lists--as Hugh Kenner in "Harper's" wrote, "for another such virtuoso of the List you'd have to resurrect Joyce." Soon, Lamont's characters (on loan from F. Scott Fitzgerald, Flann O'Brien, James Joyce, and Dashiell Hammet) take on lives of their own, completely sabotaging his narrative. Sorrentino has vastly extended the possibilities of what a novel can be in this extraordinary work, which both parodies and pays homage to the art of fiction.&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;"&lt;em&gt;Mulligan Stew&lt;/em&gt; is...a literary masterpiece." -- &lt;em&gt;Quarterly Conversation&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;In addition to his books of poetry and criticism, Gilbert Sorrentino is the author of fourteen novels, including Imaginative Qualities of Actual Things, The Sky Changes, and Mulligan Stew. He has received numerous grants and awards throughout his career, including the John Dos Passos Prize for Literature, two Guggenheim Fellowships, two NEA Fellowships and a Lannan Literary Award. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grove Press</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1564780872</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780394507170</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Gilbert Sorrentino&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:38+00:00"/>
+        <meta name="calibre:title_sort" content="Mulligan Stew"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

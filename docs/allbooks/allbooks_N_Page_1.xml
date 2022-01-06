@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with N</title>
+  <id>Calibre2opds:allbooks:N</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with N" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>Naked Statistics: Stripping the Dread from the Data</title>
+    <id>calibre:book:58</id>
+    <updated>2020-03-28T08:04:42Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Charles%20Wheelan/Naked%20Statistics_%20Stripping%20the%20Dread%20from%20the%20Data%20%2858%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Charles%20Wheelan/Naked%20Statistics_%20Stripping%20the%20Dread%20from%20the%20Data%20%2858%29/Naked%20Statistics_%20Stripping%20the%20Dread%20from%20-%20Charles%20Wheelan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Charles%20Wheelan/Naked%20Statistics_%20Stripping%20the%20Dread%20from%20the%20Data%20%2858%29/Naked%20Statistics_%20Stripping%20the%20Dread%20from%20-%20Charles%20Wheelan.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Charles%20Wheelan/Naked%20Statistics_%20Stripping%20the%20Dread%20from%20the%20Data%20%2858%29/Naked%20Statistics_%20Stripping%20the%20Dread%20from%20-%20Charles%20Wheelan.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Charles Wheelan</name>
+      <uri>../author_0/author_49_Page_1.xml</uri>
+    </author>
+    <published>2013-01-07T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Norton</dcterms:publisher>
+    <category term="Statistics" />
+    <category term="Decision-Making &amp; Problem Solving" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_58.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Namesake: A Novel ****</title>
+    <id>calibre:book:766</id>
+    <updated>2020-04-04T03:26:02Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Jhumpa%20Lahiri/The%20Namesake_%20A%20Novel%20%28766%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Jhumpa%20Lahiri/The%20Namesake_%20A%20Novel%20%28766%29/The%20Namesake_%20A%20Novel%20-%20Jhumpa%20Lahiri.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Jhumpa%20Lahiri/The%20Namesake_%20A%20Novel%20%28766%29/The%20Namesake_%20A%20Novel%20-%20Jhumpa%20Lahiri.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Jhumpa Lahiri</name>
+      <uri>../author_0/author_557_Page_1.xml</uri>
+    </author>
+    <published>2004-09-01T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Mariner Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Jhumpa Lahiri's Interpreter of Maladies established this young writer as one the most brilliant of her generation. Her stories are one of the very few debut works -- and only a handful of collections -- to have won the Pulitzer Prize for fiction. Am...</summary>
+    <link href="../book_0/book_766.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Natural</title>
+    <id>calibre:book:884</id>
+    <updated>2020-07-28T10:51:52Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20Levinovitz/Natural%20%28884%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20Levinovitz/Natural%20%28884%29/Natural%20-%20Alan%20Levinovitz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20Levinovitz/Natural%20%28884%29/Natural%20-%20Alan%20Levinovitz.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Alan Levinovitz</name>
+      <uri>../author_0/author_679_Page_1.xml</uri>
+    </author>
+    <published>2020-07-15T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Beacon Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Illuminates the far-reaching consequences the myth of "natural" has over our lives, from misinformation about health choices to mistaken justifications of sexism, racism, and flawed economic policies.Modern nature worship shares key elements with mos...</summary>
+    <link href="../book_0/book_884.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Nature of Technology</title>
+    <id>calibre:book:662</id>
+    <updated>2020-03-28T06:59:48Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/W.%20Brian%20Arthur/The%20Nature%20of%20Technology%20%28662%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/W.%20Brian%20Arthur/The%20Nature%20of%20Technology%20%28662%29/The%20Nature%20of%20Technology%20-%20W.%20Brian%20Arthur.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/W.%20Brian%20Arthur/The%20Nature%20of%20Technology%20%28662%29/The%20Nature%20of%20Technology%20-%20W.%20Brian%20Arthur.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>W. Brian Arthur</name>
+      <uri>../author_0/author_410_Page_1.xml</uri>
+    </author>
+    <published>2009-08-05T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Adult</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>The Nature of Technology will change the way you think about this fundamental subject forever. W. Brian Arthur's many years of thinking and writing about technology have culminated in a unique understanding of his subject. Here he examines the nature...</summary>
+    <link href="../book_0/book_662.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Nazi Literature in the Americas</title>
+    <id>calibre:book:356</id>
+    <updated>2020-03-28T07:02:58Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Bolano%2C%20Roberto/Nazi%20Literature%20in%20the%20Americas%20%28356%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Bolano%2C%20Roberto/Nazi%20Literature%20in%20the%20Americas%20%28356%29/Nazi%20Literature%20in%20the%20Americas%20-%20Bolano%2C%20Roberto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Bolano%2C%20Roberto/Nazi%20Literature%20in%20the%20Americas%20%28356%29/Nazi%20Literature%20in%20the%20Americas%20-%20Bolano%2C%20Roberto.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Bolano%2C%20Roberto/Nazi%20Literature%20in%20the%20Americas%20%28356%29/Nazi%20Literature%20in%20the%20Americas%20-%20Bolano%2C%20Roberto.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Bolaño, Roberto</name>
+      <uri>../author_0/author_127_Page_1.xml</uri>
+    </author>
+    <published>2009-05-29T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>New Directions</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_356.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Neapolitan Novels Boxed Set</title>
+    <id>calibre:book:435</id>
+    <updated>2020-03-28T07:18:30Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Elena%20Ferrante/The%20Neapolitan%20Novels%20Boxed%20Set%20%28435%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Elena%20Ferrante/The%20Neapolitan%20Novels%20Boxed%20Set%20%28435%29/The%20Neapolitan%20Novels%20Boxed%20Set%20-%20Elena%20Ferrante.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Elena%20Ferrante/The%20Neapolitan%20Novels%20Boxed%20Set%20%28435%29/The%20Neapolitan%20Novels%20Boxed%20Set%20-%20Elena%20Ferrante.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Elena%20Ferrante/The%20Neapolitan%20Novels%20Boxed%20Set%20%28435%29/The%20Neapolitan%20Novels%20Boxed%20Set%20-%20Elena%20Ferrante.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Elena Ferrante</name>
+      <uri>../author_0/author_179_Page_1.xml</uri>
+    </author>
+    <published>2015-08-05T07:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Europa</dcterms:publisher>
+    <category term="Novel" />
+    <category term="Lang:en" />
+    <summary>"Nothing quite like this has ever been published before," proclaimed The Guardian about the Neapolitan novels in 2014. Against the backdrop of a Naples that is as seductive as it is perilous and a world undergoing epochal change, Elena Ferrante tells...</summary>
+    <link href="../book_0/book_435.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Neuropsychedelia: The Revival of Hallucinogen Research Since the Decade of the Brain *****</title>
+    <id>calibre:book:939</id>
+    <updated>2020-08-21T01:55:49Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Nicolas%20Langlitz/Neuropsychedelia_%20The%20Revival%20of%20Hallucinogen%20Research%20Since%20the%20Decade%20of%20the%20Brain%20%28939%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Nicolas%20Langlitz/Neuropsychedelia_%20The%20Revival%20of%20Hallucinogen%20Research%20Since%20the%20Decade%20of%20the%20Brain%20%28939%29/Neuropsychedelia_%20The%20Revival%20of%20Hallucino%20-%20Nicolas%20Langlitz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Nicolas%20Langlitz/Neuropsychedelia_%20The%20Revival%20of%20Hallucinogen%20Research%20Since%20the%20Decade%20of%20the%20Brain%20%28939%29/Neuropsychedelia_%20The%20Revival%20of%20Hallucino%20-%20Nicolas%20Langlitz.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Nicolas Langlitz</name>
+      <uri>../author_0/author_750_Page_1.xml</uri>
+    </author>
+    <published>2012-11-06T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Univ of California Press</dcterms:publisher>
+    <category term="Social Science" />
+    <category term="Anthropology" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>Neuropsychedelia examines the revival of psychedelic science since the "Decade of the Brain." After the breakdown of this previously prospering area of psychopharmacology, and in the wake of clashes between counterculture and establishment in the la...</summary>
+    <link href="../book_0/book_939.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Never Eat Alone, Expanded and Updated: And Other Secrets to Success, One Relationship at a Time</title>
+    <id>calibre:book:542</id>
+    <updated>2020-03-28T07:17:14Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Keith%20Ferrazzi/Never%20Eat%20Alone%2C%20Expanded%20and%20Updated_%20And%20Other%20Secrets%20to%20Success%2C%20One%20Relationship%20at%20a%20Time%20%28542%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Keith%20Ferrazzi/Never%20Eat%20Alone%2C%20Expanded%20and%20Updated_%20And%20Other%20Secrets%20to%20Success%2C%20One%20Relationship%20at%20a%20Time%20%28542%29/Never%20Eat%20Alone%2C%20Expanded%20and%20Updated_%20And%20-%20Keith%20Ferrazzi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Keith%20Ferrazzi/Never%20Eat%20Alone%2C%20Expanded%20and%20Updated_%20And%20Other%20Secrets%20to%20Success%2C%20One%20Relationship%20at%20a%20Time%20%28542%29/Never%20Eat%20Alone%2C%20Expanded%20and%20Updated_%20And%20-%20Keith%20Ferrazzi.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Keith Ferrazzi</name>
+      <uri>../author_0/author_290_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Tahl Raz</name>
+      <uri>../author_0/author_291_Page_1.xml</uri>
+    </author>
+    <published>2014-06-02T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>The Crown Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_542.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A New Kind of Science ****</title>
+    <id>calibre:book:767</id>
+    <updated>2020-04-04T04:34:48Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Stephen%20Wolfram/A%20New%20Kind%20of%20Science%20%28767%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Stephen%20Wolfram/A%20New%20Kind%20of%20Science%20%28767%29/A%20New%20Kind%20of%20Science%20-%20Stephen%20Wolfram.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Stephen Wolfram</name>
+      <uri>../author_0/author_560_Page_1.xml</uri>
+    </author>
+    <published>2018-11-29T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Wolfram Media, Inc.</dcterms:publisher>
+    <category term="Computers" />
+    <category term="Computer Science" />
+    <category term="Science" />
+    <category term="System Theory" />
+    <category term="Lang:en" />
+    <summary>This long-awaited work from one of the world's most respected scientists presents a series of dramatic discoveries never before made public. Starting from a collection of simple computer experiments--illustrated in the book by striking computer grap...</summary>
+    <link href="../book_0/book_767.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The New New Thing: A Silicon Valley Story ****</title>
+    <id>calibre:book:903</id>
+    <updated>2020-08-09T01:03:31Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Michael%20Lewis/The%20New%20New%20Thing_%20A%20Silicon%20Valley%20Story%20%28903%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Michael%20Lewis/The%20New%20New%20Thing_%20A%20Silicon%20Valley%20Story%20%28903%29/The%20New%20New%20Thing_%20A%20Silicon%20Valley%20Story%20-%20Michael%20Lewis.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Michael%20Lewis/The%20New%20New%20Thing_%20A%20Silicon%20Valley%20Story%20%28903%29/The%20New%20New%20Thing_%20A%20Silicon%20Valley%20Story%20-%20Michael%20Lewis.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Michael Lewis</name>
+      <uri>../author_0/author_312_Page_1.xml</uri>
+    </author>
+    <published>1999-10-16T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>W. W. Norton</dcterms:publisher>
+    <category term="Business &amp; Economics" />
+    <category term="Entrepreneurship" />
+    <category term="Biography &amp; Autobiography" />
+    <category term="Business" />
+    <category term="Free Enterprise &amp; Capitalism" />
+    <category term="Industries" />
+    <category term="Computers &amp; Information Technology" />
+    <category term="Lang:en" />
+    <summary>*New York Times* Bestseller. “A superb book. . . . [Lewis] makes Silicon Valley as thrilling and intelligible as he made Wall Street in his best-selling Liar’s Poker.”― *Time In the weird glow of the dying millennium, Michael Lewis set out on a safa...</summary>
+    <link href="../book_0/book_903.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Nietzsche: The Birth of Tragedy and Other Writings (Cambridge Texts in the History of Philosophy)</title>
+    <id>calibre:book:392</id>
+    <updated>2019-12-07T00:47:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Friedrich%20Nietzsche/Nietzsche_%20The%20Birth%20of%20Tragedy%20and%20Other%20Writings%20%28Cambridge%20Texts%20in%20the%20History%20of%20Philosoph%20%28392%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Friedrich%20Nietzsche/Nietzsche_%20The%20Birth%20of%20Tragedy%20and%20Other%20Writings%20%28Cambridge%20Texts%20in%20the%20History%20of%20Philosoph%20%28392%29/Nietzsche_%20The%20Birth%20of%20Tragedy%20and%20Other%20-%20Friedrich%20Nietzsche.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Friedrich%20Nietzsche/Nietzsche_%20The%20Birth%20of%20Tragedy%20and%20Other%20Writings%20%28Cambridge%20Texts%20in%20the%20History%20of%20Philosoph%20%28392%29/Nietzsche_%20The%20Birth%20of%20Tragedy%20and%20Other%20-%20Friedrich%20Nietzsche.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Friedrich Nietzsche</name>
+      <uri>../author_0/author_142_Page_1.xml</uri>
+    </author>
+    <published>2010-09-15T11:16:27Z</published>
+    <category term="9780521630160" />
+    <category term="9780521639873" />
+    <category term="0521630169" />
+    <category term="0521639875" />
+    <summary>Cambridge University Press</summary>
+    <link href="../book_0/book_392.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Nightmare Abbey ****</title>
+    <id>calibre:book:747</id>
+    <updated>2020-04-04T01:39:36Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Thomas%20Love%20Peacock/Nightmare%20Abbey%20%28747%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Thomas%20Love%20Peacock/Nightmare%20Abbey%20%28747%29/Nightmare%20Abbey%20-%20Thomas%20Love%20Peacock.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Thomas Love Peacock</name>
+      <uri>../author_0/author_554_Page_1.xml</uri>
+    </author>
+    <published>2015-04-11T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>CreateSpace Independent Publishing Platform</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Despite its ominously sounding title, Nightmare Abbey is a Gothic topical satire in which the author pokes light-hearted fun at the romantic movement in contemporary English literature, in particular its obsession with morbid subjects, misanthropy a...</summary>
+    <link href="../book_0/book_747.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>No Place To Hide - Documents</title>
+    <id>calibre:book:841</id>
+    <updated>2020-07-09T01:07:28Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Glenn%20greenwald/No%20Place%20To%20Hide%20-%20Documents%20%28841%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Glenn%20greenwald/No%20Place%20To%20Hide%20-%20Documents%20%28841%29/No%20Place%20To%20Hide%20-%20Documents%20-%20Glenn%20greenwald.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Glenn greenwald</name>
+      <uri>../author_0/author_638_Page_1.xml</uri>
+    </author>
+    <published>2014-05-07T04:18:15Z</published>
+    <link href="../book_0/book_841.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>No Place to Hide</title>
+    <id>calibre:book:784</id>
+    <updated>2020-04-23T05:43:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Greenwald%2C%20Glenn/No%20Place%20to%20Hide%20%28784%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Greenwald%2C%20Glenn/No%20Place%20to%20Hide%20%28784%29/No%20Place%20to%20Hide%20-%20Greenwald%2C%20Glenn.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Greenwald%2C%20Glenn/No%20Place%20to%20Hide%20%28784%29/No%20Place%20to%20Hide%20-%20Greenwald%2C%20Glenn.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Greenwald, Glenn</name>
+      <uri>../author_0/author_572_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Books Ltd</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_784.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships (Nonviolent Communication Guides)</title>
+    <id>calibre:book:494</id>
+    <updated>2020-03-28T07:46:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Marshall%20B.%20Rosenberg/Nonviolent%20Communication_%20A%20Language%20of%20Life_%20Life-Changing%20Tools%20for%20Healthy%20Relationships%20%28No%20%28494%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Marshall%20B.%20Rosenberg/Nonviolent%20Communication_%20A%20Language%20of%20Life_%20Life-Changing%20Tools%20for%20Healthy%20Relationships%20%28No%20%28494%29/Nonviolent%20Communication_%20A%20Language%20of%20Li%20-%20Marshall%20B.%20Rosenberg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Marshall%20B.%20Rosenberg/Nonviolent%20Communication_%20A%20Language%20of%20Life_%20Life-Changing%20Tools%20for%20Healthy%20Relationships%20%28No%20%28494%29/Nonviolent%20Communication_%20A%20Language%20of%20Li%20-%20Marshall%20B.%20Rosenberg.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Marshall%20B.%20Rosenberg/Nonviolent%20Communication_%20A%20Language%20of%20Life_%20Life-Changing%20Tools%20for%20Healthy%20Relationships%20%28No%20%28494%29/Nonviolent%20Communication_%20A%20Language%20of%20Li%20-%20Marshall%20B.%20Rosenberg.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Marshall B. Rosenberg</name>
+      <uri>../author_0/author_204_Page_1.xml</uri>
+    </author>
+    <published>2015-08-31T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Puddledancer Press</dcterms:publisher>
+    <category term="1. Interpersonal communication. 2. Interpersonal relations. 3. Nonviolence." />
+    <category term="Lang:en" />
+    <summary>The latest edition of the communication guide that has sold more than 1,000,000 copiesAn enlightening look at how peaceful communication can create compassionate connections with family, friends, and other acquaintances, this international bestseller...</summary>
+    <link href="../book_0/book_494.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Not Born Yesterday</title>
+    <id>calibre:book:769</id>
+    <updated>2020-04-10T00:49:48Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Hugo%20Mercier/Not%20Born%20Yesterday%20%28769%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Hugo%20Mercier/Not%20Born%20Yesterday%20%28769%29/Not%20Born%20Yesterday%20-%20Hugo%20Mercier.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Hugo Mercier</name>
+      <uri>../author_0/author_562_Page_1.xml</uri>
+    </author>
+    <published>2019-12-05T09:50:02Z</published>
+    <link href="../book_0/book_769.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Notation as a Tool of Thought</title>
+    <id>calibre:book:928</id>
+    <updated>2020-08-17T08:06:34Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Kenneth%20e.%20Iverson/Notation%20as%20a%20Tool%20of%20Thought%20%28928%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Kenneth%20e.%20Iverson/Notation%20as%20a%20Tool%20of%20Thought%20%28928%29/Notation%20as%20a%20Tool%20of%20Thought%20-%20Kenneth%20e.%20Iverson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Kenneth e. Iverson</name>
+      <uri>../author_0/author_740_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_928.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Nuclear War Survival Skills</title>
+    <id>calibre:book:782</id>
+    <updated>2020-04-14T03:21:16Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Cresson%20Kearny/Nuclear%20War%20Survival%20Skills%20%28782%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Cresson%20Kearny/Nuclear%20War%20Survival%20Skills%20%28782%29/Nuclear%20War%20Survival%20Skills%20-%20Cresson%20Kearny.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Cresson Kearny</name>
+      <uri>../author_0/author_571_Page_1.xml</uri>
+    </author>
+    <published>2016-09-11T11:47:03Z</published>
+    <category term="Survival" />
+    <category term="Emergency Preparedness" />
+    <category term="Radiation" />
+    <category term="Nuclear Terrorism" />
+    <category term="Kearny Fallout Meter" />
+    <summary>Expedient Emergency Preparedness - Shelters, Water, Ventalation, Radiation Detection</summary>
+    <link href="../book_0/book_782.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Numerical Optimization</title>
+    <id>calibre:book:537</id>
+    <updated>2019-12-07T00:47:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Jorge%20Nocedal%2C%20Stephen%20J.%20Wright/Numerical%20Optimization%20%28537%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Jorge%20Nocedal%2C%20Stephen%20J.%20Wright/Numerical%20Optimization%20%28537%29/Numerical%20Optimization%20-%20Jorge%20Nocedal%2C%20Stephen%20J.%20Wright.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Jorge%20Nocedal%2C%20Stephen%20J.%20Wright/Numerical%20Optimization%20%28537%29/Numerical%20Optimization%20-%20Jorge%20Nocedal%2C%20Stephen%20J.%20Wright.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Jorge Nocedal, Stephen J. Wright</name>
+      <uri>../author_0/author_495_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_537.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The new dot com bubble is here it’s called online advertising</title>
+    <id>calibre:book:940</id>
+    <updated>2020-08-21T01:46:08Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/The%20Correspondent/The%20new%20dot%20com%20bubble%20is%20here%20it%27s%20called%20online%20advertising%20%28940%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/The%20Correspondent/The%20new%20dot%20com%20bubble%20is%20here%20it%27s%20called%20online%20advertising%20%28940%29/The%20new%20dot%20com%20bubble%20is%20here%20it%27s%20called%20-%20The%20Correspondent.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>The Correspondent</name>
+      <uri>../author_0/author_751_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_940.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

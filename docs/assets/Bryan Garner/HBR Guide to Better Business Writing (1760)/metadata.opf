@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1760</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9afbfe2d-b1a3-4fa7-96cb-15df995d521e</dc:identifier>
+        <dc:title>HBR Guide to Better Business Writing</dc:title>
+        <dc:creator opf:file-as="Garner, Bryan" opf:role="aut">Bryan Garner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-15T11:09:55+00:00</dc:date>
+        <dc:description>DON'T LET YOUR WRITING HOLD YOU BACK.When you’re fumbling for words and pressed for time, you might be tempted to dismiss good business writing as a nicety. But it’s a skill you must cultivate to succeed: You’ll lose time, money, and influence if your e-mails, proposals, and other important documents fail to win people over.The HBR Guide to Better Business Writing, by writing expert Bryan A. Garner, gives you the tools you need to express your ideas clearly and persuasively so clients, colleagues, stakeholders, and partners will get behind them. This book will help you:•	Push past writer’s block •	Grab—and keep—readers’ attention•	Earn credibility with tough audiences•	Trim the fat from your writing•	Strike the right tone •	Brush up on grammar, punctuation, and usage</dc:description>
+        <dc:publisher>Harvard Business Review Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781422184035</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">F5XBAgAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Business Communication</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bryan Garner&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-11-05T10:57:39+00:00"/>
+        <meta name="calibre:title_sort" content="HBR Guide to Better Business Writing"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

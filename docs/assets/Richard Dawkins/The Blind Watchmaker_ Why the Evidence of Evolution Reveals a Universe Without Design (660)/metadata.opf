@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">660</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5816235-4189-49b1-95f5-eb2061c0c992</dc:identifier>
+        <dc:title>The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe Without Design</dc:title>
+        <dc:creator opf:file-as="Dawkins, Richard" opf:role="aut">Richard Dawkins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-27T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Richard Dawkins’s classic remains the definitive argument for our modern understanding of evolution.&lt;/strong&gt; &lt;em&gt;The Blind Watchmaker&lt;/em&gt; is the seminal text for understanding evolution today. In the eighteenth century, theologian William Paley developed a famous metaphor for creationism: that of the skilled watchmaker. In &lt;em&gt;The Blind Watchmaker&lt;/em&gt; , Richard Dawkins crafts an elegant riposte to show that the complex process of Darwinian natural selection is unconscious and automatic. If natural selection can be said to play the role of a watchmaker in nature, it is a blind one―working without foresight or purpose. In an eloquent, uniquely persuasive account of the theory of natural selection, Dawkins illustrates how simple organisms slowly change over time to create a world of enormous complexity, diversity, and beauty. 22 illustrations **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>W. W. Norton &amp; Company</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780393353099</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">u4d0CgAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0393351491</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Life Sciences</dc:subject>
+        <dc:subject>Evolution</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Richard Dawkins&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:35+00:00"/>
+        <meta name="calibre:title_sort" content="Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe Without Design, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">660</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5816235-4189-49b1-95f5-eb2061c0c992</dc:identifier>
+        <dc:title>The Blind Watchmaker</dc:title>
+        <dc:creator opf:file-as="Dawkins, Richard" opf:role="aut">Richard Dawkins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-03-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Richard Dawkins's classic remains the definitive argument for our modern understanding of evolution.&lt;p&gt;&lt;i&gt;The Blind Watchmaker&lt;/i&gt; is the seminal text for understanding evolution today. In the eighteenth century, theologian William Paley developed a famous metaphor for creationism: that of the skilled watchmaker. In The Blind Watchmaker, Richard Dawkins crafts an elegant riposte to show that the complex process of Darwinian natural selection is unconscious and automatic. If natural selection can be said to play the role of a watchmaker in nature, it is a blind one&amp;#8212;working without foresight or purpose.&lt;p&gt;In an eloquent, uniquely persuasive account of the theory of natural selection, Dawkins illustrates how simple organisms slowly change over time to create a world of enormous complexity, diversity, and beauty.</dc:description>
+        <dc:publisher>W. W. Norton &amp; Company</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Richard Dawkins&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-03-28T06:02:35.286288+00:00" name="calibre:timestamp"/>
+        <meta content="Blind Watchmaker, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

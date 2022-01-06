@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fe34ac39-e3d2-417b-b668-451517dfdd31</dc:identifier>
+        <dc:title>Blink: The Power of Thinking Without Thinking</dc:title>
+        <dc:creator opf:file-as="Gladwell, Malcolm" opf:role="aut">Malcolm Gladwell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-02-22T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;The landmark book that has revolutionized the way we understand leadership and decision making -- from #1 bestselling author Malcolm Gladwell.&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;In his breakthrough bestseller &lt;em&gt;The Tipping Point&lt;/em&gt; , Malcolm Gladwell redefined how we understand the world around us. Now, in &lt;em&gt;Blink&lt;/em&gt; , he revolutionizes the way we understand the world within.&lt;br&gt;&lt;em&gt;Blink&lt;/em&gt; is a book about how we think without thinking, about choices that seem to be made in an instant--in the blink of an eye--that actually aren't as simple as they seem. Why are some people brilliant decision makers, while others are consistently inept? Why do some people follow their instincts and win, while others end up stumbling into error? How do our brains really work--in the office, in the classroom, in the kitchen, and in the bedroom? And why are the best decisions often those that are impossible to explain to others?&lt;br&gt;In &lt;em&gt;Blink&lt;/em&gt; we meet the psychologist who has learned to predict whether a marriage will last, based on a few minutes of observing a couple; the tennis coach who knows when a player will double-fault before the racket even makes contact with the ball; the antiquities experts who recognize a fake at a glance. Here, too, are great failures of "blink": the election of Warren Harding; "New Coke"; and the shooting of Amadou Diallo by police.&lt;br&gt;&lt;em&gt;Blink&lt;/em&gt; reveals that great decision makers aren't those who process the most information or spend the most time deliberating, but those who have perfected the art of "thin-slicing"--filtering the very few factors that matter from an overwhelming number of variables. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin UK</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780141930183</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B000PAAH3K</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">FiPLHNvT_NkC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Decision-Making &amp; Problem Solving</dc:subject>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Cognitive Psychology &amp; Cognition</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Malcolm Gladwell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2018-05-06T10:58:38+00:00"/>
+        <meta name="calibre:title_sort" content="Blink: The Power of Thinking Without Thinking"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

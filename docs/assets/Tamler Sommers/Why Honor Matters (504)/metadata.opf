@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">504</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b9955488-01f2-4a73-9ca0-8801d04901bd</dc:identifier>
+        <dc:title>Why Honor Matters</dc:title>
+        <dc:creator opf:file-as="Sommers, Tamler" opf:role="aut">Tamler Sommers</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-07T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;A controversial call to put honor at the center of morality&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;To the modern mind, the idea of honor is outdated, sexist, and barbaric. It evokes Hamilton and Burr and pistols at dawn, not visions of a well-organized society. But for philosopher Tamler Sommers, a sense of honor is essential to living moral lives. In &lt;em&gt;Why Honor Matters&lt;/em&gt; , Sommers argues that our collective rejection of honor has come at great cost. Reliant only on Enlightenment liberalism, the United States has become the home of the cowardly, the shameless, the selfish, and the alienated. Properly channeled, honor encourages virtues like courage, integrity, and solidarity, and gives a sense of living for something larger than oneself. Sommers shows how honor can help us address some of society's most challenging problems, including education, policing, and mass incarceration. Counterintuitive and provocative, &lt;em&gt;Why Honor Matters&lt;/em&gt; makes a convincing case for honor as a cornerstone of our modern society. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Hachette UK</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">djM0DwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0465098878</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780465098880</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Ethics</dc:subject>
+        <dc:subject>Moral Philosophy</dc:subject>
+        <dc:subject>Good &amp; Evil</dc:subject>
+        <dc:subject>Law</dc:subject>
+        <dc:subject>Alternative Dispute Resolution</dc:subject>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>Law Enforcement</dc:subject>
+        <dc:subject>Essays</dc:subject>
+        <dc:subject>History &amp; Theory</dc:subject>
+        <dc:subject>Political Ideologies</dc:subject>
+        <dc:subject>Conservatism</dc:subject>
+        <dc:subject>Liberalism</dc:subject>
+        <dc:subject>Utopias</dc:subject>
+        <dc:subject>Criticism</dc:subject>
+        <dc:subject>Individual Philosophers</dc:subject>
+        <dc:subject>Movements</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Political</dc:subject>
+        <dc:subject>Criminal Law</dc:subject>
+        <dc:subject>Sentencing</dc:subject>
+        <dc:subject>Customary</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Tamler Sommers&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2018-08-28T19:06:04+00:00"/>
+        <meta name="calibre:title_sort" content="Why Honor Matters"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

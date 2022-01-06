@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">683</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">34d2da97-e70e-4589-9fca-fea4e961ef14</dc:identifier>
+        <dc:title>UNSCRIPTED: Life, Liberty, and the Pursuit of Entrepreneurship</dc:title>
+        <dc:creator opf:file-as="DeMarco, MJ" opf:role="aut">MJ DeMarco</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-05-23T00:00:00+00:00</dc:date>
+        <dc:description>MJ DeMarco&amp;#x2019;s long awaited follow-up to the international best-seller, The Millionaire Fastlane, UNSCRIPTED is the definitive blueprint for escaping the cultural conditioning of the mundane and mediocre; learn how to create an awe-inspiring life using the power of entrepreneurship. UNSCRIPTED is not something your TRY, it is something you LIVE.</dc:description>
+        <dc:publisher>Viperion Publishing Corporation</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B06XBRLXJC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>start up</dc:subject>
+        <dc:subject>Entrepreneurship</dc:subject>
+        <dc:subject>investment</dc:subject>
+        <dc:subject>retirement</dc:subject>
+        <dc:subject>start-up</dc:subject>
+        <dc:subject>Entrepreneur</dc:subject>
+        <dc:subject>millionaire</dc:subject>
+        <dc:subject>Success</dc:subject>
+        <dc:subject>fastlane</dc:subject>
+        <dc:subject>Management</dc:subject>
+        <dc:subject>starting a business</dc:subject>
+        <dc:subject>career</dc:subject>
+        <dc:subject>Small Business</dc:subject>
+        <dc:subject>Investing</dc:subject>
+        <dc:subject>wealth</dc:subject>
+        <dc:subject>stock market</dc:subject>
+        <dc:subject>motivation</dc:subject>
+        <dc:subject>freedom</dc:subject>
+        <dc:subject>money</dc:subject>
+        <dc:subject>Finance</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;MJ DeMarco&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:37+00:00"/>
+        <meta name="calibre:title_sort" content="UNSCRIPTED: Life, Liberty, and the Pursuit of Entrepreneurship"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

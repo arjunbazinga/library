@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">992</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fa01c352-5e45-4700-98a7-925aea871dfe</dc:identifier>
+        <dc:title>Elements of Programming Interviews: The Insiders' Guide</dc:title>
+        <dc:creator opf:file-as="Aziz, Adnan &amp; Lee, Tsung-Hsien &amp; Prakash, Amit" opf:role="aut">Adnan Aziz</dc:creator>
+        <dc:creator opf:file-as="Aziz, Adnan &amp; Lee, Tsung-Hsien &amp; Prakash, Amit" opf:role="aut">Tsung-Hsien Lee</dc:creator>
+        <dc:creator opf:file-as="Aziz, Adnan &amp; Lee, Tsung-Hsien &amp; Prakash, Amit" opf:role="aut">Amit Prakash</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;This is the &lt;strong&gt;C++&lt;/strong&gt; version of our book. See the website for links to the &lt;strong&gt;Java&lt;/strong&gt; version, as well as to a version that uses &lt;strong&gt;larger fonts&lt;/strong&gt;. Have you ever... * Wanted to work at an &lt;strong&gt;exciting futuristic company&lt;/strong&gt;? * &lt;strong&gt;Struggled with an interview problem&lt;/strong&gt; that could have been solved in 15 minutes? * Wished you could study &lt;strong&gt;real-world computing problems&lt;/strong&gt;? &lt;/p&gt;
+&lt;p&gt;If so, you need to read &lt;strong&gt;Elements of Programming Interviews&lt;/strong&gt; (EPI). EPI is your comprehensive guide to interviewing for software development roles. The core of EPI is a collection of over 250 problems with detailed solutions. The problems are representative of interview questions asked at leading software companies. The problems are illustrated with 200 figures, 300 tested programs, and 150 additional variants. The book begins with a summary of the nontechnical aspects of interviewing, such as strategies for a great interview, common mistakes, perspectives from the other side of the table, tips on negotiating the best offer, and a guide to the best ways to use EPI. We also provide a summary of data structures, algorithms, and problem solving patterns. Coding problems are presented through a series of chapters on basic and advanced data structures, searching, sorting, algorithm design principles, and concurrency. Each chapter stars with a brief introduction, a case study, top tips, and a review of the most important library methods. This is followed by a broad and thought-provoking set of problems. &lt;em&gt;A practical, fun approach to computer science fundamentals, as seen through the lens of common programming interview questions.&lt;/em&gt; &lt;br&gt;&lt;strong&gt;Jeff Atwood/Co-founder, Stack Overflow and Discourse&lt;/strong&gt; **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="AMAZON">1479274836</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Tsung-Hsien Lee&quot;: &quot;&quot;, &quot;Amit Prakash&quot;: &quot;&quot;, &quot;Adnan Aziz&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2020-09-05T04:59:15+00:00" name="calibre:timestamp"/>
+        <meta content="Elements of Programming Interviews: The Insiders' Guide" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

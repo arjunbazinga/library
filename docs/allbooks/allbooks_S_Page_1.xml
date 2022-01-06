@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with S</title>
+  <id>Calibre2opds:allbooks:S</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with S" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>SQL-medium-hard-questions</title>
+    <id>calibre:book:792</id>
+    <updated>2020-05-09T00:34:32Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Unknown/SQL-medium-hard-questions%20%28792%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Unknown/SQL-medium-hard-questions%20%28792%29/SQL-medium-hard-questions%20-%20Unknown.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Unknown</name>
+      <uri>../author_0/author_278_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_792.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Saving Capitalism From the Capitalists: Unleashing the Power of Financial Markets to Create Wealth and Spread Opportunity</title>
+    <id>calibre:book:589</id>
+    <updated>2020-03-28T07:43:08Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Raghuram%20G%20Rajan%2C%20Luigi%20Zingales/Saving%20Capitalism%20From%20the%20Capitalists_%20Unleashing%20the%20Power%20of%20Financial%20Markets%20to%20Create%20Wea%20%28589%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Raghuram%20G%20Rajan%2C%20Luigi%20Zingales/Saving%20Capitalism%20From%20the%20Capitalists_%20Unleashing%20the%20Power%20of%20Financial%20Markets%20to%20Create%20Wea%20%28589%29/Saving%20Capitalism%20From%20the%20Capitalists_%20Un%20-%20Raghuram%20G%20Rajan%2C%20Luigi%20Zingales.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Raghuram%20G%20Rajan%2C%20Luigi%20Zingales/Saving%20Capitalism%20From%20the%20Capitalists_%20Unleashing%20the%20Power%20of%20Financial%20Markets%20to%20Create%20Wea%20%28589%29/Saving%20Capitalism%20From%20the%20Capitalists_%20Un%20-%20Raghuram%20G%20Rajan%2C%20Luigi%20Zingales.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Raghuram G Rajan, Luigi Zingales</name>
+      <uri>../author_0/author_482_Page_1.xml</uri>
+    </author>
+    <published>2013-12-23T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins Publishers India</dcterms:publisher>
+    <category term="Economics" />
+    <category term="Business &amp; Economics" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>For nearly two centuries, scholars and politicians have debated the future of capitalism. In India, its critics have viewed it as intrinsically unstable, seeing signs of its collapse in every fall of the Mumbai stock market. Its supporters see it as ...</summary>
+    <link href="../book_0/book_589.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The School of Life</title>
+    <id>calibre:book:787</id>
+    <updated>2020-04-23T05:43:38Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/The%20School%20Of%20Life/The%20School%20of%20Life%20%28787%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/The%20School%20Of%20Life/The%20School%20of%20Life%20%28787%29/The%20School%20of%20Life%20-%20The%20School%20Of%20Life.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/The%20School%20Of%20Life/The%20School%20of%20Life%20%28787%29/The%20School%20of%20Life%20-%20The%20School%20Of%20Life.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>The School Of Life</name>
+      <uri>../author_0/author_574_Page_1.xml</uri>
+    </author>
+    <published>2019-09-05T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Books Ltd</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Discover everything you were never taught at school about how to lead a better life... Introduced and edited by the bestselling author of The Consolations of Philosophy, The Art of Travel and The Course of Love'Alain de Botton likes to take big, comp...</summary>
+    <link href="../book_0/book_787.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Science of Success: How Market-Based Management Built the World's Largest Private Company ****</title>
+    <id>calibre:book:793</id>
+    <updated>2020-05-09T00:34:32Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Charles%20G.%20Koch/The%20Science%20of%20Success_%20How%20Market-Based%20Management%20Built%20the%20World%27s%20Largest%20Private%20Company%20%28793%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Charles%20G.%20Koch/The%20Science%20of%20Success_%20How%20Market-Based%20Management%20Built%20the%20World%27s%20Largest%20Private%20Company%20%28793%29/The%20Science%20of%20Success_%20How%20Market-Based%20M%20-%20Charles%20G.%20Koch.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Charles G. Koch</name>
+      <uri>../author_0/author_601_Page_1.xml</uri>
+    </author>
+    <published>2007-02-25T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Wiley</dcterms:publisher>
+    <category term="Business &amp; Economics" />
+    <category term="Decision-Making &amp; Problem Solving" />
+    <category term="Management" />
+    <category term="Lang:en" />
+    <summary>Praise for THE SCIENCE OF SUCCESS "Evaluating the success of an individual or company is a lot like judging a trapper by his pelts. Charles Koch has a lot of pelts. He has built Koch Industries into the world's largest privately held company, and th...</summary>
+    <link href="../book_0/book_793.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Scoop ****</title>
+    <id>calibre:book:762</id>
+    <updated>2020-08-22T01:05:41Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Evelyn%20Waugh/Scoop%20%28762%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Evelyn%20Waugh/Scoop%20%28762%29/Scoop%20-%20Evelyn%20Waugh.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Evelyn%20Waugh/Scoop%20%28762%29/Scoop%20-%20Evelyn%20Waugh.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Evelyn Waugh</name>
+      <uri>../author_0/author_547_Page_1.xml</uri>
+    </author>
+    <published>2012-12-10T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Back Bay Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Selected by the Modern Library as one of the 100 best novels of the century, Scoop is a "thoroughly enjoyable, uproariously funny" satire of the journalism business ( New York Times ). 
+Lord Copper, newspaper magnate and proprietor of the Daily Beas...</summary>
+    <link href="../book_0/book_762.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Search for the "Manchurian Candidate" *****</title>
+    <id>calibre:book:590</id>
+    <updated>2020-03-28T02:15:38Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/John%20Marks/The%20Search%20for%20the%20_Manchurian%20Candidate_%20%28590%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/John%20Marks/The%20Search%20for%20the%20_Manchurian%20Candidate_%20%28590%29/The%20Search%20for%20the%20_Manchurian%20Candidate_%20-%20John%20Marks.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/John%20Marks/The%20Search%20for%20the%20_Manchurian%20Candidate_%20%28590%29/The%20Search%20for%20the%20_Manchurian%20Candidate_%20-%20John%20Marks.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>John Marks</name>
+      <uri>../author_0/author_507_Page_1.xml</uri>
+    </author>
+    <published>1991-08-16T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>W. W. Norton &amp; Company</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>"The CIA exposé to end all CIA exposés." ― *New York A 'Manchurian Candidate' is an unwitting assassin brainwashed and programmed to kill. In this book, former State Department officer John Marks tells the explosive story of the CIA's highly secret ...</summary>
+    <link href="../book_0/book_590.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Secrets of Sand Hill Road</title>
+    <id>calibre:book:670</id>
+    <updated>2020-03-28T07:28:48Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Scott%20Kupor/Secrets%20of%20Sand%20Hill%20Road%20%28670%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Scott%20Kupor/Secrets%20of%20Sand%20Hill%20Road%20%28670%29/Secrets%20of%20Sand%20Hill%20Road%20-%20Scott%20Kupor.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Scott%20Kupor/Secrets%20of%20Sand%20Hill%20Road%20%28670%29/Secrets%20of%20Sand%20Hill%20Road%20-%20Scott%20Kupor.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Scott Kupor</name>
+      <uri>../author_0/author_417_Page_1.xml</uri>
+    </author>
+    <published>2019-06-04T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>What are venture capitalists saying about your startup behind closed doors? And what can you do to influence that conversation?If Silicon Valley is the greatest wealth-generating machine in the world, Sand Hill Road is its humming engine. That's wher...</summary>
+    <link href="../book_0/book_670.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Security Engineering: A Guide to Building Dependable Distributed Systems, Second Edition</title>
+    <id>calibre:book:898</id>
+    <updated>2020-08-09T00:59:05Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Ross%20J.%20Anderson/Security%20Engineering_%20A%20Guide%20to%20Building%20Dependable%20Distributed%20Systems%2C%20Second%20Edition%20%28898%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Ross%20J.%20Anderson/Security%20Engineering_%20A%20Guide%20to%20Building%20Dependable%20Distributed%20Systems%2C%20Second%20Edition%20%28898%29/Security%20Engineering_%20A%20Guide%20to%20Building%20-%20Ross%20J.%20Anderson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Ross J. Anderson</name>
+      <uri>../author_0/author_696_Page_1.xml</uri>
+    </author>
+    <published>2009-08-04T06:30:00Z</published>
+    <dcterms:publisher>Wiley</dcterms:publisher>
+    <link href="../book_0/book_898.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Seductive Interaction Design: Creating Playful, Fun, and Effective User Experiences</title>
+    <id>calibre:book:900</id>
+    <updated>2020-08-09T01:02:04Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Stephen%20P.%20Anderson/Seductive%20Interaction%20Design_%20Creating%20Playful%2C%20Fun%2C%20and%20Effective%20User%20Experiences%20%28900%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Stephen%20P.%20Anderson/Seductive%20Interaction%20Design_%20Creating%20Playful%2C%20Fun%2C%20and%20Effective%20User%20Experiences%20%28900%29/Seductive%20Interaction%20Design_%20Creating%20Pla%20-%20Stephen%20P.%20Anderson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Stephen%20P.%20Anderson/Seductive%20Interaction%20Design_%20Creating%20Playful%2C%20Fun%2C%20and%20Effective%20User%20Experiences%20%28900%29/Seductive%20Interaction%20Design_%20Creating%20Pla%20-%20Stephen%20P.%20Anderson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Stephen P. Anderson</name>
+      <uri>../author_0/author_695_Page_1.xml</uri>
+    </author>
+    <published>2011-05-24T09:02:13Z</published>
+    <dcterms:publisher>New Riders</dcterms:publisher>
+    <link href="../book_0/book_900.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Seeking Wisdom: From Darwin To Munger</title>
+    <id>calibre:book:592</id>
+    <updated>2019-12-07T00:47:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Peter%20Bevelin/Seeking%20Wisdom_%20From%20Darwin%20To%20Munger%20%28592%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Peter%20Bevelin/Seeking%20Wisdom_%20From%20Darwin%20To%20Munger%20%28592%29/Seeking%20Wisdom_%20From%20Darwin%20To%20Munger%20-%20Peter%20Bevelin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Peter%20Bevelin/Seeking%20Wisdom_%20From%20Darwin%20To%20Munger%20%28592%29/Seeking%20Wisdom_%20From%20Darwin%20To%20Munger%20-%20Peter%20Bevelin.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Peter Bevelin</name>
+      <uri>../author_0/author_356_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_592.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Selected Letters</title>
+    <id>calibre:book:654</id>
+    <updated>2020-03-29T01:49:42Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/John%20Von%20Neumann/Selected%20Letters%20%28654%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/John%20Von%20Neumann/Selected%20Letters%20%28654%29/Selected%20Letters%20-%20John%20Von%20Neumann.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/John%20Von%20Neumann/Selected%20Letters%20%28654%29/Selected%20Letters%20-%20John%20Von%20Neumann.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>John Von Neumann</name>
+      <uri>../author_0/author_519_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <link href="../book_0/book_654.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Selected Letters</title>
+    <id>calibre:book:421</id>
+    <updated>2019-12-07T00:47:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Seneca%2C%20Elaine%20Fantham/Selected%20Letters%20%28421%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Seneca%2C%20Elaine%20Fantham/Selected%20Letters%20%28421%29/Selected%20Letters%20-%20Seneca%2C%20Elaine%20Fantham.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Seneca%2C%20Elaine%20Fantham/Selected%20Letters%20%28421%29/Selected%20Letters%20-%20Seneca%2C%20Elaine%20Fantham.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Seneca%2C%20Elaine%20Fantham/Selected%20Letters%20%28421%29/Selected%20Letters%20-%20Seneca%2C%20Elaine%20Fantham.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Seneca, Elaine Fantham</name>
+      <uri>../author_0/author_168_Page_1.xml</uri>
+    </author>
+    <published>2010-06-15T00:35:58Z</published>
+    <category term="9780199533213" />
+    <link href="../book_0/book_421.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Selected Papers on Computer Languages ****</title>
+    <id>calibre:book:888</id>
+    <updated>2020-07-30T00:57:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Donald%20E.%20Knuth/Selected%20Papers%20on%20Computer%20Languages%20%28888%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Donald%20E.%20Knuth/Selected%20Papers%20on%20Computer%20Languages%20%28888%29/Selected%20Papers%20on%20Computer%20Languages%20-%20Donald%20E.%20Knuth.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Donald E. Knuth</name>
+      <uri>../author_0/author_686_Page_1.xml</uri>
+    </author>
+    <published>2002-12-01T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Center for the Study of Language and Inf</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="CSLI Lecture Notes" />
+    <summary>CSLI Lecture Notes [139]: This volume, sixth in a series of collected works by world-renowned computer scientist Donald E. Knuth, assembles approximately two dozen of his pioneering contributions to the field of computer languages, including papers o...</summary>
+    <link href="../book_0/book_888.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Selected Papers on Computer Science *****</title>
+    <id>calibre:book:886</id>
+    <updated>2020-07-30T00:57:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Donald%20E.%20Knuth/Selected%20Papers%20on%20Computer%20Science%20%28886%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Donald%20E.%20Knuth/Selected%20Papers%20on%20Computer%20Science%20%28886%29/Selected%20Papers%20on%20Computer%20Science%20-%20Donald%20E.%20Knuth.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Donald E. Knuth</name>
+      <uri>../author_0/author_686_Page_1.xml</uri>
+    </author>
+    <published>2004-11-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Center for the Study of Language and Inf</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="CSLI Lecture Notes" />
+    <summary>CSLI Lecture Notes [59]: Donald Knuth's influence in computer science ranges from the invention of literate programming to the development of the TeX programming language. This anthology of essays includes articles on the history of computing, algori...</summary>
+    <link href="../book_0/book_886.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Selected Papers on Design of Algorithms *****</title>
+    <id>calibre:book:885</id>
+    <updated>2020-07-30T00:57:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Donald%20E.%20Knuth/Selected%20Papers%20on%20Design%20of%20Algorithms%20%28885%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Donald%20E.%20Knuth/Selected%20Papers%20on%20Design%20of%20Algorithms%20%28885%29/Selected%20Papers%20on%20Design%20of%20Algorithms%20-%20Donald%20E.%20Knuth.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Donald E. Knuth</name>
+      <uri>../author_0/author_686_Page_1.xml</uri>
+    </author>
+    <published>2010-04-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Center for the Study of Language and Inf</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="CSLI Lecture Notes" />
+    <summary>CSLI Lecture Notes [191]: Donald Knuth’s influence in computer science ranges from the invention of methods for translating and defining programming languages to the creation of the TEX and METAFONT systems for desktop publishing. His award-winning t...</summary>
+    <link href="../book_0/book_885.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Selected papers on discrete mathematics</title>
+    <id>calibre:book:887</id>
+    <updated>2020-07-30T00:57:32Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Donald%20E.%20Knuth%2C%20Multiple/Selected%20papers%20on%20discrete%20mathematics%20%28887%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Donald%20E.%20Knuth%2C%20Multiple/Selected%20papers%20on%20discrete%20mathematics%20%28887%29/Selected%20papers%20on%20discrete%20mathematics%20-%20Donald%20E.%20Knuth%2C%20Multiple.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Donald E. Knuth, Multiple</name>
+      <uri>../author_0/author_687_Page_1.xml</uri>
+    </author>
+    <published>2001-07-04T06:30:00Z</published>
+    <dcterms:publisher>Center for the Study of Language and Information Publications</dcterms:publisher>
+    <category term="CSLI Lecture Notes" />
+    <summary>CSLI Lecture Notes [106]:</summary>
+    <link href="../book_0/book_887.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Self-Contained Development Environments</title>
+    <id>calibre:book:899</id>
+    <updated>2020-08-09T00:59:05Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Guido%20Chari%2C%20Javier%20Pimas%2C%20Jan%20Vitek/Self-Contained%20Development%20Environments%20%28899%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Guido%20Chari%2C%20Javier%20Pimas%2C%20Jan%20Vitek/Self-Contained%20Development%20Environments%20%28899%29/Self-Contained%20Development%20Environments%20-%20Guido%20Chari%2C%20Javier%20Pimas%2C%20Jan%20Vitek.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Guido Chari, Javier Pimás, Jan Vitek</name>
+      <uri>../author_0/author_697_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Olivier Flückiger</name>
+      <uri>../author_0/author_698_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <category term="- Software and its engineering -&gt; Operating systems; Virtual machines;" />
+    <category term="Managed Languages" />
+    <category term="High-Level System Programming" />
+    <category term="Operating Systems" />
+    <link href="../book_0/book_899.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Selfish Gene</title>
+    <id>calibre:book:38</id>
+    <updated>2020-03-28T07:10:34Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Richard%20Dawkins/The%20Selfish%20Gene%20%2838%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Richard%20Dawkins/The%20Selfish%20Gene%20%2838%29/The%20Selfish%20Gene%20-%20Richard%20Dawkins.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Richard%20Dawkins/The%20Selfish%20Gene%20%2838%29/The%20Selfish%20Gene%20-%20Richard%20Dawkins.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Richard%20Dawkins/The%20Selfish%20Gene%20%2838%29/The%20Selfish%20Gene%20-%20Richard%20Dawkins.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Richard Dawkins</name>
+      <uri>../author_0/author_34_Page_1.xml</uri>
+    </author>
+    <published>2006-05-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Oxford University Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_38.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sex at Dawn: How We Mate, Why We Stray, and What It Means for Modern Relationships</title>
+    <id>calibre:book:57</id>
+    <updated>2020-03-28T07:06:54Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Christopher%20Ryan%2C%20Cacilda%20Jetha/Sex%20at%20Dawn_%20How%20We%20Mate%2C%20Why%20We%20Stray%2C%20and%20What%20It%20Means%20for%20Modern%20Relationships%20%2857%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Christopher%20Ryan%2C%20Cacilda%20Jetha/Sex%20at%20Dawn_%20How%20We%20Mate%2C%20Why%20We%20Stray%2C%20and%20What%20It%20Means%20for%20Modern%20Relationships%20%2857%29/Sex%20at%20Dawn_%20How%20We%20Mate%2C%20Why%20We%20Stray%2C%20an%20-%20Christopher%20Ryan%2C%20Cacilda%20Jetha.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Christopher%20Ryan%2C%20Cacilda%20Jetha/Sex%20at%20Dawn_%20How%20We%20Mate%2C%20Why%20We%20Stray%2C%20and%20What%20It%20Means%20for%20Modern%20Relationships%20%2857%29/Sex%20at%20Dawn_%20How%20We%20Mate%2C%20Why%20We%20Stray%2C%20an%20-%20Christopher%20Ryan%2C%20Cacilda%20Jetha.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Christopher%20Ryan%2C%20Cacilda%20Jetha/Sex%20at%20Dawn_%20How%20We%20Mate%2C%20Why%20We%20Stray%2C%20and%20What%20It%20Means%20for%20Modern%20Relationships%20%2857%29/Sex%20at%20Dawn_%20How%20We%20Mate%2C%20Why%20We%20Stray%2C%20an%20-%20Christopher%20Ryan%2C%20Cacilda%20Jetha.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Christopher Ryan, Cacilda Jetha</name>
+      <uri>../author_0/author_486_Page_1.xml</uri>
+    </author>
+    <published>2012-03-27T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Harper Perennial</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Since Darwin's day, we've been told that sexual monogamy comes naturally to our species. Mainstream science—as well as religious and cultural institutions—has maintained that men and women evolved in families in which a man's possessions and protecti...</summary>
+    <link href="../book_0/book_57.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Short-Cut Math</title>
+    <id>calibre:book:554</id>
+    <updated>2020-03-28T07:28:00Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Gerard%20W.%20Kelly/Short-Cut%20Math%20%28554%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Gerard%20W.%20Kelly/Short-Cut%20Math%20%28554%29/Short-Cut%20Math%20-%20Gerard%20W.%20Kelly.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Gerard%20W.%20Kelly/Short-Cut%20Math%20%28554%29/Short-Cut%20Math%20-%20Gerard%20W.%20Kelly.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Gerard W. Kelly</name>
+      <uri>../author_0/author_311_Page_1.xml</uri>
+    </author>
+    <published>2012-07-17T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Dover Publications</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_554.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Should I Stay or Should I Go?</title>
+    <id>calibre:book:846</id>
+    <updated>2020-07-09T01:08:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Ramani%20Durvasula/Should%20I%20Stay%20or%20Should%20I%20Go_%20%28846%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Ramani%20Durvasula/Should%20I%20Stay%20or%20Should%20I%20Go_%20%28846%29/Should%20I%20Stay%20or%20Should%20I%20Go_%20-%20Ramani%20Durvasula.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Ramani%20Durvasula/Should%20I%20Stay%20or%20Should%20I%20Go_%20%28846%29/Should%20I%20Stay%20or%20Should%20I%20Go_%20-%20Ramani%20Durvasula.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Ramani Durvasula</name>
+      <uri>../author_0/author_626_Page_1.xml</uri>
+    </author>
+    <published>2015-10-05T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Post Hill Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Narcissism is a modern epidemic, and it's spreading rapidly. But how do you know if you are in a relationship with one—and, what can you do about it? We live in a world of romance and rescue, where many believe love will conquer all, and that the mor...</summary>
+    <link href="../book_0/book_846.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Side Hustle</title>
+    <id>calibre:book:595</id>
+    <updated>2020-03-28T07:23:18Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Chris%20Guillebeau/Side%20Hustle%20%28595%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Chris%20Guillebeau/Side%20Hustle%20%28595%29/Side%20Hustle%20-%20Chris%20Guillebeau.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Chris%20Guillebeau/Side%20Hustle%20%28595%29/Side%20Hustle%20-%20Chris%20Guillebeau.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Chris Guillebeau</name>
+      <uri>../author_0/author_358_Page_1.xml</uri>
+    </author>
+    <published>2017-09-19T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>The Crown Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>The author of the New York Times Bestseller THE $100 STARTUP, shows how to launch a profitable side hustle in just 27 days. To some, the idea of quitting their day job to start a business is exhilarating. For others, it's terrifying. After all, a job...</summary>
+    <link href="../book_0/book_595.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Signal and the Noise: Why So Many Predictions Fail-but Some Don't</title>
+    <id>calibre:book:4</id>
+    <updated>2020-03-28T07:50:12Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Nate%20Silver/The%20Signal%20and%20the%20Noise_%20Why%20So%20Many%20Predictions%20Fail-but%20Some%20Don%27t%20%284%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Nate%20Silver/The%20Signal%20and%20the%20Noise_%20Why%20So%20Many%20Predictions%20Fail-but%20Some%20Don%27t%20%284%29/The%20Signal%20and%20the%20Noise_%20Why%20So%20Many%20Pred%20-%20Nate%20Silver.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Nate%20Silver/The%20Signal%20and%20the%20Noise_%20Why%20So%20Many%20Predictions%20Fail-but%20Some%20Don%27t%20%284%29/The%20Signal%20and%20the%20Noise_%20Why%20So%20Many%20Pred%20-%20Nate%20Silver.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Nate%20Silver/The%20Signal%20and%20the%20Noise_%20Why%20So%20Many%20Predictions%20Fail-but%20Some%20Don%27t%20%284%29/The%20Signal%20and%20the%20Noise_%20Why%20So%20Many%20Pred%20-%20Nate%20Silver.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Nate Silver</name>
+      <uri>../author_0/author_488_Page_1.xml</uri>
+    </author>
+    <published>2012-09-27T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_4.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Silence on the Wire</title>
+    <id>calibre:book:693</id>
+    <updated>2020-03-28T07:33:36Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Michal%20Zalewski/Silence%20on%20the%20Wire%20%28693%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Michal%20Zalewski/Silence%20on%20the%20Wire%20%28693%29/Silence%20on%20the%20Wire%20-%20Michal%20Zalewski.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Michal%20Zalewski/Silence%20on%20the%20Wire%20%28693%29/Silence%20on%20the%20Wire%20-%20Michal%20Zalewski.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Michal Zalewski</name>
+      <uri>../author_0/author_439_Page_1.xml</uri>
+    </author>
+    <published>2005-04-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>No Starch Press</dcterms:publisher>
+    <category term="COMPUTERS / Security / General" />
+    <category term="Lang:en" />
+    <summary>Author Michal Zalewski is respected in the hacking and security communities for his\n intelligence, curiosity and creativity, and this book is truly unlike anything else.\n Silence on the Wire is no humdrum white paper or how-to manual for protecting...</summary>
+    <link href="../book_0/book_693.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Skin in the Game</title>
+    <id>calibre:book:31</id>
+    <updated>2020-03-28T08:00:16Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Nassim%20Nicholas%20Taleb/Skin%20in%20the%20Game%20%2831%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Nassim%20Nicholas%20Taleb/Skin%20in%20the%20Game%20%2831%29/Skin%20in%20the%20Game%20-%20Nassim%20Nicholas%20Taleb.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Nassim%20Nicholas%20Taleb/Skin%20in%20the%20Game%20%2831%29/Skin%20in%20the%20Game%20-%20Nassim%20Nicholas%20Taleb.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Nassim%20Nicholas%20Taleb/Skin%20in%20the%20Game%20%2831%29/Skin%20in%20the%20Game%20-%20Nassim%20Nicholas%20Taleb.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Nassim Nicholas Taleb</name>
+      <uri>../author_0/author_19_Page_1.xml</uri>
+    </author>
+    <published>2018-02-27T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>From the New York Times bestselling author of The Black Swan, a bold new work that challenges many of our long-held beliefs about risk and reward, politics and religion, finance and personal responsibility  In his most provocative and practical book ...</summary>
+    <link href="../book_0/book_31.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Slaughterhouse-Five</title>
+    <id>calibre:book:696</id>
+    <updated>2020-03-28T08:03:44Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Kurt%20Vonnegut/Slaughterhouse-Five%20%28696%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Kurt%20Vonnegut/Slaughterhouse-Five%20%28696%29/Slaughterhouse-Five%20-%20Kurt%20Vonnegut.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Kurt%20Vonnegut/Slaughterhouse-Five%20%28696%29/Slaughterhouse-Five%20-%20Kurt%20Vonnegut.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Kurt Vonnegut</name>
+      <uri>../author_0/author_317_Page_1.xml</uri>
+    </author>
+    <published>2008-12-31T06:30:00Z</published>
+    <dcterms:publisher>Random House Publishing Group</dcterms:publisher>
+    <category term="Fiction" />
+    <link href="../book_0/book_696.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Sling and the Stone</title>
+    <id>calibre:book:506</id>
+    <updated>2020-03-28T07:23:02Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Thomas%20X.%20Hammes/The%20Sling%20and%20the%20Stone%20%28506%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Thomas%20X.%20Hammes/The%20Sling%20and%20the%20Stone%20%28506%29/The%20Sling%20and%20the%20Stone%20-%20Thomas%20X.%20Hammes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Thomas%20X.%20Hammes/The%20Sling%20and%20the%20Stone%20%28506%29/The%20Sling%20and%20the%20Stone%20-%20Thomas%20X.%20Hammes.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Thomas%20X.%20Hammes/The%20Sling%20and%20the%20Stone%20%28506%29/The%20Sling%20and%20the%20Stone%20-%20Thomas%20X.%20Hammes.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Thomas X. Hammes</name>
+      <uri>../author_0/author_257_Page_1.xml</uri>
+    </author>
+    <published>2010-08-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>MBI</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>4GW (Fourth Generation Warfare) is the only kind of war America has ever lost. And we have done so three times &amp;#8211; in Vietnam, Lebanon, and Somalia. This form of warfare has also defeated the French in Vietnam and Algeria, and the USSR in Afghani...</summary>
+    <link href="../book_0/book_506.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Smart Beta- Not New Not Beta Still Awesome</title>
+    <id>calibre:book:539</id>
+    <updated>2020-03-29T01:48:48Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/AQR/Smart%20Beta-%20Not%20New%20Not%20Beta%20Still%20Awesome%20%28539%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/AQR/Smart%20Beta-%20Not%20New%20Not%20Beta%20Still%20Awesome%20%28539%29/Smart%20Beta-%20Not%20New%20Not%20Beta%20Still%20Awesome%20-%20AQR.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/AQR/Smart%20Beta-%20Not%20New%20Not%20Beta%20Still%20Awesome%20%28539%29/Smart%20Beta-%20Not%20New%20Not%20Beta%20Still%20Awesome%20-%20AQR.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>AQR</name>
+      <uri>../author_0/author_518_Page_1.xml</uri>
+    </author>
+    <published>2014-09-12T06:26:30Z</published>
+    <link href="../book_0/book_539.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love</title>
+    <id>calibre:book:170</id>
+    <updated>2019-12-07T00:47:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Cal%20Newport/So%20Good%20They%20Can%27t%20Ignore%20You_%20Why%20Skills%20Trump%20Passion%20in%20the%20Quest%20for%20Work%20You%20Love%20%28170%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Cal%20Newport/So%20Good%20They%20Can%27t%20Ignore%20You_%20Why%20Skills%20Trump%20Passion%20in%20the%20Quest%20for%20Work%20You%20Love%20%28170%29/So%20Good%20They%20Can%27t%20Ignore%20You_%20Why%20Skills%20-%20Cal%20Newport.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Cal%20Newport/So%20Good%20They%20Can%27t%20Ignore%20You_%20Why%20Skills%20Trump%20Passion%20in%20the%20Quest%20for%20Work%20You%20Love%20%28170%29/So%20Good%20They%20Can%27t%20Ignore%20You_%20Why%20Skills%20-%20Cal%20Newport.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Cal%20Newport/So%20Good%20They%20Can%27t%20Ignore%20You_%20Why%20Skills%20Trump%20Passion%20in%20the%20Quest%20for%20Work%20You%20Love%20%28170%29/So%20Good%20They%20Can%27t%20Ignore%20You_%20Why%20Skills%20-%20Cal%20Newport.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Cal Newport</name>
+      <uri>../author_0/author_197_Page_1.xml</uri>
+    </author>
+    <published>2012-09-17T06:30:00Z</published>
+    <category term="Business &amp; Economics / Careers - Job Hunting" />
+    <link href="../book_0/book_170.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>So You Want to Talk About Race</title>
+    <id>calibre:book:646</id>
+    <updated>2020-03-28T07:38:16Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Ijeoma%20Oluo/So%20You%20Want%20to%20Talk%20About%20Race%20%28646%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Ijeoma%20Oluo/So%20You%20Want%20to%20Talk%20About%20Race%20%28646%29/So%20You%20Want%20to%20Talk%20About%20Race%20-%20Ijeoma%20Oluo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Ijeoma%20Oluo/So%20You%20Want%20to%20Talk%20About%20Race%20%28646%29/So%20You%20Want%20to%20Talk%20About%20Race%20-%20Ijeoma%20Oluo.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Ijeoma Oluo</name>
+      <uri>../author_0/author_397_Page_1.xml</uri>
+    </author>
+    <published>2018-01-16T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Seal Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_646.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Software Engineering at Google</title>
+    <id>calibre:book:921</id>
+    <updated>2020-08-10T11:46:58Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Titus%20Winters/Software%20Engineering%20at%20Google%20%28921%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Titus%20Winters/Software%20Engineering%20at%20Google%20%28921%29/Software%20Engineering%20at%20Google%20-%20Titus%20Winters.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Titus%20Winters/Software%20Engineering%20at%20Google%20%28921%29/Software%20Engineering%20at%20Google%20-%20Titus%20Winters.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Titus Winters</name>
+      <uri>../author_0/author_730_Page_1.xml</uri>
+    </author>
+    <published>2020-02-28T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>O'Reilly Media</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Today, software engineers need to know not only how to program effectively but also how to develop proper engineering practices to make their codebase sustainable and healthy. This book emphasizes this difference between programming and software engi...</summary>
+    <link href="../book_0/book_921.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Song of Solomon</title>
+    <id>calibre:book:516</id>
+    <updated>2020-03-28T07:34:42Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Toni%20Morrison/Song%20of%20Solomon%20%28516%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Toni%20Morrison/Song%20of%20Solomon%20%28516%29/Song%20of%20Solomon%20-%20Toni%20Morrison.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Toni%20Morrison/Song%20of%20Solomon%20%28516%29/Song%20of%20Solomon%20-%20Toni%20Morrison.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Toni%20Morrison/Song%20of%20Solomon%20%28516%29/Song%20of%20Solomon%20-%20Toni%20Morrison.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Toni Morrison</name>
+      <uri>../author_0/author_266_Page_1.xml</uri>
+    </author>
+    <published>2004-02-26T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Knopf Doubleday Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_516.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sorting Things Out Classification &amp; Its Consequences</title>
+    <id>calibre:book:549</id>
+    <updated>2019-12-07T00:47:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Geoffrey%20C.%20Bowker%2C%20Susan%20Leigh%20Star/Sorting%20Things%20Out%20Classification%20%26%20Its%20Consequences%20%28549%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Geoffrey%20C.%20Bowker%2C%20Susan%20Leigh%20Star/Sorting%20Things%20Out%20Classification%20%26%20Its%20Consequences%20%28549%29/Sorting%20Things%20Out%20Classification%20%26%20Its%20Co%20-%20Geoffrey%20C.%20Bowker%2C%20Susan%20Leigh%20Star.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Geoffrey%20C.%20Bowker%2C%20Susan%20Leigh%20Star/Sorting%20Things%20Out%20Classification%20%26%20Its%20Consequences%20%28549%29/Sorting%20Things%20Out%20Classification%20%26%20Its%20Co%20-%20Geoffrey%20C.%20Bowker%2C%20Susan%20Leigh%20Star.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Geoffrey%20C.%20Bowker%2C%20Susan%20Leigh%20Star/Sorting%20Things%20Out%20Classification%20%26%20Its%20Consequences%20%28549%29/Sorting%20Things%20Out%20Classification%20%26%20Its%20Co%20-%20Geoffrey%20C.%20Bowker%2C%20Susan%20Leigh%20Star.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Geoffrey C. Bowker, Susan Leigh Star</name>
+      <uri>../author_0/author_307_Page_1.xml</uri>
+    </author>
+    <published>1998-12-31T06:30:00Z</published>
+    <dcterms:publisher>MIT Press</dcterms:publisher>
+    <link href="../book_0/book_549.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Start Small, Stay Small: A Developer’s Guide to Launching a Startup</title>
+    <id>calibre:book:795</id>
+    <updated>2020-05-09T00:34:48Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Walling%2C%20Rob/Start%20Small%2C%20Stay%20Small_%20A%20Developer%27s%20Guide%20to%20Launching%20a%20Startup%20%28795%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Walling%2C%20Rob/Start%20Small%2C%20Stay%20Small_%20A%20Developer%27s%20Guide%20to%20Launching%20a%20Startup%20%28795%29/Start%20Small%2C%20Stay%20Small_%20A%20Developer%27s%20Gui%20-%20Walling%2C%20Rob.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Walling%2C%20Rob/Start%20Small%2C%20Stay%20Small_%20A%20Developer%27s%20Guide%20to%20Launching%20a%20Startup%20%28795%29/Start%20Small%2C%20Stay%20Small_%20A%20Developer%27s%20Gui%20-%20Walling%2C%20Rob.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Walling, Rob</name>
+      <uri>../author_0/author_579_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Taber, Mike</name>
+      <uri>../author_0/author_580_Page_1.xml</uri>
+    </author>
+    <published>2010-08-03T02:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>The Numa Group, LLC</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_795.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Statistical Consequences of fat tails</title>
+    <id>calibre:book:710</id>
+    <updated>2020-03-28T11:32:40Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Nassim%20Nicholas%20Taleb/Statistical%20Consequences%20of%20fat%20tails%20%28710%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Nassim%20Nicholas%20Taleb/Statistical%20Consequences%20of%20fat%20tails%20%28710%29/Statistical%20Consequences%20of%20fat%20tails%20-%20Nassim%20Nicholas%20Taleb.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Nassim Nicholas Taleb</name>
+      <uri>../author_0/author_19_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_710.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Strangers to ourselves: discovering the adaptive unconscious</title>
+    <id>calibre:book:34</id>
+    <updated>2019-12-07T00:47:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Timothy%20D%20Wilson/Strangers%20to%20ourselves_%20discovering%20the%20adaptive%20unconscious%20%2834%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Timothy%20D%20Wilson/Strangers%20to%20ourselves_%20discovering%20the%20adaptive%20unconscious%20%2834%29/Strangers%20to%20ourselves_%20discovering%20the%20ad%20-%20Timothy%20D%20Wilson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Timothy%20D%20Wilson/Strangers%20to%20ourselves_%20discovering%20the%20adaptive%20unconscious%20%2834%29/Strangers%20to%20ourselves_%20discovering%20the%20ad%20-%20Timothy%20D%20Wilson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Timothy%20D%20Wilson/Strangers%20to%20ourselves_%20discovering%20the%20adaptive%20unconscious%20%2834%29/Strangers%20to%20ourselves_%20discovering%20the%20ad%20-%20Timothy%20D%20Wilson.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Timothy D Wilson</name>
+      <uri>../author_0/author_31_Page_1.xml</uri>
+    </author>
+    <published>2004-08-03T01:52:10Z</published>
+    <link href="../book_0/book_34.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Strategy</title>
+    <id>calibre:book:424</id>
+    <updated>2020-03-28T07:21:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Freedman%2C%20Lawrence/Strategy%20%28424%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Freedman%2C%20Lawrence/Strategy%20%28424%29/Strategy%20-%20Freedman%2C%20Lawrence.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Freedman%2C%20Lawrence/Strategy%20%28424%29/Strategy%20-%20Freedman%2C%20Lawrence.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Freedman%2C%20Lawrence/Strategy%20%28424%29/Strategy%20-%20Freedman%2C%20Lawrence.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Freedman, Lawrence</name>
+      <uri>../author_0/author_170_Page_1.xml</uri>
+    </author>
+    <published>2013-08-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Oxford University Press, USA</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_424.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Street-Fighting Mathematics</title>
+    <id>calibre:book:600</id>
+    <updated>2020-03-06T09:42:50Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Sanjoy%20Mahajan/Street-Fighting%20Mathematics%20%28600%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Sanjoy%20Mahajan/Street-Fighting%20Mathematics%20%28600%29/Street-Fighting%20Mathematics%20-%20Sanjoy%20Mahajan.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Sanjoy Mahajan</name>
+      <uri>../author_0/author_363_Page_1.xml</uri>
+    </author>
+    <published>2010-03-03T03:05:05Z</published>
+    <link href="../book_0/book_600.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Stumbling on Happiness ****</title>
+    <id>calibre:book:581</id>
+    <updated>2019-12-07T00:47:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Daniel%20Gilbert/Stumbling%20on%20Happiness%20%28581%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Daniel%20Gilbert/Stumbling%20on%20Happiness%20%28581%29/Stumbling%20on%20Happiness%20-%20Daniel%20Gilbert.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Daniel Gilbert</name>
+      <uri>../author_0/author_151_Page_1.xml</uri>
+    </author>
+    <published>2009-02-23T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Vintage Canada</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>A smart and funny book by a prominent Harvard psychologist, which uses groundbreaking research and (often hilarious) anecdotes to show us why we’re so lousy at predicting what will make us happy – and what we can do about it. 
+Most of us spend our l...</summary>
+    <link href="../book_0/book_581.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Stumbling on Happiness</title>
+    <id>calibre:book:404</id>
+    <updated>2020-03-28T07:20:38Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Daniel%20Gilbert/Stumbling%20on%20Happiness%20%28404%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Daniel%20Gilbert/Stumbling%20on%20Happiness%20%28404%29/Stumbling%20on%20Happiness%20-%20Daniel%20Gilbert.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Daniel%20Gilbert/Stumbling%20on%20Happiness%20%28404%29/Stumbling%20on%20Happiness%20-%20Daniel%20Gilbert.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Daniel%20Gilbert/Stumbling%20on%20Happiness%20%28404%29/Stumbling%20on%20Happiness%20-%20Daniel%20Gilbert.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Daniel Gilbert</name>
+      <uri>../author_0/author_151_Page_1.xml</uri>
+    </author>
+    <published>2006-05-02T07:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Knopf Doubleday Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_404.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Subtle Art of Not Giving a F*ck</title>
+    <id>calibre:book:2</id>
+    <updated>2020-03-28T07:31:12Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Mark%20Manson/The%20Subtle%20Art%20of%20Not%20Giving%20a%20F_ck%20%282%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Mark%20Manson/The%20Subtle%20Art%20of%20Not%20Giving%20a%20F_ck%20%282%29/The%20Subtle%20Art%20of%20Not%20Giving%20a%20F_ck%20-%20Mark%20Manson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Mark%20Manson/The%20Subtle%20Art%20of%20Not%20Giving%20a%20F_ck%20%282%29/The%20Subtle%20Art%20of%20Not%20Giving%20a%20F_ck%20-%20Mark%20Manson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Mark%20Manson/The%20Subtle%20Art%20of%20Not%20Giving%20a%20F_ck%20%282%29/The%20Subtle%20Art%20of%20Not%20Giving%20a%20F_ck%20-%20Mark%20Manson.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Mark Manson</name>
+      <uri>../author_0/author_2_Page_1.xml</uri>
+    </author>
+    <published>2016-08-08T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>In this generation-defining self-help guide, a superstar blogger cuts through the crap to show us how to stop trying to be "positive" all the time so that we can truly become better, happier people.For decades, we've been told that positive thinking ...</summary>
+    <link href="../book_0/book_2.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Summa Theologica: Complete Edition</title>
+    <id>calibre:book:428</id>
+    <updated>2020-03-28T07:18:02Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Saint%20Thomas%20Aquinas/The%20Summa%20Theologica_%20Complete%20Edition%20%28428%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Saint%20Thomas%20Aquinas/The%20Summa%20Theologica_%20Complete%20Edition%20%28428%29/The%20Summa%20Theologica_%20Complete%20Edition%20-%20Saint%20Thomas%20Aquinas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Saint%20Thomas%20Aquinas/The%20Summa%20Theologica_%20Complete%20Edition%20%28428%29/The%20Summa%20Theologica_%20Complete%20Edition%20-%20Saint%20Thomas%20Aquinas.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Saint Thomas Aquinas</name>
+      <uri>../author_0/author_174_Page_1.xml</uri>
+    </author>
+    <published>2014-07-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Catholic Way Publishing</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_428.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Superforecasting</title>
+    <id>calibre:book:55</id>
+    <updated>2020-03-28T08:01:42Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Philip%20E.%20Tetlock/Superforecasting%20%2855%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Philip%20E.%20Tetlock/Superforecasting%20%2855%29/Superforecasting%20-%20Philip%20E.%20Tetlock.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Philip%20E.%20Tetlock/Superforecasting%20%2855%29/Superforecasting%20-%20Philip%20E.%20Tetlock.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Philip%20E.%20Tetlock/Superforecasting%20%2855%29/Superforecasting%20-%20Philip%20E.%20Tetlock.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Philip E. Tetlock</name>
+      <uri>../author_0/author_45_Page_1.xml</uri>
+    </author>
+    <published>2015-09-29T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Crown/Archetype</dcterms:publisher>
+    <category term="Data Science" />
+    <category term="Lang:en" />
+    <summary>From one of the world's most highly regarded social scientists, a transformative book on the habits of mind that lead to the best predictions   Everyone would benefit from seeing further into the future, whether buying stocks, crafting policy, launch...</summary>
+    <link href="../book_0/book_55.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Superintelligence: Paths, Dangers, Strategies</title>
+    <id>calibre:book:17</id>
+    <updated>2020-03-28T07:03:38Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Nick%20Bostrom/Superintelligence_%20Paths%2C%20Dangers%2C%20Strategies%20%2817%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Nick%20Bostrom/Superintelligence_%20Paths%2C%20Dangers%2C%20Strategies%20%2817%29/Superintelligence_%20Paths%2C%20Dangers%2C%20Strateg%20-%20Nick%20Bostrom.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Nick%20Bostrom/Superintelligence_%20Paths%2C%20Dangers%2C%20Strategies%20%2817%29/Superintelligence_%20Paths%2C%20Dangers%2C%20Strateg%20-%20Nick%20Bostrom.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Nick%20Bostrom/Superintelligence_%20Paths%2C%20Dangers%2C%20Strategies%20%2817%29/Superintelligence_%20Paths%2C%20Dangers%2C%20Strateg%20-%20Nick%20Bostrom.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Nick Bostrom</name>
+      <uri>../author_0/author_16_Page_1.xml</uri>
+    </author>
+    <published>2014-07-02T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Oxford University Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_17.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Survival of the Prettiest: The Science of Beauty</title>
+    <id>calibre:book:459</id>
+    <updated>2020-03-28T07:15:30Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Nancy%20Etcoff/Survival%20of%20the%20Prettiest_%20The%20Science%20of%20Beauty%20%28459%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Nancy%20Etcoff/Survival%20of%20the%20Prettiest_%20The%20Science%20of%20Beauty%20%28459%29/Survival%20of%20the%20Prettiest_%20The%20Science%20of%20-%20Nancy%20Etcoff.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Nancy%20Etcoff/Survival%20of%20the%20Prettiest_%20The%20Science%20of%20Beauty%20%28459%29/Survival%20of%20the%20Prettiest_%20The%20Science%20of%20-%20Nancy%20Etcoff.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Nancy%20Etcoff/Survival%20of%20the%20Prettiest_%20The%20Science%20of%20Beauty%20%28459%29/Survival%20of%20the%20Prettiest_%20The%20Science%20of%20-%20Nancy%20Etcoff.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Nancy Etcoff</name>
+      <uri>../author_0/author_188_Page_1.xml</uri>
+    </author>
+    <published>2011-02-01T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Knopf Doubleday Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_459.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Swipe to Unlock: The Non-Coder’s Guide to Technology and the Business Strategy Behind It</title>
+    <id>calibre:book:902</id>
+    <updated>2020-08-09T00:59:05Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Parth%20Detroja/Swipe%20to%20Unlock_%20The%20Non-Coder%27s%20Guide%20to%20Technology%20and%20the%20Business%20Strategy%20Behind%20It%20%28902%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Parth%20Detroja/Swipe%20to%20Unlock_%20The%20Non-Coder%27s%20Guide%20to%20Technology%20and%20the%20Business%20Strategy%20Behind%20It%20%28902%29/Swipe%20to%20Unlock_%20The%20Non-Coder%27s%20Guide%20to%20-%20Parth%20Detroja.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Parth Detroja</name>
+      <uri>../author_0/author_700_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Neel Mehta</name>
+      <uri>../author_0/author_701_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Aditya Agashe</name>
+      <uri>../author_0/author_702_Page_1.xml</uri>
+    </author>
+    <published>2017-09-18T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <link href="../book_0/book_902.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Systemantics: How Systems Work and Especially How They Fail *****</title>
+    <id>calibre:book:625</id>
+    <updated>2020-03-28T11:32:30Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/John%20Gall/Systemantics_%20How%20Systems%20Work%20and%20Especially%20How%20They%20Fail%20%28625%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/John%20Gall/Systemantics_%20How%20Systems%20Work%20and%20Especially%20How%20They%20Fail%20%28625%29/Systemantics_%20How%20Systems%20Work%20and%20Especia%20-%20John%20Gall.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>John Gall</name>
+      <uri>../author_0/author_471_Page_1.xml</uri>
+    </author>
+    <published>1977-05-11T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Quadrangle</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Hardcover published by Quadragle/The New York Times Book Co., third printing, August 1977, copyright 1975. **</summary>
+    <link href="../book_0/book_625.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The sad state of personal data and infrastructure</title>
+    <id>calibre:book:804</id>
+    <updated>2020-05-09T00:36:10Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/beepb00p/The%20sad%20state%20of%20personal%20data%20and%20infrastructure%20%28804%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/beepb00p/The%20sad%20state%20of%20personal%20data%20and%20infrastructure%20%28804%29/The%20sad%20state%20of%20personal%20data%20and%20infrast%20-%20beepb00p.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>beepb00p</name>
+      <uri>../author_0/author_786_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <link href="../book_0/book_804.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The society of mind</title>
+    <id>calibre:book:37</id>
+    <updated>2019-12-07T00:47:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Marvin%20Minsky/The%20society%20of%20mind%20%2837%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Marvin%20Minsky/The%20society%20of%20mind%20%2837%29/The%20society%20of%20mind%20-%20Marvin%20Minsky.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Marvin Minsky</name>
+      <uri>../author_0/author_231_Page_1.xml</uri>
+    </author>
+    <published>1988-12-14T02:29:55Z</published>
+    <dcterms:publisher>Simon &amp; Schuster</dcterms:publisher>
+    <link href="../book_0/book_37.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

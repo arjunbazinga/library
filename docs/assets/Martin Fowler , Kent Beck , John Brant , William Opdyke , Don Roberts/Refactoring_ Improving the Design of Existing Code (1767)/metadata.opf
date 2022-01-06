@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1767</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ea25af64-5bc7-42f8-93ac-ab3f92295d41</dc:identifier>
+        <dc:title>Refactoring: Improving the Design of Existing Code</dc:title>
+        <dc:creator opf:file-as="Martin Fowler , Kent Beck , John Brant , William Opdyke , Don Roberts" opf:role="aut">Martin Fowler , Kent Beck , John Brant , William Opdyke , Don Roberts</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-09T11:01:31+00:00</dc:date>
+        <dc:description>As the application of object technology--particularly the Java programming language--has become commonplace, a new problem has emerged to confront the software development community. Significant numbers of poorly designed programs have been created by less-experienced developers, resulting in applications that are inefficient and hard to maintain and extend. Increasingly, software system professionals are discovering just how difficult it is to work with these inherited, "non-optimal" applications. For several years, expert-level object programmers have employed a growing collection of techniques to improve the structural integrity and performance of such existing software programs. Referred to as "refactoring," these practices have remained in the domain of experts because no attempt has been made to transcribe the lore into a form that all developers could use. . .until now. In  Refactoring: Improving the Design of Existing Code,  renowned object technology mentor Martin Fowler breaks new ground, demystifying these master practices and demonstrating how software practitioners can realize the significant benefits of this new process.    With proper training a skilled system designer can take a bad design and rework it into well-designed, robust code. In this book, Martin Fowler shows you where opportunities for refactoring typically can be found, and how to go about reworking a bad design into a good one. Each refactoring step is simple--seemingly too simple to be worth doing. Refactoring may involve moving a field from one class to another, or pulling some code out of a method to turn it into its own method, or even pushing some code up or down a hierarchy. While these individual steps may seem elementary, the cumulative effect of such small changes can radically improve the design. Refactoring is a proven way to prevent software decay.    In addition to discussing the various techniques of refactoring, the author provides a detailed catalog of more than seventy proven refactorings with helpful pointers that teach you when to apply them; step-by-step instructions for applying each refactoring; and an example illustrating how the refactoring works. The illustrative examples are written in Java, but the ideas are applicable to any object-oriented programming language.</dc:description>
+        <dc:publisher>Addison-Wesley</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780133065268</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">HmrDHwgkbPsC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Object Oriented</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Martin Fowler , Kent Beck , John Brant , William Opdyke , Don Roberts&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-11-05T10:57:42+00:00"/>
+        <meta name="calibre:title_sort" content="Refactoring: Improving the Design of Existing Code"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

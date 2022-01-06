@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">739</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f9a475b7-b351-4e75-8096-4b2d6d9fb181</dc:identifier>
+        <dc:title>The Misbehavior of Markets</dc:title>
+        <dc:creator opf:file-as="Mandelbrot, Benoit" opf:role="aut">Benoit Mandelbrot</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-23T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;From the inventor/founder of fractal geometry, the award-winning book that turns modern financial theory on its head.</dc:description>
+        <dc:publisher>Basic Books</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Benoit Mandelbrot&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:46+00:00"/>
+        <meta name="calibre:title_sort" content="Misbehavior of Markets, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1221</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e39bb96d-b64a-4f52-b526-66667e8dab8e</dc:identifier>
+        <dc:title>Powerful</dc:title>
+        <dc:creator opf:file-as="McCord, Patty" opf:role="aut">Patty McCord</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-04-14T18:30:00+00:00</dc:date>
+        <dc:description>When it comes to recruiting, motivating, and creating great teams, Patty McCord says most companies have it all wrong. McCord helped create the unique and high-performing culture at Netflix, where she was chief talent officer. In her new book, &lt;I&gt;Powerful: Building a Culture of Freedom and Responsibility,&lt;/I&gt; she shares what she learned there and elsewhere in Silicon Valley. &lt;br&gt; McCord advocates practicing radical honesty in the workplace, saying good-bye to employees who don't fit the company's emerging needs, and motivating with challenging work, not promises, perks, and bonus plans. McCord argues that the old standbys of corporate HR&amp;#8212;annual performance reviews, retention plans, employee empowerment and engagement programs&amp;#8212;often end up being a colossal waste of time and resources. Her road-tested advice, offered with humor and irreverence, provides readers a different path for creating a culture of high performance and profitability. &lt;br&gt; &lt;I&gt;Powerful&lt;/i&gt; will change...</dc:description>
+        <dc:publisher>Missionday, LLC</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Patty McCord&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-04-25T06:55:53+00:00"/>
+        <meta name="calibre:title_sort" content="Powerful"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

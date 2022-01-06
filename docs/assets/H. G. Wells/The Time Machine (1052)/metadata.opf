@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1052</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8742478c-8261-42e9-be6f-96d007aee90f</dc:identifier>
+        <dc:title>The Time Machine</dc:title>
+        <dc:creator opf:file-as="Wells, H. G." opf:role="aut">H. G. Wells</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1995-04-02T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;English novelist, historian and science writer Herbert George Wells (1866-1946) abandoned teaching and launched his literary career with a series of highly successful science-fiction novels. 'The Time Machine' was the first of a number of these imaginative literary inventions. The novel follows the adventures of a hypothetical Time Traveller who journeys into the future to find that humanity has evolved inro 2 races - the vegetarians (Eloi) and the carnivorous (Morlocks). While the novel iss underpinned with both Darwinian and Marxist theory, it also succeeds as an exciting blend of adventure and pseudo-scientific romance. Sure to delight lovers of fantastic and bizarre, it is a book that belongs on the shelf orf every science-fiction fan.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Courier Corporation</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780486284729</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">51aMCgAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0553213512</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Time Travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. G. Wells&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-10-18T12:06:33+00:00"/>
+        <meta name="calibre:title_sort" content="Time Machine, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

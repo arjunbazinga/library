@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">873</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eb4dfed3-fdc1-4898-856a-833a15a79ea9</dc:identifier>
+        <dc:title>Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale</dc:title>
+        <dc:creator opf:file-as="Narkhede, Neha" opf:role="aut">Neha Narkhede</dc:creator>
+        <dc:creator opf:file-as="Narkhede, Neha" opf:role="aut">Gwen Shapira</dc:creator>
+        <dc:creator opf:file-as="Narkhede, Neha" opf:role="aut">Todd Palino</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-08-30T21:00:00+00:00</dc:date>
+        <dc:description>Learn how to take full advantage of Apache Kafka, the distributed, publish/subscribe queue for handling real-time data feeds. With this comprehensive book, you’ll understand how Kafka works and how it’s designed. Authors Neha Narkhede, Gwen Shapira, and Todd Palino show you how to deploy production Kafka clusters; secure, tune, and monitor them; write rock-solid applications that use Kafka; and build scalable stream-processing applications.</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0758ZYVVN</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Neha Narkhede&quot;: &quot;&quot;, &quot;Gwen Shapira&quot;: &quot;&quot;, &quot;Todd Palino&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-07-24T12:24:12+00:00"/>
+        <meta name="calibre:title_sort" content="Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

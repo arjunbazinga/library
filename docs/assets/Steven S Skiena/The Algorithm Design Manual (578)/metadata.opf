@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">578</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">758686c2-5f53-4269-ac86-6d8a48f333b8</dc:identifier>
+        <dc:title>The Algorithm Design Manual</dc:title>
+        <dc:creator opf:file-as="Skiena, Steven S" opf:role="aut">Steven S Skiena</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-04-04T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;This newly expanded and updated second edition of the best-selling classic continues to take the "mystery" out of designing algorithms, and analyzing their efficacy and efficiency. Expanding on the first edition, the book now serves as the primary textbook of choice for algorithm design courses while maintaining its status as the premier practical reference guide to algorithms for programmers, researchers, and students. The reader-friendly  * &lt;strong&gt;Algorithm Design Manual&lt;/strong&gt;&lt;span style="font-style: italic; font-weight: 600"&gt;  provides straightforward access to combinatorial algorithms technology, stressing design over analysis. The first part,  &lt;/span&gt;&lt;strong&gt;Techniques&lt;/strong&gt;&lt;span style="font-style: italic; font-weight: 600"&gt; , provides accessible instruction on methods for designing and analyzing computer algorithms. The second part,  &lt;/span&gt;&lt;strong&gt;Resources* , is intended for browsing and reference, and comprises the catalog of algorithmic resources, implementations and an extensive bibliography. NEW&lt;/strong&gt;  to the second edition: •  &lt;strong&gt;Doubles the tutorial material and exercises&lt;/strong&gt;  over the first edition • Provides  &lt;strong&gt;full online support&lt;/strong&gt;  for lecturers, and a  &lt;strong&gt;completely updated and improved&lt;/strong&gt;  website component with lecture slides, audio and video • Contains a &lt;strong&gt;unique catalog&lt;/strong&gt;  identifying the 75 algorithmic problems that arise most often in practice, leading the reader down the right path to solve them • Includes several  &lt;strong&gt;NEW&lt;/strong&gt;  "war stories" relating experiences from  &lt;strong&gt;real-world applications&lt;/strong&gt; &lt;strong&gt;•&lt;/strong&gt;  Provides up-to-date links leading to the very best algorithm  * &lt;strong&gt;implementations&lt;/strong&gt;&lt;em&gt;  available in C, C++, and Java &lt;/em&gt;*&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Springer</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781849967204</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1849967202</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">7XUSn0IKQEgC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Software Development &amp; Engineering</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Algorithms</dc:subject>
+        <dc:subject>Computer Science</dc:subject>
+        <dc:subject>Data Processing</dc:subject>
+        <dc:subject>Information Technology</dc:subject>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Numerical Analysis</dc:subject>
+        <dc:subject>Discrete Mathematics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Steven S Skiena&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2019-06-02T04:21:50+00:00"/>
+        <meta name="calibre:title_sort" content="Algorithm Design Manual, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

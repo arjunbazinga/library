@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">908</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">70b658fc-2bce-4cf0-a644-a7cc8c96db58</dc:identifier>
+        <dc:title>Productive Thinking</dc:title>
+        <dc:creator opf:file-as="Wertheimer, Max" opf:role="aut">Max Wertheimer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-29T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Max Wertheimer (1880-1943), a pioneer of 20th-century psychology, had a major influence on the development of cognitive psychology, especially the psychology of perception and of productive thinking. His work "Productive Thinking" (1945), written in New York, is regarded as a milestone in creativity research. Consisting of many examples of creative thought processes - from geometric tasks to socio-psychologically relevant conflict resolutions to the development of Einstein's theory of relativity - the book leads the reader through a multi-faceted body of thought in the psychology of thinking. Only a few texts in psychology have remained significant even after a period of three quarters of a century - Max Wertheimer's Productive Thinking is such an exception. This book, which also presents an exposition of Gestalt psychology, highlights the "productive" (insightful) versus automatic (unreflected) thought processes for many areas of life. In addition to examples from school teaching, the chapter on the emergence of Albert Einstein's theory of relativity is of lasting interest to today's generation of psychologists, pedagogues, brain researchers, neuroscientists and philosophers. Wertheimer had the unique opportunity to analyze Einstein's thinking in direct conversation. An introductory commentary by Viktor Sarris for this new edition of the first publication of Productive Thinking in 1945 offers a detailed account of the genesis and reception of Wertheimer's work.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Springer Nature</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">xwTaDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9783030360634</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Cognitive Psychology &amp; Cognition</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Max Wertheimer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-08-09T07:29:06+00:00"/>
+        <meta name="calibre:title_sort" content="Productive Thinking"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

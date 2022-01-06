@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">726</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4aa57733-decf-4e6f-845d-6890d7224a52</dc:identifier>
+        <dc:title>Woke: A Guide to Social Justice</dc:title>
+        <dc:creator opf:file-as="McGrath, Titania" opf:role="aut">Titania McGrath</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-07T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;'The book everyone's talking about' The Times'Titania McGrath is a genius' Spectator'Just as Bridget Jones was the embodiment of the anxiety-ridden Nineties feminist, a creation whose diary entries encapsulated all our hopes, fears and failures, so Titania McGrath is her millennial successor, a girl every bit as lost and confused, every bit as accurately observed - and equally, catastrophically, hilarious.' Sarah Vine, Daily MailIn Woke, Titania McGrath demonstrates how everybody can play their part in the pursuit of social justice. As a millennial icon on the forefront of online activism, Titania is uniquely placed to guide her readers through the often bewildering array of terminology and concepts that constitute twenty-first-century 'wokeness'. These new ideas often leave the general public bemused, particularly if they don't read the Guardian.Being woke is actually much easier than people think. As Titania demonstrates, anyone can be an activist. By simply adding a rainbow flag to your Facebook profile, or calling out an elderly person who doesn't understand what 'non-binary' means, you can change the world for the better. Indeed, social media has now made it possible to show how virtuous you are without having to do anything at all.Timely and indispensable, Titania's step-by-step guide will help you to become the woke person you need to be in an increasingly progressive world. In a non-patronising manner, Titania will explain why you are wrong about everything and how to become more like her.&lt;/p&gt;</dc:description>
+        <dc:publisher>Constable</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781472130846</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1472130847</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">5AyCDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07ML46LQ4</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Humor</dc:subject>
+        <dc:subject>Topic</dc:subject>
+        <dc:subject>Politics</dc:subject>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>Comparative Politics</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Gender Studies</dc:subject>
+        <dc:subject>Feminism &amp; Feminist Theory</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Titania McGrath&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:44+00:00"/>
+        <meta name="calibre:title_sort" content="Woke: A Guide to Social Justice"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

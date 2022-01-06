@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1196</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d44a8308-83ac-43a2-ae97-ac0f8067f1ea</dc:identifier>
+        <dc:title>The Book of Lord Shang: A Classic of the Chinese School of Law ; Translated From the Chinese With Introd. And Notes by J. J. L. Duyvendak</dc:title>
+        <dc:creator opf:file-as="Shang, Yang &amp; Duyvendak, J. J. L." opf:role="aut">Yang Shang</dc:creator>
+        <dc:creator opf:file-as="Shang, Yang &amp; Duyvendak, J. J. L." opf:role="aut">J. J. L. Duyvendak</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1963-01-14T18:30:00+00:00</dc:date>
+        <dc:description>série Chine</dc:description>
+        <dc:publisher>A. Probsthain</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">5UziwAEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Yang Shang&quot;: &quot;&quot;, &quot;J. J. L. Duyvendak&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-01-22T18:19:27+00:00"/>
+        <meta name="calibre:title_sort" content="Book of Lord Shang: A Classic of the Chinese School of Law ; Translated From the Chinese With Introd. And Notes by J. J. L. Duyvendak, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

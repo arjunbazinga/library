@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">772</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d74f6ba5-7142-477b-9046-19e80d5c2c3a</dc:identifier>
+        <dc:title>Building Secure and Reliable Systems</dc:title>
+        <dc:creator opf:file-as="Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea &amp; Stubblefield, Adam" opf:role="aut">Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea</dc:creator>
+        <dc:creator opf:file-as="Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea &amp; Stubblefield, Adam" opf:role="aut">Adam Stubblefield</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-06T00:00:00+00:00</dc:date>
+        <dc:description>Can a system truly be considered reliable if it isn't fundamentally secure? In two previous O'Reilly books--Site Reliability Engineering and The Site Reliability Workbook--experts from Google showed how reliability is fundamental to service design. This book shares best practices to help an organization of any size design scalable and reliable systems that are fundamentally secure. It also offers insights into how teams across an organization can collaborate on security and reliability.</dc:description>
+        <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea&quot;: &quot;&quot;, &quot;Adam Stubblefield&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-10T07:19:49.564577+00:00" name="calibre:timestamp"/>
+        <meta content="Building Secure and Reliable Systems" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

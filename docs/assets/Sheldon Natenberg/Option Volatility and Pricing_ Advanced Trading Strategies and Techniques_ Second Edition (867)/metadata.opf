@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">867</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cc79a215-d459-4e2b-9745-69d82ca4ee18</dc:identifier>
+        <dc:title>Option Volatility and Pricing: Advanced Trading Strategies and Techniques: Second Edition</dc:title>
+        <dc:creator opf:file-as="Natenberg, Sheldon" opf:role="aut">Sheldon Natenberg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-10-10T16:08:46+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Sheldon Natenberg&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-07-22T18:50:12+00:00"/>
+        <meta name="calibre:title_sort" content="Option Volatility and Pricing: Advanced Trading Strategies and Techniques: Second Edition"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

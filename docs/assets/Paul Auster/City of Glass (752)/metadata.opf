@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">752</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">60e20e57-9155-4fbe-9f89-85b35e143c12</dc:identifier>
+        <dc:title>City of Glass</dc:title>
+        <dc:creator opf:file-as="Auster, Paul" opf:role="aut">Paul Auster</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1987-04-06T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;From Paul Auster, author of the forthcoming &lt;/strong&gt;&lt;span style="font-style: italic; font-weight: 600"&gt;4 3 2 1:  A novel&lt;/span&gt;&lt;strong&gt; – his debut work of fiction, the first volume in his acclaimed “New York Trilogy” series of novels&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;Nominated for an Edgar Award for Best Mystery of the Year, City of Glass inaugurates the intriguing New York Trilogy of novels that the &lt;em&gt;Washington Post Book World&lt;/em&gt; has classified as "post-existentialist private eye...It's as if Kafka has gotten hooked on the gumshoe game and penned his own ever-spiraling version." As a result of a strange phone call in the middle of the night, Quinn, a writer of detective fiction and crime books, becomes enmeshed in a case more puzzling than any he might have written. &lt;em&gt;New York Times&lt;/em&gt; -bestselling author Paul Auster combines dark humor with Hitchcock-like suspense to &lt;em&gt;City of Glass.&lt;/em&gt; **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Books</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">WeiwAAAAIAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780140097313</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0140097317</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Mystery &amp; Detective</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Paul Auster&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="New York Trilogy"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2005-04-04T08:09:36+00:00"/>
+        <meta name="calibre:title_sort" content="City of Glass"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

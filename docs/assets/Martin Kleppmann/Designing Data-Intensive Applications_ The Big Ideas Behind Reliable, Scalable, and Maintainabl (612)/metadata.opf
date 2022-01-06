@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">612</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4c159461-e6c3-4742-b7c6-627adbcfbfc8</dc:identifier>
+        <dc:title>Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems</dc:title>
+        <dc:creator opf:file-as="Kleppmann, Martin" opf:role="aut">Martin Kleppmann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-03-15T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Data is at the center of many challenges in system design today. Difficult issues need to be figured out, such as scalability, consistency, reliability, efficiency, and maintainability. In addition, we have an overwhelming variety of tools, including relational databases, NoSQL datastores, stream or batch processors, and message brokers. What are the right choices for your application? How do you make sense of all these buzzwords? In this practical and comprehensive guide, author Martin Kleppmann helps you navigate this diverse landscape by examining the pros and cons of various technologies for processing and storing data. Software keeps changing, but the fundamental principles remain the same. With this book, software engineers and architects will learn how to apply those ideas in practice, and how to make full use of data in modern applications. * Peer under the hood of the systems you already use, and learn how to use and operate them more effectively * Make informed decisions by identifying the strengths and weaknesses of different tools * Navigate the trade-offs around consistency, scalability, fault tolerance, and complexity * Understand the distributed systems research upon which modern databases are built * Peek behind the scenes of major online services, and learn from their architectures&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>"O'Reilly Media, Inc."</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">zFheDgAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1449373321</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781491903117</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Data Modeling &amp; Design</dc:subject>
+        <dc:subject>Desktop Applications</dc:subject>
+        <dc:subject>Databases</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Martin Kleppmann&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:28+00:00"/>
+        <meta name="calibre:title_sort" content="Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

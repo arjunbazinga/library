@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">861</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e881a9e0-b3de-491a-b765-6c57726f2525</dc:identifier>
+        <dc:title>Option Volatility &amp; Pricing Workbook: Practicing Advanced Trading Strategies and Techniques</dc:title>
+        <dc:creator opf:file-as="Natenberg, Sheldon" opf:role="aut">Sheldon Natenberg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-07-15T00:00:00+00:00</dc:date>
+        <dc:publisher>McGraw-Hill Education LLC</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Sheldon Natenberg&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-07-22T17:14:24+00:00"/>
+        <meta name="calibre:title_sort" content="Option Volatility &amp; Pricing Workbook: Practicing Advanced Trading Strategies and Techniques"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e777470b-f477-45f6-b019-caa81f12e84b</dc:identifier>
+        <dc:title>Antifragile: Things That Gain From Disorder</dc:title>
+        <dc:creator opf:file-as="Taleb, Nassim Nicholas" opf:role="aut">Nassim Nicholas Taleb</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-11-26T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;span style="font-style: italic; font-weight: 600"&gt;Antifragile&lt;/span&gt;&lt;strong&gt; is a standalone book in Nassim Nicholas Taleb’s landmark Incerto series, an investigation of opacity, luck, uncertainty, probability, human error, risk, and decision-making in a world we don’t understand. The other books in the series are  &lt;/strong&gt;&lt;span style="font-style: italic; font-weight: 600"&gt;Fooled by Randomness, The Black Swan, Skin in the Game,&lt;/span&gt;&lt;strong&gt; and  &lt;/strong&gt;&lt;span style="font-style: italic; font-weight: 600"&gt;The Bed of Procrustes&lt;/span&gt;&lt;strong&gt;.&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;Nassim Nicholas Taleb, the bestselling author of &lt;em&gt;The Black Swan&lt;/em&gt; and one of the foremost thinkers of our time, reveals how to thrive in an uncertain world. &lt;/p&gt;
+&lt;p&gt;Just as human bones get stronger when subjected to stress and tension, and rumors or riots intensify when someone tries to repress them, many things in life benefit from stress, disorder, volatility, and turmoil. What Taleb has identified and calls “antifragile” is that category of things that not only gain from chaos but need it in order to survive and flourish.  &lt;/p&gt;
+&lt;p&gt;In &lt;em&gt;The Black Swan,&lt;/em&gt; Taleb showed us that highly improbable and unpredictable events underlie almost everything about our world. In &lt;em&gt;Antifragile,&lt;/em&gt; Taleb stands uncertainty on its head, making it desirable, even necessary, and proposes that things be built in an antifragile manner. The antifragile is beyond the resilient or robust. The resilient resists shocks and stays the same; the antifragile gets better and better. &lt;/p&gt;
+&lt;p&gt;Furthermore, the antifragile is immune to prediction errors and protected from adverse events. Why is the city-state better than the nation-state, why is debt bad for you, and why is what we call “efficient” not efficient at all? Why do government responses and social policies protect the strong and hurt the weak? Why should you write your resignation letter before even starting on the job? How did the sinking of the &lt;em&gt;Titanic&lt;/em&gt; save lives? The book spans innovation by trial and error, life decisions, politics, urban planning, war, personal finance, economic systems, and medicine. And throughout, in addition to the street wisdom of Fat Tony of Brooklyn, the voices and recipes of ancient wisdom, from Roman, Greek, Semitic, and medieval sources, are loud and clear. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Antifragile&lt;/em&gt; is a blueprint for living in a Black Swan world. &lt;/p&gt;
+&lt;p&gt;Erudite, witty, and iconoclastic, Taleb’s message is revolutionary: The antifragile, and only the antifragile, will make it. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Praise for *Antifragile&lt;/strong&gt;* &lt;/p&gt;
+&lt;p&gt;“Ambitious and thought-provoking . . . highly entertaining.” &lt;strong&gt;— *The Economist&lt;/strong&gt;* &lt;/p&gt;
+&lt;p&gt;“A bold book explaining how and why we should embrace uncertainty, randomness, and error . . . It may just change our lives.” &lt;strong&gt;— *Newsweek&lt;/strong&gt;&lt;em&gt; &lt;/em&gt;*&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Random House Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">5fqbz_qGi0AC</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0812979680</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780679645276</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Investments &amp; Securities</dc:subject>
+        <dc:subject>Stocks</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Movements</dc:subject>
+        <dc:subject>Phenomenology</dc:subject>
+        <dc:subject>Decision-Making &amp; Problem Solving</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nassim Nicholas Taleb&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2018-05-06T10:58:26+00:00"/>
+        <meta name="calibre:title_sort" content="Antifragile: Things That Gain From Disorder"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

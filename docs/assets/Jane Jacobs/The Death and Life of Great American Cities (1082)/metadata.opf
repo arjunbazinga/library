@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1082</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f4371843-594f-41b7-9991-139a5e61d208</dc:identifier>
+        <dc:title>The Death and Life of Great American Cities</dc:title>
+        <dc:creator opf:file-as="Jacobs, Jane" opf:role="aut">Jane Jacobs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-20T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Thirty years after its publication, &lt;strong&gt;&lt;em&gt;The Death and Life of Great American Cities&lt;/em&gt;&lt;/strong&gt; was described by &lt;em&gt;The New York Times&lt;/em&gt; as "perhaps the most influential single work in the history of town planning....[It] can also be seen in a much larger context.  It is first of all a work of literature; the descriptions of street life as a kind of ballet and the bitingly satiric account of traditional planning theory can still be read for pleasure even by those who long ago absorbed and appropriated the book's arguments."  Jane Jacobs, an editor and writer on architecture in New York City in the early sixties, argued that urban diversity and vitality were being destroyed by powerful architects and city planners.  Rigorous, sane, and delightfully epigrammatic, Jacobs's small masterpiece is a blueprint for the humanistic management of cities.  It is sensible, knowledgeable, readable, indispensable.  The author has written a new foreword for this Modern Library edition.&lt;/p&gt;&lt;p&gt;**&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;"The most refreshing, provacative, stimulating and exciting study of this [great problem] which I have seen. It fairly crackles with bright honesty and common sense."—Harrison Salisbury, &lt;em&gt;The New York Times&lt;/em&gt;"One of the most remarkable books ever written about the city... a &lt;em&gt;primary&lt;/em&gt; work. The research apparatus is not pretentious—it is the eye and the heart—but it has given us a magnificent study of what gives life and spirit to the city."—William H. Whyte, author of &lt;em&gt;The Organization Man&lt;/em&gt;&lt;/p&gt;&lt;h3&gt;From the Inside Flap&lt;/h3&gt;&lt;p class="description"&gt;
+
+
+
+&lt;/p&gt;&lt;p&gt;A classic since its publication in 1961, this book is the defintive statement on American cities: what makes them safe, how they function, and why all too many official attempts at saving them have failed. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Vintage</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780525432852</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">paudDAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B01HWKSBDI</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Sociology</dc:subject>
+        <dc:subject>Urban</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jane Jacobs&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-11-20T17:58:23+00:00"/>
+        <meta name="calibre:title_sort" content="Death and Life of Great American Cities, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

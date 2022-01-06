@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">782</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">95916e9a-8ccb-42d4-ac22-001eb567d8b3</dc:identifier>
+        <dc:title>Nuclear War Survival Skills</dc:title>
+        <dc:creator opf:file-as="Kearny, Cresson" opf:role="aut">Cresson Kearny</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-09-11T23:47:03+00:00</dc:date>
+        <dc:description>Expedient Emergency Preparedness - Shelters, Water, Ventalation, Radiation Detection</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Survival</dc:subject>
+        <dc:subject>Emergency Preparedness</dc:subject>
+        <dc:subject>Radiation</dc:subject>
+        <dc:subject>Nuclear Terrorism</dc:subject>
+        <dc:subject>Kearny Fallout Meter</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Cresson Kearny&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-04-14T09:51:17+00:00"/>
+        <meta name="calibre:title_sort" content="Nuclear War Survival Skills"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

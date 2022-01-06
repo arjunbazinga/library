@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">731</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a094ab08-e5e1-4ed9-bbe5-32c59f149bcb</dc:identifier>
+        <dc:title>India Calling</dc:title>
+        <dc:creator opf:file-as="Giridharadas, Anand" opf:role="aut">Anand Giridharadas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;Reversing his parents' immigrant path, a young American-born writer returns to India and discovers an old country making itself new&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;Anand Giridharadas sensed something was afoot as his plane from America prepared to land in Bombay. An elderly passenger looked at him and said, "We're all trying to go that way," pointing to the rear. "You, you're going this way?"&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;Giridharadas was returning to the land of his ancestors, amid an unlikely economic boom. But he was interested less in its gold rush than in its cultural upheaval, as a new generation has sought to reconcile old traditions and customs with new ambitions and dreams.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;In &lt;i&gt;India Calling&lt;/i&gt;, Giridharadas brings to life the people and the dilemmas of India today, through the prism of his émigré family history and his childhood memories of India. He introduces us to entrepreneurs, radicals, industrialists, and religious seekers, but, most of all, to Indian...</dc:description>
+        <dc:publisher>Henry Holt and Co.</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Anand Giridharadas&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:44+00:00"/>
+        <meta name="calibre:title_sort" content="India Calling"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

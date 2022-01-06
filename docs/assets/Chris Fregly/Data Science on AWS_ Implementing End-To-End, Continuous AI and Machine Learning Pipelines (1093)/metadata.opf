@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1093</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3097e785-529d-4a75-82ba-3b4f9d2d6654</dc:identifier>
+        <dc:title>Data Science on AWS: Implementing End-To-End, Continuous AI and Machine Learning Pipelines</dc:title>
+        <dc:creator opf:file-as="Fregly, Chris &amp; Barth, Antje" opf:role="aut">Chris Fregly</dc:creator>
+        <dc:creator opf:file-as="Fregly, Chris &amp; Barth, Antje" opf:role="aut">Antje Barth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-30T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;If you use data to make critical business decisions, this book is for you. Whether you're a data analyst, research scientist, data engineer, ML engineer, data scientist, application developer, or systems developer, this guide helps you broaden your understanding of the modern data science stack, create your own machine learning pipelines, and deploy them to applications at production scale. The AWS data science stack unifies data science, data engineering, and application development to help you level up your skills beyond your current role. Authors Antje Barth and Chris Fregly show you how to build your own ML pipelines from existing APIs, submit them to the cloud, and integrate results into your application in minutes instead of days. Innovate quickly and save money with AWS's on-demand, serverless, and cloud-managed services Implement open source technologies such as Kubeflow, Kubernetes, TensorFlow, and Apache Spark on AWS Build and deploy an end-to-end, continuous ML pipeline with the AWS data science stack Perform advanced analytics on at-rest and streaming data with AWS and Spark Integrate streaming data into your ML pipeline for continuous delivery of ML models using AWS and Apache Kafka&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly Media, Incorporated</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">w73hzQEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781492079392</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Chris Fregly&quot;: &quot;&quot;, &quot;Antje Barth&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-11-25T08:44:07+00:00"/>
+        <meta name="calibre:title_sort" content="Data Science on AWS: Implementing End-To-End, Continuous AI and Machine Learning Pipelines"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

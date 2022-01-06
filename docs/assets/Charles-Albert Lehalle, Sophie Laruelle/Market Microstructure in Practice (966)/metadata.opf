@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">966</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8dd13c8b-a55f-4e7e-8cd4-c4170d94fa15</dc:identifier>
+        <dc:title>Market Microstructure in Practice</dc:title>
+        <dc:creator opf:file-as="Charles-Albert Lehalle, Sophie Laruelle" opf:role="aut">Charles-Albert Lehalle, Sophie Laruelle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-03-29T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;This book exposes and comments on the consequences of Reg NMS and MiFID on market microstructure. It covers changes in market design, electronic trading, and investor and trader behaviors. The emergence of high frequency trading and critical events like the"Flash Crash" of 2010 are also analyzed in depth. Using a quantitative viewpoint, this book explains how an attrition of liquidity and regulatory changes can impact the whole microstructure of financial markets. A mathematical Appendix details the quantitative tools and indicators used through the book, allowing the reader to go further independently. This book is written by practitioners and theoretical experts and covers practical aspects (like the optimal infrastructure needed to trade electronically in modern markets) and abstract analyses (like the use on entropy measurements to understand the progress of market fragmentation). As market microstructure is a recent academic field, students will benefit from the book's overview of the current state of microstructure and will use the Appendix to understand important methodologies. Policy makers and regulators will use this book to access theoretical analyses on real cases. For readers who are practitioners, this book delivers data analysis and basic processes like the designs of Smart Order Routing and trade scheduling algorithms. In this second edition, the authors have added a large section on orderbook dynamics, showing how liquidity can predict future price moves, and how High Frequency Traders can profit from it. The section on market impact has also been updated to show how buying or selling pressure moves prices not only for a few hours, but even for days, and how prices relax (or not) after a period of intense pressure. Further, this edition includes pages on Dark Pools, Circuit Breakers and added information outside of Equity Trading, because MiFID 2 is likely to push fixed income markets towards more electronification. The authors explore what is to be expected from this change in microstructure. The appendix has also been augmented to include the propagator models (for intraday price impact), a simple version of Kyle's model (1985) for daily market impact, and a more sophisticated optimal trading framework, to support the design of trading algorithms. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>World Scientific Pub Co Inc</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789813231122</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">9813231122</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Charles-Albert Lehalle, Sophie Laruelle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-08-26T15:57:21+00:00"/>
+        <meta name="calibre:title_sort" content="Market Microstructure in Practice"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

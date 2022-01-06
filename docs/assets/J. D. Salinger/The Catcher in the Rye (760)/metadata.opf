@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">760</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">58b9e22d-dffd-4c42-8815-8f0184a42412</dc:identifier>
+        <dc:title>The Catcher in the Rye</dc:title>
+        <dc:creator opf:file-as="Salinger, J. D." opf:role="aut">J. D. Salinger</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-09-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;J. D. Salinger wrote one of the most famous books ever written, The Catcher in the Rye. Salinger wrote many stories and, in 1941, after several rejections, Salinger finally cracked The New Yorker, with a story, "Slight Rebellion Off Madison," that was an early sketch of what became a scene in "The Catcher in the Rye". The magazine then had second thoughts in part because of World War II in which Salinger was in combat, and held the story for five years before finally publishing it in 1946, buried in the back of an issue. Everyone was surprised when the story and the book that followed it became a bit hit. Even today nobody can really explain why Catcher in the Rye is so famous and so popular. Yet, millions have been sold and are still being sold even though only available as used books nowadays. When The Catcher in the Rye was published in 1951, it was registered for copyright as "additional material". This obviously referred to the earlier work "Slight Rebellion Off Madison". The copyright page on "The Catcher in the Rye" states "Copyright 1945, 1946, 1951 by J. D Salinger". The date of 1945 obviously refers to the publication of "I'm Crazy", a short story written by Salinger and published in the December 22, 1945 issue of Collier's magazine that first introduced the character Holden Caulfield to the reading public. Salinger later reworked this short story to incorporate it into The Catcher in the Rye. The two earlier stories are "I'm Crazy", an early version of Holden's departure from prep school that later shows up in The Catcher in the Rye. With minor alteration, much of this story is familiar to readers as the chapter where Holden visits Mr. Spencer. What sets this story apart is the presence of an additional Caulfield sister and the clarity of Holden's resignation and compromise at the end. "Slight Rebellion off Madison" is an early version of another scene in The Catcher in the Rye. The story follows Holden when he is home from Pency and goes to the movies, then skating with Sally Hayes, followed by his drunken calls to her apartment late at night. An early story, it is the first of Salinger's Caulfied works to be accepted for publication.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ishi Press International</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">PCDengEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9784871876193</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0316769487</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;J. D. Salinger&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-04-04T08:09:37+00:00"/>
+        <meta name="calibre:title_sort" content="Catcher in the Rye, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

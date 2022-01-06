@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">686</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">15d77709-414f-4271-93ad-687e52478895</dc:identifier>
+        <dc:title>Economics in One Lesson</dc:title>
+        <dc:creator opf:file-as="Hazlitt, Henry" opf:role="aut">Henry Hazlitt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-10T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;A million copy seller, Henry Hazlitt's &lt;i&gt;Economics in One Lesson&lt;/i&gt; is a classic economic primer. But it is also much more, having become a fundamental influence on modern "libertarian" economics of the type espoused by Ron Paul and others.&lt;br&gt;&lt;br&gt;Considered among the leading economic thinkers of the "Austrian School," which includes Carl Menger, Ludwig von Mises, Friedrich (F.A.) Hayek, and others, Henry Hazlitt (1894-1993), was a libertarian philosopher, an economist, and a journalist. He was the founding vice-president of the Foundation for Economic Education and an early editor of &lt;i&gt;The Freeman&lt;/i&gt; magazine, an influential libertarian publication.  Hazlitt wrote &lt;i&gt;Economics in One Lesson&lt;/i&gt;, his seminal work, in 1946. Concise and instructive, it is also deceptively prescient and far-reaching in its efforts to dissemble economic fallacies that are so prevalent they have almost become a new orthodoxy.&lt;br&gt;&lt;br&gt;Many current economic commentators across the political...</dc:description>
+        <dc:publisher>Crown Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-0-307-76062-3</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Hazlitt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:37+00:00"/>
+        <meta name="calibre:title_sort" content="Economics in One Lesson"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

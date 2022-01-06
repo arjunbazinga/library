@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">916</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e7ab3e2d-b830-4f2e-b059-dcf26e8c9480</dc:identifier>
+        <dc:title>The Ego and His Own: The Case of the Individual Against Authority</dc:title>
+        <dc:creator opf:file-as="Stirner, Max" opf:role="aut">Max Stirner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-12-15T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Credited with influencing the philosophies of Nietzsche and Ayn Rand and the development of libertarianism and existentialism, this prophetic 1844 work challenges the very notion of a common good as the driving force of civilization. By examining the role of the human ego, author Max Stirner chronicles the battle of the individual against the collective — showing how, throughout history, the latter invariably leads to oppression.&lt;br&gt;Stirner begins with a study of the individual ego and then traces its subjugation from ancient times to the nineteenth century. Nothing escapes his indictment: the ancient philosophers, Christianity, monarchism, the bourgeois state; all have fettered individuals with laws, morality, and obligations. Revolutions expunge one evil only to replace it with another, and Stirner predicted — years before the publication of Marx's &lt;em&gt;Manifesto&lt;/em&gt; — that socialism would climax in the ultimate totalitarian state.&lt;br&gt;For students of political science and philosophy, this book is essential reading. For those concerned about the encroachment of authority upon individual liberty, Stirner articulates a philosophy that remains unsurpassed in its scope. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Dover Publications</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780486445816</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">048644581X</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Anarchism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Max Stirner&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Cambridge Texts in the History of Political Thought"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-08-09T07:29:07+00:00"/>
+        <meta name="calibre:title_sort" content="Ego and His Own: The Case of the Individual Against Authority, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

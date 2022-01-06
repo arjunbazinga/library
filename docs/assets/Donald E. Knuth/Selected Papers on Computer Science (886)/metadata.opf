@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">886</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">079993a0-56c5-4175-a153-f82906a81143</dc:identifier>
+        <dc:title>Selected Papers on Computer Science</dc:title>
+        <dc:creator opf:file-as="Knuth, Donald E." opf:role="aut">Donald E. Knuth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-11-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Donald Knuth's influence in computer science ranges from the invention of literate programming to the development of the TeX programming language. This anthology of essays includes articles on the history of computing, algorithms, numerical techniques, computational models, typesetting, and more.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Center for the Study of Language and Inf</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781881526919</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1881526917</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Donald E. Knuth&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="CSLI Lecture Notes"/>
+        <meta name="calibre:series_index" content="59"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2004-07-29T19:27:03+00:00"/>
+        <meta name="calibre:title_sort" content="Selected Papers on Computer Science"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

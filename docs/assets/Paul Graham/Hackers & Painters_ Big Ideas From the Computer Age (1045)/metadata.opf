@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1045</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c41e74b4-87f4-4b5d-99e6-5df9315880bd</dc:identifier>
+        <dc:title>Hackers &amp; Painters: Big Ideas From the Computer Age</dc:title>
+        <dc:creator opf:file-as="Graham, Paul" opf:role="aut">Paul Graham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-05-17T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;"The computer world is like an intellectual Wild West, in which you can shoot anyone you wish with your ideas, if you're willing to risk the consequences. " --from &lt;em&gt;Hackers &amp;amp; Painters: Big Ideas from the Computer Age&lt;/em&gt;, by Paul Graham We are living in the computer age, in a world increasingly designed and engineered by computer programmers and software designers, by people who call themselves hackers. Who are these people, what motivates them, and why should you care? Consider these facts: Everything around us is turning into computers. Your typewriter is gone, replaced by a computer. Your phone has turned into a computer. So has your camera. Soon your TV will. Your car was not only designed on computers, but has more processing power in it than a room-sized mainframe did in 1970. Letters, encyclopedias, newspapers, and even your local store are being replaced by the Internet. &lt;em&gt;Hackers &amp;amp; Painters: Big Ideas from the Computer Age&lt;/em&gt;, by Paul Graham, explains this world and the motivations of the people who occupy it. In clear, thoughtful prose that draws on illuminating historical examples, Graham takes readers on an unflinching exploration into what he calls "an intellectual Wild West." The ideas discussed in this book will have a powerful and lasting impact on how we think, how we work, how we develop technology, and how we live. Topics include the importance of beauty in software design, how to make wealth, heresy and free speech, the programming language renaissance, the open-source movement, digital design, internet startups, and more. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>"O'Reilly Media, Inc."</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">shycAgAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780596006624</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1449389554</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Information Theory</dc:subject>
+        <dc:subject>Information Technology</dc:subject>
+        <dc:subject>Operating Systems</dc:subject>
+        <dc:subject>Linux</dc:subject>
+        <dc:subject>Software Development &amp; Engineering</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Algorithms</dc:subject>
+        <dc:subject>Internet</dc:subject>
+        <dc:subject>Web</dc:subject>
+        <dc:subject>Design</dc:subject>
+        <dc:subject>Social Aspects</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Paul Graham&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-10-18T12:06:31+00:00"/>
+        <meta name="calibre:title_sort" content="Hackers &amp; Painters: Big Ideas From the Computer Age"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

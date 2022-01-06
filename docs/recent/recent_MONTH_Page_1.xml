@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Previous month</title>
+  <id>Calibre2opds:recent:MONTH</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./recent_MONTH_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Previous month" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
+  <entry>
+    <title>Let's Go [August 11, 2020]</title>
+    <id>calibre:book:924</id>
+    <updated>2020-08-11T07:26:55Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Alex%20Edwards/Let%27s%20Go%20%28924%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Alex%20Edwards/Let%27s%20Go%20%28924%29/Let%27s%20Go%20-%20Alex%20Edwards.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Alex%20Edwards/Let%27s%20Go%20%28924%29/Let%27s%20Go%20-%20Alex%20Edwards.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Alex Edwards</name>
+      <uri>../author_0/author_732_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <link href="../book_0/book_924.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The hipster effect [August 10, 2020]</title>
+    <id>calibre:book:923</id>
+    <updated>2020-08-10T11:46:29Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Arxiv/the%20hipster%20effect%20%28923%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Arxiv/the%20hipster%20effect%20%28923%29/the%20hipster%20effect%20-%20Arxiv.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Arxiv</name>
+      <uri>../author_0/author_503_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_923.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Software Engineering at Google [August 10, 2020]</title>
+    <id>calibre:book:921</id>
+    <updated>2020-08-10T11:46:58Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Titus%20Winters/Software%20Engineering%20at%20Google%20%28921%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Titus%20Winters/Software%20Engineering%20at%20Google%20%28921%29/Software%20Engineering%20at%20Google%20-%20Titus%20Winters.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Titus%20Winters/Software%20Engineering%20at%20Google%20%28921%29/Software%20Engineering%20at%20Google%20-%20Titus%20Winters.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Titus Winters</name>
+      <uri>../author_0/author_730_Page_1.xml</uri>
+    </author>
+    <published>2020-02-28T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>O'Reilly Media</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Today, software engineers need to know not only how to program effectively but also how to develop proper engineering practices to make their codebase sustainable and healthy. This book emphasizes this difference between programming and software engi...</summary>
+    <link href="../book_0/book_921.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Architecture of Privacy [August 10, 2020]</title>
+    <id>calibre:book:922</id>
+    <updated>2020-08-10T11:46:11Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Courtney%20Bowman%2C%20Ari%20Gesher%2C%20John%20K.%20Grant%2C%20Daniel%20Slate/The%20Architecture%20of%20Privacy%20%28922%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Courtney%20Bowman%2C%20Ari%20Gesher%2C%20John%20K.%20Grant%2C%20Daniel%20Slate/The%20Architecture%20of%20Privacy%20%28922%29/The%20Architecture%20of%20Privacy%20-%20Courtney%20Bowman%2C%20Ari%20Gesher%2C%20John%20K.%20Grant.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Courtney Bowman, Ari Gesher, John K. Grant, Daniel Slate</name>
+      <uri>../author_0/author_731_Page_1.xml</uri>
+    </author>
+    <published>2015-08-26T08:35:25Z</published>
+    <category term="2015" />
+    <link href="../book_0/book_922.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cynical Theories [August 9, 2020]</title>
+    <id>calibre:book:919</id>
+    <updated>2020-08-09T04:40:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Helen%20Pluckrose%2CJames%20A.%20Lindsay/Cynical%20Theories%20%28919%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Helen%20Pluckrose%2CJames%20A.%20Lindsay/Cynical%20Theories%20%28919%29/Cynical%20Theories%20-%20Helen%20Pluckrose%2CJames%20A.%20Lindsay.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Helen Pluckrose,James A. Lindsay</name>
+      <uri>../author_0/author_728_Page_1.xml</uri>
+    </author>
+    <published>2020-08-15T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Independent Publishers Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Have you heard that language is violence and that science is sexist? Have you read that certain people shouldn't practice yoga or cook Chinese food? Or been told that being obese is healthy, that there is no such thing as biological sex, or that only...</summary>
+    <link href="../book_0/book_919.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Psychology of Money [August 9, 2020]</title>
+    <id>calibre:book:920</id>
+    <updated>2020-08-09T04:40:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Collaborative%20Fund/The%20Psychology%20of%20Money%20%28920%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Collaborative%20Fund/The%20Psychology%20of%20Money%20%28920%29/The%20Psychology%20of%20Money%20-%20Collaborative%20Fund.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Collaborative Fund</name>
+      <uri>../author_0/author_729_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_920.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>High Performance Python, 2nd Edition [August 9, 2020]</title>
+    <id>calibre:book:912</id>
+    <updated>2020-08-09T00:59:07Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Micha%20Gorelick%2C%20Ian%20Ozsvald/High%20Performance%20Python%2C%202nd%20Edition%20%28912%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Micha%20Gorelick%2C%20Ian%20Ozsvald/High%20Performance%20Python%2C%202nd%20Edition%20%28912%29/High%20Performance%20Python%2C%202nd%20Edition%20-%20Micha%20Gorelick%2C%20Ian%20Ozsvald.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Micha Gorelick, Ian Ozsvald</name>
+      <uri>../author_0/author_723_Page_1.xml</uri>
+    </author>
+    <published>2020-05-06T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>O'Reilly Media, Inc.</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Your Python code may run correctly, but you need it to run faster. Updated for Python 3, this expanded edition shows you how to locate performance bottlenecks and significantly speed up your code in high-data-volume programs. By exploring the fundame...</summary>
+    <link href="../book_0/book_912.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Database State [August 9, 2020]</title>
+    <id>calibre:book:913</id>
+    <updated>2020-08-09T00:59:07Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Unknown/Database%20State%20%28913%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Unknown/Database%20State%20%28913%29/Database%20State%20-%20Unknown.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Unknown</name>
+      <uri>../author_0/author_278_Page_1.xml</uri>
+    </author>
+    <published>2009-03-13T00:50:58Z</published>
+    <link href="../book_0/book_913.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Babe Ruth effect : Frequency vs Magnitude [August 9, 2020]</title>
+    <id>calibre:book:914</id>
+    <updated>2020-08-09T00:59:07Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/The%20Consilient%20observer/The%20Babe%20Ruth%20effect%20_%20Frequency%20vs%20Magnitude%20%28914%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/The%20Consilient%20observer/The%20Babe%20Ruth%20effect%20_%20Frequency%20vs%20Magnitude%20%28914%29/The%20Babe%20Ruth%20effect%20_%20Frequency%20vs%20Magnit%20-%20The%20Consilient%20observer.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>The Consilient observer</name>
+      <uri>../author_0/author_724_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_914.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Jim Chanos Masterclass : the fundamental short seller [August 9, 2020]</title>
+    <id>calibre:book:915</id>
+    <updated>2020-08-09T00:59:07Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Jim%20Chanos/Jim%20Chanos%20Masterclass%20_%20the%20fundamental%20short%20seller%20%28915%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Jim%20Chanos/Jim%20Chanos%20Masterclass%20_%20the%20fundamental%20short%20seller%20%28915%29/Jim%20Chanos%20Masterclass%20_%20the%20fundamental%20s%20-%20Jim%20Chanos.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Jim Chanos</name>
+      <uri>../author_0/author_722_Page_1.xml</uri>
+    </author>
+    <published>2014-12-01T04:50:59Z</published>
+    <link href="../book_0/book_915.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Ego and His Own: The Case of the Individual Against Authority [August 9, 2020]</title>
+    <id>calibre:book:916</id>
+    <updated>2020-08-09T01:25:14Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Max%20Stirner/The%20Ego%20and%20His%20Own_%20The%20Case%20of%20the%20Individual%20Against%20Authority%20%28916%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Max%20Stirner/The%20Ego%20and%20His%20Own_%20The%20Case%20of%20the%20Individual%20Against%20Authority%20%28916%29/The%20Ego%20and%20His%20Own_%20The%20Case%20of%20the%20Indiv%20-%20Max%20Stirner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Max%20Stirner/The%20Ego%20and%20His%20Own_%20The%20Case%20of%20the%20Individual%20Against%20Authority%20%28916%29/The%20Ego%20and%20His%20Own_%20The%20Case%20of%20the%20Indiv%20-%20Max%20Stirner.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Max Stirner</name>
+      <uri>../author_0/author_726_Page_1.xml</uri>
+    </author>
+    <published>2005-12-15T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Dover Publications</dcterms:publisher>
+    <category term="Anarchism" />
+    <category term="Lang:en" />
+    <category term="Cambridge Texts in the History of Political Thought" />
+    <summary>Cambridge Texts in the History of Political Thought [1]: 
+Credited with influencing the philosophies of Nietzsche and Ayn Rand and the development of libertarianism and existentialism, this prophetic 1844 work challenges the very notion of a common g...</summary>
+    <link href="../book_0/book_916.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Public to Private quity in the US:  a long- term look [August 9, 2020]</title>
+    <id>calibre:book:917</id>
+    <updated>2020-08-09T00:59:07Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/The%20Consilient%20observer/Public%20to%20Private%20quity%20in%20the%20US_%20%20a%20long-%20term%20look%20%28917%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/The%20Consilient%20observer/Public%20to%20Private%20quity%20in%20the%20US_%20%20a%20long-%20term%20look%20%28917%29/Public%20to%20Private%20quity%20in%20the%20US_%20%20a%20long%20-%20The%20Consilient%20observer.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>The Consilient observer</name>
+      <uri>../author_0/author_724_Page_1.xml</uri>
+    </author>
+    <published>2020-08-03T05:04:19Z</published>
+    <link href="../book_0/book_917.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>An Introduction to Gödel's Theorems [August 9, 2020]</title>
+    <id>calibre:book:918</id>
+    <updated>2020-08-09T00:59:07Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Peter%20Smith/An%20Introduction%20to%20Godel%27s%20Theorems%20%28918%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Peter%20Smith/An%20Introduction%20to%20Godel%27s%20Theorems%20%28918%29/An%20Introduction%20to%20Godel%27s%20Theorems%20-%20Peter%20Smith.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Peter Smith</name>
+      <uri>../author_0/author_725_Page_1.xml</uri>
+    </author>
+    <published>2007-08-05T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Cambridge University Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>In 1931, the young Kurt Gödel published his First Incompleteness Theorem, which tells us that, for any sufficiently rich theory of arithmetic, there are some arithmetical truths the theory cannot prove. This remarkable result is among the most intri...</summary>
+    <link href="../book_0/book_918.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Product Manager Interview: 164 Actual Questions and Answers [August 9, 2020]</title>
+    <id>calibre:book:906</id>
+    <updated>2020-08-09T00:59:06Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Lewis%20C.%20Lin/The%20Product%20Manager%20Interview_%20164%20Actual%20Questions%20and%20Answers%20%28906%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Lewis%20C.%20Lin/The%20Product%20Manager%20Interview_%20164%20Actual%20Questions%20and%20Answers%20%28906%29/The%20Product%20Manager%20Interview_%20164%20Actual%20-%20Lewis%20C.%20Lin.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Lewis C. Lin</name>
+      <uri>../author_0/author_718_Page_1.xml</uri>
+    </author>
+    <published>2017-11-05T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Impact Interview</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>NEW EDITION AVAILABLE. * This is the OLDER 3rd edition. The NEWER 4th edition is available: amzn.to/2X56Q8O *BEWARE OF COUNTERFEIT BOOKS. Readers have reported that Amazon's 3rd-party sellers are selling counterfeit versions; the counterfeit pages h...</summary>
+    <link href="../book_0/book_906.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Centuries of Childhood [August 9, 2020]</title>
+    <id>calibre:book:907</id>
+    <updated>2020-08-09T00:59:06Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Philippe%20Aries/Centuries%20of%20Childhood%20%28907%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Philippe%20Aries/Centuries%20of%20Childhood%20%28907%29/Centuries%20of%20Childhood%20-%20Philippe%20Aries.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Philippe Aries</name>
+      <uri>../author_0/author_719_Page_1.xml</uri>
+    </author>
+    <published>1996-07-03T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Pimlico</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>In this pioneering and important book, Philippe Aries surveys children and their place in family life from the Middle Ages to the end of the eighteenth century. The first section of the book explores the gradual change from the medieval attitude to ...</summary>
+    <link href="../book_0/book_907.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Productive Thinking [August 9, 2020]</title>
+    <id>calibre:book:908</id>
+    <updated>2020-08-09T00:59:06Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Max%20Wertheimer/Productive%20Thinking%20%28908%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Max%20Wertheimer/Productive%20Thinking%20%28908%29/Productive%20Thinking%20-%20Max%20Wertheimer.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Max Wertheimer</name>
+      <uri>../author_0/author_720_Page_1.xml</uri>
+    </author>
+    <published>2020-03-29T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Springer Nature</dcterms:publisher>
+    <category term="Science" />
+    <category term="History" />
+    <category term="Psychology" />
+    <category term="Cognitive Psychology &amp; Cognition" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>Max Wertheimer (1880-1943), a pioneer of 20th-century psychology, had a major influence on the development of cognitive psychology, especially the psychology of perception and of productive thinking. His work "Productive Thinking" (1945), written in...</summary>
+    <link href="../book_0/book_908.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Practical Google Analytics &amp; Google Tag Manager for Developers [August 9, 2020]</title>
+    <id>calibre:book:909</id>
+    <updated>2020-08-09T00:59:06Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Jonathan%20Weber/Practical%20Google%20Analytics%20%26%20Google%20Tag%20Manager%20for%20Developers%20%28909%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Jonathan%20Weber/Practical%20Google%20Analytics%20%26%20Google%20Tag%20Manager%20for%20Developers%20%28909%29/Practical%20Google%20Analytics%20%26%20Google%20Tag%20Ma%20-%20Jonathan%20Weber.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Jonathan Weber</name>
+      <uri>../author_0/author_721_Page_1.xml</uri>
+    </author>
+    <published>2015-10-24T06:24:47Z</published>
+    <dcterms:publisher>Apress®</dcterms:publisher>
+    <link href="../book_0/book_909.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>We are in the golden age of fraud [August 9, 2020]</title>
+    <id>calibre:book:911</id>
+    <updated>2020-08-09T00:59:06Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Jim%20Chanos/We%20are%20in%20the%20golden%20age%20of%20fraud%20%28911%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Jim%20Chanos/We%20are%20in%20the%20golden%20age%20of%20fraud%20%28911%29/We%20are%20in%20the%20golden%20age%20of%20fraud%20-%20Jim%20Chanos.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Jim Chanos</name>
+      <uri>../author_0/author_722_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:publisher>Financial Times</dcterms:publisher>
+    <link href="../book_0/book_911.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Self-Contained Development Environments [August 9, 2020]</title>
+    <id>calibre:book:899</id>
+    <updated>2020-08-09T00:59:05Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Guido%20Chari%2C%20Javier%20Pimas%2C%20Jan%20Vitek/Self-Contained%20Development%20Environments%20%28899%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Guido%20Chari%2C%20Javier%20Pimas%2C%20Jan%20Vitek/Self-Contained%20Development%20Environments%20%28899%29/Self-Contained%20Development%20Environments%20-%20Guido%20Chari%2C%20Javier%20Pimas%2C%20Jan%20Vitek.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Guido Chari, Javier Pimás, Jan Vitek</name>
+      <uri>../author_0/author_697_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Olivier Flückiger</name>
+      <uri>../author_0/author_698_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <category term="- Software and its engineering -&gt; Operating systems; Virtual machines;" />
+    <category term="Managed Languages" />
+    <category term="High-Level System Programming" />
+    <category term="Operating Systems" />
+    <link href="../book_0/book_899.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Seductive Interaction Design: Creating Playful, Fun, and Effective User Experiences [August 9, 2020]</title>
+    <id>calibre:book:900</id>
+    <updated>2020-08-09T01:02:04Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Stephen%20P.%20Anderson/Seductive%20Interaction%20Design_%20Creating%20Playful%2C%20Fun%2C%20and%20Effective%20User%20Experiences%20%28900%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Stephen%20P.%20Anderson/Seductive%20Interaction%20Design_%20Creating%20Playful%2C%20Fun%2C%20and%20Effective%20User%20Experiences%20%28900%29/Seductive%20Interaction%20Design_%20Creating%20Pla%20-%20Stephen%20P.%20Anderson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Stephen%20P.%20Anderson/Seductive%20Interaction%20Design_%20Creating%20Playful%2C%20Fun%2C%20and%20Effective%20User%20Experiences%20%28900%29/Seductive%20Interaction%20Design_%20Creating%20Pla%20-%20Stephen%20P.%20Anderson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Stephen P. Anderson</name>
+      <uri>../author_0/author_695_Page_1.xml</uri>
+    </author>
+    <published>2011-05-24T09:02:13Z</published>
+    <dcterms:publisher>New Riders</dcterms:publisher>
+    <link href="../book_0/book_900.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Swipe to Unlock: The Non-Coder’s Guide to Technology and the Business Strategy Behind It [August 9, 2020]</title>
+    <id>calibre:book:902</id>
+    <updated>2020-08-09T00:59:05Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Parth%20Detroja/Swipe%20to%20Unlock_%20The%20Non-Coder%27s%20Guide%20to%20Technology%20and%20the%20Business%20Strategy%20Behind%20It%20%28902%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Parth%20Detroja/Swipe%20to%20Unlock_%20The%20Non-Coder%27s%20Guide%20to%20Technology%20and%20the%20Business%20Strategy%20Behind%20It%20%28902%29/Swipe%20to%20Unlock_%20The%20Non-Coder%27s%20Guide%20to%20-%20Parth%20Detroja.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Parth Detroja</name>
+      <uri>../author_0/author_700_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Neel Mehta</name>
+      <uri>../author_0/author_701_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Aditya Agashe</name>
+      <uri>../author_0/author_702_Page_1.xml</uri>
+    </author>
+    <published>2017-09-18T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <link href="../book_0/book_902.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The New New Thing: A Silicon Valley Story [August 9, 2020]</title>
+    <id>calibre:book:903</id>
+    <updated>2020-08-09T01:03:31Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Michael%20Lewis/The%20New%20New%20Thing_%20A%20Silicon%20Valley%20Story%20%28903%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Michael%20Lewis/The%20New%20New%20Thing_%20A%20Silicon%20Valley%20Story%20%28903%29/The%20New%20New%20Thing_%20A%20Silicon%20Valley%20Story%20-%20Michael%20Lewis.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Michael%20Lewis/The%20New%20New%20Thing_%20A%20Silicon%20Valley%20Story%20%28903%29/The%20New%20New%20Thing_%20A%20Silicon%20Valley%20Story%20-%20Michael%20Lewis.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Michael Lewis</name>
+      <uri>../author_0/author_312_Page_1.xml</uri>
+    </author>
+    <published>1999-10-16T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>W. W. Norton</dcterms:publisher>
+    <category term="Business &amp; Economics" />
+    <category term="Entrepreneurship" />
+    <category term="Biography &amp; Autobiography" />
+    <category term="Business" />
+    <category term="Free Enterprise &amp; Capitalism" />
+    <category term="Industries" />
+    <category term="Computers &amp; Information Technology" />
+    <category term="Lang:en" />
+    <summary>*New York Times* Bestseller. “A superb book. . . . [Lewis] makes Silicon Valley as thrilling and intelligible as he made Wall Street in his best-selling Liar’s Poker.”― *Time In the weird glow of the dying millennium, Michael Lewis set out on a safa...</summary>
+    <link href="../book_0/book_903.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Financial Fraud A Forensic Approach [August 9, 2020]</title>
+    <id>calibre:book:904</id>
+    <updated>2020-08-09T00:59:05Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Jim%20Spellman/Financial%20Fraud%20A%20Forensic%20Approach%20%28904%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Jim%20Spellman/Financial%20Fraud%20A%20Forensic%20Approach%20%28904%29/Financial%20Fraud%20A%20Forensic%20Approach%20-%20Jim%20Spellman.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Jim Spellman</name>
+      <uri>../author_0/author_703_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_904.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Our Final Hour: A Scientist's Warning [August 9, 2020]</title>
+    <id>calibre:book:905</id>
+    <updated>2020-08-09T00:59:06Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Martin%20Rees/Our%20Final%20Hour_%20A%20Scientist%27s%20Warning%20%28905%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Martin%20Rees/Our%20Final%20Hour_%20A%20Scientist%27s%20Warning%20%28905%29/Our%20Final%20Hour_%20A%20Scientist%27s%20Warning%20-%20Martin%20Rees.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Martin Rees</name>
+      <uri>../author_0/author_717_Page_1.xml</uri>
+    </author>
+    <published>2004-04-13T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Basic Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>A scientist known for unraveling the complexities of the universe over millions of years, Sir Martin Rees now warns that humankind is potentially the maker of its own demise -- and that of the cosmos. Though the twenty-first century could be the cri...</summary>
+    <link href="../book_0/book_905.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Time For Thinking [August 9, 2020]</title>
+    <id>calibre:book:892</id>
+    <updated>2020-08-09T00:59:04Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Howard%20Marks/Time%20For%20Thinking%20%28892%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Howard%20Marks/Time%20For%20Thinking%20%28892%29/Time%20For%20Thinking%20-%20Howard%20Marks.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Howard Marks</name>
+      <uri>../author_0/author_715_Page_1.xml</uri>
+    </author>
+    <published>2020-08-05T00:22:27Z</published>
+    <link href="../book_0/book_892.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Murder of Christ [August 9, 2020]</title>
+    <id>calibre:book:893</id>
+    <updated>2020-08-09T00:59:04Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Wilhelm%20Reich/The%20Murder%20of%20Christ%20%28893%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Wilhelm%20Reich/The%20Murder%20of%20Christ%20%28893%29/The%20Murder%20of%20Christ%20-%20Wilhelm%20Reich.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Wilhelm Reich</name>
+      <uri>../author_0/author_692_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Farrar, Straus and Giroux</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_893.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Mass Psychology of Fascism [August 9, 2020]</title>
+    <id>calibre:book:894</id>
+    <updated>2020-08-09T00:59:04Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Wilhelm%20Reich/The%20Mass%20Psychology%20of%20Fascism%20%28894%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Wilhelm%20Reich/The%20Mass%20Psychology%20of%20Fascism%20%28894%29/The%20Mass%20Psychology%20of%20Fascism%20-%20Wilhelm%20Reich.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Wilhelm Reich</name>
+      <uri>../author_0/author_692_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Farrar, Straus and Giroux</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>In this classic study, Reich provides insight into the phenomenon of fascism, which continues to ravage the international community in ways great and small.Drawing on his medical experiences with men and women of various classes, races, nations, and ...</summary>
+    <link href="../book_0/book_894.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>ElasticSearch Cookbook - 2nd ed. [August 9, 2020]</title>
+    <id>calibre:book:895</id>
+    <updated>2020-08-09T00:59:04Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Alberto%20Paro/ElasticSearch%20Cookbook%20-%202nd%20ed_%20%28895%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Alberto%20Paro/ElasticSearch%20Cookbook%20-%202nd%20ed_%20%28895%29/ElasticSearch%20Cookbook%20-%202nd%20ed_%20-%20Alberto%20Paro.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Alberto Paro</name>
+      <uri>../author_0/author_716_Page_1.xml</uri>
+    </author>
+    <published>2015-01-28T06:40:22Z</published>
+    <dcterms:publisher>Packt Publishing</dcterms:publisher>
+    <link href="../book_0/book_895.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Security Engineering: A Guide to Building Dependable Distributed Systems, Second Edition [August 9, 2020]</title>
+    <id>calibre:book:898</id>
+    <updated>2020-08-09T00:59:05Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Ross%20J.%20Anderson/Security%20Engineering_%20A%20Guide%20to%20Building%20Dependable%20Distributed%20Systems%2C%20Second%20Edition%20%28898%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Ross%20J.%20Anderson/Security%20Engineering_%20A%20Guide%20to%20Building%20Dependable%20Distributed%20Systems%2C%20Second%20Edition%20%28898%29/Security%20Engineering_%20A%20Guide%20to%20Building%20-%20Ross%20J.%20Anderson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Ross J. Anderson</name>
+      <uri>../author_0/author_696_Page_1.xml</uri>
+    </author>
+    <published>2009-08-04T06:30:00Z</published>
+    <dcterms:publisher>Wiley</dcterms:publisher>
+    <link href="../book_0/book_898.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>AI Superpowers [August 9, 2020]</title>
+    <id>calibre:book:890</id>
+    <updated>2020-08-09T00:59:03Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Kai-Fu%20Lee/AI%20Superpowers%20%28890%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Kai-Fu%20Lee/AI%20Superpowers%20%28890%29/AI%20Superpowers%20-%20Kai-Fu%20Lee.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Kai-Fu Lee</name>
+      <uri>../author_0/author_689_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Houghton Mifflin Harcourt Publishing Company</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_890.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Zero To Traction [August 9, 2020]</title>
+    <id>calibre:book:891</id>
+    <updated>2020-08-09T00:59:03Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Andrew%20Chen/Zero%20To%20Traction%20%28891%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Andrew%20Chen/Zero%20To%20Traction%20%28891%29/Zero%20To%20Traction%20-%20Andrew%20Chen.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Andrew Chen</name>
+      <uri>../author_0/author_690_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_891.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Defending AI Research: A Collection of Essays and Reviews [July 29, 2020]</title>
+    <id>calibre:book:889</id>
+    <updated>2020-07-30T00:57:06Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/John%20McCarthy/Defending%20AI%20Research_%20A%20Collection%20of%20Essays%20and%20Reviews%20%28889%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/John%20McCarthy/Defending%20AI%20Research_%20A%20Collection%20of%20Essays%20and%20Reviews%20%28889%29/Defending%20AI%20Research_%20A%20Collection%20of%20Ess%20-%20John%20McCarthy.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>John McCarthy</name>
+      <uri>../author_0/author_688_Page_1.xml</uri>
+    </author>
+    <published>1997-05-27T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Cambridge University Press</dcterms:publisher>
+    <category term="Computers" />
+    <category term="Natural Language Processing" />
+    <category term="Intelligence (AI) &amp; Semantics" />
+    <category term="Artificial intelligence--Research." />
+    <category term="Lang:en" />
+    <category term="CSLI Lecture Notes" />
+    <summary>CSLI Lecture Notes [192]: John McCarthy's influence in computer science ranges from the invention of LISP and time-sharing to the coining of the term AI and the founding of the AI laboratory at Stanford University. One of the foremost figures in comp...</summary>
+    <link href="../book_0/book_889.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Natural [July 28, 2020]</title>
+    <id>calibre:book:884</id>
+    <updated>2020-07-28T10:51:52Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20Levinovitz/Natural%20%28884%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20Levinovitz/Natural%20%28884%29/Natural%20-%20Alan%20Levinovitz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20Levinovitz/Natural%20%28884%29/Natural%20-%20Alan%20Levinovitz.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Alan Levinovitz</name>
+      <uri>../author_0/author_679_Page_1.xml</uri>
+    </author>
+    <published>2020-07-15T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Beacon Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Illuminates the far-reaching consequences the myth of "natural" has over our lives, from misinformation about health choices to mistaken justifications of sexism, racism, and flawed economic policies.Modern nature worship shares key elements with mos...</summary>
+    <link href="../book_0/book_884.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Breath [July 28, 2020]</title>
+    <id>calibre:book:883</id>
+    <updated>2020-07-28T08:33:50Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/James%20Nestor/Breath%20%28883%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/James%20Nestor/Breath%20%28883%29/Breath%20-%20James%20Nestor.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/James%20Nestor/Breath%20%28883%29/Breath%20-%20James%20Nestor.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>James Nestor</name>
+      <uri>../author_0/author_678_Page_1.xml</uri>
+    </author>
+    <published>2020-05-26T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Random House LLC</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_883.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Year book [July 28, 2020]</title>
+    <id>calibre:book:881</id>
+    <updated>2020-07-28T07:04:42Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/IIT%20Indore/Year%20book%20%28881%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/IIT%20Indore/Year%20book%20%28881%29/Year%20book%20-%20IIT%20Indore.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>IIT Indore</name>
+      <uri>../author_0/author_676_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_881.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Trance and Treatment - Clinical Uses of Hypnosis [July 28, 2020]</title>
+    <id>calibre:book:882</id>
+    <updated>2020-07-28T07:04:42Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Spiegel%2C%20Herbert%3B%20Spiegel%2C%20David/Trance%20and%20Treatment%20-%20Clinical%20Uses%20of%20Hypnosis%20%28882%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Spiegel%2C%20Herbert%3B%20Spiegel%2C%20David/Trance%20and%20Treatment%20-%20Clinical%20Uses%20of%20Hypnosis%20%28882%29/Trance%20and%20Treatment%20-%20Clinical%20Uses%20of%20Hy%20-%20Spiegel%2C%20Herbert%3B%20Spiegel%2C%20David.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Spiegel, Herbert; Spiegel, David</name>
+      <uri>../author_0/author_675_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_882.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Gpt3 [July 28, 2020]</title>
+    <id>calibre:book:880</id>
+    <updated>2020-07-28T07:04:40Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/avoid%20boring%20people/gpt3%20%28880%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/avoid%20boring%20people/gpt3%20%28880%29/gpt3%20-%20avoid%20boring%20people.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>avoid boring people</name>
+      <uri>../author_0/author_674_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_880.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Zersetzung : Germany Psychological manipuation [July 27, 2020]</title>
+    <id>calibre:book:829</id>
+    <updated>2020-07-09T01:07:54Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Wikipedia/Zersetzung%20_%20Germany%20Psychological%20manipuation%20%28829%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Wikipedia/Zersetzung%20_%20Germany%20Psychological%20manipuation%20%28829%29/Zersetzung%20_%20Germany%20Psychological%20manipua%20-%20Wikipedia.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Wikipedia</name>
+      <uri>../author_0/author_498_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Wikipedia</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_829.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

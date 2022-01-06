@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1137</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">549ed47a-3d62-4f0b-85d1-39394ea5b11b</dc:identifier>
+        <dc:title>The Diversity Myth: Multiculturalism and Political Intolerance on Campus</dc:title>
+        <dc:creator opf:file-as="Sacks, David O. &amp; Thiel, Peter A." opf:role="aut">David O. Sacks</dc:creator>
+        <dc:creator opf:file-as="Sacks, David O. &amp; Thiel, Peter A." opf:role="aut">Peter A. Thiel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-12-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;This is a powerful exploration of the debilitating impact that politically-correct “multiculturalism” has had upon higher education and academic freedom in the United States. In the name of diversity, many leading academic and cultural institutions are working to silence dissent and stifle intellectual life. This book exposes the real impact of multiculturalism on the institution most closely identified with the politically correct decline of higher education—Stanford University. Authored by two Stanford graduates, this book is a compelling insider's tour of a world of speech codes, “dumbed-down” admissions standards and curricula, campus witch hunts, and anti-Western zealotry that masquerades as legitimate scholarly inquiry. Sacks and Thiel use numerous primary sources—the Stanford Daily, class readings, official university publications—to reveal a pattern of politicized classes, housing, budget priorities, and more. They trace the connections between such disparate trends as political correctness, the gender wars, Generation X nihilism, and culture wars, showing how these have played a role in shaping multiculturalism at institutions like Stanford. The authors convincingly show that multiculturalism is not about learning more; it is actually about learning less. They end their comprehensive study by detailing the changes necessary to reverse the tragic disintegration of American universities and restore true academic excellence.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Independent Institute</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00SQLF352</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">FXglAQAAIAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780945999768</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Education</dc:subject>
+        <dc:subject>Higher</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Minority Studies</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;David O. Sacks&quot;: &quot;&quot;, &quot;Peter A. Thiel&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-14T05:39:37+00:00"/>
+        <meta name="calibre:title_sort" content="Diversity Myth: Multiculturalism and Political Intolerance on Campus, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

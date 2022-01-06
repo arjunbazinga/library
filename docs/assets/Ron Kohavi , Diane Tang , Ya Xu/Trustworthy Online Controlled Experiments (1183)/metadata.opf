@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1183</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fbb60098-ffa9-43ec-8a11-c1445e2ee830</dc:identifier>
+        <dc:title>Trustworthy Online Controlled Experiments</dc:title>
+        <dc:creator opf:file-as="Ron Kohavi , Diane Tang , Ya Xu" opf:role="aut">Ron Kohavi , Diane Tang , Ya Xu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-30T16:00:00+00:00</dc:date>
+        <dc:publisher>Cambridge University Press</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">fb28ba5c-b6e9-474f-9123-73354cb32d2b</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Ron Kohavi , Diane Tang , Ya Xu&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-01-16T14:42:38+00:00"/>
+        <meta name="calibre:title_sort" content="Trustworthy Online Controlled Experiments"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

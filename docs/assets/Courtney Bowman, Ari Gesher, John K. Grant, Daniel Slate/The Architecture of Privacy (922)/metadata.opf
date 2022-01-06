@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">922</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4e06b1b9-11d9-4ba7-a04a-f3d6ddd1b080</dc:identifier>
+        <dc:title>The Architecture of Privacy</dc:title>
+        <dc:creator opf:file-as="Courtney Bowman, Ari Gesher, John K. Grant, Daniel Slate" opf:role="aut">Courtney Bowman, Ari Gesher, John K. Grant, Daniel Slate</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-26T20:35:25+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>2015</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Courtney Bowman, Ari Gesher, John K. Grant, Daniel Slate&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-08-10T18:16:11+00:00"/>
+        <meta name="calibre:title_sort" content="Architecture of Privacy, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

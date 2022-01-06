@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">869</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d8f6db2-2f1c-49e1-b049-3041f57c540e</dc:identifier>
+        <dc:title>The Best Way to Rob a Bank Is to Own One: How Corporate Executives and Politicians Looted the S&amp;L Industry</dc:title>
+        <dc:creator opf:file-as="Black, William K." opf:role="aut">William K. Black</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-01-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The catastrophic collapse of companies such as Enron, WorldCom, ImClone, and Tyco left angry investors, employees, reporters, and government investigators demanding to know how the CEOs deceived everyone into believing their companies were spectacularly successful when in fact they were massively insolvent. Why did the nation's top accounting firms give such companies clean audit reports? Where were the regulators and whistleblowers who should expose fraudulent CEOs before they loot their companies for hundreds of millions of dollars? In this expert insider's account of the savings and loan debacle of the 1980s, William Black lays bare the strategies that corrupt CEOs and CFOs—in collusion with those who have regulatory oversight of their industries—use to defraud companies for their personal gain. Recounting the investigations he conducted as Director of Litigation for the Federal Home Loan Bank Board, Black fully reveals how Charles Keating and hundreds of other S&amp;amp;L owners took advantage of a weak regulatory environment to perpetrate accounting fraud on a massive scale. He also authoritatively links the S&amp;amp;L crash to the business failures of the early 2000s, showing how CEOs then and now are using the same tactics to defeat regulatory restraints and commit the same types of destructive fraud. Black uses the latest advances in criminology and economics to develop a theory of why "control fraud"—looting a company for personal profit—tends to occur in waves that make financial markets deeply inefficient. He also explains how to prevent such waves. Throughout the book, Black drives home the larger point that control fraud is a major, ongoing threat in business that requires active, independent regulators to contain it. His book is a wake-up call for everyone who believes that market forces alone will keep companies and their owners honest. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>University of Texas Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780292754188</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0292706383</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">m44cAgAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Economic History</dc:subject>
+        <dc:subject>Banks &amp; Banking</dc:subject>
+        <dc:subject>Finance</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William K. Black&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-07-24T12:24:08+00:00"/>
+        <meta name="calibre:title_sort" content="Best Way to Rob a Bank Is to Own One: How Corporate Executives and Politicians Looted the S&amp;L Industry, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

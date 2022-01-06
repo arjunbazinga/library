@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">459</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5be1a4c9-8103-43ee-9ba3-ec4a5459f22b</dc:identifier>
+        <dc:title>Survival of the Prettiest: The Science of Beauty</dc:title>
+        <dc:creator opf:file-as="Etcoff, Nancy" opf:role="aut">Nancy Etcoff</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-01T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A provocative and thoroughly researched inquiry into what we find beautiful and why, skewering the myth that the pursuit of beauty is a learned behavior.  &lt;/p&gt;
+&lt;p&gt;In  &lt;em&gt;Survival of the Prettiest&lt;/em&gt; , Nancy Etcoff, a faculty member at Harvard Medical School and a practicing psychologist at Massachusetts General Hospital, argues that beauty is neither a cultural construction, an invention of the fashion industry, nor a backlash against feminism—it’s in our biology.  &lt;/p&gt;
+&lt;p&gt;Beauty, she explains, is an essential and ineradicable part of human nature that is revered and ferociously pursued in nearly every civilization—and for good reason. Those features to which we are most attracted are often signals of fertility and fecundity. When seen in the context of a Darwinian struggle for survival, our sometimes extreme attempts to attain beauty—both to become beautiful ourselves and to acquire an attractive partner—suddenly become much more understandable. Moreover, if we understand how the desire for beauty is innate, then we can begin to work in our own interests, and not just the interests of our genetic tendencies. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Knopf Doubleday Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B004G5ZYLA</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">kflKlRmKwjMC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780307779113</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B004G5ZYLA</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Women's Studies</dc:subject>
+        <dc:subject>Health &amp; Fitness</dc:subject>
+        <dc:subject>Beauty &amp; Grooming</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Life Sciences</dc:subject>
+        <dc:subject>Evolution</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nancy Etcoff&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2018-08-03T11:23:52+00:00"/>
+        <meta name="calibre:title_sort" content="Survival of the Prettiest: The Science of Beauty"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

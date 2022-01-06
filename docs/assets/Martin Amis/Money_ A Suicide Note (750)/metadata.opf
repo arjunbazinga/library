@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">750</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f66da68b-9493-45cb-9f57-71478d375318</dc:identifier>
+        <dc:title>Money: A Suicide Note</dc:title>
+        <dc:creator opf:file-as="Amis, Martin" opf:role="aut">Martin Amis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-28T18:30:00+00:00</dc:date>
+        <dc:description>One of Time's 100 best novels in the English language—by the acclaimed author ofLionel Asbo: State of England and London FieldsPart of Martin Amis's “London Trilogy,” along with the novel London Fields andThe Information, Money was hailed as "a sprawling, fierce, vulgar display" (The New Republic) and "exhilarating, skillful, savvy" (The Times Literary Supplement) when it made its first appearance in the mid-1980s. Amis's shocking, funny, and on-target portraits of life in the fast lane form a bold and frightening portrait of Ronald Reagan's America and Margaret Thatcher's England.Money is the hilarious story of John Self, one of London's top commercial directors, who is given the opportunity to make his first feature film—alternately titledGood Money and Bad Money. He is also living money, talking money, and spending money in his relentless pursuit of pleasure and success. As he attempts to navigate his hedonistic world of drinking, sex, drugs, and excessive quantities of fast food, Self is sucked into a wretched spiral of degeneracy that is increasingly difficult to surface from.</dc:description>
+        <dc:publisher>Penguin Books</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">xWamQQAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0143116959</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780143116950</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Humorous</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Martin Amis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="London Trilogy"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-04-04T08:09:36+00:00"/>
+        <meta name="calibre:title_sort" content="Money: A Suicide Note"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

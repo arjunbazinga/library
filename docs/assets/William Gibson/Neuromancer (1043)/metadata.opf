@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1043</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c643a8c7-2c3b-455e-a3e8-04b0c940a752</dc:identifier>
+        <dc:title>Neuromancer</dc:title>
+        <dc:creator opf:file-as="Gibson, William" opf:role="aut">William Gibson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-08-10T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Winner of the Hugo, Nebula, and Philip K. Dick Awards, &lt;/strong&gt;&lt;span style="font-style: italic; font-weight: 600"&gt;Neuromancer&lt;/span&gt;&lt;strong&gt; is a science fiction masterpiece—a classic that ranks as one of the twentieth century’s most potent visions of the future.&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;Case was the sharpest data-thief in the matrix—until he crossed the wrong people and they crippled his nervous system, banishing him from cyberspace. Now a mysterious new employer has recruited him for a last-chance run at an unthinkably powerful artificial intelligence. With a dead man riding shotgun and Molly, a mirror-eyed street-samurai, to watch his back, Case is ready for the adventure that upped the ante on an entire genre of fiction. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Neuromancer&lt;/em&gt; was the first fully-realized glimpse of humankind’s digital future—a shocking vision that has challenged our assumptions about technology and ourselves, reinvented the way we speak and think, and forever altered the landscape of our imaginations. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Hachette UK</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">vi2KCwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0441569595</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781473217393</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Cyberpunk</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Action &amp; Adventure</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Gibson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-10-18T12:06:31+00:00"/>
+        <meta name="calibre:title_sort" content="Neuromancer"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

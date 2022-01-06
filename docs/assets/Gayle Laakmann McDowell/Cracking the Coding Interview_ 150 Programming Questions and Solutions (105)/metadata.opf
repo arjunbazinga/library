@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">105</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f703192-e232-4f52-bd05-07cf219f8b91</dc:identifier>
+        <dc:title>Cracking the Coding Interview: 150 Programming Questions and Solutions</dc:title>
+        <dc:creator opf:file-as="McDowell, Gayle Laakmann" opf:role="aut">Gayle Laakmann McDowell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-06-08T21:46:13+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Now in the 5th edition, Cracking the Coding Interview gives you the interview preparation you need to get the top software developer jobs. This is a deeply technical book and focuses on the software engineering skills to ace your interview. The book is over 500 pages and includes &lt;strong&gt;150 programming interview questions and answers&lt;/strong&gt; , as well as other advice.  &lt;/p&gt;
+&lt;p&gt;The full list of topics are as follows: &lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;The Interview Process&lt;/strong&gt; This section offers an overview on questions are selected and how you will be evaluated. What happens when you get a question wrong? When should you start preparing, and how? What language should you use? All these questions and more are answered.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Behind the Scenes&lt;/strong&gt; Learn what happens behind the scenes during your interview, how decisions really get made, who you interview with, and what they ask you. Companies covered include Google, Amazon, Yahoo, Microsoft, Apple and Facebook.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Special Situations&lt;/strong&gt; This section explains the process for experience candidates, Program Managers, Dev Managers, Testers / SDETs, and more. Learn what your interviewers are looking for and how much code you need to know.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Before the Interview&lt;/strong&gt; In order to ace the interview, you first need to get an interview. This section describes what a software engineer's resume should look like and what you should be doing well before your interview.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Behavioral Preparation&lt;/strong&gt; Although most of a software engineering interview will be technical, behavioral questions matter too. This section covers how to prepare for behavioral questions and how to give strong, structured responses.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Technical Questions (+ 5 Algorithm Approaches)&lt;/strong&gt; This section covers how to prepare for technical questions (without wasting your time) and teaches actionable ways to solve the trickiest algorithm problems. It also teaches you what exactly "good coding" is when it comes to an interview.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;150 Programming Questions and Answers&lt;/strong&gt; This section forms the bulk of the book. Each section opens with a discussion of the core knowledge and strategies to tackle this type of question, diving into exactly how you break down and solve it. Topics covered include  * Arrays and Strings * Linked Lists * Stacks and Queues * Trees and Graphs * Bit Manipulation * Brain Teasers * Mathematics and Probability * Object-Oriented Design * Recursion and Dynamic Programming * Sorting and Searching * Scalability and Memory Limits * Testing * C and C++ * Java * Databases * Threads and Locks&lt;/p&gt;
+&lt;p&gt;For the widest degree of readability, the solutions are almost entirely written with Java (with the exception of C / C++ questions). A link is provided with the book so that you can download, compile, and play with the solutions yourself.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Changes from the Fourth Edition:&lt;/em&gt; The fifth edition includes over 200 pages of new content, bringing the book from 300 pages to over 500 pages. Major revisions were done to almost every solution, including a number of alternate solutions added. The introductory chapters were massively expanded, as were the opening of each of the chapters under Technical Questions. In addition, 24 new questions were added.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;*Cracking the Coding Interview, Fifth Edition&lt;/strong&gt;&lt;em&gt; is the most expansive, detailed guide on how to ace your software development / programming interviews. &lt;/em&gt;*&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="AMAZON">098478280X</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Gayle Laakmann McDowell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2018-07-12T09:20:51+00:00"/>
+        <meta name="calibre:title_sort" content="Cracking the Coding Interview: 150 Programming Questions and Solutions"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

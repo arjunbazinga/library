@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1695</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c363a1bf-32de-47c0-a223-818ca6f0f45e</dc:identifier>
+        <dc:title>The Pattern on the Stone: The Simple Ideas That Make Computers Work</dc:title>
+        <dc:creator opf:file-as="Hillis, W. Daniel" opf:role="aut">W. Daniel Hillis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-12-09T19:27:38+00:00</dc:date>
+        <dc:description>&lt;p&gt;Most people are baffled by how computers work and assume that they will never understand them. What they don't realize -- and what Daniel Hillis's short book brilliantly demonstrates -- is that computers' seemingly complex operations can be broken down into a few simple parts that perform the same simple procedures over and over again. Computer wizard Hillis offers an easy-to-follow explanation of how data is processed that makes the operations of a computer seem as straightforward as those of a bicycle. Avoiding technobabble or discussions of advanced hardware, the lucid explanations and colorful anecdotes in &lt;em&gt;The Pattern on the Stone&lt;/em&gt; go straight to the heart of what computers really do. Hillis proceeds from an outline of basic logic to clear descriptions of programming languages, algorithms, and memory. He then takes readers in simple steps up to the most exciting developments in computing today -- quantum computing, parallel computing, neural networks, and self-organizing systems. Written clearly and succinctly by one of the world's leading computer scientists, &lt;em&gt;The Pattern on the Stone&lt;/em&gt; is an indispensable guide to understanding the workings of that most ubiquitous and important of machines: the computer.
+**&lt;/p&gt;</dc:description>
+        <dc:publisher>Perseus Books, LLC</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780465066872</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">vO03DgAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">046502596X</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Computer Science</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. Daniel Hillis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-07-09T19:27:17+00:00"/>
+        <meta name="calibre:title_sort" content="Pattern on the Stone: The Simple Ideas That Make Computers Work, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

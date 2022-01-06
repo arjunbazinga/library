@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with U</title>
+  <id>Calibre2opds:allbooks:U</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_U_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with U" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>The UNIX-HATERS Handbook</title>
+    <id>calibre:book:870</id>
+    <updated>2020-07-24T05:54:10Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Simson%20Garfinkel/The%20UNIX-HATERS%20Handbook%20%28870%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Simson%20Garfinkel/The%20UNIX-HATERS%20Handbook%20%28870%29/The%20UNIX-HATERS%20Handbook%20-%20Simson%20Garfinkel.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Simson Garfinkel</name>
+      <uri>../author_0/author_662_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Daniel Weise</name>
+      <uri>../author_0/author_663_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Steven Strassmann</name>
+      <uri>../author_0/author_664_Page_1.xml</uri>
+    </author>
+    <published>2000-08-23T10:20:00Z</published>
+    <link href="../book_0/book_870.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>UNSCRIPTED: Life, Liberty, and the Pursuit of Entrepreneurship</title>
+    <id>calibre:book:683</id>
+    <updated>2020-03-28T07:11:56Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/MJ%20DeMarco/UNSCRIPTED_%20Life%2C%20Liberty%2C%20and%20the%20Pursuit%20of%20Entrepreneurship%20%28683%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/MJ%20DeMarco/UNSCRIPTED_%20Life%2C%20Liberty%2C%20and%20the%20Pursuit%20of%20Entrepreneurship%20%28683%29/UNSCRIPTED_%20Life%2C%20Liberty%2C%20and%20the%20Pursuit%20-%20MJ%20DeMarco.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/MJ%20DeMarco/UNSCRIPTED_%20Life%2C%20Liberty%2C%20and%20the%20Pursuit%20of%20Entrepreneurship%20%28683%29/UNSCRIPTED_%20Life%2C%20Liberty%2C%20and%20the%20Pursuit%20-%20MJ%20DeMarco.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>MJ DeMarco</name>
+      <uri>../author_0/author_420_Page_1.xml</uri>
+    </author>
+    <published>2017-05-23T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Viperion Publishing Corporation</dcterms:publisher>
+    <category term="start up" />
+    <category term="Entrepreneurship" />
+    <category term="investment" />
+    <category term="retirement" />
+    <category term="start-up" />
+    <category term="Entrepreneur" />
+    <category term="millionaire" />
+    <category term="Success" />
+    <category term="fastlane" />
+    <category term="Management" />
+    <category term="starting a business" />
+    <category term="career" />
+    <category term="small business" />
+    <category term="Investing" />
+    <category term="wealth" />
+    <category term="stock market" />
+    <category term="motivation" />
+    <category term="freedom" />
+    <category term="money" />
+    <category term="Finance" />
+    <category term="Lang:en" />
+    <summary>MJ DeMarco&amp;#x2019;s long awaited follow-up to the international best-seller, The Millionaire Fastlane, UNSCRIPTED is the definitive blueprint for escaping the cultural conditioning of the mundane and mediocre; learn how to create an awe-inspiring lif...</summary>
+    <link href="../book_0/book_683.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ultralearning</title>
+    <id>calibre:book:678</id>
+    <updated>2020-03-29T02:12:10Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Scott%20Young/Ultralearning%20%28678%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Scott%20Young/Ultralearning%20%28678%29/Ultralearning%20-%20Scott%20Young.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Scott%20Young/Ultralearning%20%28678%29/Ultralearning%20-%20Scott%20Young.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Scott Young</name>
+      <uri>../author_0/author_427_Page_1.xml</uri>
+    </author>
+    <published>2019-08-06T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperBusiness</dcterms:publisher>
+    <category term="Learning" />
+    <category term="Self-Help" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_678.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Unabomber Manifesto: Industrial Society and Its Future</title>
+    <id>calibre:book:725</id>
+    <updated>2020-03-28T07:26:58Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Theodore%20Kaczynski/The%20Unabomber%20Manifesto_%20Industrial%20Society%20and%20Its%20Future%20%28725%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Theodore%20Kaczynski/The%20Unabomber%20Manifesto_%20Industrial%20Society%20and%20Its%20Future%20%28725%29/The%20Unabomber%20Manifesto_%20Industrial%20Societ%20-%20Theodore%20Kaczynski.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Theodore%20Kaczynski/The%20Unabomber%20Manifesto_%20Industrial%20Society%20and%20Its%20Future%20%28725%29/The%20Unabomber%20Manifesto_%20Industrial%20Societ%20-%20Theodore%20Kaczynski.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Theodore Kaczynski</name>
+      <uri>../author_0/author_450_Page_1.xml</uri>
+    </author>
+    <published>2011-04-02T08:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <summary>Theodore John Kaczynski is an American mathematician and eventual neo-Luddite social critic who carried out a campaign of mail bombings. Kaczynski excelled in academics from an early age received and undergraduate degree from Harvard University and e...</summary>
+    <link href="../book_0/book_725.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Unbearable Lightness of Being: Twentieth Anniversary Edition ****</title>
+    <id>calibre:book:566</id>
+    <updated>2019-12-07T00:47:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Milan%20Kundera/The%20Unbearable%20Lightness%20of%20Being_%20Twentieth%20Anniversary%20Edition%20%28566%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Milan%20Kundera/The%20Unbearable%20Lightness%20of%20Being_%20Twentieth%20Anniversary%20Edition%20%28566%29/The%20Unbearable%20Lightness%20of%20Being_%20Twentie%20-%20Milan%20Kundera.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Milan%20Kundera/The%20Unbearable%20Lightness%20of%20Being_%20Twentieth%20Anniversary%20Edition%20%28566%29/The%20Unbearable%20Lightness%20of%20Being_%20Twentie%20-%20Milan%20Kundera.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Milan Kundera</name>
+      <uri>../author_0/author_342_Page_1.xml</uri>
+    </author>
+    <published>2004-05-03T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Harper</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Literary" />
+    <category term="Lang:en" />
+    <summary>When The Unbearable Lightness of Being was first published in English, it was hailed as "a work of the boldest mastery, originality, and richness" by critic Elizabeth Hardwick and named one of the best books of 1984 by the New York Times Book Review...</summary>
+    <link href="../book_0/book_566.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Uncivil Agreement: How Politics Became Our Identity</title>
+    <id>calibre:book:434</id>
+    <updated>2020-03-28T07:32:16Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Lilliana%20Mason/Uncivil%20Agreement_%20How%20Politics%20Became%20Our%20Identity%20%28434%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Lilliana%20Mason/Uncivil%20Agreement_%20How%20Politics%20Became%20Our%20Identity%20%28434%29/Uncivil%20Agreement_%20How%20Politics%20Became%20Our%20-%20Lilliana%20Mason.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Lilliana%20Mason/Uncivil%20Agreement_%20How%20Politics%20Became%20Our%20Identity%20%28434%29/Uncivil%20Agreement_%20How%20Politics%20Became%20Our%20-%20Lilliana%20Mason.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Lilliana%20Mason/Uncivil%20Agreement_%20How%20Politics%20Became%20Our%20Identity%20%28434%29/Uncivil%20Agreement_%20How%20Politics%20Became%20Our%20-%20Lilliana%20Mason.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Lilliana Mason</name>
+      <uri>../author_0/author_178_Page_1.xml</uri>
+    </author>
+    <published>2018-04-15T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>University of Chicago Press</dcterms:publisher>
+    <category term="Political Science" />
+    <category term="General" />
+    <category term="Political Ideologies" />
+    <category term="Political Process" />
+    <category term="Social Science" />
+    <category term="Sociology" />
+    <category term="Lang:en" />
+    <summary>Political polarization in America is at an all-time high, and the conflict has moved beyond disagreements about matters of policy. For the first time in more than twenty years, research has shown that members of both parties hold strongly unfavorable...</summary>
+    <link href="../book_0/book_434.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Unfavorable Economics of Measuring the Returns to Advertising</title>
+    <id>calibre:book:945</id>
+    <updated>2020-08-21T01:46:09Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Randall%20A.%20Lewis%2C%20Justin%20M.%20Rao/The%20Unfavorable%20Economics%20of%20Measuring%20the%20Returns%20to%20Advertising%20%28945%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Randall%20A.%20Lewis%2C%20Justin%20M.%20Rao/The%20Unfavorable%20Economics%20of%20Measuring%20the%20Returns%20to%20Advertising%20%28945%29/The%20Unfavorable%20Economics%20of%20Measuring%20the%20-%20Randall%20A.%20Lewis%2C%20Justin%20M.%20Rao.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Randall A. Lewis, Justin M. Rao</name>
+      <uri>../author_0/author_757_Page_1.xml</uri>
+    </author>
+    <published>2015-07-05T06:30:00Z</published>
+    <category term="Economics" />
+    <link href="../book_0/book_945.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Elixir in Action</title>
+    <id>calibre:book:603</id>
+    <updated>2020-03-06T09:43:18Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Sasa%20Juric/Elixir%20in%20Action%20%28603%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Sasa%20Juric/Elixir%20in%20Action%20%28603%29/Elixir%20in%20Action%20-%20Sasa%20Juric.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Saša Jurić</name>
+      <uri>../author_0/author_475_Page_1.xml</uri>
+    </author>
+    <published>2019-01-30T00:55:38Z</published>
+    <dcterms:publisher>Manning Publications</dcterms:publisher>
+    <link href="../book_0/book_603.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Unraveling the Mindset of Victimhood</title>
+    <id>calibre:book:925</id>
+    <updated>2020-08-13T00:51:27Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Scientific%20American/Unraveling%20the%20Mindset%20of%20Victimhood%20%28925%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Scientific%20American/Unraveling%20the%20Mindset%20of%20Victimhood%20%28925%29/Unraveling%20the%20Mindset%20of%20Victimhood%20-%20Scientific%20American.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Scientific American</name>
+      <uri>../author_0/author_733_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_925.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Uses and Abuses of History **</title>
+    <id>calibre:book:469</id>
+    <updated>2020-03-28T07:30:48Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Margaret%20MacMillan/The%20Uses%20and%20Abuses%20of%20History%20%28469%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Margaret%20MacMillan/The%20Uses%20and%20Abuses%20of%20History%20%28469%29/The%20Uses%20and%20Abuses%20of%20History%20-%20Margaret%20MacMillan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Margaret%20MacMillan/The%20Uses%20and%20Abuses%20of%20History%20%28469%29/The%20Uses%20and%20Abuses%20of%20History%20-%20Margaret%20MacMillan.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Margaret%20MacMillan/The%20Uses%20and%20Abuses%20of%20History%20%28469%29/The%20Uses%20and%20Abuses%20of%20History%20-%20Margaret%20MacMillan.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Margaret MacMillan</name>
+      <uri>../author_0/author_194_Page_1.xml</uri>
+    </author>
+    <published>2009-03-16T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Group</dcterms:publisher>
+    <category term="General" />
+    <category term="Philosophy" />
+    <category term="History" />
+    <category term="Decision-Making &amp; Problem Solving" />
+    <category term="Education" />
+    <category term="Historiography" />
+    <category term="Study &amp; Teaching" />
+    <category term="Decision Making" />
+    <category term="Lang:en" />
+    <summary>Review"'In a world where the spin doctor has replaced the historian, MacMillan reminds readers of the importance of dispassionate, fact-driven narrative, as opposed to reassuring or self-serving accounts that pass for history while burying the unplea...</summary>
+    <link href="../book_0/book_469.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Using, Understanding and Unraveling the Ocaml Language</title>
+    <id>calibre:book:937</id>
+    <updated>2020-08-21T01:46:07Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Didier%20Remy/Using%2C%20Understanding%20and%20Unraveling%20the%20Ocaml%20Language%20%28937%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Didier%20Remy/Using%2C%20Understanding%20and%20Unraveling%20the%20Ocaml%20Language%20%28937%29/Using%2C%20Understanding%20and%20Unraveling%20the%20Oc%20-%20Didier%20Remy.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Didier Remy</name>
+      <uri>../author_0/author_761_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_937.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The undeserved status of the pigeon-hole principle</title>
+    <id>calibre:book:844</id>
+    <updated>2020-07-09T01:07:28Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/E.W.Dijkstra/The%20undeserved%20status%20of%20the%20pigeon-hole%20principle%20%28844%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/E.W.Dijkstra/The%20undeserved%20status%20of%20the%20pigeon-hole%20principle%20%28844%29/The%20undeserved%20status%20of%20the%20pigeon-hole%20p%20-%20E.W.Dijkstra.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>E.W.Dijkstra</name>
+      <uri>../author_0/author_637_Page_1.xml</uri>
+    </author>
+    <published>2000-03-06T11:02:33Z</published>
+    <category term="ewd1094" />
+    <summary>ewd1094</summary>
+    <link href="../book_0/book_844.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The unreasonable effectiveness of mathematics in the natural sciences.</title>
+    <id>calibre:book:189</id>
+    <updated>2020-03-28T08:09:18Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Eugene%20P.%20Wigner/The%20unreasonable%20effectiveness%20of%20mathematics%20in%20the%20natural%20sciences_%20%28189%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Eugene%20P.%20Wigner/The%20unreasonable%20effectiveness%20of%20mathematics%20in%20the%20natural%20sciences_%20%28189%29/The%20unreasonable%20effectiveness%20of%20mathemat%20-%20Eugene%20P.%20Wigner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Eugene%20P.%20Wigner/The%20unreasonable%20effectiveness%20of%20mathematics%20in%20the%20natural%20sciences_%20%28189%29/The%20unreasonable%20effectiveness%20of%20mathemat%20-%20Eugene%20P.%20Wigner.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Eugene%20P.%20Wigner/The%20unreasonable%20effectiveness%20of%20mathematics%20in%20the%20natural%20sciences_%20%28189%29/The%20unreasonable%20effectiveness%20of%20mathemat%20-%20Eugene%20P.%20Wigner.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Eugene P. Wigner</name>
+      <uri>../author_0/author_236_Page_1.xml</uri>
+    </author>
+    <published>1959-05-11T03:44:02Z</published>
+    <dcterms:publisher>New York University, May 11, 1959</dcterms:publisher>
+    <category term="Essays" />
+    <link href="../book_0/book_189.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

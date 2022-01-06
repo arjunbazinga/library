@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">890</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1386916c-a6e0-4594-b244-da138c268820</dc:identifier>
+        <dc:title>AI Superpowers: China, Silicon Valley, and the New World Order</dc:title>
+        <dc:creator opf:file-as="Lee, Kai-Fu" opf:role="aut">Kai-Fu Lee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-09-24T18:30:00+00:00</dc:date>
+        <dc:publisher>Houghton Mifflin Harcourt</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781328546395</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1328606090</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Xb9wDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Industries</dc:subject>
+        <dc:subject>Computers &amp; Information Technology</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Intelligence (AI) &amp; Semantics</dc:subject>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>Public Policy</dc:subject>
+        <dc:subject>Economic Policy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kai-Fu Lee&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-08-09T07:29:03+00:00"/>
+        <meta name="calibre:title_sort" content="AI Superpowers: China, Silicon Valley, and the New World Order"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

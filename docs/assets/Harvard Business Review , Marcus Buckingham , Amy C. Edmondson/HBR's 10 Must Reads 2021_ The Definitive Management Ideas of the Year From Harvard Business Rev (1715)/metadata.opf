@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1715</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1fd3a576-e754-4792-8d74-b4764b4a28d8</dc:identifier>
+        <dc:title>HBR's 10 Must Reads 2021: The Definitive Management Ideas of the Year From Harvard Business Review (With Bonus Article "The Feedback Fallacy" by Marcus Buckingham and Ashley Goodall)</dc:title>
+        <dc:creator opf:file-as="Harvard Business Review , Marcus Buckingham ,  Amy C. Edmondson &amp; Cappelli, Peter &amp; Roberts, Laura Morgan" opf:role="aut">Harvard Business Review , Marcus Buckingham , Amy C. Edmondson</dc:creator>
+        <dc:creator opf:file-as="Harvard Business Review , Marcus Buckingham ,  Amy C. Edmondson &amp; Cappelli, Peter &amp; Roberts, Laura Morgan" opf:role="aut">Peter Cappelli</dc:creator>
+        <dc:creator opf:file-as="Harvard Business Review , Marcus Buckingham ,  Amy C. Edmondson &amp; Cappelli, Peter &amp; Roberts, Laura Morgan" opf:role="aut">Laura Morgan Roberts</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-06T04:50:49+00:00</dc:date>
+        <dc:description>A year's worth of management wisdom, all in one place.We've reviewed the ideas, insights, and best practices from the past year of Harvard Business Review to keep you up-to-date on the most cutting-edge, influential thinking driving business today. With authors from Marcus Buckingham to Amy Edmondson and company examples from Lyft to Disney, this volume brings the most current and important management conversations right to your fingertips.This book will inspire you to:Rethink whether constant, candid feedback really helps employees thriveMove beyond diversity and inclusion to creating a racially just workplaceAdopt connected strategies that anticipate your customers' needsNavigate the challenges of dual-career relationshipsUnderstand when data creates competitive advantage—and when it doesn'tBreak through the organizational barriers that impede AI initiativesLead in a new era of climate actionThis collection of articles includes “The Feedback Fallacy,” by Marcus Buckingham and Ashley Goodall; “Cross-Silo Leadership,” by Tiziana Casciaro, Amy C. Edmondson, and Sujin Jang; “Toward a Racially Just Workplace,” by Laura Morgan Roberts and Anthony J. Mayo; “The Age of Continuous Connection,” by Nicolaj Siggelkow and Christian Terwiesch; “The Hard Truth about Innovative Cultures,” by Gary P. Pisano; “Creating a Trans-Inclusive Workplace,” by Christian N. Thoroughgood, Katina B. Sawyer, and Jennica R. Webster; “When Data Creates Competitive Advantage,” by Andrei Hagiu and Julian Wright; “Your Approach to Hiring Is All Wrong,” by Peter Cappelli; “How Dual-Career Couples Make It Work,” by Jennifer Petriglieri; “Building the AI-Powered Organization,” by Tim Fountaine, Brian McCarthy, and Tamim Saleh; “Leading a New Era of Climate Action,” by Andrew Winston; and “That Discomfort You’re Feeling Is Grief,” by Scott Berinato.</dc:description>
+        <dc:publisher>Harvard Business Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">VUjWDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781647820046</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Management</dc:subject>
+        <dc:subject>Strategic Planning</dc:subject>
+        <dc:subject>Human Resources &amp; Personnel Management</dc:subject>
+        <dc:subject>Leadership</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harvard Business Review , Marcus Buckingham , Amy C. Edmondson&quot;: &quot;&quot;, &quot;Peter Cappelli&quot;: &quot;&quot;, &quot;Laura Morgan Roberts&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-07-14T04:48:53+00:00"/>
+        <meta name="calibre:title_sort" content="HBR's 10 Must Reads 2021: The Definitive Management Ideas of the Year From Harvard Business Review (With Bonus Article &quot;The Feedback Fallacy&quot; by Marcus Buckingham and Ashley Goodall)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

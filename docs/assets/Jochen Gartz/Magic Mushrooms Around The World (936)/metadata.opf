@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">936</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">66f3a5fe-fe51-4fb5-90cc-bce83ebd75dc</dc:identifier>
+        <dc:title>Magic Mushrooms Around The World</dc:title>
+        <dc:creator opf:file-as="Gartz, Jochen" opf:role="aut">Jochen Gartz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-09-01T18:27:40+00:00</dc:date>
+        <dc:description>Magic Mushrooms - A scientific Journey Across Cultures &amp; Time</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Magic Mushrooms - A scientific Journey Across Cultures &amp; Time</dc:subject>
+        <dc:subject>This pdf Was made by: The Hooded Claw</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jochen Gartz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-08-21T08:16:07+00:00"/>
+        <meta name="calibre:title_sort" content="Magic Mushrooms Around The World"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

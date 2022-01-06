@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1109</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5809a31a-3ab9-415e-a141-5775c41935b4</dc:identifier>
+        <dc:title>Theory of Games and Economic Behavior: 60th Anniversary Commemorative Edition (Princeton Classic Editions)</dc:title>
+        <dc:creator opf:file-as="Neumann, John von" opf:role="aut">John von Neumann</dc:creator>
+        <dc:creator opf:file-as="Neumann, John von" opf:role="aut">Oskar Morgenstern</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-03-19T00:00:00+00:00</dc:date>
+        <dc:publisher>Princeton University Press</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00AMAZL4I</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;John von Neumann&quot;: &quot;&quot;, &quot;Oskar Morgenstern&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-03T12:33:11+00:00"/>
+        <meta name="calibre:title_sort" content="Theory of Games and Economic Behavior: 60th Anniversary Commemorative Edition (Princeton Classic Editions)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

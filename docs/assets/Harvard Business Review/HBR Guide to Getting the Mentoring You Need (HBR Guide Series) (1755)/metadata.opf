@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1755</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fd311c4c-7120-4385-bfac-94e1d70585b4</dc:identifier>
+        <dc:title>HBR Guide to Getting the Mentoring You Need (HBR Guide Series)</dc:title>
+        <dc:creator opf:file-as="Review, Harvard Business" opf:role="aut">Harvard Business Review</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-12-17T11:10:29+00:00</dc:date>
+        <dc:description>Find the right person to help supercharge your career.Whether you’re eyeing a specific leadership role, hoping to advance your skills, or simply looking to broaden your professional network, you need to find someone who can help. Wait for a senior manager to come looking for you—and you’ll probably be waiting forever.Instead, you need to find the mentoring that will help you achieve your goals. Managed correctly, mentoring is a powerful and efficient tool for moving up.The HBR Guide to Getting the Mentoring You Need will help you get it right. You’ll learn how to:Find new ways to stand out in your organizationSet clear and realistic development goalsIdentify and build relationships with influential sponsorsGive back and bring value to mentors and senior advisersEvaluate your progress in reaching your professional goals</dc:description>
+        <dc:publisher>Harvard Business Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781422197493</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">vLuKAgAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Careers</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Leadership</dc:subject>
+        <dc:subject>Skills</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harvard Business Review&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-11-05T10:57:37+00:00"/>
+        <meta name="calibre:title_sort" content="HBR Guide to Getting the Mentoring You Need (HBR Guide Series)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

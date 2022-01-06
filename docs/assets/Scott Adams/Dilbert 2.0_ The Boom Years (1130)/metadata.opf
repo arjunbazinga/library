@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1130</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7a14faac-c108-40ac-9216-da162da52e62</dc:identifier>
+        <dc:title>Dilbert 2.0: The Boom Years</dc:title>
+        <dc:creator opf:file-as="Adams, Scott" opf:role="aut">Scott Adams</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-07-23T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Scott Adams "is a VERY tough act to follow." &amp;#8212;Suzanne Tobin, &lt;i&gt;Washington Post&lt;/i&gt;&lt;p&gt;In the tradition of &lt;i&gt;The Complete Far Side&lt;/i&gt; and &lt;i&gt;The Complete Calvin and Hobbes&lt;/i&gt;, &lt;i&gt;Dilbert 2.0&lt;/i&gt; celebrates the 20th anniversary of Scott Adams's &lt;i&gt;Dilbert&lt;/i&gt;, the touchstone of office humor.&lt;p&gt;This special slipcased collection-weighing in at more than ten pounds with 600 pages and featuring almost 4,000 strips-takes readers behind the scenes and into the early days of Scott Adams's life pre-Dilbert and on to the success that followed when &lt;i&gt;Dilbert&lt;/i&gt; became an internationally syndicated sensation.&lt;p&gt;Divided into five different epochs, &lt;i&gt;Dilbert 2.0&lt;/i&gt; gives readers a glance at some of Adams's earliest strips, like those created for &lt;i&gt;Playboy&lt;/i&gt;, and a peek at an abundance of special content ranging from numerous rejection letters to Adams's first cartooning check, and more.&lt;p&gt;Adams personally selected the material for this collection and offers original comments...</dc:description>
+        <dc:publisher>Andrews McMeel Publishing, LLC</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781449422875</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">16669630</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Scott Adams&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-12-11T07:48:27.632487+00:00" name="calibre:timestamp"/>
+        <meta content="Dilbert 2.0: The Boom Years" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">395</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1d0bc946-7463-453e-b438-4c0cbb6561cd</dc:identifier>
+        <dc:title>The Accidental Universe: The World You Thought You Knew</dc:title>
+        <dc:creator opf:file-as="Lightman, Alan" opf:role="aut">Alan Lightman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-01-13T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;From the acclaimed author of &lt;em&gt;Einstein's Dreams&lt;/em&gt; and &lt;em&gt;Mr. g&lt;/em&gt; comes a meditation on the unexpected ways in which recent scientific findings have shaped our understanding of ourselves and our place in the cosmos. &lt;/p&gt;
+&lt;p&gt;With all the passion, curiosity, and precise yet lyrical prose that have marked his previous books, Alan Lightman here explores the emotional and philosophical questions raised by discoveries in science, focusing most intently on the human condition and the needs of humankind. He looks at the difficult dialogue between science and religion, the conflict between our human desire for permanence and the impermanence of nature, the possibility that our universe is simply an accident, the manner in which modern technology has separated us from direct experience of the world, and our resistance to the view that our bodies and minds can be explained by scientific logic and laws. And behind all of these considerations is the suggestion -- at once haunting and exhilarating -- that what we see and understand of the world is only a tiny piece of the extraordinary, perhaps unfathomable whole. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Knopf Doubleday Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1482955954</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">_UMkAAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780307908599</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Physics</dc:subject>
+        <dc:subject>Astrophysics</dc:subject>
+        <dc:subject>Cosmology</dc:subject>
+        <dc:subject>Space Science</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alan Lightman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2018-07-25T12:52:29+00:00"/>
+        <meta name="calibre:title_sort" content="Accidental Universe: The World You Thought You Knew, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

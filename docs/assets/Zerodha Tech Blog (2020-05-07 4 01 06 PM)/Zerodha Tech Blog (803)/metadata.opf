@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">803</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f4945e1-1ed9-4923-9fe4-98d0173c5839</dc:identifier>
+        <dc:title>Zerodha Tech Blog</dc:title>
+        <dc:creator opf:file-as="Blog, Zerodha Tech" opf:role="aut">Zerodha Tech Blog (2020-05-07 4 01 06 PM)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Zerodha Tech Blog (2020-05-07 4 01 06 PM)&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-05-09T07:05:22+00:00"/>
+        <meta name="calibre:title_sort" content="Zerodha Tech Blog"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

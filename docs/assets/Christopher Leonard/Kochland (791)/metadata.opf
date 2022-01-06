@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">791</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bb0199c7-d7e5-4abc-8cbf-2c6e9652c1bd</dc:identifier>
+        <dc:title>Kochland</dc:title>
+        <dc:creator opf:file-as="Leonard, Christopher" opf:role="aut">Christopher Leonard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-12T18:30:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;Just as Steve Coll told the story of globalization through ExxonMobil and Andrew Ross Sorkin told the story of Wall Street excess through &lt;i&gt;Too Big to Fail&lt;/i&gt;, Christopher Leonard's &lt;i&gt;Kochland &lt;/i&gt;uses the extraordinary account of how the biggest private company in the world grew to be that big to tell the story of modern corporate America.&lt;/b&gt;&lt;BR&gt;The annual revenue of Koch Industries is bigger than that of Goldman Sachs, Facebook, and U.S. Steel combined. Koch is everywhere: from the fertilizers that make our food to the chemicals that make our pipes to the synthetics that make our carpets and diapers to the Wall Street trading in all these commodities. But few people know much about Koch Industries and that's because the billionaire Koch brothers want it that way.&lt;BR&gt; &lt;BR&gt;For five decades, CEO Charles Koch has kept Koch Industries quietly operating in deepest secrecy, with a view toward very, very long-term profits. He's a genius businessman: patient with earnings, able to...</dc:description>
+        <dc:publisher>Simon &amp; Schuster</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Christopher Leonard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-05-09T07:04:31+00:00"/>
+        <meta name="calibre:title_sort" content="Kochland"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

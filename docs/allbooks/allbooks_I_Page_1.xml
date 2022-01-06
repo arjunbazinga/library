@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with I</title>
+  <id>Calibre2opds:allbooks:I</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with I" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>I Do What I Do</title>
+    <id>calibre:book:503</id>
+    <updated>2019-12-07T00:47:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Raghuram%20G.%20Rajan/I%20Do%20What%20I%20Do%20%28503%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Raghuram%20G.%20Rajan/I%20Do%20What%20I%20Do%20%28503%29/I%20Do%20What%20I%20Do%20-%20Raghuram%20G.%20Rajan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Raghuram%20G.%20Rajan/I%20Do%20What%20I%20Do%20%28503%29/I%20Do%20What%20I%20Do%20-%20Raghuram%20G.%20Rajan.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Raghuram%20G.%20Rajan/I%20Do%20What%20I%20Do%20%28503%29/I%20Do%20What%20I%20Do%20-%20Raghuram%20G.%20Rajan.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Raghuram G. Rajan</name>
+      <uri>../author_0/author_254_Page_1.xml</uri>
+    </author>
+    <published>2017-09-03T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins Publishers India</dcterms:publisher>
+    <category term="null" />
+    <category term="Lang:en" />
+    <summary>null</summary>
+    <link href="../book_0/book_503.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Imformation operations and Counter-propoganda : Making a weapon of public affaird</title>
+    <id>calibre:book:826</id>
+    <updated>2020-07-09T01:07:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Unknown/Imformation%20operations%20and%20Counter-propoganda%20_%20Making%20a%20weapon%20of%20public%20affaird%20%28826%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Unknown/Imformation%20operations%20and%20Counter-propoganda%20_%20Making%20a%20weapon%20of%20public%20affaird%20%28826%29/Imformation%20operations%20and%20Counter-propoga%20-%20Unknown.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Unknown</name>
+      <uri>../author_0/author_278_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_826.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Improv Handbook</title>
+    <id>calibre:book:813</id>
+    <updated>2020-06-14T06:39:52Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Tom%20Salinsky%2C%20Deborah%20Frances-White/The%20Improv%20Handbook%20%28813%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Tom%20Salinsky%2C%20Deborah%20Frances-White/The%20Improv%20Handbook%20%28813%29/The%20Improv%20Handbook%20-%20Tom%20Salinsky%2C%20Deborah%20Frances-White.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Tom Salinsky, Deborah Frances-White</name>
+      <uri>../author_0/author_607_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_813.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>An Incremental Approach To Compiler Construction</title>
+    <id>calibre:book:586</id>
+    <updated>2020-03-29T01:16:38Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Arxiv/An%20Incremental%20Approach%20To%20Compiler%20Construction%20%28586%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Arxiv/An%20Incremental%20Approach%20To%20Compiler%20Construction%20%28586%29/An%20Incremental%20Approach%20To%20Compiler%20Constr%20-%20Arxiv.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Arxiv/An%20Incremental%20Approach%20To%20Compiler%20Construction%20%28586%29/An%20Incremental%20Approach%20To%20Compiler%20Constr%20-%20Arxiv.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Arxiv</name>
+      <uri>../author_0/author_503_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:publisher>Abdulaziz Ghuloum</dcterms:publisher>
+    <summary>Making a compilerarxiv</summary>
+    <link href="../book_0/book_586.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>India Calling</title>
+    <id>calibre:book:731</id>
+    <updated>2020-03-28T07:20:52Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Anand%20Giridharadas/India%20Calling%20%28731%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Anand%20Giridharadas/India%20Calling%20%28731%29/India%20Calling%20-%20Anand%20Giridharadas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Anand%20Giridharadas/India%20Calling%20%28731%29/India%20Calling%20-%20Anand%20Giridharadas.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Anand Giridharadas</name>
+      <uri>../author_0/author_457_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Henry Holt and Co.</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Reversing his parents' immigrant path, a young American-born writer returns to India and discovers an old country making itself newAnand Giridharadas sensed something was afoot as his plane from America prepared to land in Bombay. An elderly passenge...</summary>
+    <link href="../book_0/book_731.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Indistractable</title>
+    <id>calibre:book:658</id>
+    <updated>2020-03-28T07:16:00Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Nir%20Eyal%3B/Indistractable%20%28658%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Nir%20Eyal%3B/Indistractable%20%28658%29/Indistractable%20-%20Nir%20Eyal%3B.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Nir%20Eyal%3B/Indistractable%20%28658%29/Indistractable%20-%20Nir%20Eyal%3B.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Nir Eyal;</name>
+      <uri>../author_0/author_407_Page_1.xml</uri>
+    </author>
+    <published>2019-07-08T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Lightning Source Inc. (Tier 3)</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_658.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Influence: The Psychology of Persuasion *****</title>
+    <id>calibre:book:157</id>
+    <updated>2019-12-07T00:47:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20B.%20Cialdini%20Phd/Influence_%20The%20Psychology%20of%20Persuasion%20%28157%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20B.%20Cialdini%20Phd/Influence_%20The%20Psychology%20of%20Persuasion%20%28157%29/Influence_%20The%20Psychology%20of%20Persuasion%20-%20Robert%20B.%20Cialdini%20Phd.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20B.%20Cialdini%20Phd/Influence_%20The%20Psychology%20of%20Persuasion%20%28157%29/Influence_%20The%20Psychology%20of%20Persuasion%20-%20Robert%20B.%20Cialdini%20Phd.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20B.%20Cialdini%20Phd/Influence_%20The%20Psychology%20of%20Persuasion%20%28157%29/Influence_%20The%20Psychology%20of%20Persuasion%20-%20Robert%20B.%20Cialdini%20Phd.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Robert B. Cialdini Phd</name>
+      <uri>../author_0/author_789_Page_1.xml</uri>
+    </author>
+    <published>2009-06-01T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins e-books</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>The widely adopted, now classic book on influence and persuasion—a major national and international bestseller with more than four million copies sold! In this highly acclaimed  New York Times  bestseller, Dr. Robert B. Cialdini—the seminal expert i...</summary>
+    <link href="../book_0/book_157.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Insight</title>
+    <id>calibre:book:679</id>
+    <updated>2020-03-28T07:16:10Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Tasha%20Eurich/Insight%20%28679%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Tasha%20Eurich/Insight%20%28679%29/Insight%20-%20Tasha%20Eurich.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Tasha%20Eurich/Insight%20%28679%29/Insight%20-%20Tasha%20Eurich.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Tasha Eurich</name>
+      <uri>../author_0/author_428_Page_1.xml</uri>
+    </author>
+    <published>2017-05-02T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>The Crown Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>The first definitive book exploring the science of self-awareness, the meta-skill of the 21st century, Insight is a fascinating journey into everyone's favorite topic: themselves. Do you know who you really are? Do you ever wonder how other people re...</summary>
+    <link href="../book_0/book_679.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Intelligent Investor</title>
+    <id>calibre:book:12</id>
+    <updated>2019-12-07T00:47:18Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Benjamin%20Graham%2C%20Jason%20Zweig%2C%20Warren%20E.%20Buffett/The%20Intelligent%20Investor%20%2812%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Benjamin%20Graham%2C%20Jason%20Zweig%2C%20Warren%20E.%20Buffett/The%20Intelligent%20Investor%20%2812%29/The%20Intelligent%20Investor%20-%20Benjamin%20Graham%2C%20Jason%20Zweig%2C%20Warren%20E.%20Bu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Benjamin%20Graham%2C%20Jason%20Zweig%2C%20Warren%20E.%20Buffett/The%20Intelligent%20Investor%20%2812%29/The%20Intelligent%20Investor%20-%20Benjamin%20Graham%2C%20Jason%20Zweig%2C%20Warren%20E.%20Bu.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Benjamin%20Graham%2C%20Jason%20Zweig%2C%20Warren%20E.%20Buffett/The%20Intelligent%20Investor%20%2812%29/The%20Intelligent%20Investor%20-%20Benjamin%20Graham%2C%20Jason%20Zweig%2C%20Warren%20E.%20Bu.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Benjamin Graham, Jason Zweig, Warren E. Buffett</name>
+      <uri>../author_0/author_506_Page_1.xml</uri>
+    </author>
+    <published>2005-08-01T03:34:28Z</published>
+    <link href="../book_0/book_12.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Interleaving anomalies in collaborative text editors</title>
+    <id>calibre:book:865</id>
+    <updated>2020-07-22T10:44:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Martin%20Kleppmann%2C%20Victor%20B.%20F.%20Gomes%2C%20Dominic%20P.%20Mulligan/Interleaving%20anomalies%20in%20collaborative%20text%20editors%20%28865%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Martin%20Kleppmann%2C%20Victor%20B.%20F.%20Gomes%2C%20Dominic%20P.%20Mulligan/Interleaving%20anomalies%20in%20collaborative%20text%20editors%20%28865%29/Interleaving%20anomalies%20in%20collaborative%20te%20-%20Martin%20Kleppmann%2C%20Victor%20B.%20F.%20Gomes%2C%20Domi.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Martin Kleppmann, Victor B. F. Gomes, Dominic P. Mulligan</name>
+      <uri>../author_0/author_658_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Alastair R. Beresford</name>
+      <uri>../author_0/author_659_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <category term="- Theory of computation -&gt; -1Distributed algorithms.- Software and its engineering -&gt; -1Consistency.- Human-centered computing -&gt; -1Collaborative and social computing systems and tools.- Social and professional topics -&gt; -1Computer supported cooperative work.- Computer systems organization -&gt; -1Distributed architectures." />
+    <category term="CRDTs" />
+    <category term="collaborative text editing" />
+    <category term="specification" />
+    <category term="consistency" />
+    <link href="../book_0/book_865.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>An Introduction To Reliability and Maintainability Engineering</title>
+    <id>calibre:book:715</id>
+    <updated>2020-03-28T11:32:40Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Charles%20Ebeling/An%20Introduction%20To%20Reliability%20and%20Maintainability%20Engineering%20%28715%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Charles%20Ebeling/An%20Introduction%20To%20Reliability%20and%20Maintainability%20Engineering%20%28715%29/An%20Introduction%20To%20Reliability%20and%20Maintai%20-%20Charles%20Ebeling.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Charles Ebeling</name>
+      <uri>../author_0/author_502_Page_1.xml</uri>
+    </author>
+    <published>2004-06-04T08:08:08Z</published>
+    <link href="../book_0/book_715.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>An Introduction To Statistical Learning with Applications in R (ISLR Sixth Printing)</title>
+    <id>calibre:book:134</id>
+    <updated>2019-12-07T00:47:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Gareth%20James%2C%20Daniela%20Witten%2C%20Trevor%20Hastie%20%2CRobert%20Tibshirani/An%20Introduction%20To%20Statistical%20Learning%20with%20Applications%20in%20R%20%28ISLR%20Sixth%20Printing%29%20%28134%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Gareth%20James%2C%20Daniela%20Witten%2C%20Trevor%20Hastie%20%2CRobert%20Tibshirani/An%20Introduction%20To%20Statistical%20Learning%20with%20Applications%20in%20R%20%28ISLR%20Sixth%20Printing%29%20%28134%29/An%20Introduction%20To%20Statistical%20Learning%20wi%20-%20Gareth%20James%2C%20Daniela%20Witten%2C%20Trevor%20Hasti.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Gareth%20James%2C%20Daniela%20Witten%2C%20Trevor%20Hastie%20%2CRobert%20Tibshirani/An%20Introduction%20To%20Statistical%20Learning%20with%20Applications%20in%20R%20%28ISLR%20Sixth%20Printing%29%20%28134%29/An%20Introduction%20To%20Statistical%20Learning%20wi%20-%20Gareth%20James%2C%20Daniela%20Witten%2C%20Trevor%20Hasti.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Gareth James, Daniela Witten, Trevor Hastie ,Robert Tibshirani</name>
+      <uri>../author_0/author_247_Page_1.xml</uri>
+    </author>
+    <published>2015-10-30T01:55:15Z</published>
+    <link href="../book_0/book_134.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Introduction to Algorithms, Third Edition</title>
+    <id>calibre:book:550</id>
+    <updated>2019-12-07T00:47:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Thomas%20H.%20Cormen%2C%20Charles%20E.%20Leiserson%2C%20Ronald%20L.%20Rivest/Introduction%20to%20Algorithms%2C%20Third%20Edition%20%28550%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Thomas%20H.%20Cormen%2C%20Charles%20E.%20Leiserson%2C%20Ronald%20L.%20Rivest/Introduction%20to%20Algorithms%2C%20Third%20Edition%20%28550%29/Introduction%20to%20Algorithms%2C%20Third%20Edition%20-%20Thomas%20H.%20Cormen%2C%20Charles%20E.%20Leiserson%2C%20Ro.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Thomas%20H.%20Cormen%2C%20Charles%20E.%20Leiserson%2C%20Ronald%20L.%20Rivest/Introduction%20to%20Algorithms%2C%20Third%20Edition%20%28550%29/Introduction%20to%20Algorithms%2C%20Third%20Edition%20-%20Thomas%20H.%20Cormen%2C%20Charles%20E.%20Leiserson%2C%20Ro.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest</name>
+      <uri>../author_0/author_303_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Clifford Stein</name>
+      <uri>../author_0/author_304_Page_1.xml</uri>
+    </author>
+    <published>2011-08-01T08:27:29Z</published>
+    <category term="Algorithms" />
+    <category term="Computer Science" />
+    <link href="../book_0/book_550.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>An Introduction to Gödel's Theorems *****</title>
+    <id>calibre:book:918</id>
+    <updated>2020-08-09T00:59:07Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Peter%20Smith/An%20Introduction%20to%20Godel%27s%20Theorems%20%28918%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Peter%20Smith/An%20Introduction%20to%20Godel%27s%20Theorems%20%28918%29/An%20Introduction%20to%20Godel%27s%20Theorems%20-%20Peter%20Smith.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Peter Smith</name>
+      <uri>../author_0/author_725_Page_1.xml</uri>
+    </author>
+    <published>2007-08-05T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Cambridge University Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>In 1931, the young Kurt Gödel published his First Incompleteness Theorem, which tells us that, for any sufficiently rich theory of arithmetic, there are some arithmetical truths the theory cannot prove. This remarkable result is among the most intri...</summary>
+    <link href="../book_0/book_918.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>An Introduction to Japanese Society, Third Edition.</title>
+    <id>calibre:book:828</id>
+    <updated>2020-07-09T01:07:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Yoshio%20Sugimoto/An%20Introduction%20to%20Japanese%20Society%2C%20Third%20Edition_%20%28828%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Yoshio%20Sugimoto/An%20Introduction%20to%20Japanese%20Society%2C%20Third%20Edition_%20%28828%29/An%20Introduction%20to%20Japanese%20Society%2C%20Third%20-%20Yoshio%20Sugimoto.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Yoshio Sugimoto</name>
+      <uri>../author_0/author_614_Page_1.xml</uri>
+    </author>
+    <published>2010-04-10T10:02:56Z</published>
+    <category term="0521705193" />
+    <category term="9780521705196" />
+    <category term="0511776659" />
+    <category term="9780511776656" />
+    <link href="../book_0/book_828.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>An Introduction to Kolmogorov Complexity and Its Applications</title>
+    <id>calibre:book:565</id>
+    <updated>2019-12-07T00:47:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Ming%20Li%2C%20Paul%20Vitanyi/An%20Introduction%20to%20Kolmogorov%20Complexity%20and%20Its%20Applications%20%28565%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Ming%20Li%2C%20Paul%20Vitanyi/An%20Introduction%20to%20Kolmogorov%20Complexity%20and%20Its%20Applications%20%28565%29/An%20Introduction%20to%20Kolmogorov%20Complexity%20a%20-%20Ming%20Li%2C%20Paul%20Vitanyi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Ming%20Li%2C%20Paul%20Vitanyi/An%20Introduction%20to%20Kolmogorov%20Complexity%20and%20Its%20Applications%20%28565%29/An%20Introduction%20to%20Kolmogorov%20Complexity%20a%20-%20Ming%20Li%2C%20Paul%20Vitanyi.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Ming Li, Paul Vitanyi</name>
+      <uri>../author_0/author_344_Page_1.xml</uri>
+    </author>
+    <published>2009-03-20T00:44:30Z</published>
+    <dcterms:publisher>Springer</dcterms:publisher>
+    <link href="../book_0/book_565.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Introduction to Statistical Inference *****</title>
+    <id>calibre:book:814</id>
+    <updated>2020-06-14T06:39:52Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Jack%20C.%20Kiefer/Introduction%20to%20Statistical%20Inference%20%28814%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Jack%20C.%20Kiefer/Introduction%20to%20Statistical%20Inference%20%28814%29/Introduction%20to%20Statistical%20Inference%20-%20Jack%20C.%20Kiefer.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Jack C. Kiefer</name>
+      <uri>../author_0/author_779_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Gary Lorden</name>
+      <uri>../author_0/author_780_Page_1.xml</uri>
+    </author>
+    <published>2011-12-15T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Springer</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Springer Texts in Statistics" />
+    <summary>Springer Texts in Statistics [1]: 
+This book is based upon lecture notes developed by Jack Kiefer for a course in statistical inference he taught at Cornell University. The notes were distributed to the class in lieu of a textbook, and the problems w...</summary>
+    <link href="../book_0/book_814.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Inventing Money: The Story of Long-Term Capital Management and the Legends Behind It ****</title>
+    <id>calibre:book:553</id>
+    <updated>2019-12-07T00:47:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Nicholas%20Dunbar/Inventing%20Money_%20The%20Story%20of%20Long-Term%20Capital%20Management%20and%20the%20Legends%20Behind%20It%20%28553%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Nicholas%20Dunbar/Inventing%20Money_%20The%20Story%20of%20Long-Term%20Capital%20Management%20and%20the%20Legends%20Behind%20It%20%28553%29/Inventing%20Money_%20The%20Story%20of%20Long-Term%20Ca%20-%20Nicholas%20Dunbar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Nicholas%20Dunbar/Inventing%20Money_%20The%20Story%20of%20Long-Term%20Capital%20Management%20and%20the%20Legends%20Behind%20It%20%28553%29/Inventing%20Money_%20The%20Story%20of%20Long-Term%20Ca%20-%20Nicholas%20Dunbar.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Nicholas Dunbar</name>
+      <uri>../author_0/author_345_Page_1.xml</uri>
+    </author>
+    <published>2001-01-15T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Wiley</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>LTCM was the fund that was too big to fail, the brightest star in the financial world. Built on genius, by legends of Wall Street and two Nobel laureates, it spiralled to ever greater heights, commanding unimaginable wealth. When it fell to earth in...</summary>
+    <link href="../book_0/book_553.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Inventing the Future</title>
+    <id>calibre:book:43</id>
+    <updated>2020-03-28T07:53:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Nick%20Srnicek%2C%20Alex%20Williams/Inventing%20the%20Future%20%2843%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Nick%20Srnicek%2C%20Alex%20Williams/Inventing%20the%20Future%20%2843%29/Inventing%20the%20Future%20-%20Nick%20Srnicek%2C%20Alex%20Williams.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Nick%20Srnicek%2C%20Alex%20Williams/Inventing%20the%20Future%20%2843%29/Inventing%20the%20Future%20-%20Nick%20Srnicek%2C%20Alex%20Williams.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Nick%20Srnicek%2C%20Alex%20Williams/Inventing%20the%20Future%20%2843%29/Inventing%20the%20Future%20-%20Nick%20Srnicek%2C%20Alex%20Williams.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Nick Srnicek, Alex Williams</name>
+      <uri>../author_0/author_515_Page_1.xml</uri>
+    </author>
+    <published>2015-08-04T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Verso Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>A major new manifesto for a high-tech future free from workNeoliberalism isn't working. Austerity is forcing millions into poverty and many more into precarious work, while the left remains trapped in stagnant political practices that offer no respit...</summary>
+    <link href="../book_0/book_43.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Invisible Hook The Hidden Economics of Pirates</title>
+    <id>calibre:book:816</id>
+    <updated>2020-06-14T06:39:52Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Peter%20T.%20Leeson/The%20Invisible%20Hook%20The%20Hidden%20Economics%20of%20Pirates%20%28816%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Peter%20T.%20Leeson/The%20Invisible%20Hook%20The%20Hidden%20Economics%20of%20Pirates%20%28816%29/The%20Invisible%20Hook%20The%20Hidden%20Economics%20of%20-%20Peter%20T.%20Leeson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Peter T. Leeson</name>
+      <uri>../author_0/author_604_Page_1.xml</uri>
+    </author>
+    <published>2009-04-02T06:38:36Z</published>
+    <dcterms:publisher>Princeton University Press</dcterms:publisher>
+    <link href="../book_0/book_816.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Irrational exuberance</title>
+    <id>calibre:book:20</id>
+    <updated>2019-12-07T00:47:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20J.%20Shiller/Irrational%20exuberance%20%2820%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20J.%20Shiller/Irrational%20exuberance%20%2820%29/Irrational%20exuberance%20-%20Robert%20J.%20Shiller.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20J.%20Shiller/Irrational%20exuberance%20%2820%29/Irrational%20exuberance%20-%20Robert%20J.%20Shiller.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20J.%20Shiller/Irrational%20exuberance%20%2820%29/Irrational%20exuberance%20-%20Robert%20J.%20Shiller.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Robert J. Shiller</name>
+      <uri>../author_0/author_210_Page_1.xml</uri>
+    </author>
+    <published>2009-09-06T00:24:35Z</published>
+    <link href="../book_0/book_20.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>It Doesn't Have to Be Crazy at Work</title>
+    <id>calibre:book:644</id>
+    <updated>2020-03-28T07:20:12Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Jason%20Fried/It%20Doesn%27t%20Have%20to%20Be%20Crazy%20at%20Work%20%28644%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Jason%20Fried/It%20Doesn%27t%20Have%20to%20Be%20Crazy%20at%20Work%20%28644%29/It%20Doesn%27t%20Have%20to%20Be%20Crazy%20at%20Work%20-%20Jason%20Fried.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Jason%20Fried/It%20Doesn%27t%20Have%20to%20Be%20Crazy%20at%20Work%20%28644%29/It%20Doesn%27t%20Have%20to%20Be%20Crazy%20at%20Work%20-%20Jason%20Fried.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Jason Fried</name>
+      <uri>../author_0/author_394_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>David Heinemeier Hansson</name>
+      <uri>../author_0/author_395_Page_1.xml</uri>
+    </author>
+    <published>2018-10-01T09:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperBusiness</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_644.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

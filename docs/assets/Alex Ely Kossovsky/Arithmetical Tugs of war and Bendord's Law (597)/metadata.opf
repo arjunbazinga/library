@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">597</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3e5d3650-a559-4d10-a0e0-18e3a638cc2a</dc:identifier>
+        <dc:title>Arithmetical Tugs of war and Bendord's Law</dc:title>
+        <dc:creator opf:file-as="Kossovsky, Alex Ely" opf:role="aut">Alex Ely Kossovsky</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Multiplicative effects.&lt;/p&gt;</dc:description>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Alex Ely Kossovsky&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-03-06T16:12:33+00:00"/>
+        <meta name="calibre:title_sort" content="Arithmetical Tugs of war and Bendord's Law"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

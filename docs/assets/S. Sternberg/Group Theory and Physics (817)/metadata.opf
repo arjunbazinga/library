@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">817</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">106c53f0-4933-466d-b668-bf4d1b86ae5f</dc:identifier>
+        <dc:title>Group Theory and Physics</dc:title>
+        <dc:creator opf:file-as="Sternberg, S." opf:role="aut">S. Sternberg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1995-09-06T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;This book is an introduction to group theory and its application to physics. The author considers the physical applications and develops mathematical theory in a presentation that is unusually cohesive and well-motivated. The book discusses many modern topics including molecular vibrations, homogeneous vector bundles, compact groups and Lie groups, and there is much discussion of the group SU(n) and its representations, which is of great significance in elementary particle physics. The author also considers applications to solid-state physics. This is an essential resource for senior undergraduates and researchers in physics and applied mathematics. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Cambridge University Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780521558853</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">k2Fp3JA93oYC</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0521558859</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Algebra</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Group Theory</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Physics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;S. Sternberg&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-06-14T13:09:54+00:00"/>
+        <meta name="calibre:title_sort" content="Group Theory and Physics"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

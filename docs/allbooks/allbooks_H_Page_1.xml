@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with H</title>
+  <id>Calibre2opds:allbooks:H</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with H" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>HBR Guide to Persuasive Presentations</title>
+    <id>calibre:book:682</id>
+    <updated>2020-03-28T07:13:30Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Nancy%20Duarte/HBR%20Guide%20to%20Persuasive%20Presentations%20%28682%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Nancy%20Duarte/HBR%20Guide%20to%20Persuasive%20Presentations%20%28682%29/HBR%20Guide%20to%20Persuasive%20Presentations%20-%20Nancy%20Duarte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Nancy%20Duarte/HBR%20Guide%20to%20Persuasive%20Presentations%20%28682%29/HBR%20Guide%20to%20Persuasive%20Presentations%20-%20Nancy%20Duarte.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Nancy Duarte</name>
+      <uri>../author_0/author_430_Page_1.xml</uri>
+    </author>
+    <published>2012-09-18T07:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Harvard Business Review Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_682.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Hacker's Delight ****</title>
+    <id>calibre:book:328</id>
+    <updated>2020-03-28T08:06:12Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Henry%20S.%20Warren/Hacker%27s%20Delight%20%28328%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Henry%20S.%20Warren/Hacker%27s%20Delight%20%28328%29/Hacker%27s%20Delight%20-%20Henry%20S.%20Warren.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Henry%20S.%20Warren/Hacker%27s%20Delight%20%28328%29/Hacker%27s%20Delight%20-%20Henry%20S.%20Warren.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Henry S. Warren</name>
+      <uri>../author_0/author_123_Page_1.xml</uri>
+    </author>
+    <published>2003-01-02T08:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Addison-Wesley Professional</dcterms:publisher>
+    <category term="Personal Computers" />
+    <category term="Computer Hackers" />
+    <category term="Electronic Books" />
+    <category term="Computers" />
+    <category term="Programming" />
+    <category term="General" />
+    <category term="Hardware" />
+    <category term="Computer Programming" />
+    <category term="Computer Science" />
+    <category term="Algorithms" />
+    <category term="Security" />
+    <category term="Lang:en" />
+    <summary>-- At long last, proven short-cuts to mastering difficult aspects of computer programming.-- Learn to program at a more advanced level than is generally taught in schools and training courses, and much more advanced than can be learned through indivi...</summary>
+    <link href="../book_0/book_328.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Half-Life of Facts</title>
+    <id>calibre:book:930</id>
+    <updated>2020-08-17T08:07:00Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Samuel%20Arbesman/The%20Half-Life%20of%20Facts%20%28930%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Samuel%20Arbesman/The%20Half-Life%20of%20Facts%20%28930%29/The%20Half-Life%20of%20Facts%20-%20Samuel%20Arbesman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Samuel%20Arbesman/The%20Half-Life%20of%20Facts%20%28930%29/The%20Half-Life%20of%20Facts%20-%20Samuel%20Arbesman.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Samuel Arbesman</name>
+      <uri>../author_0/author_736_Page_1.xml</uri>
+    </author>
+    <published>2013-09-15T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Group US</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_930.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Handmaid's Tale ****</title>
+    <id>calibre:book:563</id>
+    <updated>2020-03-28T07:00:04Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Margaret%20Atwood/The%20Handmaid%27s%20Tale%20%28563%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Margaret%20Atwood/The%20Handmaid%27s%20Tale%20%28563%29/The%20Handmaid%27s%20Tale%20-%20Margaret%20Atwood.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Margaret%20Atwood/The%20Handmaid%27s%20Tale%20%28563%29/The%20Handmaid%27s%20Tale%20-%20Margaret%20Atwood.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Margaret Atwood</name>
+      <uri>../author_0/author_318_Page_1.xml</uri>
+    </author>
+    <published>1986-02-16T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Literary" />
+    <category term="Classics" />
+    <category term="Dystopian" />
+    <category term="General" />
+    <category term="Social Science" />
+    <category term="Feminism &amp; Feminist Theory" />
+    <category term="Lang:en" />
+    <category term="Handmaid's Tale" />
+    <summary>The Handmaid's Tale [1]: 
+** THE SUNDAY TIMES NO. 1 BESTSELLER **Discover the dystopian novel behind the award-winning TV series before you read the Booker Prize-winning sequel The Testaments‘I believe in the resistance as I believe there can be no l...</summary>
+    <link href="../book_0/book_563.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Hard Thing About Hard Things</title>
+    <id>calibre:book:438</id>
+    <updated>2020-03-28T07:25:08Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Ben%20Horowitz/The%20Hard%20Thing%20About%20Hard%20Things%20%28438%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Ben%20Horowitz/The%20Hard%20Thing%20About%20Hard%20Things%20%28438%29/The%20Hard%20Thing%20About%20Hard%20Things%20-%20Ben%20Horowitz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Ben%20Horowitz/The%20Hard%20Thing%20About%20Hard%20Things%20%28438%29/The%20Hard%20Thing%20About%20Hard%20Things%20-%20Ben%20Horowitz.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Ben%20Horowitz/The%20Hard%20Thing%20About%20Hard%20Things%20%28438%29/The%20Hard%20Thing%20About%20Hard%20Things%20-%20Ben%20Horowitz.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Ben Horowitz</name>
+      <uri>../author_0/author_182_Page_1.xml</uri>
+    </author>
+    <published>2014-03-04T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_438.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Hate Inc.</title>
+    <id>calibre:book:674</id>
+    <updated>2020-03-28T07:56:34Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Matt%20Taibbi/Hate%20Inc_%20%28674%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Matt%20Taibbi/Hate%20Inc_%20%28674%29/Hate%20Inc_%20-%20Matt%20Taibbi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Matt%20Taibbi/Hate%20Inc_%20%28674%29/Hate%20Inc_%20-%20Matt%20Taibbi.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Matt Taibbi</name>
+      <uri>../author_0/author_424_Page_1.xml</uri>
+    </author>
+    <published>2019-07-16T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>OR Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Part tirade, part confessional from the celebrated Rolling Stone journalist, Hate Inc. reveals that what most people think of as "the news" is, in fact, a twisted wing of the entertainment business In this characteristically turbocharged new book, ce...</summary>
+    <link href="../book_0/book_674.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Hello, Startup</title>
+    <id>calibre:book:798</id>
+    <updated>2020-05-09T00:35:56Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Yevgeniy%20Brikman/Hello%2C%20Startup%20%28798%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Yevgeniy%20Brikman/Hello%2C%20Startup%20%28798%29/Hello%2C%20Startup%20-%20Yevgeniy%20Brikman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Yevgeniy%20Brikman/Hello%2C%20Startup%20%28798%29/Hello%2C%20Startup%20-%20Yevgeniy%20Brikman.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Yevgeniy Brikman</name>
+      <uri>../author_0/author_582_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <link href="../book_0/book_798.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Hero With a Thousand Faces</title>
+    <id>calibre:book:511</id>
+    <updated>2020-03-28T07:05:52Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Joseph%20Campbell/The%20Hero%20With%20a%20Thousand%20Faces%20%28511%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Joseph%20Campbell/The%20Hero%20With%20a%20Thousand%20Faces%20%28511%29/The%20Hero%20With%20a%20Thousand%20Faces%20-%20Joseph%20Campbell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Joseph%20Campbell/The%20Hero%20With%20a%20Thousand%20Faces%20%28511%29/The%20Hero%20With%20a%20Thousand%20Faces%20-%20Joseph%20Campbell.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Joseph%20Campbell/The%20Hero%20With%20a%20Thousand%20Faces%20%28511%29/The%20Hero%20With%20a%20Thousand%20Faces%20-%20Joseph%20Campbell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Joseph Campbell</name>
+      <uri>../author_0/author_261_Page_1.xml</uri>
+    </author>
+    <published>2010-08-18T11:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Fontana Press</dcterms:publisher>
+    <category term="Mythology" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_511.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Hero Within: Six Archetypes We Live By *****</title>
+    <id>calibre:book:7</id>
+    <updated>2019-12-07T00:47:18Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Carol%20S.%20Pearson/The%20Hero%20Within_%20Six%20Archetypes%20We%20Live%20By%20%287%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Carol%20S.%20Pearson/The%20Hero%20Within_%20Six%20Archetypes%20We%20Live%20By%20%287%29/The%20Hero%20Within_%20Six%20Archetypes%20We%20Live%20By%20-%20Carol%20S.%20Pearson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Carol%20S.%20Pearson/The%20Hero%20Within_%20Six%20Archetypes%20We%20Live%20By%20%287%29/The%20Hero%20Within_%20Six%20Archetypes%20We%20Live%20By%20-%20Carol%20S.%20Pearson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Carol%20S.%20Pearson/The%20Hero%20Within_%20Six%20Archetypes%20We%20Live%20By%20%287%29/The%20Hero%20Within_%20Six%20Archetypes%20We%20Live%20By%20-%20Carol%20S.%20Pearson.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Carol S. Pearson</name>
+      <uri>../author_0/author_246_Page_1.xml</uri>
+    </author>
+    <published>1998-08-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperOne</dcterms:publisher>
+    <category term="Psychology" />
+    <category term="Interpersonal Relations" />
+    <category term="Lang:en" />
+    <summary>The Classic Guide, Updated for Our Contemporary World A modern classic of Jungian psychology, The Hero Within has helped hundreds of thousands of people enrich their lives by revealing how to tap the power of the archetypes that exist within. Drawin...</summary>
+    <link href="../book_0/book_7.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Herzog ****</title>
+    <id>calibre:book:758</id>
+    <updated>2020-04-04T03:11:40Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Saul%20Bellow/Herzog%20%28758%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Saul%20Bellow/Herzog%20%28758%29/Herzog%20-%20Saul%20Bellow.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Saul%20Bellow/Herzog%20%28758%29/Herzog%20-%20Saul%20Bellow.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Saul Bellow</name>
+      <uri>../author_0/author_539_Page_1.xml</uri>
+    </author>
+    <published>2003-02-24T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin UK</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Classics" />
+    <category term="Literary" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>Saul Bellow's Herzog is part confessional, part exorcism, and a wholly unique achievement in postmodern fiction. Is Moses Herzog losing his mind? His formidable wife Madeleine has left him for his best friend, and Herzog is left alone with his whirl...</summary>
+    <link href="../book_0/book_758.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>High Output Management</title>
+    <id>calibre:book:461</id>
+    <updated>2020-03-28T07:22:44Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Andrew%20S.%20Grove/High%20Output%20Management%20%28461%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Andrew%20S.%20Grove/High%20Output%20Management%20%28461%29/High%20Output%20Management%20-%20Andrew%20S.%20Grove.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Andrew%20S.%20Grove/High%20Output%20Management%20%28461%29/High%20Output%20Management%20-%20Andrew%20S.%20Grove.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Andrew%20S.%20Grove/High%20Output%20Management%20%28461%29/High%20Output%20Management%20-%20Andrew%20S.%20Grove.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Andrew S. Grove</name>
+      <uri>../author_0/author_190_Page_1.xml</uri>
+    </author>
+    <published>2015-11-18T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Knopf Doubleday Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_461.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>High Performance Python, 2nd Edition</title>
+    <id>calibre:book:912</id>
+    <updated>2020-08-09T00:59:07Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Micha%20Gorelick%2C%20Ian%20Ozsvald/High%20Performance%20Python%2C%202nd%20Edition%20%28912%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Micha%20Gorelick%2C%20Ian%20Ozsvald/High%20Performance%20Python%2C%202nd%20Edition%20%28912%29/High%20Performance%20Python%2C%202nd%20Edition%20-%20Micha%20Gorelick%2C%20Ian%20Ozsvald.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Micha Gorelick, Ian Ozsvald</name>
+      <uri>../author_0/author_723_Page_1.xml</uri>
+    </author>
+    <published>2020-05-06T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>O'Reilly Media, Inc.</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Your Python code may run correctly, but you need it to run faster. Updated for Python 3, this expanded edition shows you how to locate performance bottlenecks and significantly speed up your code in high-data-volume programs. By exploring the fundame...</summary>
+    <link href="../book_0/book_912.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A History of Mathematical Notations</title>
+    <id>calibre:book:932</id>
+    <updated>2020-08-17T08:08:56Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Florian%20Cajori/A%20History%20of%20Mathematical%20Notations%20%28932%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Florian%20Cajori/A%20History%20of%20Mathematical%20Notations%20%28932%29/A%20History%20of%20Mathematical%20Notations%20-%20Florian%20Cajori.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Florian%20Cajori/A%20History%20of%20Mathematical%20Notations%20%28932%29/A%20History%20of%20Mathematical%20Notations%20-%20Florian%20Cajori.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Florian Cajori</name>
+      <uri>../author_0/author_738_Page_1.xml</uri>
+    </author>
+    <published>2013-08-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Dover Publications, Inc.</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_932.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A History of Private Life, Volume II: Revelations of the Medieval World ****</title>
+    <id>calibre:book:417</id>
+    <updated>2020-03-28T07:41:28Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Georges%20Duby/A%20History%20of%20Private%20Life%2C%20Volume%20II_%20Revelations%20of%20the%20Medieval%20World%20%28417%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Georges%20Duby/A%20History%20of%20Private%20Life%2C%20Volume%20II_%20Revelations%20of%20the%20Medieval%20World%20%28417%29/A%20History%20of%20Private%20Life%2C%20Volume%20II_%20Reve%20-%20Georges%20Duby.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Georges%20Duby/A%20History%20of%20Private%20Life%2C%20Volume%20II_%20Revelations%20of%20the%20Medieval%20World%20%28417%29/A%20History%20of%20Private%20Life%2C%20Volume%20II_%20Reve%20-%20Georges%20Duby.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Georges%20Duby/A%20History%20of%20Private%20Life%2C%20Volume%20II_%20Revelations%20of%20the%20Medieval%20World%20%28417%29/A%20History%20of%20Private%20Life%2C%20Volume%20II_%20Reve%20-%20Georges%20Duby.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Georges Duby</name>
+      <uri>../author_0/author_775_Page_1.xml</uri>
+    </author>
+    <published>1993-03-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Belknap Press: An Imprint of Harvard University Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="History of Private Life" />
+    <summary>A History of Private Life [2]: 
+The second volume of A History of Private Life is a treasure-trove of rich and colorful detail culled from an astounding variety of sources. This absorbing “secret epic” constructs a vivid picture of peasant and patric...</summary>
+    <link href="../book_0/book_417.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A History of Private Life: Passions of the Renaissance</title>
+    <id>calibre:book:487</id>
+    <updated>2020-03-28T07:41:50Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Goldhammer/A%20History%20of%20Private%20Life_%20Passions%20of%20the%20Renaissance%20%28487%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Goldhammer/A%20History%20of%20Private%20Life_%20Passions%20of%20the%20Renaissance%20%28487%29/A%20History%20of%20Private%20Life_%20Passions%20of%20the%20-%20Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Gold.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Goldhammer/A%20History%20of%20Private%20Life_%20Passions%20of%20the%20Renaissance%20%28487%29/A%20History%20of%20Private%20Life_%20Passions%20of%20the%20-%20Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Gold.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Goldhammer/A%20History%20of%20Private%20Life_%20Passions%20of%20the%20Renaissance%20%28487%29/A%20History%20of%20Private%20Life_%20Passions%20of%20the%20-%20Phillippe%20Aries%2C%20Georges%20Duby%2C%20Arthur%20Gold.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Phillippe Aries, Georges Duby, Arthur Goldhammer</name>
+      <uri>../author_0/author_219_Page_1.xml</uri>
+    </author>
+    <published>1989-08-27T06:30:00Z</published>
+    <dcterms:publisher>Belknap Press of Harvard University Press</dcterms:publisher>
+    <category term="History of Private Life" />
+    <summary>A History of Private Life [3]:</summary>
+    <link href="../book_0/book_487.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The History of the Peloponnesian War</title>
+    <id>calibre:book:514</id>
+    <updated>2020-03-28T08:02:46Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Thucydides/The%20History%20of%20the%20Peloponnesian%20War%20%28514%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Thucydides/The%20History%20of%20the%20Peloponnesian%20War%20%28514%29/The%20History%20of%20the%20Peloponnesian%20War%20-%20Thucydides.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Thucydides/The%20History%20of%20the%20Peloponnesian%20War%20%28514%29/The%20History%20of%20the%20Peloponnesian%20War%20-%20Thucydides.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Thucydides/The%20History%20of%20the%20Peloponnesian%20War%20%28514%29/The%20History%20of%20the%20Peloponnesian%20War%20-%20Thucydides.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Thucydides</name>
+      <uri>../author_0/author_264_Page_1.xml</uri>
+    </author>
+    <published>2012-07-31T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Duke Classics</dcterms:publisher>
+    <category term="History" />
+    <category term="Lang:en" />
+    <summary>Written by Thucydides around 400 AD, The History of the Peloponnesian War is a meticulous account by the Athenian general of the extended struggle that raged between Athens and Sparta for the better part of twenty years. Thucydides eschews the romanc...</summary>
+    <link href="../book_0/book_514.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Hold Me Tight: Seven Conversations for a Lifetime of Love</title>
+    <id>calibre:book:641</id>
+    <updated>2020-03-28T07:56:02Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Dr.%20Sue%20Johnson/Hold%20Me%20Tight_%20Seven%20Conversations%20for%20a%20Lifetime%20of%20Love%20%28641%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Dr.%20Sue%20Johnson/Hold%20Me%20Tight_%20Seven%20Conversations%20for%20a%20Lifetime%20of%20Love%20%28641%29/Hold%20Me%20Tight_%20Seven%20Conversations%20for%20a%20L%20-%20Dr.%20Sue%20Johnson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Dr.%20Sue%20Johnson/Hold%20Me%20Tight_%20Seven%20Conversations%20for%20a%20Lifetime%20of%20Love%20%28641%29/Hold%20Me%20Tight_%20Seven%20Conversations%20for%20a%20L%20-%20Dr.%20Sue%20Johnson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Dr. Sue Johnson</name>
+      <uri>../author_0/author_391_Page_1.xml</uri>
+    </author>
+    <published>2008-04-08T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Little, Brown and Company</dcterms:publisher>
+    <category term="FAM000000" />
+    <category term="Lang:en" />
+    <summary>Heralded by the New York Times and Time magazine as the couple therapy with the highest rate of success, Emotionally Focused Therapy works because it views the love relationship as an attachment bond. This idea, once controversial, is now supported b...</summary>
+    <link href="../book_0/book_641.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Homo Deus: A Brief History of Tomorrow</title>
+    <id>calibre:book:493</id>
+    <updated>2020-03-28T07:23:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Yuval%20Noah%20Harari/Homo%20Deus_%20A%20Brief%20History%20of%20Tomorrow%20%28493%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Yuval%20Noah%20Harari/Homo%20Deus_%20A%20Brief%20History%20of%20Tomorrow%20%28493%29/Homo%20Deus_%20A%20Brief%20History%20of%20Tomorrow%20-%20Yuval%20Noah%20Harari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Yuval%20Noah%20Harari/Homo%20Deus_%20A%20Brief%20History%20of%20Tomorrow%20%28493%29/Homo%20Deus_%20A%20Brief%20History%20of%20Tomorrow%20-%20Yuval%20Noah%20Harari.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Yuval%20Noah%20Harari/Homo%20Deus_%20A%20Brief%20History%20of%20Tomorrow%20%28493%29/Homo%20Deus_%20A%20Brief%20History%20of%20Tomorrow%20-%20Yuval%20Noah%20Harari.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Yuval Noah Harari</name>
+      <uri>../author_0/author_203_Page_1.xml</uri>
+    </author>
+    <published>2016-09-13T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Signal</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_493.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The (Honest) Truth About Dishonesty: How We Lie to Everyone – Especially Ourselves</title>
+    <id>calibre:book:56</id>
+    <updated>2020-03-28T06:59:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Dan%20Ariely/The%20%28Honest%29%20Truth%20About%20Dishonesty_%20How%20We%20Lie%20to%20Everyone%20-%20Especially%20Ourselves%20%2856%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Dan%20Ariely/The%20%28Honest%29%20Truth%20About%20Dishonesty_%20How%20We%20Lie%20to%20Everyone%20-%20Especially%20Ourselves%20%2856%29/The%20%28Honest%29%20Truth%20About%20Dishonesty_%20How%20W%20-%20Dan%20Ariely.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Dan%20Ariely/The%20%28Honest%29%20Truth%20About%20Dishonesty_%20How%20We%20Lie%20to%20Everyone%20-%20Especially%20Ourselves%20%2856%29/The%20%28Honest%29%20Truth%20About%20Dishonesty_%20How%20W%20-%20Dan%20Ariely.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Dan%20Ariely/The%20%28Honest%29%20Truth%20About%20Dishonesty_%20How%20We%20Lie%20to%20Everyone%20-%20Especially%20Ourselves%20%2856%29/The%20%28Honest%29%20Truth%20About%20Dishonesty_%20How%20W%20-%20Dan%20Ariely.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Dan Ariely</name>
+      <uri>../author_0/author_46_Page_1.xml</uri>
+    </author>
+    <published>2012-06-06T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Harper Collins, Inc.</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_56.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>How Buildings Learn: What Happens After They're Built *****</title>
+    <id>calibre:book:46</id>
+    <updated>2020-03-28T07:03:50Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Stewart%20Brand/How%20Buildings%20Learn_%20What%20Happens%20After%20They%27re%20Built%20%2846%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Stewart%20Brand/How%20Buildings%20Learn_%20What%20Happens%20After%20They%27re%20Built%20%2846%29/How%20Buildings%20Learn_%20What%20Happens%20After%20Th%20-%20Stewart%20Brand.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Stewart%20Brand/How%20Buildings%20Learn_%20What%20Happens%20After%20They%27re%20Built%20%2846%29/How%20Buildings%20Learn_%20What%20Happens%20After%20Th%20-%20Stewart%20Brand.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Stewart%20Brand/How%20Buildings%20Learn_%20What%20Happens%20After%20They%27re%20Built%20%2846%29/How%20Buildings%20Learn_%20What%20Happens%20After%20Th%20-%20Stewart%20Brand.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Stewart Brand</name>
+      <uri>../author_0/author_767_Page_1.xml</uri>
+    </author>
+    <published>1995-09-30T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin</dcterms:publisher>
+    <category term="Architecture" />
+    <category term="Historic Preservation" />
+    <category term="General" />
+    <category term="Criticism" />
+    <category term="History" />
+    <category term="Lang:en" />
+    <summary>Buildings have often been studies whole in space, but never before have they been studied whole in time. How Buildings Learn is a masterful new synthesis that proposes that buildings adapt best when constantly refined and reshaped by their occupants...</summary>
+    <link href="../book_0/book_46.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>How Covert Agents Infiltrate the Internet to Manipulate, Deceive, and Destroy Reputations</title>
+    <id>calibre:book:847</id>
+    <updated>2020-07-09T01:08:14Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Unknown/How%20Covert%20Agents%20Infiltrate%20the%20Internet%20to%20Manipulate%2C%20Deceive%2C%20and%20Destroy%20Reputations%20%28847%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Unknown/How%20Covert%20Agents%20Infiltrate%20the%20Internet%20to%20Manipulate%2C%20Deceive%2C%20and%20Destroy%20Reputations%20%28847%29/How%20Covert%20Agents%20Infiltrate%20the%20Internet%20-%20Unknown.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Unknown</name>
+      <uri>../author_0/author_278_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <link href="../book_0/book_847.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>How To</title>
+    <id>calibre:book:695</id>
+    <updated>2020-03-28T07:36:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Randall%20Munroe/How%20To%20%28695%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Randall%20Munroe/How%20To%20%28695%29/How%20To%20-%20Randall%20Munroe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Randall%20Munroe/How%20To%20%28695%29/How%20To%20-%20Randall%20Munroe.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Randall Munroe</name>
+      <uri>../author_0/author_441_Page_1.xml</uri>
+    </author>
+    <published>2019-09-03T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>The world's most entertaining and useless self-help guide, from the brilliant mind behind the wildly popular webcomic xkcd and the #1 New York Times bestsellers What If? and Thing ExplainerFor any task you might want to do, there's a right way, a wro...</summary>
+    <link href="../book_0/book_695.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>How To Save The World</title>
+    <id>calibre:book:562</id>
+    <updated>2020-03-28T02:46:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/David%20Cain/How%20To%20Save%20The%20World%20%28562%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/David%20Cain/How%20To%20Save%20The%20World%20%28562%29/How%20To%20Save%20The%20World%20-%20David%20Cain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/David%20Cain/How%20To%20Save%20The%20World%20%28562%29/How%20To%20Save%20The%20World%20-%20David%20Cain.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/David%20Cain/How%20To%20Save%20The%20World%20%28562%29/How%20To%20Save%20The%20World%20-%20David%20Cain.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>David Cain</name>
+      <uri>../author_0/author_494_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_562.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>How a Kalman filter works, in pictures</title>
+    <id>calibre:book:872</id>
+    <updated>2020-07-24T05:54:10Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Bzarg/How%20a%20Kalman%20filter%20works%2C%20in%20pictures%20%28872%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Bzarg/How%20a%20Kalman%20filter%20works%2C%20in%20pictures%20%28872%29/How%20a%20Kalman%20filter%20works%2C%20in%20pictures%20-%20Bzarg.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Bzarg</name>
+      <uri>../author_0/author_669_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_872.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>How the University Works Higher Education and the Low-Wage Nation</title>
+    <id>calibre:book:507</id>
+    <updated>2019-12-07T00:47:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Marc%20Bousquet/How%20the%20University%20Works%20Higher%20Education%20and%20the%20Low-Wage%20Nation%20%28507%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Marc%20Bousquet/How%20the%20University%20Works%20Higher%20Education%20and%20the%20Low-Wage%20Nation%20%28507%29/How%20the%20University%20Works%20Higher%20Education%20-%20Marc%20Bousquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Marc%20Bousquet/How%20the%20University%20Works%20Higher%20Education%20and%20the%20Low-Wage%20Nation%20%28507%29/How%20the%20University%20Works%20Higher%20Education%20-%20Marc%20Bousquet.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Marc%20Bousquet/How%20the%20University%20Works%20Higher%20Education%20and%20the%20Low-Wage%20Nation%20%28507%29/How%20the%20University%20Works%20Higher%20Education%20-%20Marc%20Bousquet.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Marc Bousquet</name>
+      <uri>../author_0/author_268_Page_1.xml</uri>
+    </author>
+    <published>2008-07-31T06:30:00Z</published>
+    <dcterms:publisher>New York University Press</dcterms:publisher>
+    <link href="../book_0/book_507.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>How to Calculate Quickly</title>
+    <id>calibre:book:535</id>
+    <updated>2020-03-28T07:59:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Henry%20Sticker/How%20to%20Calculate%20Quickly%20%28535%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Henry%20Sticker/How%20to%20Calculate%20Quickly%20%28535%29/How%20to%20Calculate%20Quickly%20-%20Henry%20Sticker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Henry%20Sticker/How%20to%20Calculate%20Quickly%20%28535%29/How%20to%20Calculate%20Quickly%20-%20Henry%20Sticker.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Henry%20Sticker/How%20to%20Calculate%20Quickly%20%28535%29/How%20to%20Calculate%20Quickly%20-%20Henry%20Sticker.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Henry Sticker</name>
+      <uri>../author_0/author_285_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Dover Publications</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_535.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>How to Change Your Mind</title>
+    <id>calibre:book:67</id>
+    <updated>2020-03-28T07:42:30Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Michael%20Pollan/How%20to%20Change%20Your%20Mind%20%2867%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Michael%20Pollan/How%20to%20Change%20Your%20Mind%20%2867%29/How%20to%20Change%20Your%20Mind%20-%20Michael%20Pollan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Michael%20Pollan/How%20to%20Change%20Your%20Mind%20%2867%29/How%20to%20Change%20Your%20Mind%20-%20Michael%20Pollan.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Michael%20Pollan/How%20to%20Change%20Your%20Mind%20%2867%29/How%20to%20Change%20Your%20Mind%20-%20Michael%20Pollan.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Michael Pollan</name>
+      <uri>../author_0/author_56_Page_1.xml</uri>
+    </author>
+    <published>2018-05-15T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>A brilliant and brave investigation by Michael Pollan, author of five New York Times best sellers, into the medical and scientific revolution taking place around psychedelic drugs&amp;#8212;and the spellbinding story of his own life-changing psychedelic ...</summary>
+    <link href="../book_0/book_67.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>How to Lie with Maps</title>
+    <id>calibre:book:601</id>
+    <updated>2020-03-28T07:35:10Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Mark%20Monmonier/How%20to%20Lie%20with%20Maps%20%28601%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Mark%20Monmonier/How%20to%20Lie%20with%20Maps%20%28601%29/How%20to%20Lie%20with%20Maps%20-%20Mark%20Monmonier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Mark%20Monmonier/How%20to%20Lie%20with%20Maps%20%28601%29/How%20to%20Lie%20with%20Maps%20-%20Mark%20Monmonier.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Mark Monmonier</name>
+      <uri>../author_0/author_364_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>The University of Chicago Press</dcterms:publisher>
+    <category term="TEC048000 Technology &amp; Engineering / Cartography" />
+    <category term="ANT000000 Antiques &amp; Collectibles / General" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_601.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Human Use of Human Beings: Cybernetics and Society</title>
+    <id>calibre:book:599</id>
+    <updated>2020-03-06T09:42:48Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Norbert%20Wiener/The%20Human%20Use%20of%20Human%20Beings_%20Cybernetics%20and%20Society%20%28599%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Norbert%20Wiener/The%20Human%20Use%20of%20Human%20Beings_%20Cybernetics%20and%20Society%20%28599%29/The%20Human%20Use%20of%20Human%20Beings_%20Cybernetics%20-%20Norbert%20Wiener.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Norbert Wiener</name>
+      <uri>../author_0/author_476_Page_1.xml</uri>
+    </author>
+    <published>1988-03-21T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Hachette UK</dcterms:publisher>
+    <category term="Computers" />
+    <category term="Cybernetics" />
+    <category term="Science" />
+    <category term="Ethics" />
+    <category term="Human-Computer Interaction (HCI)" />
+    <category term="Lang:en" />
+    <summary>This is one of the fundamental documents of our time, a period epitomized by the concepts of ‘information’ and ‘communications’. Norbert Wiener, a child prodigy and a great mathematician, coined the term ‘cybernetics’ to characterize a very general ...</summary>
+    <link href="../book_0/book_599.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The hipster effect</title>
+    <id>calibre:book:923</id>
+    <updated>2020-08-10T11:46:29Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Arxiv/the%20hipster%20effect%20%28923%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Arxiv/the%20hipster%20effect%20%28923%29/the%20hipster%20effect%20-%20Arxiv.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Arxiv</name>
+      <uri>../author_0/author_503_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_923.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

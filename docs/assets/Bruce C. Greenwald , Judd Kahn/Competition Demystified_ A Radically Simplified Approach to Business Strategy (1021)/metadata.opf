@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1021</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5eb26b4d-4c44-40da-b788-2ad32f995ede</dc:identifier>
+        <dc:title>Competition Demystified: A Radically Simplified Approach to Business Strategy</dc:title>
+        <dc:creator opf:file-as="Bruce C. Greenwald , Judd Kahn" opf:role="aut">Bruce C. Greenwald , Judd Kahn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Bruce Greenwald, one of the nation's leading business professors, presents a new and simplified approach to strategy that cuts through much of the fog that has surrounded the subject. Based on his hugely popular course at Columbia Business School, Greenwald and his coauthor, Judd Kahn, offer an easy-to-follow method for understanding the competitive structure of your industry and developing an appropriate strategy for your specific position. &lt;/p&gt;
+&lt;p&gt;Over the last two decades, the conventional approach to strategy has become frustratingly complex. It's easy to get lost in a sophisticated model of your competitors, suppliers, buyers, substitutes, and other players, while losing sight of the big question: Are there barriers to entry that allow you to do things that other firms cannot? **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="AMAZON">1591841801</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Bruce C. Greenwald , Judd Kahn&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2020-10-03T21:38:36.294232+00:00" name="calibre:timestamp"/>
+        <meta content="Competition Demystified: A Radically Simplified Approach to Business Strategy" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

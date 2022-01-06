@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Authors starting with S</title>
+  <id>Calibre2opds:authorlist:S</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Authors starting with S" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>Scientific American</title>
+    <id>Calibre2opds:author:733</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_733_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Saifedean Ammous</title>
+    <id>Calibre2opds:author:436</id>
+    <content type="text">The Bitcoin Standard</content>
+    <link href="../author_0/author_436_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Stephen P. Anderson</title>
+    <id>Calibre2opds:author:695</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_695_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Saint Thomas Aquinas</title>
+    <id>Calibre2opds:author:174</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_174_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Samuel Arbesman</title>
+    <id>Calibre2opds:author:736</id>
+    <content type="text">The Half-Life of Facts</content>
+    <link href="../author_0/author_736_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Scott. Beekman</title>
+    <id>Calibre2opds:author:556</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_556_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Saul Bellow</title>
+    <id>Calibre2opds:author:539</id>
+    <content type="text">Herzog</content>
+    <link href="../author_0/author_539_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Stewart Brand</title>
+    <id>Calibre2opds:author:767</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_767_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Susan Cain</title>
+    <id>Calibre2opds:author:258</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_258_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Sir Edward Shepherd Creasy</title>
+    <id>Calibre2opds:author:175</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_175_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Srini Devadas</title>
+    <id>Calibre2opds:author:276</id>
+    <content type="text">Programming for the Puzzled</content>
+    <link href="../author_0/author_276_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>S. W. Erdnase</title>
+    <id>Calibre2opds:author:797</id>
+    <content type="text">The Expert at the Card Table</content>
+    <link href="../author_0/author_797_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Sai Gaddam</title>
+    <id>Calibre2opds:author:800</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_800_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Simson Garfinkel</title>
+    <id>Calibre2opds:author:662</id>
+    <content type="text">The UNIX-HATERS Handbook</content>
+    <link href="../author_0/author_662_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Sheila Heen</title>
+    <id>Calibre2opds:author:765</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_765_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Shirley Jackson</title>
+    <id>Calibre2opds:author:493</id>
+    <content type="text">The Lottery</content>
+    <link href="../author_0/author_493_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Steven Johnson</title>
+    <id>Calibre2opds:author:368</id>
+    <content type="text">Where Good Ideas Come From</content>
+    <link href="../author_0/author_368_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Sebastian Junger</title>
+    <id>Calibre2opds:author:392</id>
+    <content type="text">Tribe</content>
+    <link href="../author_0/author_392_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Saša Jurić</title>
+    <id>Calibre2opds:author:475</id>
+    <content type="text">Elixir in Action</content>
+    <link href="../author_0/author_475_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Scott Kupor</title>
+    <id>Calibre2opds:author:417</id>
+    <content type="text">Secrets of Sand Hill Road</content>
+    <link href="../author_0/author_417_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Sanjoy Mahajan</title>
+    <id>Calibre2opds:author:363</id>
+    <content type="text">Street-Fighting Mathematics</content>
+    <link href="../author_0/author_363_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Steve Martin</title>
+    <id>Calibre2opds:author:660</id>
+    <content type="text">Born Standing Up</content>
+    <link href="../author_0/author_660_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Stephen Mitchell</title>
+    <id>Calibre2opds:author:265</id>
+    <content type="text">Tao Te Ching</content>
+    <link href="../author_0/author_265_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Shikibu Murasaki</title>
+    <id>Calibre2opds:author:155</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_155_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Sheldon Natenberg</title>
+    <id>Calibre2opds:author:653</id>
+    <content type="text">2 books</content>
+    <link href="../author_0/author_653_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Scott E. Page</title>
+    <id>Calibre2opds:author:443</id>
+    <content type="text">The Model Thinker</content>
+    <link href="../author_0/author_443_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Shane Parrish</title>
+    <id>Calibre2opds:author:431</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_431_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Steven R. Reed</title>
+    <id>Calibre2opds:author:616</id>
+    <content type="text">Making Common Sense of Japan</content>
+    <link href="../author_0/author_616_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Shimon Schocken</title>
+    <id>Calibre2opds:author:657</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_657_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Seneca, Elaine Fantham</title>
+    <id>Calibre2opds:author:168</id>
+    <content type="text">Selected Letters</content>
+    <link href="../author_0/author_168_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Seneca, Tobias Reinhardt, John Davie</title>
+    <id>Calibre2opds:author:212</id>
+    <content type="text">Dialogues</content>
+    <link href="../author_0/author_212_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Service Alternatives Training Institute, Steven Seiller</title>
+    <id>Calibre2opds:author:636</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_636_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Shaunti Feldhahn, Jeff Feldhahn</title>
+    <id>Calibre2opds:author:509</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_509_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Sei Shonagon</title>
+    <id>Calibre2opds:author:487</id>
+    <content type="text">The Pillow Book</content>
+    <link href="../author_0/author_487_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Shulgin</title>
+    <id>Calibre2opds:author:754</id>
+    <content type="text">PIHKAL: A Chemical Love Story</content>
+    <link href="../author_0/author_754_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Simplanations</title>
+    <id>Calibre2opds:author:743</id>
+    <content type="text">What makes Jio different</content>
+    <link href="../author_0/author_743_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Steven S Skiena</title>
+    <id>Calibre2opds:author:773</id>
+    <content type="text">The Algorithm Design Manual</content>
+    <link href="../author_0/author_773_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Spiegel, Herbert; Spiegel, David</title>
+    <id>Calibre2opds:author:675</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_675_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>S. Sternberg</title>
+    <id>Calibre2opds:author:603</id>
+    <content type="text">Group Theory and Physics</content>
+    <link href="../author_0/author_603_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Steven Halim, Felix Halim</title>
+    <id>Calibre2opds:author:224</id>
+    <content type="text">Competitive Programming</content>
+    <link href="../author_0/author_224_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Stone, Brad</title>
+    <id>Calibre2opds:author:191</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_191_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Steven Strassmann</title>
+    <id>Calibre2opds:author:664</id>
+    <content type="text">The UNIX-HATERS Handbook</content>
+    <link href="../author_0/author_664_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Stuart Russell, Peter Norvig</title>
+    <id>Calibre2opds:author:485</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_485_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Sherry Turkle</title>
+    <id>Calibre2opds:author:465</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_465_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Sun Tzu</title>
+    <id>Calibre2opds:author:522</id>
+    <content type="text">The Art of War</content>
+    <link href="../author_0/author_522_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Stephen Wolfram</title>
+    <id>Calibre2opds:author:560</id>
+    <content type="text">A New Kind of Science</content>
+    <link href="../author_0/author_560_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Scott Young</title>
+    <id>Calibre2opds:author:427</id>
+    <content type="text">Ultralearning</content>
+    <link href="../author_0/author_427_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Shoshana Zuboff</title>
+    <id>Calibre2opds:author:437</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_437_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+</feed>

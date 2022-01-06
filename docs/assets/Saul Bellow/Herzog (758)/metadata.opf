@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">758</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fb957c69-5e17-43a5-a518-b5f0d8659e27</dc:identifier>
+        <dc:title>Herzog</dc:title>
+        <dc:creator opf:file-as="Bellow, Saul" opf:role="aut">Saul Bellow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-02-24T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Saul Bellow's Herzog is part confessional, part exorcism, and a wholly unique achievement in postmodern fiction. Is Moses Herzog losing his mind? His formidable wife Madeleine has left him for his best friend, and Herzog is left alone with his whirling thoughts - yet he still sees himself as a survivor, raging against private disasters and the myriad catastrophes of the modern age. In a crumbling house which he shares with rats, his head buzzing with ideas, he writes frantic, unsent letters to friends and enemies, colleagues and famous people, the living and the dead, revealing the spectacular workings of his labyrinthine mind and the innermost secrets of his troubled heart.This Penguin Modern Classics edition includes an introduction by Malcolm Bradbury'Spectacular ... surely Bellow's greatest novel'Malcolm Bradbury'A masterpiece ... Herzog's voice, for all its wildness and strangeness and foolishness, is the voice of a civilization, our civilization'The New York Times Book Review&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin UK</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0089NVT2S</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">uxjjjwC7y5IC</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0142437298</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780141975030</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Saul Bellow&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-04-04T08:09:37+00:00"/>
+        <meta name="calibre:title_sort" content="Herzog"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

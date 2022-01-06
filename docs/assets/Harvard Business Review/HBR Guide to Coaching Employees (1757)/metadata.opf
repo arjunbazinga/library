@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1757</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e26461cb-6d12-40ff-9371-5c16b5072c2d</dc:identifier>
+        <dc:title>HBR Guide to Coaching Employees</dc:title>
+        <dc:creator opf:file-as="Review, Harvard Business" opf:role="aut">Harvard Business Review</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-11-15T11:10:16+00:00</dc:date>
+        <dc:description>Help your employees help themselves.As a manager in today's business world, you can't just tell your direct reports what to do: You need to help them make their own decisions, enable them to solve tough problems, and actively develop their skills on the job.Whether you have a star on your team who's eager to advance, an underperformer who's dragging the group down, or a steady contributor who feels bored and neglected, you need to coach them: Help shape their goals--and support their efforts to achieve them.In the HBR Guide to Coaching Employees you'll learn how to: Create realistic but inspiring plans for growthAsk the right questions to engage your employees in the development processGive them room to grapple with problems and discover solutionsAllow them to make the most of their expertise while compelling them to stretch and growGive them feedback they'll actually applyBalance coaching with the rest of your workloadArm yourself with the advice you need to succeed on the job, from a source you trust. Packed with how-to essentials from leading experts, the HBR Guides provide smart answers to your most pressing work challenges.</dc:description>
+        <dc:publisher>Harvard Business Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">_6DaBAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781625275332</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Skills</dc:subject>
+        <dc:subject>Leadership</dc:subject>
+        <dc:subject>Personal Success</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harvard Business Review&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-11-05T10:57:38+00:00"/>
+        <meta name="calibre:title_sort" content="HBR Guide to Coaching Employees"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

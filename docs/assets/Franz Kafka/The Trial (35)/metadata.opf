@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b855cc71-bd84-4697-a1c5-dc951d2af3b8</dc:identifier>
+        <dc:title>The Trial</dc:title>
+        <dc:creator opf:file-as="Kafka, Franz" opf:role="aut">Franz Kafka</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1995-03-27T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The Trial and (original German title: Der Process,[1] later Der Proceß, Der Prozeß and Der Prozess and ) is a novel written by Franz Kafka between 1914 and 1915 and published posthumously in 1925. One of his best-known works, it tells the story of Josef K., a man arrested and prosecuted by a remote, inaccessible authority, with the nature of his crime revealed neither to him nor to the reader. Heavily influenced by Dostoyevsky and 's Crime and Punishment and The Brothers Karamazov, Kafka even went so far as to call Dostoyevsky a blood relative. Like Kafka and 's other novels, The Trial was never completed, although it does include a chapter which appears to bring the story to an intentionally abrupt ending. After Kafka and 's death in 1924 his friend and literary executor Max Brod edited the text for publication by Verlag Die Schmiede. The original manuscript is held at the Museum of Modern Literature, Marbach am Neckar, Germany. The first English language translation, by Willa and Edwin Muir, was published in 1937. In 1999, the book was listed in Le Monde and 's 100 Books of the Century and as No. 2 of the Best German Novels of the Twentieth Century.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Aegitas</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">69vYDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0805210407</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780369401212</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Political</dc:subject>
+        <dc:subject>Mystery &amp; Detective</dc:subject>
+        <dc:subject>Police Procedural</dc:subject>
+        <dc:subject>Thrillers</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Franz Kafka&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2018-05-13T15:15:37+00:00"/>
+        <meta name="calibre:title_sort" content="Trial, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1758</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e8acdf3d-f8c8-435f-b37b-2b2265a9d70b</dc:identifier>
+        <dc:title>HBR Guide to Finance Basics for Managers (HBR Guide Series)</dc:title>
+        <dc:creator opf:file-as="Review, Harvard Business" opf:role="aut">Harvard Business Review</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-09-18T11:10:09+00:00</dc:date>
+        <dc:description>DON’T LET YOUR FEAR OF FINANCE GET IN THE WAY OF YOUR SUCCESSCan you prepare a breakeven analysis? Do you know the difference between an income statement and a balance sheet? Or understand why a business that’s profitable can still go belly-up? Has your grasp of your company’s numbers helped—or hurt—your career?Whether you’re new to finance or you just need a refresher, this go-to guide will give you the tools and confidence you need to master the fundamentals, as all good managers must.The HBR Guide to Finance Basics for Managers will help you:Learn the language of financeCompare your firm’s financials with rivals’Shift your team’s focus from revenues to profitsAssess your vulnerability to industry downturnsUse financial data to defend budget requestsInvest smartly through cost/benefit analysis</dc:description>
+        <dc:publisher>Harvard Business Review Press</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B009G1TH9E</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781422187326</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">VTIk5xU18R8C</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Finance</dc:subject>
+        <dc:subject>Business</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harvard Business Review&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-11-05T10:57:38+00:00"/>
+        <meta name="calibre:title_sort" content="HBR Guide to Finance Basics for Managers (HBR Guide Series)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

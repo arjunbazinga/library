@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">992</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fa01c352-5e45-4700-98a7-925aea871dfe</dc:identifier>
+        <dc:title>Elements of Programming Interviews: The Insiders' Guide</dc:title>
+        <dc:creator opf:file-as="Adnan Aziz , Tsung-Hsien Lee , Amit Prakash" opf:role="aut">Adnan Aziz , Tsung-Hsien Lee , Amit Prakash</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-11-15T11:34:25+00:00</dc:date>
+        <dc:description>The core of EPI is a collection of over 300 problems with detailed solutions, including 100 figures, 250 tested programs, and 150 variants. The problems are representative of questions asked at the leading software companies.The book begins with a summary of the nontechnical aspects of interviewing, such as common mistakes, strategies for a great interview, perspectives from the other side of the table, tips on negotiating the best offer, and a guide to the best ways to use EPI.The technical core of EPI is a sequence of chapters on basic and advanced data structures, searching, sorting, broad algorithmic principles, concurrency, and system design. Each chapter consists of a brief review, followed by a broad and thought-provoking series of problems. We include a summary of data structure, algorithm, and problem solving patterns.</dc:description>
+        <dc:publisher>EPI</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1479274836</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781479274833</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">y6FLBQAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Adnan Aziz , Tsung-Hsien Lee , Amit Prakash&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-09-05T04:59:15+00:00"/>
+        <meta name="calibre:title_sort" content="Elements of Programming Interviews: The Insiders' Guide"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

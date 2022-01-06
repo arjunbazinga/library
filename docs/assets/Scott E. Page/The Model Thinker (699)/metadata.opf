@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">699</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aa731972-3d02-4eb0-bbc6-767b63b5215e</dc:identifier>
+        <dc:title>The Model Thinker</dc:title>
+        <dc:creator opf:file-as="PAGE, SCOTT E." opf:role="aut">Scott E. Page</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-11-27T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;How anyone can become a data ninja&lt;/b&gt;&lt;br&gt; From the stock market to genomics laboratories, census figures to marketing email blasts, we are awash with data. But as anyone who has ever opened up a spreadsheet packed with seemingly infinite lines of data knows, numbers aren't enough: we need to know how to make those numbers talk. In &lt;i&gt;The Model Thinker&lt;/i&gt;, social scientist Scott E. Page shows us the mathematical, statistical, and computational models&amp;#8212;from linear regression to random walks and far beyond&amp;#8212;that can turn anyone into a genius. At the core of the book is Page's "many-model paradigm," which shows the reader how to apply multiple models to organize the data, leading to wiser choices, more accurate predictions, and more robust designs. &lt;i&gt;The Model Thinker &lt;/i&gt;provides a toolkit for business people, students, scientists, pollsters, and bloggers to make them better, clearer thinkers, able to leverage data and information to their advantage.</dc:description>
+        <dc:publisher>Basic Books</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Scott E. Page&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:38+00:00"/>
+        <meta name="calibre:title_sort" content="Model Thinker, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

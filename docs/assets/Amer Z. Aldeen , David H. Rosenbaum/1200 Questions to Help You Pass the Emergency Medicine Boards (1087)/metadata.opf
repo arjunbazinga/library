@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1087</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5a28115d-9db5-459a-bfda-1a3f2f59ab85</dc:identifier>
+        <dc:title>1200 Questions to Help You Pass the Emergency Medicine Boards</dc:title>
+        <dc:creator opf:file-as="Amer Z. Aldeen , David H. Rosenbaum" opf:role="aut">Amer Z. Aldeen , David H. Rosenbaum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-07-12T11:21:50+00:00</dc:date>
+        <dc:description>1200 Questions to Help You Pass the Emergency Medicine Boards, Second Edition is a unique resource designed to help emergency medicine residents and physicians pass their exam on the first attempt. This review book contains 1200 questions and answers that mimic both the in-service residency exam and the board exam in emergency medicine. The tests are randomly divided into 12 individual tests of 100 questions, one for each area of emergency medicine: internal medicine and surgery specialty areas, dentistry, trauma, obstetrics, pediatrics, toxicology, environmental, psychiatry, radiology, dermatology, EMS, and bioterrorism. Most of the questions are case-based and 10% involve interpreting an image. The book also provides concise rationale for the correct and incorrect answers to help you identify your strengths and weaknesses and fully understand the material. The questions in the book are designed to be slightly more difficult than the average question in ABEM's Written Qualifying Examination to adequately challenge your existing knowledge and help you better prepare. New for this edition: · 200 new, case-based questions with many images have been added to provide you with additional review · Existing questions have been updated in response to feedback and new knowledge development in emergency medicine to help you stay up to date on the latest information · FREE online access to a companion website with question bank to test yourself anytime, anywhere</dc:description>
+        <dc:publisher>Lippincott Williams &amp; Wilkins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781451171259</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">vDVmXfHOY2cC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Medical</dc:subject>
+        <dc:subject>Emergency Medicine</dc:subject>
+        <dc:subject>Education &amp; Training</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Amer Z. Aldeen , David H. Rosenbaum&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-11-23T07:47:37+00:00"/>
+        <meta name="calibre:title_sort" content="1200 Questions to Help You Pass the Emergency Medicine Boards"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">737</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fce0896d-7063-4f6e-8d78-7e8569aafdeb</dc:identifier>
+        <dc:title>For Men Only, Revised and Updated Edition: A Straightforward Guide to the Inner Lives of Women</dc:title>
+        <dc:creator opf:file-as="Shaunti Feldhahn, Jeff Feldhahn" opf:role="aut">Shaunti Feldhahn, Jeff Feldhahn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-04-03T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;Finally--You &lt;/b&gt;&lt;i&gt;Can &lt;/i&gt;&lt;b&gt;Understand Her! &lt;/b&gt;&lt;br&gt;&lt;br&gt;Women: complicated and impossible to understand? Do you love and want to please the woman in your life, but just can't seem to figure her out? That was before &lt;i&gt;For Men Only&lt;/i&gt;. Now at your fingertips is the tool that will unlock the secret to her mysterious ways. Through hundreds of interviews and the results of a scientific national survey of women, this book demonstrates that women are actually not random and that they really can be systematized and "mapped." In fact, much to men's delight, this book shows that women are actually quite easy to understand and please--as long as you know what it is they need. This simple map will guide you to loving your wife or girlfriend in the way she needs to be loved. &lt;br&gt;&lt;br&gt;The bestselling author of &lt;i&gt;For Women Only&lt;/i&gt; teams with her husband to offer men the key to unlocking the mysterious ways of women. Through Shaunti and Jeff Feldhahn 's national scientific survey and...</dc:description>
+        <dc:publisher>Multnomah Books</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">7247873</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781601422095</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Non-Fiction</dc:subject>
+        <dc:subject>Psychology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Shaunti Feldhahn, Jeff Feldhahn&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:45+00:00"/>
+        <meta name="calibre:title_sort" content="For Men Only, Revised and Updated Edition: A Straightforward Guide to the Inner Lives of Women"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

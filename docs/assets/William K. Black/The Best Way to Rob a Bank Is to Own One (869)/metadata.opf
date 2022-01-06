@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">869</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d8f6db2-2f1c-49e1-b049-3041f57c540e</dc:identifier>
+        <dc:title>The Best Way to Rob a Bank Is to Own One</dc:title>
+        <dc:creator opf:file-as="Black, William K." opf:role="aut">William K. Black</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-07-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;An expert insider's account of how financial super predators brought down an industry by massive accounting fraud.</dc:description>
+        <dc:publisher>University of Texas Press</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;William K. Black&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-07-24T12:24:08.421386+00:00" name="calibre:timestamp"/>
+        <meta content="Best Way to Rob a Bank Is to Own One, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

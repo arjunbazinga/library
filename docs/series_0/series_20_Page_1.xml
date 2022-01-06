@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>London Trilogy</title>
+  <id>Calibre2opds::serieslistseries:20</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_20_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="London Trilogy" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series" />
+  <entry>
+    <title>1 - Money: A Suicide Note</title>
+    <id>calibre:book:750</id>
+    <updated>2020-04-04T01:39:36Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Martin%20Amis/Money_%20A%20Suicide%20Note%20%28750%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Martin%20Amis/Money_%20A%20Suicide%20Note%20%28750%29/Money_%20A%20Suicide%20Note%20-%20Martin%20Amis.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Martin Amis</name>
+      <uri>../author_0/author_774_Page_1.xml</uri>
+    </author>
+    <published>2010-06-28T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="London Trilogy" />
+    <summary>London Trilogy [1]: 
+One of Time ’s 100 best novels in the English language—by the acclaimed author of Lionel Asbo: State of England and *London Fields Part of Martin Amis’s “London Trilogy,” along with the novel London Fields and The Information , M...</summary>
+    <link href="../book_0/book_750.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

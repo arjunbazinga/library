@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">823</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">de450bbd-fb48-4a54-9cba-04f3fedfe0b4</dc:identifier>
+        <dc:title>A Billion Wicked Thoughts: What the World's Largest Experiment Reveals About Human Desire</dc:title>
+        <dc:creator opf:file-as="Ogas, Ogi &amp; Gaddam, Sai" opf:role="aut">Ogi Ogas</dc:creator>
+        <dc:creator opf:file-as="Ogas, Ogi &amp; Gaddam, Sai" opf:role="aut">Sai Gaddam</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-04T20:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Two maverick neuroscientists use the world's largest psychology experiment-the Internet-to study the private activities of millions of men and women around the world, unveiling a revolutionary and shocking new vision of human desire that overturns conventional thinking.&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;For his groundbreaking sexual research, Alfred Kinsey and his team interviewed 18,000 people, relying on them to honestly report their most intimate experiences. Using the Internet, the neuroscientists Ogas and Gaddam quietly observed the raw sexual behaviors of &lt;em&gt;half a billion&lt;/em&gt; people. By combining their observations with neuroscience and animal research, these two young neuroscientists finally answer the long-disputed question: what do people &lt;em&gt;really&lt;/em&gt; like? Ogas and Gaddam's findings are transforming the way scientists and therapists think about sexual desire. &lt;/p&gt;
+&lt;p&gt;In their startling book, Ogas and Gaddam analyze a "billion wicked thoughts" on the Internet: a billion Web searches, a million individual search histories, a million erotic stories, a half-million erotic videos, a million Web sites, millions of online personal ads, and many other enormous sources of sexual data in order to understand the true differences between male and female desires, including: &lt;/p&gt;
+&lt;p&gt;?Men and women have hardwired sexual cues analogous to our hardwired tastes-there are sexual versions of sweet, sour, salty, savory, and bitter. But men and women are wired with different sets of cues. &lt;/p&gt;
+&lt;p&gt;?The male sexual brain resembles a reckless hunter, while the female sexual brain resembles a cautious detective agency. &lt;/p&gt;
+&lt;p&gt;?Men form their sexual interests during adolescence and rarely change. Women's sexual interests are plastic and change frequently. &lt;/p&gt;
+&lt;p&gt;?The male sexual brain is an "or gate": A single stimulus can arouse it. The female sexual brain is an "and gate": It requires many simultaneous stimuli to arouse it. &lt;/p&gt;
+&lt;p&gt;?When it comes to sexual arousal, men prefer overweight women to underweight women, and a significant number of men seek out erotic images of women in their 40s, 50s, and 60s. &lt;/p&gt;
+&lt;p&gt;?Women enjoy writing and sharing erotic stories with other women. The fastest growing genre of erotic stories for women are stories about two heterosexual men having sex. &lt;/p&gt;
+&lt;p&gt;?Though the male sexual brain is much more different from the female sexual brain than is commonly believed, the sexual brain of gay men is virtually identical to that of straight men. &lt;/p&gt;
+&lt;p&gt;Featuring cutting-edge, jaw-dropping science, this wildly entertaining and controversial book helps readers understand their partner's sexual desires with a depth of knowledge unavailable from any other source. Its fascinating and occasionally disturbing findings will rock our modern understanding of sexuality, just as Kinsey's reports did sixty years ago. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Dutton</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0452297877</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780525952091</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Ogi Ogas&quot;: &quot;&quot;, &quot;Sai Gaddam&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2020-07-05T08:04:15+00:00" name="calibre:timestamp"/>
+        <meta content="Billion Wicked Thoughts: What the World's Largest Experiment Reveals About Human Desire, A" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

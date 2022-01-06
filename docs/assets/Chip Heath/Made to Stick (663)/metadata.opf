@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">663</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">db6687ba-d276-4d63-ab95-89e4b68c53ca</dc:identifier>
+        <dc:title>Made to Stick</dc:title>
+        <dc:creator opf:file-as="Heath, Chip" opf:role="aut">Chip Heath</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-03-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;BONUS: This edition contains an excerpt from Chip Heath and Dan Heath's &lt;i&gt;Switch&lt;/i&gt;.&lt;br&gt;&lt;br&gt; Mark Twain once observed, "A lie can get halfway around the world before the truth  can even get its boots on." His observation rings true: Urban legends, conspiracy  theories, and bogus public-health scares circulate effortlessly. Meanwhile, people  with important ideas--business people, teachers, politicians, journalists, and others-- struggle to make their ideas "stick." &lt;br&gt;&lt;br&gt; Why do some ideas thrive while others die?  And how do we improve the chances of worthy ideas? In &lt;i&gt;Made to Stick&lt;/i&gt;, accomplished  educators and idea collectors Chip and Dan Heath tackle head-on these vexing questions.  Inside, the brothers Heath reveal the anatomy of ideas that stick and explain ways  to make ideas stickier, such as applying the "human scale principle," using the "Velcro  Theory of Memory," and creating "curiosity gaps."&lt;br&gt;&lt;br&gt; In this indispensable guide, we  discover that sticky...</dc:description>
+        <dc:publisher>Random House Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-1-58836-596-5</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Chip Heath&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:35+00:00"/>
+        <meta name="calibre:title_sort" content="Made to Stick"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

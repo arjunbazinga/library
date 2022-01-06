@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">725</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9aed9b11-0535-4843-9629-651e17efffea</dc:identifier>
+        <dc:title>Industrial Society and Its Future</dc:title>
+        <dc:creator opf:file-as="Kaczynski, Theodore John" opf:role="aut">Theodore John Kaczynski</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-02T20:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;In 1995, Kaczynski mailed several letters to media outlets outlining his goals and demanding that his 35,000-word essay Industrial Society and Its Future (dubbed the Unabomber Manifesto by the FBI)be printed verbatim by a major newspaper. He stated that, if this demand was met, he would "desist from terrorism".There was controversy as to whether the essay should be published, but Attorney General Janet Reno and FBI Director Louis Freeh recommended its publication out of concern for public safety and in hope that a reader could identify the author. Bob Guccione of Penthouse volunteered to publish it, but Kaczynski replied that Penthouse was less "respectable" than the other publications. He said that he would "reserve the right to plant one (and only one) bomb intended to kill, after our manuscript has been published". The New York Times and The Washington Post both published the essay on September 19, 1995. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="AMAZON">1701988550</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Future</dc:subject>
+        <dc:subject>Society</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Theodore John Kaczynski&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:44+00:00"/>
+        <meta name="calibre:title_sort" content="Industrial Society and Its Future"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

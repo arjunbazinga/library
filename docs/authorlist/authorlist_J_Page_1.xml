@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Authors starting with J</title>
+  <id>Calibre2opds:authorlist:J</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authorlist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Authors starting with J" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_J_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 2)" />
+  <entry>
+    <title>Jane Austen</title>
+    <id>Calibre2opds:author:374</id>
+    <content type="text">Pride and Prejudice</content>
+    <link href="../author_0/author_374_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Jamie Bartlett</title>
+    <id>Calibre2opds:author:146</id>
+    <content type="text">2 books</content>
+    <link href="../author_0/author_146_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Jorge Luis Borges</title>
+    <id>Calibre2opds:author:217</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_217_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Joseph Campbell</title>
+    <id>Calibre2opds:author:261</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_261_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Josiah L. Carlson</title>
+    <id>Calibre2opds:author:611</id>
+    <content type="text">Redis in Action</content>
+    <link href="../author_0/author_611_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>John Carreyrou</title>
+    <id>Calibre2opds:author:145</id>
+    <content type="text">Bad Blood</content>
+    <link href="../author_0/author_145_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Jim Chanos</title>
+    <id>Calibre2opds:author:722</id>
+    <content type="text">2 books</content>
+    <link href="../author_0/author_722_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>James Clear</title>
+    <id>Calibre2opds:author:408</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_408_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Jim Collins</title>
+    <id>Calibre2opds:author:13</id>
+    <content type="text">Good to Great</content>
+    <link href="../author_0/author_13_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Jesse M. Cunha</title>
+    <id>Calibre2opds:author:745</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_745_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>James Davidson</title>
+    <id>Calibre2opds:author:230</id>
+    <content type="text">Courtesans and Fishcakes</content>
+    <link href="../author_0/author_230_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Joan DeJean</title>
+    <id>Calibre2opds:author:84</id>
+    <content type="text">The Age of Comfort</content>
+    <link href="../author_0/author_84_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Jacques Ellul</title>
+    <id>Calibre2opds:author:623</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_623_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Joshua Foer</title>
+    <id>Calibre2opds:author:15</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_15_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Jason Fried</title>
+    <id>Calibre2opds:author:394</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_394_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>John Gall</title>
+    <id>Calibre2opds:author:471</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_471_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Jochen Gartz</title>
+    <id>Calibre2opds:author:748</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_748_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Johan Wolfgang von Goethe</title>
+    <id>Calibre2opds:author:245</id>
+    <content type="text">The Maxims And Reflections</content>
+    <link href="../author_0/author_245_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>John Green</title>
+    <id>Calibre2opds:author:133</id>
+    <content type="text">2 books</content>
+    <link href="../author_0/author_133_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>John R. Gribbin</title>
+    <id>Calibre2opds:author:764</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_764_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>José Hernández-Orallo</title>
+    <id>Calibre2opds:author:207</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_207_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>John C. Hull</title>
+    <id>Calibre2opds:author:286</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_286_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Jerome H. Friedman, Robert Tibshirani</title>
+    <id>Calibre2opds:author:205</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_205_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>John L. Hennessy, David A. Patterson</title>
+    <id>Calibre2opds:author:512</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_512_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Johnson, Mark</title>
+    <id>Calibre2opds:author:349</id>
+    <content type="text">Metaphors We Live By</content>
+    <link href="../author_0/author_349_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Johnson, Sue</title>
+    <id>Calibre2opds:author:432</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_432_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Jorge Nocedal, Stephen J. Wright</title>
+    <id>Calibre2opds:author:495</id>
+    <content type="text">Numerical Optimization</content>
+    <link href="../author_0/author_495_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Joseph R Weil , William T Brannon</title>
+    <id>Calibre2opds:author:232</id>
+    <content type="text">"Yellow Kid" Weil</content>
+    <link href="../author_0/author_232_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>James Joyce</title>
+    <id>Calibre2opds:author:460</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_460_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Julian Assange, Jacob Appelbaum, Andy Muller-Maguhn, Jeremie Zimmermann</title>
+    <id>Calibre2opds:author:452</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_452_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Jack C. Kiefer</title>
+    <id>Calibre2opds:author:779</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_779_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Jhumpa Lahiri</title>
+    <id>Calibre2opds:author:557</id>
+    <content type="text">The Namesake: A Novel</content>
+    <link href="../author_0/author_557_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Janet Malcolm</title>
+    <id>Calibre2opds:author:171</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_171_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>John Marks</title>
+    <id>Calibre2opds:author:507</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_507_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>J.C Maxwell</title>
+    <id>Calibre2opds:author:248</id>
+    <content type="text">On Governors</content>
+    <link href="../author_0/author_248_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>John McCarthy</title>
+    <id>Calibre2opds:author:688</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_688_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>John Stuart Mill</title>
+    <id>Calibre2opds:author:622</id>
+    <content type="text">On Liberty</content>
+    <link href="../author_0/author_622_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>James Nestor</title>
+    <id>Calibre2opds:author:678</id>
+    <content type="text">Breath</content>
+    <link href="../author_0/author_678_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>John Von Neumann</title>
+    <id>Calibre2opds:author:519</id>
+    <content type="text">Selected Letters</content>
+    <link href="../author_0/author_519_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>James Oroc</title>
+    <id>Calibre2opds:author:402</id>
+    <content type="text">Tryptamine Palace</content>
+    <link href="../author_0/author_402_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Jonathan Ott</title>
+    <id>Calibre2opds:author:762</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_762_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>John Ousterhout</title>
+    <id>Calibre2opds:author:405</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_405_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Judea Pearl</title>
+    <id>Calibre2opds:author:35</id>
+    <content type="text">The Book of Why</content>
+    <link href="../author_0/author_35_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Jordan B. Peterson</title>
+    <id>Calibre2opds:author:403</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_403_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Justin M. Rao</title>
+    <id>Calibre2opds:author:747</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_747_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Jean-Jacques Rousseau</title>
+    <id>Calibre2opds:author:202</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_202_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Joel Spring</title>
+    <id>Calibre2opds:author:172</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_172_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>J.D. Salinger</title>
+    <id>Calibre2opds:author:548</id>
+    <content type="text">The Catcher in the Rye</content>
+    <link href="../author_0/author_548_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Jim Spellman</title>
+    <id>Calibre2opds:author:703</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_703_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>John Steinbeck</title>
+    <id>Calibre2opds:author:221</id>
+    <content type="text">Of Mice and Men</content>
+    <link href="../author_0/author_221_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1752</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0b9f259d-a1e7-4de9-bc62-8f012197399c</dc:identifier>
+        <dc:title>HBR Guide to Making Every Meeting Matter (HBR Guide Series)</dc:title>
+        <dc:creator opf:file-as="Harvard Business Review" opf:role="aut">Harvard Business Review</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-11-15T11:10:41+00:00</dc:date>
+        <dc:description>Make every minute count.Your calendar is full, and yet your meetings don’t always seem to advance your work. Problems often arise with unrealistic or vague agendas, off-track conversations, tuned-out participants who don’t know why they’re there, and follow-up notes that no one reads—or acts on. Meetings can feel like a waste of time. But when you invest a little energy in preparing yourself and your participants, you’ll stay focused, solve problems, gain consensus, and leave each meeting ready to take action.With input from over 20 experts combined with useful checklists, sample agendas, and follow-up memos, the HBR Guide to Making Every Meeting Matter will teach you how to:Set and communicate your meeting’s purposeInvite the right peoplePrepare an achievable agendaModerate a lively conversationRegain control of a wayward meetingEnsure follow-through without babysitting or haranguingArm yourself with the advice you need to succeed on the job, from a source you trust. Packed with how-to essentials from leading experts, the HBR Guides provide smart answers to your most pressing work challenges.</dc:description>
+        <dc:publisher>Harvard Business Review Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781633692183</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Th1GDAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Business Communication</dc:subject>
+        <dc:subject>Meetings &amp; Presentations</dc:subject>
+        <dc:subject>Management</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Decision-Making &amp; Problem Solving</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harvard Business Review&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-11-05T10:57:36+00:00"/>
+        <meta name="calibre:title_sort" content="HBR Guide to Making Every Meeting Matter (HBR Guide Series)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

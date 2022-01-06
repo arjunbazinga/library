@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">906</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b1a7ea94-9340-4a8f-bc6d-5c7d80a139e9</dc:identifier>
+        <dc:title>The Product Manager Interview: 164 Actual Questions and Answers</dc:title>
+        <dc:creator opf:file-as="Lin, Lewis C." opf:role="aut">Lewis C. Lin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-05T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;NEW EDITION AVAILABLE&lt;/strong&gt;. &lt;span style="font-weight: 600; font-style: italic"&gt;* This is the OLDER 3rd edition. The NEWER 4th edition is available: amzn.to/2X56Q8O &lt;/span&gt;&lt;strong&gt;*BEWARE OF COUNTERFEIT BOOKS&lt;/strong&gt;. Readers have reported that Amazon's 3rd-party sellers are selling counterfeit versions; the counterfeit pages have misprints, missing pages or pages in reverse order. We are working with Amazon to resolve the issue. In the meantime, purchase genuine books with the Amazon.com logo: bit.ly/2XqFAXB&lt;/p&gt;
+&lt;h2&gt;Introduction to the Third Edition&lt;/h2&gt;
+&lt;p&gt;From the creator of the CIRCLES Method™, The &lt;span style="font-weight: 600; font-style: italic"&gt;Product Manager Interview&lt;/span&gt;  is a resource you don’t want to miss. The world's expert in product management interviews, Lewis C. Lin, gives readers &lt;strong&gt;164 practice questions&lt;/strong&gt; to gain product management (PM) proficiency to master the interview. This book is ideal for almost all PM roles including: * Google * Facebook * Amazon * Uber * Dropbox * Microsoft&lt;/p&gt;
+&lt;h2&gt;Fully Solved Solutions&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;The book contains fully solved solutions so readers can learn, improve and do their best at the PM interview&lt;/strong&gt;. Here are questions and sample answers you'll find in the book: &lt;strong&gt;Product Design&lt;/strong&gt; * How would you design an ATM for elderly people? * Should Google build a Comcast-like TV cable service? * Instagram currently supports 3 to 15 second videos. We're considering supporting videos of unlimited length. How would you modify the UX to accommodate this?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pricing&lt;/strong&gt; * How would you go about pricing UberX or any other new Uber product? * Let's say Google created a teleporting device: which market segments would you go after? How would you price it?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Metrics&lt;/strong&gt; * Imagine you are the Amazon Web Services (AWS) PM in Sydney. What are the top three metrics you’d look at? * Facebook users have declined 20 percent week over week. Diagnose the problem. How would you fix the issue?&lt;/p&gt;
+&lt;h2&gt;Ideal Complement to *Decode and Conquer*&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Many of you have read the PM interview frameworks revealed in &lt;/strong&gt;&lt;span style="font-weight: 600; font-style: italic"&gt;Decode and Conquer&lt;/span&gt;&lt;strong&gt; , including the CIRCLES™, AARM™ and DIGS™ Methods. &lt;/strong&gt; &lt;em&gt;The&lt;/em&gt; &lt;em&gt;Product Manager Interview&lt;/em&gt;  is the perfect complement to &lt;em&gt;Decode and Conquer&lt;/em&gt;. With 164 practice questions, you'll see what the best PM interview responses look and feel like.&lt;/p&gt;
+&lt;h2&gt;What's New in the Third Edition&lt;/h2&gt;
+&lt;p&gt;Many of the sample answers have been re-written from scratch. The answers are now stronger and easier to follow. In total, thousands of changes have made in this brand new 3rd edition of the book. This is the new edition of the book formerly titled  &lt;em&gt;PM Interview Questions&lt;/em&gt;. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Impact Interview</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780998120447</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0998120448</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">cGU4swEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Lewis C. Lin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-08-09T07:29:06+00:00"/>
+        <meta name="calibre:title_sort" content="Product Manager Interview: 164 Actual Questions and Answers, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

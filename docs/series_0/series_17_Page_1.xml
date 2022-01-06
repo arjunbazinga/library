@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>finance</title>
+  <id>Calibre2opds::serieslistseries:17</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_17_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="finance" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series" />
+  <entry>
+    <title>1 - Common Stock Volatilities In Option Formulas</title>
+    <id>calibre:book:859</id>
+    <updated>2020-07-22T10:44:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Edward%20O.%20Thorp/Common%20Stock%20Volatilities%20In%20Option%20Formulas%20%28859%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Edward%20O.%20Thorp/Common%20Stock%20Volatilities%20In%20Option%20Formulas%20%28859%29/Common%20Stock%20Volatilities%20In%20Option%20Formul%20-%20Edward%20O.%20Thorp.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Edward O. Thorp</name>
+      <uri>../author_0/author_416_Page_1.xml</uri>
+    </author>
+    <published>2008-08-25T04:15:44Z</published>
+    <category term="finance" />
+    <summary>finance [1]:</summary>
+    <link href="../book_0/book_859.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

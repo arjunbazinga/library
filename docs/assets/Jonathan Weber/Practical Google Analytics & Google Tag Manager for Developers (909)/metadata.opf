@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">909</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c96b0877-b1ba-482a-9503-07821d9bafca</dc:identifier>
+        <dc:title>Practical Google Analytics &amp; Google Tag Manager for Developers</dc:title>
+        <dc:creator opf:file-as="Weber, Jonathan" opf:role="aut">Jonathan Weber</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-24T06:24:47+00:00</dc:date>
+        <dc:publisher>Apress®</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Jonathan Weber&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-08-09T07:29:06.645684+00:00" name="calibre:timestamp"/>
+        <meta content="Practical Google Analytics &amp; Google Tag Manager for Developers" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">369</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3b572ecf-28af-405e-86f6-2ccecf44b07a</dc:identifier>
+        <dc:title>Let It Snow: Three Holiday Stories</dc:title>
+        <dc:creator opf:file-as="Green, John &amp; Myracle, Lauren &amp; Johnson, Maureen" opf:role="aut">John Green</dc:creator>
+        <dc:creator opf:file-as="Green, John &amp; Myracle, Lauren &amp; Johnson, Maureen" opf:role="aut">Lauren Myracle</dc:creator>
+        <dc:creator opf:file-as="Green, John &amp; Myracle, Lauren &amp; Johnson, Maureen" opf:role="aut">Maureen Johnson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-09-28T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Three interconnected stories from three bestselling authors: John Green ( &lt;em&gt;Paper Towns, The Fault in our Stars&lt;/em&gt; ), Maureen Johnson ( &lt;em&gt;The Name of the Star&lt;/em&gt; ), and Lauren Myracle (The Internet Girls series.) &lt;/p&gt;
+&lt;p&gt;Major motion picture in the works! &lt;/p&gt;
+&lt;p&gt;A Christmas Eve snowstorm transforms one small town into a romantic haven, the kind you see only in movies. Well, kinda. After all, a cold and wet hike from a stranded train through the middle of nowhere would not normally end with a delicious kiss from a charming stranger. And no one would think that a trip to the Waffle House through four feet of snow would lead to love with an old friend. Or that the way back to true love begins with a painfully early morning shift at Starbucks. Thanks to three of today’s bestselling teen authors—John Green, Maureen Johnson, and Lauren Myracle—the magic of the holidays shines on these hilarious and charming interconnected tales of love, romance, and breathtaking kisses. &lt;/p&gt;
+&lt;p&gt;A &lt;em&gt;New York Times&lt;/em&gt; Bestseller! **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Speak</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780147515018</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0147515017</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;John Green&quot;: &quot;&quot;, &quot;Lauren Myracle&quot;: &quot;&quot;, &quot;Maureen Johnson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2018-07-12T09:35:20+00:00"/>
+        <meta name="calibre:title_sort" content="Let It Snow: Three Holiday Stories"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

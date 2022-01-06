@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with W</title>
+  <id>Calibre2opds:allbooks:W</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_W_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with W" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>Walden Two [1948, 1976, 2005]</title>
+    <id>calibre:book:668</id>
+    <updated>2020-03-28T07:50:28Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/B.%20F.%20Skinner/Walden%20Two%20%5B1948%2C%201976%2C%202005%5D%20%28668%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/B.%20F.%20Skinner/Walden%20Two%20%5B1948%2C%201976%2C%202005%5D%20%28668%29/Walden%20Two%20%5B1948%2C%201976%2C%202005%5D%20-%20B.%20F.%20Skinner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/B.%20F.%20Skinner/Walden%20Two%20%5B1948%2C%201976%2C%202005%5D%20%28668%29/Walden%20Two%20%5B1948%2C%201976%2C%202005%5D%20-%20B.%20F.%20Skinner.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>B. F. Skinner</name>
+      <uri>../author_0/author_415_Page_1.xml</uri>
+    </author>
+    <published>1947-12-31T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Hackett Publishing Company</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Walden Two is a utopian novel by behavioral psychologist B.F. Skinner. It describes a 1000 person planned rural community in which the members are happy &amp;amp; productively creative. The community is governed by Managers, six Planners &amp;amp; supports a...</summary>
+    <link href="../book_0/book_668.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Watchmen #01 - #12</title>
+    <id>calibre:book:518</id>
+    <updated>2019-12-07T00:47:18Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20Moore/Watchmen%20%2301%20-%20%2312%20%28518%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20Moore/Watchmen%20%2301%20-%20%2312%20%28518%29/Watchmen%20%2301%20-%20%2312%20-%20Alan%20Moore.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20Moore/Watchmen%20%2301%20-%20%2312%20%28518%29/Watchmen%20%2301%20-%20%2312%20-%20Alan%20Moore.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Alan Moore</name>
+      <uri>../author_0/author_267_Page_1.xml</uri>
+    </author>
+    <published>2006-02-15T00:38:02Z</published>
+    <link href="../book_0/book_518.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>We ****</title>
+    <id>calibre:book:30</id>
+    <updated>2019-12-07T00:47:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Yevgeny%20Zamyatin/We%20%2830%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Yevgeny%20Zamyatin/We%20%2830%29/We%20-%20Yevgeny%20Zamyatin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Yevgeny%20Zamyatin/We%20%2830%29/We%20-%20Yevgeny%20Zamyatin.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Yevgeny%20Zamyatin/We%20%2830%29/We%20-%20Yevgeny%20Zamyatin.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Yevgeny Zamyatin</name>
+      <uri>../author_0/author_783_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Clarence Brown</name>
+      <uri>../author_0/author_784_Page_1.xml</uri>
+    </author>
+    <published>1993-08-01T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Twentieth Century Classics</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>The exhilarating dystopian novel that inspired George Orwell's 1984 and foreshadowed the worst excesses of Soviet Russia 
+Yevgeny Zamyatin's We is a powerfully inventive vision that has influenced writers from George Orwell to Ayn Rand. In a glass-e...</summary>
+    <link href="../book_0/book_30.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>We Need a New Science of Progress</title>
+    <id>calibre:book:812</id>
+    <updated>2020-06-14T06:39:52Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/The%20Atlantic/We%20Need%20a%20New%20Science%20of%20Progress%20%28812%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/The%20Atlantic/We%20Need%20a%20New%20Science%20of%20Progress%20%28812%29/We%20Need%20a%20New%20Science%20of%20Progress%20-%20The%20Atlantic.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>The Atlantic</name>
+      <uri>../author_0/author_592_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_812.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>We Need to Talk</title>
+    <id>calibre:book:521</id>
+    <updated>2020-03-28T07:24:06Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Celeste%20Headlee/We%20Need%20to%20Talk%20%28521%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Celeste%20Headlee/We%20Need%20to%20Talk%20%28521%29/We%20Need%20to%20Talk%20-%20Celeste%20Headlee.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Celeste%20Headlee/We%20Need%20to%20Talk%20%28521%29/We%20Need%20to%20Talk%20-%20Celeste%20Headlee.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Celeste%20Headlee/We%20Need%20to%20Talk%20%28521%29/We%20Need%20to%20Talk%20-%20Celeste%20Headlee.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Celeste Headlee</name>
+      <uri>../author_0/author_273_Page_1.xml</uri>
+    </author>
+    <published>2017-08-02T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>"WE NEED TO TALK."They are, perhaps, the most dreaded four words in the English language. But in her timely, insightful, and wonderfully practical book, We Need to Talk, Celeste Headlee&amp;#8212;who earns a living by talking on the airwaves of National ...</summary>
+    <link href="../book_0/book_521.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>We are in the golden age of fraud</title>
+    <id>calibre:book:911</id>
+    <updated>2020-08-09T00:59:06Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Jim%20Chanos/We%20are%20in%20the%20golden%20age%20of%20fraud%20%28911%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Jim%20Chanos/We%20are%20in%20the%20golden%20age%20of%20fraud%20%28911%29/We%20are%20in%20the%20golden%20age%20of%20fraud%20-%20Jim%20Chanos.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Jim Chanos</name>
+      <uri>../author_0/author_722_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:publisher>Financial Times</dcterms:publisher>
+    <link href="../book_0/book_911.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Wealth of Nations: An Inquiry Into the Nature &amp; Causes of the Wealth of Nations</title>
+    <id>calibre:book:27</id>
+    <updated>2019-12-07T00:47:18Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Adam%20Smith/The%20Wealth%20of%20Nations_%20An%20Inquiry%20Into%20the%20Nature%20%26%20Causes%20of%20the%20Wealth%20of%20Nations%20%2827%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Adam%20Smith/The%20Wealth%20of%20Nations_%20An%20Inquiry%20Into%20the%20Nature%20%26%20Causes%20of%20the%20Wealth%20of%20Nations%20%2827%29/The%20Wealth%20of%20Nations_%20An%20Inquiry%20Into%20the%20-%20Adam%20Smith.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Adam%20Smith/The%20Wealth%20of%20Nations_%20An%20Inquiry%20Into%20the%20Nature%20%26%20Causes%20of%20the%20Wealth%20of%20Nations%20%2827%29/The%20Wealth%20of%20Nations_%20An%20Inquiry%20Into%20the%20-%20Adam%20Smith.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Adam%20Smith/The%20Wealth%20of%20Nations_%20An%20Inquiry%20Into%20the%20Nature%20%26%20Causes%20of%20the%20Wealth%20of%20Nations%20%2827%29/The%20Wealth%20of%20Nations_%20An%20Inquiry%20Into%20the%20-%20Adam%20Smith.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Adam Smith</name>
+      <uri>../author_0/author_478_Page_1.xml</uri>
+    </author>
+    <published>1998-10-26T04:13:13Z</published>
+    <dcterms:publisher>University of Chicago Press</dcterms:publisher>
+    <link href="../book_0/book_27.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Wealth of Networks: How Social Production Transforms Markets and Freedom *****</title>
+    <id>calibre:book:570</id>
+    <updated>2020-03-28T07:02:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Yochai%20Benkler/The%20Wealth%20of%20Networks_%20How%20Social%20Production%20Transforms%20Markets%20and%20Freedom%20%28570%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Yochai%20Benkler/The%20Wealth%20of%20Networks_%20How%20Social%20Production%20Transforms%20Markets%20and%20Freedom%20%28570%29/The%20Wealth%20of%20Networks_%20How%20Social%20Product%20-%20Yochai%20Benkler.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Yochai%20Benkler/The%20Wealth%20of%20Networks_%20How%20Social%20Production%20Transforms%20Markets%20and%20Freedom%20%28570%29/The%20Wealth%20of%20Networks_%20How%20Social%20Product%20-%20Yochai%20Benkler.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Yochai Benkler</name>
+      <uri>../author_0/author_477_Page_1.xml</uri>
+    </author>
+    <published>2007-10-22T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Yale University Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>With the radical changes in information production that the Internet has introduced, we stand at an important moment of transition, says Yochai Benkler in this thought-provoking book. The phenomenon he describes as social production is reshaping mar...</summary>
+    <link href="../book_0/book_570.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Weapons of Math Destruction</title>
+    <id>calibre:book:54</id>
+    <updated>2020-03-28T07:38:00Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Cathy%20O%27Neil/Weapons%20of%20Math%20Destruction%20%2854%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Cathy%20O%27Neil/Weapons%20of%20Math%20Destruction%20%2854%29/Weapons%20of%20Math%20Destruction%20-%20Cathy%20O%27Neil.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Cathy%20O%27Neil/Weapons%20of%20Math%20Destruction%20%2854%29/Weapons%20of%20Math%20Destruction%20-%20Cathy%20O%27Neil.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Cathy%20O%27Neil/Weapons%20of%20Math%20Destruction%20%2854%29/Weapons%20of%20Math%20Destruction%20-%20Cathy%20O%27Neil.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Cathy O'Neil</name>
+      <uri>../author_0/author_44_Page_1.xml</uri>
+    </author>
+    <published>2016-09-06T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Crown/Archetype</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>A former Wall Street quant sounds an alarm on mathematical modeling&amp;#8212;a pervasive new force in society that threatens to undermine democracy and widen inequality.  We live in the age of the algorithm. Increasingly, the decisions that affect our l...</summary>
+    <link href="../book_0/book_54.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Web Typography</title>
+    <id>calibre:book:639</id>
+    <updated>2020-03-28T11:32:32Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Richard%20Rutter/Web%20Typography%20%28639%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Richard%20Rutter/Web%20Typography%20%28639%29/Web%20Typography%20-%20Richard%20Rutter.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Richard Rutter</name>
+      <uri>../author_0/author_389_Page_1.xml</uri>
+    </author>
+    <published>2017-06-13T08:39:38Z</published>
+    <category term="A handbook for designing beautiful and effective responsive typography." />
+    <summary>A handbook for designing beautiful and effective responsive typography.</summary>
+    <link href="../book_0/book_639.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>What every systems programmer should know about lockless concurrency</title>
+    <id>calibre:book:579</id>
+    <updated>2019-12-07T00:47:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Matt%20Kline/What%20every%20systems%20programmer%20should%20know%20about%20lockless%20concurrency%20%28579%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Matt%20Kline/What%20every%20systems%20programmer%20should%20know%20about%20lockless%20concurrency%20%28579%29/What%20every%20systems%20programmer%20should%20know%20-%20Matt%20Kline.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Matt Kline</name>
+      <uri>../author_0/author_333_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_579.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>What makes Jio different</title>
+    <id>calibre:book:934</id>
+    <updated>2020-08-21T01:46:06Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Simplanations/What%20makes%20Jio%20different%20%28934%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Simplanations/What%20makes%20Jio%20different%20%28934%29/What%20makes%20Jio%20different%20-%20Simplanations.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Simplanations</name>
+      <uri>../author_0/author_743_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_934.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>When Genius Failed: The Rise and Fall of Long-Term Capital Management</title>
+    <id>calibre:book:647</id>
+    <updated>2020-03-28T07:30:38Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Roger%20Lowenstein/When%20Genius%20Failed_%20The%20Rise%20and%20Fall%20of%20Long-Term%20Capital%20Management%20%28647%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Roger%20Lowenstein/When%20Genius%20Failed_%20The%20Rise%20and%20Fall%20of%20Long-Term%20Capital%20Management%20%28647%29/When%20Genius%20Failed_%20The%20Rise%20and%20Fall%20of%20L%20-%20Roger%20Lowenstein.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Roger%20Lowenstein/When%20Genius%20Failed_%20The%20Rise%20and%20Fall%20of%20Long-Term%20Capital%20Management%20%28647%29/When%20Genius%20Failed_%20The%20Rise%20and%20Fall%20of%20L%20-%20Roger%20Lowenstein.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Roger Lowenstein</name>
+      <uri>../author_0/author_398_Page_1.xml</uri>
+    </author>
+    <published>2001-01-17T11:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House</dcterms:publisher>
+    <category term="Business" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_647.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>When Prophecy Fails</title>
+    <id>calibre:book:414</id>
+    <updated>2020-03-28T07:19:38Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Leon%20Festinger%2C%20Stanley%20Schachter%2C%20Henry%20W.%20Riecken/When%20Prophecy%20Fails%20%28414%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Leon%20Festinger%2C%20Stanley%20Schachter%2C%20Henry%20W.%20Riecken/When%20Prophecy%20Fails%20%28414%29/When%20Prophecy%20Fails%20-%20Leon%20Festinger%2C%20Stanley%20Schachter%2C%20Henry%20W.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Leon%20Festinger%2C%20Stanley%20Schachter%2C%20Henry%20W.%20Riecken/When%20Prophecy%20Fails%20%28414%29/When%20Prophecy%20Fails%20-%20Leon%20Festinger%2C%20Stanley%20Schachter%2C%20Henry%20W.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Leon%20Festinger%2C%20Stanley%20Schachter%2C%20Henry%20W.%20Riecken/When%20Prophecy%20Fails%20%28414%29/When%20Prophecy%20Fails%20-%20Leon%20Festinger%2C%20Stanley%20Schachter%2C%20Henry%20W.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Leon Festinger, Stanley Schachter, Henry W. Riecken</name>
+      <uri>../author_0/author_510_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Elliot Aronson</name>
+      <uri>../author_0/author_165_Page_1.xml</uri>
+    </author>
+    <published>2010-11-11T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Pinter &amp; Martin</dcterms:publisher>
+    <category term="PSY031000" />
+    <category term="Lang:en" />
+    <summary>In 1954 Leon Festinger, a brilliant young experimental social psychologist in the process of inventing a new theory of human behavior - the theory of cognitive dissonance - and two of his colleagues, Henry Riecken and Stanley Schachter, infiltrated a...</summary>
+    <link href="../book_0/book_414.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Where Good Ideas Come From</title>
+    <id>calibre:book:606</id>
+    <updated>2020-03-28T07:26:06Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Steven%20Johnson/Where%20Good%20Ideas%20Come%20From%20%28606%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Steven%20Johnson/Where%20Good%20Ideas%20Come%20From%20%28606%29/Where%20Good%20Ideas%20Come%20From%20-%20Steven%20Johnson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Steven%20Johnson/Where%20Good%20Ideas%20Come%20From%20%28606%29/Where%20Good%20Ideas%20Come%20From%20-%20Steven%20Johnson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Steven Johnson</name>
+      <uri>../author_0/author_368_Page_1.xml</uri>
+    </author>
+    <published>2010-09-07T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Group USA, Inc.</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_606.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Who Owns the Future</title>
+    <id>calibre:book:604</id>
+    <updated>2020-03-28T07:29:32Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Lanier%2C%20Jaron/Who%20Owns%20the%20Future%20%28604%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Lanier%2C%20Jaron/Who%20Owns%20the%20Future%20%28604%29/Who%20Owns%20the%20Future%20-%20Lanier%2C%20Jaron.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Lanier%2C%20Jaron/Who%20Owns%20the%20Future%20%28604%29/Who%20Owns%20the%20Future%20-%20Lanier%2C%20Jaron.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Lanier, Jaron</name>
+      <uri>../author_0/author_367_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <link href="../book_0/book_604.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Why Honor Matters</title>
+    <id>calibre:book:504</id>
+    <updated>2020-03-28T07:52:00Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Tamler%20Sommers/Why%20Honor%20Matters%20%28504%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Tamler%20Sommers/Why%20Honor%20Matters%20%28504%29/Why%20Honor%20Matters%20-%20Tamler%20Sommers.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Tamler%20Sommers/Why%20Honor%20Matters%20%28504%29/Why%20Honor%20Matters%20-%20Tamler%20Sommers.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Tamler%20Sommers/Why%20Honor%20Matters%20%28504%29/Why%20Honor%20Matters%20-%20Tamler%20Sommers.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Tamler Sommers</name>
+      <uri>../author_0/author_490_Page_1.xml</uri>
+    </author>
+    <published>2018-05-08T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Hachette Book Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_504.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Why Nerds are Unpopular</title>
+    <id>calibre:book:830</id>
+    <updated>2020-07-09T01:07:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Paul%20Graham/Why%20Nerds%20are%20Unpopular%20%28830%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Paul%20Graham/Why%20Nerds%20are%20Unpopular%20%28830%29/Why%20Nerds%20are%20Unpopular%20-%20Paul%20Graham.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Paul Graham</name>
+      <uri>../author_0/author_645_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_830.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Why We Sleep: Unlocking the Power of Sleep and Dreams</title>
+    <id>calibre:book:164</id>
+    <updated>2020-03-28T08:04:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Matthew%20Walker/Why%20We%20Sleep_%20Unlocking%20the%20Power%20of%20Sleep%20and%20Dreams%20%28164%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Matthew%20Walker/Why%20We%20Sleep_%20Unlocking%20the%20Power%20of%20Sleep%20and%20Dreams%20%28164%29/Why%20We%20Sleep_%20Unlocking%20the%20Power%20of%20Sleep%20-%20Matthew%20Walker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Matthew%20Walker/Why%20We%20Sleep_%20Unlocking%20the%20Power%20of%20Sleep%20and%20Dreams%20%28164%29/Why%20We%20Sleep_%20Unlocking%20the%20Power%20of%20Sleep%20-%20Matthew%20Walker.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Matthew%20Walker/Why%20We%20Sleep_%20Unlocking%20the%20Power%20of%20Sleep%20and%20Dreams%20%28164%29/Why%20We%20Sleep_%20Unlocking%20the%20Power%20of%20Sleep%20-%20Matthew%20Walker.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Matthew Walker</name>
+      <uri>../author_0/author_102_Page_1.xml</uri>
+    </author>
+    <published>2017-10-03T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Scribner</dcterms:publisher>
+    <category term="Sleep" />
+    <category term="Health" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_164.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Winners Take All</title>
+    <id>calibre:book:733</id>
+    <updated>2020-03-28T07:20:48Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Anand%20Giridharadas/Winners%20Take%20All%20%28733%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Anand%20Giridharadas/Winners%20Take%20All%20%28733%29/Winners%20Take%20All%20-%20Anand%20Giridharadas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Anand%20Giridharadas/Winners%20Take%20All%20%28733%29/Winners%20Take%20All%20-%20Anand%20Giridharadas.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Anand Giridharadas</name>
+      <uri>../author_0/author_457_Page_1.xml</uri>
+    </author>
+    <published>2018-08-28T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Random House LLC</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_733.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Wisdom of Insecurity</title>
+    <id>calibre:book:789</id>
+    <updated>2020-04-23T05:43:02Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20W.%20Watts/The%20Wisdom%20of%20Insecurity%20%28789%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20W.%20Watts/The%20Wisdom%20of%20Insecurity%20%28789%29/The%20Wisdom%20of%20Insecurity%20-%20Alan%20W.%20Watts.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Alan W. Watts</name>
+      <uri>../author_0/author_649_Page_1.xml</uri>
+    </author>
+    <published>2008-03-22T01:52:46Z</published>
+    <category term="The Wisdom of Insecurity" />
+    <summary>The Wisdom of Insecurity</summary>
+    <link href="../book_0/book_789.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Woke: A Guide to Social Justice *****</title>
+    <id>calibre:book:726</id>
+    <updated>2020-03-28T07:31:40Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Titania%20McGrath/Woke_%20A%20Guide%20to%20Social%20Justice%20%28726%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Titania%20McGrath/Woke_%20A%20Guide%20to%20Social%20Justice%20%28726%29/Woke_%20A%20Guide%20to%20Social%20Justice%20-%20Titania%20McGrath.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Titania%20McGrath/Woke_%20A%20Guide%20to%20Social%20Justice%20%28726%29/Woke_%20A%20Guide%20to%20Social%20Justice%20-%20Titania%20McGrath.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Titania McGrath</name>
+      <uri>../author_0/author_451_Page_1.xml</uri>
+    </author>
+    <published>2019-03-07T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Constable</dcterms:publisher>
+    <category term="Humor" />
+    <category term="Topic" />
+    <category term="Politics" />
+    <category term="Political Science" />
+    <category term="Comparative Politics" />
+    <category term="Social Science" />
+    <category term="Gender Studies" />
+    <category term="Feminism &amp; Feminist Theory" />
+    <category term="Lang:en" />
+    <summary>'The book everyone's talking about' The Times'Titania McGrath is a genius' Spectator'Just as Bridget Jones was the embodiment of the anxiety-ridden Nineties feminist, a creation whose diary entries encapsulated all our hopes, fears and failures, so T...</summary>
+    <link href="../book_0/book_726.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Working Effectively with Legacy Code</title>
+    <id>calibre:book:858</id>
+    <updated>2020-07-12T11:17:16Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Michael%20C.%20Feathers/Working%20Effectively%20with%20Legacy%20Code%20%28858%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Michael%20C.%20Feathers/Working%20Effectively%20with%20Legacy%20Code%20%28858%29/Working%20Effectively%20with%20Legacy%20Code%20-%20Michael%20C.%20Feathers.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Michael%20C.%20Feathers/Working%20Effectively%20with%20Legacy%20Code%20%28858%29/Working%20Effectively%20with%20Legacy%20Code%20-%20Michael%20C.%20Feathers.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Michael C. Feathers</name>
+      <uri>../author_0/author_650_Page_1.xml</uri>
+    </author>
+    <published>2005-07-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Prentice Hall PTR</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_858.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">912</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a92460b0-9171-43a1-b9b9-04b7f4899ab7</dc:identifier>
+        <dc:title>High Performance Python, 2nd Edition</dc:title>
+        <dc:creator opf:file-as="Micha Gorelick, Ian Ozsvald" opf:role="aut">Micha Gorelick, Ian Ozsvald</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-06T18:30:00+00:00</dc:date>
+        <dc:description>&lt;span&gt;&lt;div&gt;&lt;p&gt;Your Python code may run correctly, but you need it to run faster. Updated for Python 3, this expanded edition shows you how to locate performance bottlenecks and significantly speed up your code in high-data-volume programs. By exploring the fundamental theory behind design choices, High Performance Python helps you gain a deeper understanding of Python’s implementation.&lt;/p&gt;&lt;p&gt;How do you take advantage of multicore architectures or clusters? Or build a system that scales up and down without losing reliability? Experienced Python programmers will learn concrete solutions to many issues, along with war stories from companies that use high-performance Python for social media analytics, productionized machine learning, and more.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Get a better grasp of NumPy, Cython, and profilers&lt;/li&gt;&lt;li&gt;Learn how Python abstracts the underlying computer architecture&lt;/li&gt;&lt;li&gt;Use profiling to find bottlenecks in CPU time and memory usage&lt;/li&gt;&lt;li&gt;Write efficient programs by choosing appropriate data structures&lt;/li&gt;&lt;li&gt;Speed up matrix and vector computations&lt;/li&gt;&lt;li&gt;Use tools to compile Python down to machine code&lt;/li&gt;&lt;li&gt;Manage multiple I/O and computational operations concurrently&lt;/li&gt;&lt;li&gt;Convert multiprocessing code to run on local or remote clusters&lt;/li&gt;&lt;li&gt;Deploy code faster using tools like Docker&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/span&gt;</dc:description>
+        <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Micha Gorelick, Ian Ozsvald&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-08-09T07:29:07+00:00"/>
+        <meta name="calibre:title_sort" content="High Performance Python, 2nd Edition"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">722</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">364125e7-6a35-4358-8d10-f0f06326c14e</dc:identifier>
+        <dc:title>The Art of War</dc:title>
+        <dc:creator opf:file-as="Tzu, Sun" opf:role="aut">Sun Tzu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-05-12T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Written in China more than 2,000 years ago, Sun Tzu's classic &lt;em&gt;The Art of War&lt;/em&gt; is the first known study of the planning and conduct of military operations. These terse, aphoristic essays are unsurpassed in comprehensiveness and depth of understanding, examining not only battlefield maneuvers, but also relevant economic, political, and psychological factors. Indeed, the precepts outlined by Sun Tzu can be applied outside the realm of military theory. It is read avidly by Japanese businessmen and in fact was touted in the movie &lt;em&gt;Wall Street&lt;/em&gt; as the corporate raider's bible. &lt;br&gt;In addition to an excellent translation of Sun Tzu's text, Samuel Griffith also provides commentaries written by Chinese strategists, plus several thought-provoking essays on topics such as the influence of Sun Tzu on Mao Tse-tung and on Japanese military thought, the nature of warfare in Sun Tzu's time, and the life of Sun Tzu and other important commentators. Remarkable for its clear organization, lucid prose, and the acuity of its intellectual and moral insights, &lt;em&gt;The Art of War&lt;/em&gt; is the definitive study of combat. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Simon &amp; Brown</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781936041756</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1936041758</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Military art and science -- Early works to 1800</dc:subject>
+        <dc:subject>War -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sun Tzu&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:43+00:00"/>
+        <meta name="calibre:title_sort" content="Art of War, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

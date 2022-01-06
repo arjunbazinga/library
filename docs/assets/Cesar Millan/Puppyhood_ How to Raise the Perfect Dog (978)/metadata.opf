@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">978</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f76f6ce-f061-4355-916a-b6e3d0ea6b61</dc:identifier>
+        <dc:title>Puppyhood: How to Raise the Perfect Dog</dc:title>
+        <dc:creator opf:file-as="Millan, Cesar" opf:role="aut">Cesar Millan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-06T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW: **From the bestselling author and star of National Geographic Channel's *Dog Whisperer*, the only resource you’ll need for raising a happy, healthy dog. **For the millions of people every year who consider bringing a puppy into their lives–as well as those who have already brought a dog home–Cesar Millan, the preeminent dog behavior expert, says, "Yes, you *can *raise the perfect dog!" It all starts with the proper foundation in the early years. Here, Cesar tells you everything you need to know to create the best environment for a well-balanced dog in order to avoid behavior issues in the future, and shows you how to correct the most common behavior issues for young dogs. Based on Cesar’s own detailed experiences raising individual puppies from some of the most popular breeds, *How to Raise the Perfect Dog* is like having Cesar right beside you, as your own personal expert, coaching you and your dog from the first day of your life together. Packed with new information aimed specifically at the particular needs of puppies and adolescents, and written in Cesar's friendly, accessible style, *How to Raise the Perfect Dog* answers all the most commonly asked questions and guides you towards a loving, satisfying life-long relationship with your best friend. #1 *New York Times* bestselling author, Cesar Millan shows you how to raise the perfect dog and prevent behavior issues before they start, including:• what to expect from each stage of your puppy's development• quick and easy housebreaking• the essentials of proper nutrition• the importance of vaccinating–and of not over-vaccinating• creating perfect obedience from day one through rules, boundaries, and calm-assertive leadership• how to avoid the most common mistakes owners make raising puppies and young dogs• how to correct any issue *before* it becomes a problem• unique exercises and play to bring out the best in every breed</dc:description>
+        <dc:publisher>Random House</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307461292</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dogs - Training</dc:subject>
+        <dc:subject>Training</dc:subject>
+        <dc:subject>Pets</dc:subject>
+        <dc:subject>Human-animal communication</dc:subject>
+        <dc:subject>Dogs - Care</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Dogs - General</dc:subject>
+        <dc:subject>Health</dc:subject>
+        <dc:subject>behavior</dc:subject>
+        <dc:subject>Dogs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Cesar Millan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-08-29T13:53:01+00:00"/>
+        <meta name="calibre:title_sort" content="Puppyhood: How to Raise the Perfect Dog"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

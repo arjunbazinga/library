@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">681</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3c9307cc-f75e-40f4-ba98-e656161cfb5e</dc:identifier>
+        <dc:title>The Bed of Procrustes: Philosophical and Practical Aphorisms</dc:title>
+        <dc:creator opf:file-as="Taleb, Nassim Nicholas" opf:role="aut">Nassim Nicholas Taleb</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-29T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The Bed of Procrustes is a standalone book in Nassim Nicholas Taleb’s landmark Incerto series, an investigation of opacity, luck, uncertainty, probability, human error, risk, and decision-making in a world we don’t understand. The other books in the series are Fooled by Randomness, The Black Swan, Antifragile, and Skin in the Game.By the author of the modern classic The Black Swan, this collection of aphorisms and meditations expresses his major ideas in ways you least expect.The Bed of Procrustes takes its title from Greek mythology: the story of a man who made his visitors fit his bed to perfection by either stretching them or cutting their limbs. It represents Taleb’s view of modern civilization’s hubristic side effects—modifying humans to satisfy technology, blaming reality for not fitting economic models, inventing diseases to sell drugs, defining intelligence as what can be tested in a classroom, and convincing people that employment is not slavery. Playful and irreverent, these aphorisms will surprise you by exposing self-delusions you have been living with but never recognized.With a rare combination of pointed wit and potent wisdom, Taleb plows through human illusions, contrasting the classical values of courage, elegance, and erudition against the modern diseases of nerdiness, philistinism, and phoniness.“Taleb’s crystalline nuggets of thought stand alone like esoteric poems.”—Financial Times&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Random House Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780679643685</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">FXYSMUvCYo8C</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Corporate Finance</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Social</dc:subject>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Social Psychology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nassim Nicholas Taleb&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:37+00:00"/>
+        <meta name="calibre:title_sort" content="Bed of Procrustes: Philosophical and Practical Aphorisms, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

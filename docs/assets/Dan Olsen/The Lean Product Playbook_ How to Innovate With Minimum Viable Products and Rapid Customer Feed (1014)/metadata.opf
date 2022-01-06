@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1014</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">883d93a8-f0d8-49ce-a2bd-abb3bb0e1174</dc:identifier>
+        <dc:title>The Lean Product Playbook: How to Innovate With Minimum Viable Products and Rapid Customer Feedback</dc:title>
+        <dc:creator opf:file-as="Olsen, Dan" opf:role="aut">Dan Olsen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-13T11:29:37+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;The missing manual on how to apply Lean Startup to build products that customers love&lt;/strong&gt; &lt;em&gt;The Lean Product Playbook&lt;/em&gt; is a practical guide to building products that customers love. Whether you work at a startup or a large, established company, we all know that building great products is hard. Most new products fail. This book helps improve your chances of building successful products through clear, step-by-step guidance and advice. The Lean Startup movement has contributed new and valuable ideas about product development and has generated lots of excitement. However, many companies have yet to successfully adopt Lean thinking. Despite their enthusiasm and familiarity with the high-level concepts, many teams run into challenges trying to adopt Lean because they feel like they lack specific guidance on what exactly they should be doing. If you are interested in Lean Startup principles and want to apply them to develop winning products, this book is for you. This book describes the Lean Product Process: a repeatable, easy-to-follow methodology for iterating your way to product-market fit. It walks you through how to: * Determine your target customers * Identify underserved customer needs * Create a winning product strategy * Decide on your Minimum Viable Product (MVP) * Design your MVP prototype * Test your MVP with customers * Iterate rapidly to achieve product-market fit&lt;/p&gt;
+&lt;p&gt;This book was written by entrepreneur and Lean product expert Dan Olsen whose experience spans product management, UX design, coding, analytics, and marketing across a variety of products. As a hands-on consultant, he refined and applied the advice in this book as he helped many companies improve their product process and build great products. His clients include Facebook, Box, Hightail, Epocrates, and Medallia. Entrepreneurs, executives, product managers, designers, developers, marketers, analysts and anyone who is passionate about building great products will find &lt;em&gt;The Lean Product Playbook&lt;/em&gt; an indispensable, hands-on resource. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="AMAZON">1118960874</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Dan Olsen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-09-27T13:28:29+00:00"/>
+        <meta name="calibre:title_sort" content="Lean Product Playbook: How to Innovate With Minimum Viable Products and Rapid Customer Feedback, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

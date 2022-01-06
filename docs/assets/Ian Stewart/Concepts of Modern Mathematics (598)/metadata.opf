@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">598</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8d0055d1-86e9-44f2-b220-86200ab1aa79</dc:identifier>
+        <dc:title>Concepts of Modern Mathematics</dc:title>
+        <dc:creator opf:file-as="Stewart, Ian" opf:role="aut">Ian Stewart</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-05-22T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Some years ago, "new math" took the country's classrooms by storm. Based on the abstract, general style of mathematical exposition favored by research mathematicians, its goal was to teach students not just to manipulate numbers and formulas, but to grasp the underlying mathematical concepts. The result, at least at first, was a great deal of confusion among teachers, students, and parents. Since then, the negative aspects of "new math" have been eliminated and its positive elements assimilated into classroom instruction.In this charming volume, a noted English mathematician uses humor and anecdote to illuminate the concepts underlying "new math": groups, sets, subsets, topology, Boolean algebra, and more. According to Professor Stewart, an understanding of these concepts offers the best route to grasping the true nature of mathematics, in particular the power, beauty, and utility of pure mathematics. No advanced mathematical background is needed (a smattering of algebra, geometry, and trigonometry is helpful) to follow the author's lucid and thought-provoking discussions of such topics as functions, symmetry, axiomatics, counting, topology, hyperspace, linear algebra, real analysis, probability, computers, applications of modern mathematics, and much more.By the time readers have finished this book, they'll have a much clearer grasp of how modern mathematicians look at figures, functions, and formulas and how a firm grasp of the ideas underlying "new math" leads toward a genuine comprehension of the nature of mathematics itself.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Courier Corporation</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780486134956</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">4WPDAgAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B00CWR4MIK</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Algebra</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Counting &amp; Numeration</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ian Stewart&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-03-06T16:12:49+00:00"/>
+        <meta name="calibre:title_sort" content="Concepts of Modern Mathematics"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

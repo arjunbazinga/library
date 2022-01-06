@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">835</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">63f71c32-68ef-45eb-ac60-c8858fae582c</dc:identifier>
+        <dc:title>Thought Reform and the Psychology of Totalism</dc:title>
+        <dc:creator opf:file-as="Lifton, Robert Jay" opf:role="aut">Robert Jay Lifton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-01T08:00:00+00:00</dc:date>
+        <dc:publisher>The University of North Carolina Press</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B006M9RZQA</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Robert Jay Lifton&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-07-09T07:37:27.504419+00:00" name="calibre:timestamp"/>
+        <meta content="Thought Reform and the Psychology of Totalism" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

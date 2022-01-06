@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">604</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">83a9168e-4081-41f9-b660-993d818c28f8</dc:identifier>
+        <dc:title>Who Owns the Future?</dc:title>
+        <dc:creator opf:file-as="Lanier, Jaron" opf:role="aut">Jaron Lanier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-03-03T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The “brilliant” and “daringly original” ( &lt;em&gt;The New York Times&lt;/em&gt; ) critique of digital networks from the “David Foster Wallace of tech” ( &lt;em&gt;London Evening Standard&lt;/em&gt; )—asserting that to fix our economy, we must fix our information economy. &lt;/p&gt;
+&lt;p&gt;Jaron Lanier is the father of virtual reality and one of the world’s most brilliant thinkers. &lt;em&gt;Who Owns the Future?&lt;/em&gt; is his visionary reckoning with the most urgent economic and social trend of our age: the poisonous concentration of money and power in our digital networks. &lt;/p&gt;
+&lt;p&gt;Lanier has predicted how technology will transform our humanity for decades, and his insight has never been more urgently needed. He shows how Siren Servers, which exploit big data and the free sharing of information, led our economy into recession, imperiled personal privacy, and hollowed out the middle class. The networks that define our world—including social media, financial institutions, and intelligence agencies—now threaten to destroy it. &lt;/p&gt;
+&lt;p&gt;But there is an alternative. In this provocative, poetic, and deeply humane book, Lanier charts a path toward a brighter future: an information economy that rewards ordinary people for what they do and share on the web. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1451654979</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">obDsAgAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781451654974</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business</dc:subject>
+        <dc:subject>Economics</dc:subject>
+        <dc:subject>E-Commerce</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Internet</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Future Studies</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jaron Lanier&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-03-06T16:13:18+00:00"/>
+        <meta name="calibre:title_sort" content="Who Owns the Future?"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

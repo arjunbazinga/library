@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">733</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f9dcf34c-5456-4bb9-b0b6-a04a22af1c1c</dc:identifier>
+        <dc:title>Winners Take All: The Elite Charade of Changing the World</dc:title>
+        <dc:creator opf:file-as="Giridharadas, Anand" opf:role="aut">Anand Giridharadas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-23T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;The &lt;/strong&gt;&lt;span style="font-style: italic; font-weight: 600"&gt;New York Times&lt;/span&gt;&lt;strong&gt;  bestselling, groundbreaking investigation of how the global elite's efforts to "change the world" preserve the status quo and obscure their role in causing the problems they later seek to solve. An essential read for understanding some of the egregious abuses of power that dominate today’s news.&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;Former &lt;em&gt;New York Times&lt;/em&gt; columnist Anand Giridharadas takes us into the inner sanctums of a new gilded age, where the rich and powerful fight for equality and justice any way they can--except ways that threaten the social order and their position atop it. We see how they rebrand themselves as saviors of the poor; how they lavishly reward "thought leaders" who redefine "change" in winner-friendly ways; and how they constantly seek to do more good, but never less harm. We hear the limousine confessions of a celebrated foundation boss; witness an American president hem and haw about his plutocratic benefactors; and attend a cruise-ship conference where entrepreneurs celebrate their own self-interested magnanimity. &lt;/p&gt;
+&lt;p&gt;Giridharadas asks hard questions: Why, for example, should our gravest problems be solved by the unelected upper crust instead of the public institutions it erodes by lobbying and dodging taxes? He also points toward an answer: Rather than rely on scraps from the winners, we must take on the grueling democratic work of building more robust, egalitarian institutions and truly changing the world. A call to action for elites and everyday citizens alike. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin UK</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780141990927</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0451493249</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">CrV8DwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Philanthropy</dc:subject>
+        <dc:subject>Charity</dc:subject>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>Political Ideologies</dc:subject>
+        <dc:subject>Democracy</dc:subject>
+        <dc:subject>Capitalism</dc:subject>
+        <dc:subject>Globalization</dc:subject>
+        <dc:subject>Corruption</dc:subject>
+        <dc:subject>Misconduct</dc:subject>
+        <dc:subject>Discrimination</dc:subject>
+        <dc:subject>Race Relations</dc:subject>
+        <dc:subject>Poverty</dc:subject>
+        <dc:subject>Homelessness</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anand Giridharadas&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:45+00:00"/>
+        <meta name="calibre:title_sort" content="Winners Take All: The Elite Charade of Changing the World"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

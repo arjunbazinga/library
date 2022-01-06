@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">973</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">53b5f89b-31d5-46ee-9478-78fc9a2e8794</dc:identifier>
+        <dc:title>Empty Planet</dc:title>
+        <dc:creator opf:file-as="Darrell Bricker , John Ibbitson" opf:role="aut">Darrell Bricker , John Ibbitson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-05T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;An award-winning journalist and leading international social researcher make the provocative argument that the global population will soon decline&amp;#8212;and that immigration will be the key to prospering in this new social, political, and economic landscape&lt;/b&gt;&lt;br&gt; &lt;br&gt; For half a century, statisticians, pundits, and politicians have warned that a burgeoning population will soon overwhelm the earth's resources. But a growing number of experts are sounding a different alarm. Rather than continuing to increase exponentially, they argue, the global population is headed for a steep decline&amp;#8212;and in many countries, that decline has already begun.&lt;br&gt; &lt;br&gt; In &lt;i&gt;Empty Planet&lt;/i&gt;, John Ibbitson and Darrell Bricker find that a smaller global population will bring with it many benefits: fewer workers will command higher wages; the environment will improve; the risk of famine will wane; and falling birthrates in the developing world will bring greater affluence and autonomy for...</dc:description>
+        <dc:publisher>Crown/Archetype</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Darrell Bricker , John Ibbitson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-08-26T16:42:13+00:00"/>
+        <meta name="calibre:title_sort" content="Empty Planet"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

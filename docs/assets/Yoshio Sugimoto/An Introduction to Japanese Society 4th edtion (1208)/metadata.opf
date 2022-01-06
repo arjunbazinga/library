@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1208</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d8c1bb64-2756-4f3c-8df2-50944b7398fb</dc:identifier>
+        <dc:title>An Introduction to Japanese Society 4th edtion</dc:title>
+        <dc:creator opf:file-as="Sugimoto, Yoshio" opf:role="aut">Yoshio Sugimoto</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-21T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;An Introduction to Japanese Society provides a highly readable introduction to Japanese society by internationally renowned scholar Yoshio Sugimoto. Taking a sociological approach, the text examines the multifaceted nature of contemporary Japanese society with chapters covering class, geographical and generational variation, work, education, gender, ethnicity, religion, popular culture, and the establishment. This edition begins with a new historical introduction placing the sociological analysis of contemporary Japan in context, and includes a new chapter on religion and belief systems. Comprehensively revised to include current research and statistics, the text covers changes to the labor market, evolving conceptions of family and gender, demographic shifts in an aging society, and the emergence of new social movements. Each chapter now contains illustrative case examples, research questions, recommended further readings and useful online resources. Written in a lively and engaging style, An Introduction to Japanese Society remains essential reading for all students of Japanese society. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Cambridge University Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">JyaeipnFbvUC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781139489478</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1108724744</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Sociology</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Yoshio Sugimoto&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-01-26T16:10:29+00:00"/>
+        <meta name="calibre:title_sort" content="Introduction to Japanese Society 4th edtion, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

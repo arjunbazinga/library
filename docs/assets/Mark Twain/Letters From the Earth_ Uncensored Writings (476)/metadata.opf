@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">476</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">10290a9c-eba7-4216-afa1-0ed93d5228fb</dc:identifier>
+        <dc:title>Letters From the Earth: Uncensored Writings</dc:title>
+        <dc:creator opf:file-as="Twain, Mark" opf:role="aut">Mark Twain</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-16T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;“The most impressive contribution to books by Mark Twain since &lt;/strong&gt;&lt;span style="font-weight: 600; font-style: italic"&gt;The Mysterious Stranger of 1916&lt;/span&gt;&lt;strong&gt;...The attitude is that of Swift, the intellectual contempt is that of Voltaire, and the imagination is that of one of the great masters of American writing.”—New York Times Book Review&lt;/strong&gt; Virtually none of the material in &lt;em&gt;Letters from the Earth&lt;/em&gt; was published in Twain’s lifetime and the manuscript was only approved by his executors in 1962. This is vintage Twain—sharp, witty, imaginative, wildly funny. His voice is as vigorous and blistering as ever, capable of surprising truth and provoking laughter in the most unlikely places.  In this collection, he presents himself as the Father of History, reviewing and interpreting events from the garden of Eden through the Fall and the Flood, translating the papers of Adam and his descendants down through the generations. There are comments on James Fenimore Cooper, English architecture, and the civilization of the French, as well as proposals for a simplified alphabet and a parody of books on etiquette. Letters from the Earth an exuberantly eclectic collection. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">uURT_Dwfby0C</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0060518650</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780060518653</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Literary Criticism</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mark Twain&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2018-08-28T13:23:15+00:00"/>
+        <meta name="calibre:title_sort" content="Letters From the Earth: Uncensored Writings"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

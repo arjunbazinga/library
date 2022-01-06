@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">477</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b624084-0c69-480c-9cec-bd641fb91ac6</dc:identifier>
+        <dc:title>The Confessions of J. J. Rousseau, Complete</dc:title>
+        <dc:creator opf:file-as="Rousseau, Jean-Jacques" opf:role="aut">Jean-Jacques Rousseau</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-08-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Excerpt: ...he was very well acquainted; and that after the marriage she had vowed him an implacable hatred, as well as all the Genevese. "Although La Popliniere has a friendship for you, do not," said he, "depend upon his protection: he is still in love with his wife: she hates you, and is vindictive and artful; you will never do anything in that house." All this I took for granted. The same Gauffecourt rendered me much about this time, a service of which I stood in the greatest need. I had just lost my virtuous father, who was about sixty years of age. I felt this loss less severely than I should have done at any other time, when the embarrassments of my situation had less engaged my attention. During his life-time I had never claimed what remained of the property of my mother, and of which he received the little interest. His death removed all my scruples upon this subject. But the want of a legal proof of the death of my brother created a difficulty which Gauffecourt undertook to remove, and this he effected by means of the good offices of the advocate De Lolme. As I stood in need of the little resource, and the event being doubtful, I waited for a definitive account with the greatest anxiety. One evening on entering my apartment I found a letter, which I knew to contain the information I wanted, and I took it up with an impatient trembling, of which I was inwardly ashamed. What? said I to myself, with disdain, shall Jean Jacques thus suffer himself to be subdued by interest and curiosity? I immediately laid the letter again upon the chimney-piece. I undressed myself, went to bed with great composure, slept better than ordinary, and rose in the morning at a late hour, without thinking more of my letter. As I dressed myself, it caught my eye; I broke the seal very leisurely, and found under the envelope a bill of exchange. I felt a variety of pleasing sensations at the same time: but I can assert, upon my honor, that the most lively of them all was that... **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Project Gutenberg</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1406840564</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/ebooks/3913</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Jean-Jacques Rousseau&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2018-08-28T13:23:20+00:00"/>
+        <meta name="calibre:title_sort" content="Confessions of J. J. Rousseau, Complete, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

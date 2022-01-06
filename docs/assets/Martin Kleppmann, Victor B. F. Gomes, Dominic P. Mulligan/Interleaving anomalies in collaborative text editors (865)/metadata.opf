@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">865</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0de0f674-ff69-4220-af6a-d77c4ffe8d6e</dc:identifier>
+        <dc:title>Interleaving anomalies in collaborative text editors</dc:title>
+        <dc:creator opf:file-as="Martin Kleppmann, Victor B. F. Gomes, Dominic P. Mulligan &amp; Beresford, Alastair R." opf:role="aut">Martin Kleppmann, Victor B. F. Gomes, Dominic P. Mulligan</dc:creator>
+        <dc:creator opf:file-as="Martin Kleppmann, Victor B. F. Gomes, Dominic P. Mulligan &amp; Beresford, Alastair R." opf:role="aut">Alastair R. Beresford</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>- Theory of computation -&gt; -1Distributed algorithms.- Software and its engineering -&gt; -1Consistency.- Human-centered computing -&gt; -1Collaborative and social computing systems and tools.- Social and professional topics -&gt; -1Computer supported cooperative work.- Computer systems organization -&gt; -1Distributed architectures.</dc:subject>
+        <dc:subject>CRDTs</dc:subject>
+        <dc:subject>collaborative text editing</dc:subject>
+        <dc:subject>specification</dc:subject>
+        <dc:subject>consistency</dc:subject>
+        <meta content="{&quot;Martin Kleppmann, Victor B. F. Gomes, Dominic P. Mulligan&quot;: &quot;&quot;, &quot;Alastair R. Beresford&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-07-22T17:14:26.119605+00:00" name="calibre:timestamp"/>
+        <meta content="Interleaving anomalies in collaborative text editors" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

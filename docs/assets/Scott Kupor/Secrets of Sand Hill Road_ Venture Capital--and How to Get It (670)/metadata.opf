@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">670</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4a155a11-e83a-4379-b8ec-6b66505772a5</dc:identifier>
+        <dc:title>Secrets of Sand Hill Road: Venture Capital—and How to Get It</dc:title>
+        <dc:creator opf:file-as="Kupor, Scott" opf:role="aut">Scott Kupor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-05T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;'Worth far more than its cover price ... I wish I’d had it available to me when I was first looking for startup funding' -- Eric RiesEvery startup needs capital, and ambitious startups seek it on Sand Hill Road – Silicon Valley’s dream street for entrepreneurs. That’s where you’ll find the biggest names in venture capital, including the famed VC firm Andreessen Horowitz, where lawyer-turned-entrepreneur-turned-VC Scott Kupor serves as managing partner.Whether you’re trying to get a new company off the ground or scale an existing business to the next level, you need to understand how VCs think. Secrets of Sand Hill Road is the first book that shows you exactly how VCs decide where and how much to invest. It will help you get the best possible deal and make the most of your relationships with VCs. You’ll learn, for instance:-- Why most VCs typically invest in only one startup in a given business category-- Why the talent you need most when raising venture capital is your storytelling ability-- How to handle a 'down round', when you have to raise funds at a lower valuation than in your previous round-- Why bridge financing (reopening your last round to existing investors) is generally a bad idea-- What to do when VCs get too entangled in the day-to-day operations of your business-- Why you need to build relationships with potential acquirers long before you decide to sellFilled with Kupor’s firsthand experiences, insider advice, and practical takeaways, Secrets of Sand Hill Road is the guide you need to turn yourstartup into the next unicorn.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Random House</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">fnVzDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780753553978</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Entrepreneurship</dc:subject>
+        <dc:subject>Banks &amp; Banking</dc:subject>
+        <dc:subject>Strategic Planning</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Scott Kupor&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:36+00:00"/>
+        <meta name="calibre:title_sort" content="Secrets of Sand Hill Road: Venture Capital—and How to Get It"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

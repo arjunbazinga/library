@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1088</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">daee31be-98ca-46d2-8205-26ad028a1ba9</dc:identifier>
+        <dc:title>Straight and Crooked Thinking</dc:title>
+        <dc:creator opf:file-as="Thouless, Robert H." opf:role="aut">Robert H. Thouless</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1930-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;A new edition of a much loved guide to how to think and reason your way logically through difficult and challenging arguments &lt;/p&gt;
+&lt;p&gt;This new edition of a timeless classic demonstrates how the use of clear, rational thinking and logic can win any argument, however emotionally charged the topic in question. It describes the typical flaws of reasoning in argument and shows how language can be used to deceive - and how to avoid being deceived. It will show you how, by learning what is 'straight', rational language, and clear thought, you can disentangle emotionally charged rhetoric and hold your own in any argument or debate, no matter how challenging. Although written nearly 80 years ago, this book proves that certain principles remain timeless; it has shown many thousands over the decades how to cope with media spin and distorted reasoning - and now it will do the same for you.&lt;/p&gt;
+&lt;p&gt;"It is neither a dry nor weighty tome, but is jam-packed with raw rational sense. It will give you techniques for identifying fallacies and false arguments. It will help protect you from the devious subterfuges of politicians and preachers, journalists and jingoists. It is sweet manna from a rational heaven. Thouless describes 38 dishonest tricks that are commonly used in arguments (there may be more)." —&lt;a href="http://answersingenes.blogspot.com"&gt;&lt;em&gt;answersingenes.blogspot.com&lt;/em&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;"&lt;em&gt;Straight and Crooked Thinking&lt;/em&gt; remains one of the most succinct and practically-applicable books ever written. One blogger named it as his favorite book of all time, describing it as "a concise work of supreme genius." —&lt;a href="http://neglectedbooks.com"&gt;&lt;em&gt;http://neglectedbooks.com&lt;/em&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;"...put it back on the mass market, where it belongs! (...) get it on every bookshelf on the planet." —&lt;a href="http://answersingenes.blogspot.com/2007/11/straight-crooked-thinking.html"&gt;&lt;em&gt;http://answersingenes.blogspot.com/2007/11/straight-crooked-thinking.html&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Born in 1894, &lt;strong&gt;Robert Thouless&lt;/strong&gt; was a psychologist. He was Head of the Department of Psychology in Glasgow until 1938, after which he became Reader and Reader Emeritus at Cambridge. He specialised in logic, rationality and the study of responses to the paranormal and wrote several titles in addition to this one. He died in 1984. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Hachette UK</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781444134148</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B004YD1S1E</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">26332511</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">tP350LMfwSkC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Language Arts &amp; Disciplines</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Cognitive Psychology &amp; Cognition</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert H. Thouless&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-11-23T08:44:57+00:00"/>
+        <meta name="calibre:title_sort" content="Straight and Crooked Thinking"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

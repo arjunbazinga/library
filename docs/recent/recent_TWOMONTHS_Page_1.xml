@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Previous two months</title>
+  <id>Calibre2opds:recent:TWOMONTHS</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./recent_TWOMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Previous two months" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
+  <entry>
+    <title>Financial Statements: A Step-by-Step Guide to Understanding and Creating Financial Reports [July 26, 2020]</title>
+    <id>calibre:book:878</id>
+    <updated>2020-07-26T07:23:12Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Thomas%20R.%20Ittelson/Financial%20Statements_%20A%20Step-by-Step%20Guide%20to%20Understanding%20and%20Creating%20Financial%20Reports%20%28878%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Thomas%20R.%20Ittelson/Financial%20Statements_%20A%20Step-by-Step%20Guide%20to%20Understanding%20and%20Creating%20Financial%20Reports%20%28878%29/Financial%20Statements_%20A%20Step-by-Step%20Guide%20-%20Thomas%20R.%20Ittelson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Thomas%20R.%20Ittelson/Financial%20Statements_%20A%20Step-by-Step%20Guide%20to%20Understanding%20and%20Creating%20Financial%20Reports%20%28878%29/Financial%20Statements_%20A%20Step-by-Step%20Guide%20-%20Thomas%20R.%20Ittelson.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Thomas R. Ittelson</name>
+      <uri>../author_0/author_673_Page_1.xml</uri>
+    </author>
+    <published>2009-08-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Career Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_878.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Tika in Action [July 26, 2020]</title>
+    <id>calibre:book:877</id>
+    <updated>2020-07-26T07:21:32Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Chris%20A.%20Mattmann%2C%20Jukka%20L.%20Zitting/Tika%20in%20Action%20%28877%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Chris%20A.%20Mattmann%2C%20Jukka%20L.%20Zitting/Tika%20in%20Action%20%28877%29/Tika%20in%20Action%20-%20Chris%20A.%20Mattmann%2C%20Jukka%20L.%20Zitting.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Chris A. Mattmann, Jukka L. Zitting</name>
+      <uri>../author_0/author_672_Page_1.xml</uri>
+    </author>
+    <published>2011-11-09T00:20:20Z</published>
+    <link href="../book_0/book_877.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Dreamland_ An Autobiography [July 26, 2020]</title>
+    <id>calibre:book:874</id>
+    <updated>2020-07-26T07:21:42Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Bob%20Lazar/Dreamland_%20An%20Autobiography%20%28874%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Bob%20Lazar/Dreamland_%20An%20Autobiography%20%28874%29/Dreamland_%20An%20Autobiography%20-%20Bob%20Lazar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Bob%20Lazar/Dreamland_%20An%20Autobiography%20%28874%29/Dreamland_%20An%20Autobiography%20-%20Bob%20Lazar.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Bob Lazar</name>
+      <uri>../author_0/author_670_Page_1.xml</uri>
+    </author>
+    <published>2019-10-14T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Interstellar</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_874.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale [July 24, 2020]</title>
+    <id>calibre:book:873</id>
+    <updated>2020-07-24T05:55:42Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Neha%20Narkhede/Kafka_%20The%20Definitive%20Guide_%20Real-Time%20Data%20and%20Stream%20Processing%20at%20Scale%20%28873%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Neha%20Narkhede/Kafka_%20The%20Definitive%20Guide_%20Real-Time%20Data%20and%20Stream%20Processing%20at%20Scale%20%28873%29/Kafka_%20The%20Definitive%20Guide_%20Real-Time%20Dat%20-%20Neha%20Narkhede.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Neha%20Narkhede/Kafka_%20The%20Definitive%20Guide_%20Real-Time%20Data%20and%20Stream%20Processing%20at%20Scale%20%28873%29/Kafka_%20The%20Definitive%20Guide_%20Real-Time%20Dat%20-%20Neha%20Narkhede.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Neha Narkhede</name>
+      <uri>../author_0/author_667_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Gwen Shapira</name>
+      <uri>../author_0/author_668_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Todd Palino</name>
+      <uri>../author_0/author_666_Page_1.xml</uri>
+    </author>
+    <published>2017-08-30T09:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>O'Reilly Media</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Learn how to take full advantage of Apache Kafka, the distributed, publish/subscribe queue for handling real-time data feeds. With this comprehensive book, you’ll understand how Kafka works and how it’s designed. Authors Neha Narkhede, Gwen Shapira, ...</summary>
+    <link href="../book_0/book_873.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The UNIX-HATERS Handbook [July 24, 2020]</title>
+    <id>calibre:book:870</id>
+    <updated>2020-07-24T05:54:10Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Simson%20Garfinkel/The%20UNIX-HATERS%20Handbook%20%28870%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Simson%20Garfinkel/The%20UNIX-HATERS%20Handbook%20%28870%29/The%20UNIX-HATERS%20Handbook%20-%20Simson%20Garfinkel.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Simson Garfinkel</name>
+      <uri>../author_0/author_662_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Daniel Weise</name>
+      <uri>../author_0/author_663_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Steven Strassmann</name>
+      <uri>../author_0/author_664_Page_1.xml</uri>
+    </author>
+    <published>2000-08-23T10:20:00Z</published>
+    <link href="../book_0/book_870.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>How a Kalman filter works, in pictures [July 24, 2020]</title>
+    <id>calibre:book:872</id>
+    <updated>2020-07-24T05:54:10Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Bzarg/How%20a%20Kalman%20filter%20works%2C%20in%20pictures%20%28872%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Bzarg/How%20a%20Kalman%20filter%20works%2C%20in%20pictures%20%28872%29/How%20a%20Kalman%20filter%20works%2C%20in%20pictures%20-%20Bzarg.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Bzarg</name>
+      <uri>../author_0/author_669_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_872.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Best Way to Rob a Bank Is to Own One [July 24, 2020]</title>
+    <id>calibre:book:869</id>
+    <updated>2020-07-24T05:54:40Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/William%20K.%20Black/The%20Best%20Way%20to%20Rob%20a%20Bank%20Is%20to%20Own%20One%20%28869%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/William%20K.%20Black/The%20Best%20Way%20to%20Rob%20a%20Bank%20Is%20to%20Own%20One%20%28869%29/The%20Best%20Way%20to%20Rob%20a%20Bank%20Is%20to%20Own%20One%20-%20William%20K.%20Black.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/William%20K.%20Black/The%20Best%20Way%20to%20Rob%20a%20Bank%20Is%20to%20Own%20One%20%28869%29/The%20Best%20Way%20to%20Rob%20a%20Bank%20Is%20to%20Own%20One%20-%20William%20K.%20Black.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>William K. Black</name>
+      <uri>../author_0/author_661_Page_1.xml</uri>
+    </author>
+    <published>2005-07-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>University of Texas Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>An expert insider's account of how financial super predators brought down an industry by massive accounting fraud.</summary>
+    <link href="../book_0/book_869.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Born Standing Up [July 24, 2020]</title>
+    <id>calibre:book:868</id>
+    <updated>2020-07-24T05:54:30Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Steve%20Martin/Born%20Standing%20Up%20%28868%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Steve%20Martin/Born%20Standing%20Up%20%28868%29/Born%20Standing%20Up%20-%20Steve%20Martin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Steve%20Martin/Born%20Standing%20Up%20%28868%29/Born%20Standing%20Up%20-%20Steve%20Martin.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Steve Martin</name>
+      <uri>../author_0/author_660_Page_1.xml</uri>
+    </author>
+    <published>2013-08-21T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Scribner</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>In the midseventies, Steve Martin exploded onto the comedy scene. By 1978 he was the biggest concert draw in the history of stand-up. In 1981 he quit forever. This book is, in his own words, the story of "why I did stand-up and why I walked away." Em...</summary>
+    <link href="../book_0/book_868.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Option Volatility and Pricing: Advanced Trading Strategies and Techniques: Second Edition [July 22, 2020]</title>
+    <id>calibre:book:867</id>
+    <updated>2020-07-23T00:20:12Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Sheldon%20Natenberg/Option%20Volatility%20and%20Pricing_%20Advanced%20Trading%20Strategies%20and%20Techniques_%20Second%20Edition%20%28867%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Sheldon%20Natenberg/Option%20Volatility%20and%20Pricing_%20Advanced%20Trading%20Strategies%20and%20Techniques_%20Second%20Edition%20%28867%29/Option%20Volatility%20and%20Pricing_%20Advanced%20Tr%20-%20Sheldon%20Natenberg.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Sheldon Natenberg</name>
+      <uri>../author_0/author_653_Page_1.xml</uri>
+    </author>
+    <published>2014-10-10T04:08:46Z</published>
+    <link href="../book_0/book_867.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Interleaving anomalies in collaborative text editors [July 22, 2020]</title>
+    <id>calibre:book:865</id>
+    <updated>2020-07-22T10:44:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Martin%20Kleppmann%2C%20Victor%20B.%20F.%20Gomes%2C%20Dominic%20P.%20Mulligan/Interleaving%20anomalies%20in%20collaborative%20text%20editors%20%28865%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Martin%20Kleppmann%2C%20Victor%20B.%20F.%20Gomes%2C%20Dominic%20P.%20Mulligan/Interleaving%20anomalies%20in%20collaborative%20text%20editors%20%28865%29/Interleaving%20anomalies%20in%20collaborative%20te%20-%20Martin%20Kleppmann%2C%20Victor%20B.%20F.%20Gomes%2C%20Domi.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Martin Kleppmann, Victor B. F. Gomes, Dominic P. Mulligan</name>
+      <uri>../author_0/author_658_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Alastair R. Beresford</name>
+      <uri>../author_0/author_659_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <category term="- Theory of computation -&gt; -1Distributed algorithms.- Software and its engineering -&gt; -1Consistency.- Human-centered computing -&gt; -1Collaborative and social computing systems and tools.- Social and professional topics -&gt; -1Computer supported cooperative work.- Computer systems organization -&gt; -1Distributed architectures." />
+    <category term="CRDTs" />
+    <category term="collaborative text editing" />
+    <category term="specification" />
+    <category term="consistency" />
+    <link href="../book_0/book_865.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Failure is your Domain Middlemost Systems [July 22, 2020]</title>
+    <id>calibre:book:866</id>
+    <updated>2020-07-22T10:44:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Unknown/Failure%20is%20your%20Domain%20Middlemost%20Systems%20%28866%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Unknown/Failure%20is%20your%20Domain%20Middlemost%20Systems%20%28866%29/Failure%20is%20your%20Domain%20Middlemost%20Systems%20-%20Unknown.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Unknown</name>
+      <uri>../author_0/author_278_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_866.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Elements of Computing Systems: Building a Modern Computer from First Principles [July 22, 2020]</title>
+    <id>calibre:book:864</id>
+    <updated>2020-07-22T10:45:10Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Nisan%2C%20Noam/The%20Elements%20of%20Computing%20Systems_%20Building%20a%20Modern%20Computer%20from%20First%20Principles%20%28864%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Nisan%2C%20Noam/The%20Elements%20of%20Computing%20Systems_%20Building%20a%20Modern%20Computer%20from%20First%20Principles%20%28864%29/The%20Elements%20of%20Computing%20Systems_%20Buildin%20-%20Nisan%2C%20Noam.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Nisan%2C%20Noam/The%20Elements%20of%20Computing%20Systems_%20Building%20a%20Modern%20Computer%20from%20First%20Principles%20%28864%29/The%20Elements%20of%20Computing%20Systems_%20Buildin%20-%20Nisan%2C%20Noam.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Nisan, Noam</name>
+      <uri>../author_0/author_656_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Shimon Schocken</name>
+      <uri>../author_0/author_657_Page_1.xml</uri>
+    </author>
+    <published>2005-06-01T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>The MIT Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_864.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Option Volatility &amp; Pricing Workbook: Practicing Advanced Trading Strategies and Techniques [July 22, 2020]</title>
+    <id>calibre:book:861</id>
+    <updated>2020-07-22T10:45:04Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Sheldon%20Natenberg/Option%20Volatility%20%26%20Pricing%20Workbook_%20Practicing%20Advanced%20Trading%20Strategies%20and%20Techniques%20%28861%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Sheldon%20Natenberg/Option%20Volatility%20%26%20Pricing%20Workbook_%20Practicing%20Advanced%20Trading%20Strategies%20and%20Techniques%20%28861%29/Option%20Volatility%20%26%20Pricing%20Workbook_%20Prac%20-%20Sheldon%20Natenberg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Sheldon%20Natenberg/Option%20Volatility%20%26%20Pricing%20Workbook_%20Practicing%20Advanced%20Trading%20Strategies%20and%20Techniques%20%28861%29/Option%20Volatility%20%26%20Pricing%20Workbook_%20Prac%20-%20Sheldon%20Natenberg.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Sheldon Natenberg</name>
+      <uri>../author_0/author_653_Page_1.xml</uri>
+    </author>
+    <published>2018-07-15T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>McGraw-Hill Education LLC</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_861.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Common Stock Volatilities In Option Formulas [July 22, 2020]</title>
+    <id>calibre:book:859</id>
+    <updated>2020-07-22T10:44:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Edward%20O.%20Thorp/Common%20Stock%20Volatilities%20In%20Option%20Formulas%20%28859%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Edward%20O.%20Thorp/Common%20Stock%20Volatilities%20In%20Option%20Formulas%20%28859%29/Common%20Stock%20Volatilities%20In%20Option%20Formul%20-%20Edward%20O.%20Thorp.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Edward O. Thorp</name>
+      <uri>../author_0/author_416_Page_1.xml</uri>
+    </author>
+    <published>2008-08-25T04:15:44Z</published>
+    <category term="finance" />
+    <summary>finance [1]:</summary>
+    <link href="../book_0/book_859.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Working Effectively with Legacy Code [July 12, 2020]</title>
+    <id>calibre:book:858</id>
+    <updated>2020-07-12T11:17:16Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Michael%20C.%20Feathers/Working%20Effectively%20with%20Legacy%20Code%20%28858%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Michael%20C.%20Feathers/Working%20Effectively%20with%20Legacy%20Code%20%28858%29/Working%20Effectively%20with%20Legacy%20Code%20-%20Michael%20C.%20Feathers.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Michael%20C.%20Feathers/Working%20Effectively%20with%20Legacy%20Code%20%28858%29/Working%20Effectively%20with%20Legacy%20Code%20-%20Michael%20C.%20Feathers.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Michael C. Feathers</name>
+      <uri>../author_0/author_650_Page_1.xml</uri>
+    </author>
+    <published>2005-07-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Prentice Hall PTR</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_858.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Elements of Programming Interviews in Python [July 10, 2020]</title>
+    <id>calibre:book:856</id>
+    <updated>2020-07-10T00:19:40Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Adnan%20Aziz%2C%20Tsung-Hsien%20Lee%2C%20Amit%20Prakash/Elements%20of%20Programming%20Interviews%20in%20Python%20%28856%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Adnan%20Aziz%2C%20Tsung-Hsien%20Lee%2C%20Amit%20Prakash/Elements%20of%20Programming%20Interviews%20in%20Python%20%28856%29/Elements%20of%20Programming%20Interviews%20in%20Pyth%20-%20Adnan%20Aziz%2C%20Tsung-Hsien%20Lee%2C%20Amit%20Prakash.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Adnan Aziz, Tsung-Hsien Lee, Amit Prakash</name>
+      <uri>../author_0/author_480_Page_1.xml</uri>
+    </author>
+    <published>2016-12-29T07:34:50Z</published>
+    <dcterms:publisher>CreateSpace Independent Publishing Platform</dcterms:publisher>
+    <summary>(Elements of Programming Interviews) Elements of Programming Interviews in Python The Insiders’ Guide-CreateSpace Independent Publishing Platform (2016)</summary>
+    <link href="../book_0/book_856.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Probability Concepts in Engineering Emphasis on Civil and Enviromental Engineering [July 9, 2020]</title>
+    <id>calibre:book:855</id>
+    <updated>2020-07-09T01:57:46Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Alfredo%20H-S.Ang%2C%20Wilson%20H.%20Tang/Probability%20Concepts%20in%20Engineering%20Emphasis%20on%20Civil%20and%20Enviromental%20Engineering%20%28855%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Alfredo%20H-S.Ang%2C%20Wilson%20H.%20Tang/Probability%20Concepts%20in%20Engineering%20Emphasis%20on%20Civil%20and%20Enviromental%20Engineering%20%28855%29/Probability%20Concepts%20in%20Engineering%20Emphas%20-%20Alfredo%20H-S.Ang%2C%20Wilson%20H.%20Tang.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Alfredo H-S.Ang, Wilson H. Tang</name>
+      <uri>../author_0/author_647_Page_1.xml</uri>
+    </author>
+    <published>2020-07-03T03:21:35Z</published>
+    <summary>Probability Concepts in Engineering Emphasis on Civil and Enviromental Engineering</summary>
+    <link href="../book_0/book_855.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ridiculous Math Problems [July 9, 2020]</title>
+    <id>calibre:book:850</id>
+    <updated>2020-07-09T01:08:00Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/David%20Mumford/Ridiculous%20Math%20Problems%20%28850%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/David%20Mumford/Ridiculous%20Math%20Problems%20%28850%29/Ridiculous%20Math%20Problems%20-%20David%20Mumford.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>David Mumford</name>
+      <uri>../author_0/author_635_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <link href="../book_0/book_850.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ten Lessons I Wish I Had Been Taught [July 9, 2020]</title>
+    <id>calibre:book:851</id>
+    <updated>2020-07-09T01:07:32Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Gian-Carlo%20Rota/Ten%20Lessons%20I%20Wish%20I%20Had%20Been%20Taught%20%28851%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Gian-Carlo%20Rota/Ten%20Lessons%20I%20Wish%20I%20Had%20Been%20Taught%20%28851%29/Ten%20Lessons%20I%20Wish%20I%20Had%20Been%20Taught%20-%20Gian-Carlo%20Rota.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Gian-Carlo Rota</name>
+      <uri>../author_0/author_634_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_851.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Psychological Warfare Against Nazi Germany : The Sykewar Campaign, D-Day to VE-Day [July 9, 2020]</title>
+    <id>calibre:book:852</id>
+    <updated>2020-07-09T01:07:32Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Daniel%20Lerner/Psychological%20Warfare%20Against%20Nazi%20Germany%20_%20The%20Sykewar%20Campaign%2C%20D-Day%20to%20VE-Day%20%28852%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Daniel%20Lerner/Psychological%20Warfare%20Against%20Nazi%20Germany%20_%20The%20Sykewar%20Campaign%2C%20D-Day%20to%20VE-Day%20%28852%29/Psychological%20Warfare%20Against%20Nazi%20Germany%20-%20Daniel%20Lerner.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Daniel Lerner</name>
+      <uri>../author_0/author_633_Page_1.xml</uri>
+    </author>
+    <published>1971-11-17T06:50:33Z</published>
+    <dcterms:publisher>MIT Press</dcterms:publisher>
+    <link href="../book_0/book_852.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The MLA's Line by Line: How to Edit Your Own Writing [July 9, 2020]</title>
+    <id>calibre:book:853</id>
+    <updated>2020-07-09T01:07:32Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Claire%20Kehrwald%20Cook/The%20MLA%27s%20Line%20by%20Line_%20How%20to%20Edit%20Your%20Own%20Writing%20%28853%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Claire%20Kehrwald%20Cook/The%20MLA%27s%20Line%20by%20Line_%20How%20to%20Edit%20Your%20Own%20Writing%20%28853%29/The%20MLA%27s%20Line%20by%20Line_%20How%20to%20Edit%20Your%20O%20-%20Claire%20Kehrwald%20Cook.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Claire Kehrwald Cook</name>
+      <uri>../author_0/author_630_Page_1.xml</uri>
+    </author>
+    <published>2006-09-16T08:34:46Z</published>
+    <category term="copyreading" />
+    <category term="grammar" />
+    <category term="usage" />
+    <category term="editing" />
+    <summary>Copy-reading</summary>
+    <link href="../book_0/book_853.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ogilvy on Advertising [July 9, 2020]</title>
+    <id>calibre:book:854</id>
+    <updated>2020-07-09T01:07:32Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/David%20Ogilvy/Ogilvy%20on%20Advertising%20%28854%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/David%20Ogilvy/Ogilvy%20on%20Advertising%20%28854%29/Ogilvy%20on%20Advertising%20-%20David%20Ogilvy.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>David Ogilvy</name>
+      <uri>../author_0/author_632_Page_1.xml</uri>
+    </author>
+    <published>1985-03-26T02:52:00Z</published>
+    <summary>David Ogilvy</summary>
+    <link href="../book_0/book_854.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Trading and Exchanges [July 9, 2020]</title>
+    <id>calibre:book:848</id>
+    <updated>2020-07-09T01:08:12Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Larry%20Harris/Trading%20and%20Exchanges%20%28848%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Larry%20Harris/Trading%20and%20Exchanges%20%28848%29/Trading%20and%20Exchanges%20-%20Larry%20Harris.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Larry%20Harris/Trading%20and%20Exchanges%20%28848%29/Trading%20and%20Exchanges%20-%20Larry%20Harris.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Larry Harris</name>
+      <uri>../author_0/author_627_Page_1.xml</uri>
+    </author>
+    <published>2003-07-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Oxford University Press, Inc</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_848.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>De-escalate Anyone, Anywhere, Anytime: Unplug the Power Struggle with Principle-Based De-escalation [July 9, 2020]</title>
+    <id>calibre:book:849</id>
+    <updated>2020-07-09T01:07:32Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Service%20Alternatives%20Training%20Institute%2C%20Steven%20Seiller/De-escalate%20Anyone%2C%20Anywhere%2C%20Anytime_%20Unplug%20the%20Power%20Struggle%20with%20Principle-Based%20De-escala%20%28849%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Service%20Alternatives%20Training%20Institute%2C%20Steven%20Seiller/De-escalate%20Anyone%2C%20Anywhere%2C%20Anytime_%20Unplug%20the%20Power%20Struggle%20with%20Principle-Based%20De-escala%20%28849%29/De-escalate%20Anyone%2C%20Anywhere%2C%20Anytime_%20Unp%20-%20Service%20Alternatives%20Training%20Institute%2C%20S.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Service Alternatives Training Institute, Steven Seiller</name>
+      <uri>../author_0/author_636_Page_1.xml</uri>
+    </author>
+    <published>2013-06-24T04:34:00Z</published>
+    <category term="behavior" />
+    <category term="crisis" />
+    <category term="de-escalation" />
+    <category term="escalation" />
+    <category term="intervention" />
+    <category term="restraint" />
+    <category term="prevention" />
+    <category term="postvention" />
+    <summary>Unplug the Power Struggle with Principle-Based De-escalation</summary>
+    <link href="../book_0/book_849.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>How Covert Agents Infiltrate the Internet to Manipulate, Deceive, and Destroy Reputations [July 9, 2020]</title>
+    <id>calibre:book:847</id>
+    <updated>2020-07-09T01:08:14Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Unknown/How%20Covert%20Agents%20Infiltrate%20the%20Internet%20to%20Manipulate%2C%20Deceive%2C%20and%20Destroy%20Reputations%20%28847%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Unknown/How%20Covert%20Agents%20Infiltrate%20the%20Internet%20to%20Manipulate%2C%20Deceive%2C%20and%20Destroy%20Reputations%20%28847%29/How%20Covert%20Agents%20Infiltrate%20the%20Internet%20-%20Unknown.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Unknown</name>
+      <uri>../author_0/author_278_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <link href="../book_0/book_847.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The undeserved status of the pigeon-hole principle [July 9, 2020]</title>
+    <id>calibre:book:844</id>
+    <updated>2020-07-09T01:07:28Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/E.W.Dijkstra/The%20undeserved%20status%20of%20the%20pigeon-hole%20principle%20%28844%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/E.W.Dijkstra/The%20undeserved%20status%20of%20the%20pigeon-hole%20principle%20%28844%29/The%20undeserved%20status%20of%20the%20pigeon-hole%20p%20-%20E.W.Dijkstra.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>E.W.Dijkstra</name>
+      <uri>../author_0/author_637_Page_1.xml</uri>
+    </author>
+    <published>2000-03-06T11:02:33Z</published>
+    <category term="ewd1094" />
+    <summary>ewd1094</summary>
+    <link href="../book_0/book_844.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Should I Stay or Should I Go? [July 9, 2020]</title>
+    <id>calibre:book:846</id>
+    <updated>2020-07-09T01:08:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Ramani%20Durvasula/Should%20I%20Stay%20or%20Should%20I%20Go_%20%28846%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Ramani%20Durvasula/Should%20I%20Stay%20or%20Should%20I%20Go_%20%28846%29/Should%20I%20Stay%20or%20Should%20I%20Go_%20-%20Ramani%20Durvasula.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Ramani%20Durvasula/Should%20I%20Stay%20or%20Should%20I%20Go_%20%28846%29/Should%20I%20Stay%20or%20Should%20I%20Go_%20-%20Ramani%20Durvasula.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Ramani Durvasula</name>
+      <uri>../author_0/author_626_Page_1.xml</uri>
+    </author>
+    <published>2015-10-05T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Post Hill Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Narcissism is a modern epidemic, and it's spreading rapidly. But how do you know if you are in a relationship with one—and, what can you do about it? We live in a world of romance and rescue, where many believe love will conquer all, and that the mor...</summary>
+    <link href="../book_0/book_846.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Prinicples of Programming Lanugages [July 9, 2020]</title>
+    <id>calibre:book:837</id>
+    <updated>2020-07-09T01:07:28Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Graham%20Hutton/Prinicples%20of%20Programming%20Lanugages%20%28837%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Graham%20Hutton/Prinicples%20of%20Programming%20Lanugages%20%28837%29/Prinicples%20of%20Programming%20Lanugages%20-%20Graham%20Hutton.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Graham Hutton</name>
+      <uri>../author_0/author_641_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_837.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>On Number Numbness [July 9, 2020]</title>
+    <id>calibre:book:838</id>
+    <updated>2020-07-09T01:07:28Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/hofstadter/On%20Number%20Numbness%20%28838%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/hofstadter/On%20Number%20Numbness%20%28838%29/On%20Number%20Numbness%20-%20hofstadter.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>hofstadter</name>
+      <uri>../author_0/author_640_Page_1.xml</uri>
+    </author>
+    <published>1982-07-14T06:30:00Z</published>
+    <link href="../book_0/book_838.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>On Liberty [July 9, 2020]</title>
+    <id>calibre:book:839</id>
+    <updated>2020-07-09T01:07:28Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/John%20Stuart%20Mill/On%20Liberty%20%28839%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/John%20Stuart%20Mill/On%20Liberty%20%28839%29/On%20Liberty%20-%20John%20Stuart%20Mill.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>John Stuart Mill</name>
+      <uri>../author_0/author_622_Page_1.xml</uri>
+    </author>
+    <published>2002-06-18T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Dover Publications</dcterms:publisher>
+    <category term="Batoche" />
+    <category term="Lang:en" />
+    <summary>Discussed and debated from time immemorial, the concept of personal liberty went without codification until the 1859 publication of On Liberty. John Stuart Mill's complete and resolute dedication to the cause of freedom inspired this treatise, an en...</summary>
+    <link href="../book_0/book_839.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The five greatest applications of markov chanins [July 9, 2020]</title>
+    <id>calibre:book:840</id>
+    <updated>2020-07-09T01:07:28Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Philipp%20Von%20Hilgers%2C%20Amy%20n.%20Langville/The%20five%20greatest%20applications%20of%20markov%20chanins%20%28840%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Philipp%20Von%20Hilgers%2C%20Amy%20n.%20Langville/The%20five%20greatest%20applications%20of%20markov%20chanins%20%28840%29/The%20five%20greatest%20applications%20of%20markov%20c%20-%20Philipp%20Von%20Hilgers%2C%20Amy%20n.%20Langville.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Philipp Von Hilgers, Amy n. Langville</name>
+      <uri>../author_0/author_639_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_840.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>No Place To Hide - Documents [July 9, 2020]</title>
+    <id>calibre:book:841</id>
+    <updated>2020-07-09T01:07:28Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Glenn%20greenwald/No%20Place%20To%20Hide%20-%20Documents%20%28841%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Glenn%20greenwald/No%20Place%20To%20Hide%20-%20Documents%20%28841%29/No%20Place%20To%20Hide%20-%20Documents%20-%20Glenn%20greenwald.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Glenn greenwald</name>
+      <uri>../author_0/author_638_Page_1.xml</uri>
+    </author>
+    <published>2014-05-07T04:18:15Z</published>
+    <link href="../book_0/book_841.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Propaganda: The Formation of Men's Attitudes [July 9, 2020]</title>
+    <id>calibre:book:842</id>
+    <updated>2020-07-09T01:08:02Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Jacques%20Ellul/Propaganda_%20The%20Formation%20of%20Men%27s%20Attitudes%20%28842%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Jacques%20Ellul/Propaganda_%20The%20Formation%20of%20Men%27s%20Attitudes%20%28842%29/Propaganda_%20The%20Formation%20of%20Men%27s%20Attitud%20-%20Jacques%20Ellul.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Jacques%20Ellul/Propaganda_%20The%20Formation%20of%20Men%27s%20Attitudes%20%28842%29/Propaganda_%20The%20Formation%20of%20Men%27s%20Attitud%20-%20Jacques%20Ellul.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Jacques Ellul</name>
+      <uri>../author_0/author_623_Page_1.xml</uri>
+    </author>
+    <published>1973-01-11T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Vintage Books</dcterms:publisher>
+    <category term="propaganda" />
+    <category term="language" />
+    <category term="nonfiction" />
+    <category term="Psychology" />
+    <category term="Sociology" />
+    <category term="mass media" />
+    <category term="brainwashing" />
+    <category term="persuasion" />
+    <category term="Lang:en" />
+    <summary>From one of the greatest French philosophers of the 20th century, comes a seminal study and critique of propaganda. Taking not only a psychological approach, but a sociological approach as well, Ellul’s book outlines the taxonomy for propaganda, and ...</summary>
+    <link href="../book_0/book_842.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Conspiracy Theories [July 9, 2020]</title>
+    <id>calibre:book:833</id>
+    <updated>2020-07-09T01:07:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Cass%20R.%20Sunstein%2C%20Adrian%20Vermeule/Conspiracy%20Theories%20%28833%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Cass%20R.%20Sunstein%2C%20Adrian%20Vermeule/Conspiracy%20Theories%20%28833%29/Conspiracy%20Theories%20-%20Cass%20R.%20Sunstein%2C%20Adrian%20Vermeule.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Cass R. Sunstein, Adrian Vermeule</name>
+      <uri>../author_0/author_643_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_833.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Road to Serfdom [July 9, 2020]</title>
+    <id>calibre:book:834</id>
+    <updated>2020-07-09T01:07:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Friedrich%20A%20von%20Hayek/The%20Road%20to%20Serfdom%20%28834%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Friedrich%20A%20von%20Hayek/The%20Road%20to%20Serfdom%20%28834%29/The%20Road%20to%20Serfdom%20-%20Friedrich%20A%20von%20Hayek.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Friedrich A von Hayek</name>
+      <uri>../author_0/author_798_Page_1.xml</uri>
+    </author>
+    <published>1944-08-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>University of Chicago Press</dcterms:publisher>
+    <category term="Business &amp; Economics" />
+    <category term="Economic History" />
+    <category term="Development" />
+    <category term="Economic Development" />
+    <category term="Economics" />
+    <category term="Theory" />
+    <category term="Philosophy" />
+    <category term="Political" />
+    <category term="Political Science" />
+    <category term="General" />
+    <category term="History &amp; Theory" />
+    <category term="Public Policy" />
+    <category term="Economic Policy" />
+    <category term="Political Ideologies" />
+    <category term="Fascism &amp; Totalitarianism" />
+    <category term="Social Science" />
+    <category term="Lang:en" />
+    <category term="Routledge Classics" />
+    <summary>Routledge Classics [1]: 
+A classic work in political philosophy, intellectual and cultural history, and economics, The Road to Serfdom has inspired and infuriated politicians, scholars, and general readers for half a century. Originally published in ...</summary>
+    <link href="../book_0/book_834.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Thought Reform and the Psychology of Totalism [July 9, 2020]</title>
+    <id>calibre:book:835</id>
+    <updated>2020-07-09T01:08:08Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20Jay%20Lifton/Thought%20Reform%20and%20the%20Psychology%20of%20Totalism%20%28835%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20Jay%20Lifton/Thought%20Reform%20and%20the%20Psychology%20of%20Totalism%20%28835%29/Thought%20Reform%20and%20the%20Psychology%20of%20Total%20-%20Robert%20Jay%20Lifton.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20Jay%20Lifton/Thought%20Reform%20and%20the%20Psychology%20of%20Totalism%20%28835%29/Thought%20Reform%20and%20the%20Psychology%20of%20Total%20-%20Robert%20Jay%20Lifton.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Robert Jay Lifton</name>
+      <uri>../author_0/author_620_Page_1.xml</uri>
+    </author>
+    <published>2012-01-01T08:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>The University of North Carolina Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_835.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>An Introduction to Japanese Society, Third Edition. [July 9, 2020]</title>
+    <id>calibre:book:828</id>
+    <updated>2020-07-09T01:07:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Yoshio%20Sugimoto/An%20Introduction%20to%20Japanese%20Society%2C%20Third%20Edition_%20%28828%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Yoshio%20Sugimoto/An%20Introduction%20to%20Japanese%20Society%2C%20Third%20Edition_%20%28828%29/An%20Introduction%20to%20Japanese%20Society%2C%20Third%20-%20Yoshio%20Sugimoto.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Yoshio Sugimoto</name>
+      <uri>../author_0/author_614_Page_1.xml</uri>
+    </author>
+    <published>2010-04-10T10:02:56Z</published>
+    <category term="0521705193" />
+    <category term="9780521705196" />
+    <category term="0511776659" />
+    <category term="9780511776656" />
+    <link href="../book_0/book_828.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Why Nerds are Unpopular [July 9, 2020]</title>
+    <id>calibre:book:830</id>
+    <updated>2020-07-09T01:07:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Paul%20Graham/Why%20Nerds%20are%20Unpopular%20%28830%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Paul%20Graham/Why%20Nerds%20are%20Unpopular%20%28830%29/Why%20Nerds%20are%20Unpopular%20-%20Paul%20Graham.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Paul Graham</name>
+      <uri>../author_0/author_645_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_830.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Making Common Sense of Japan [July 9, 2020]</title>
+    <id>calibre:book:831</id>
+    <updated>2020-07-09T01:07:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Steven%20R.%20Reed/Making%20Common%20Sense%20of%20Japan%20%28831%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Steven%20R.%20Reed/Making%20Common%20Sense%20of%20Japan%20%28831%29/Making%20Common%20Sense%20of%20Japan%20-%20Steven%20R.%20Reed.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Steven R. Reed</name>
+      <uri>../author_0/author_616_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_831.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Expert at the Card Table [July 9, 2020]</title>
+    <id>calibre:book:832</id>
+    <updated>2020-07-09T01:07:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/S.%20W.%20Erdnase/The%20Expert%20at%20the%20Card%20Table%20%28832%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/S.%20W.%20Erdnase/The%20Expert%20at%20the%20Card%20Table%20%28832%29/The%20Expert%20at%20the%20Card%20Table%20-%20S.%20W.%20Erdnase.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>S. W. Erdnase</name>
+      <uri>../author_0/author_797_Page_1.xml</uri>
+    </author>
+    <published>2015-08-19T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Martino Fine Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Magic" />
+    <summary>Magic [1]: 
+2015 Reprint of 1902 Edition. Facsimile of the original edition. First published in 1902 under the title: "Artifice, Ruse and Subterfuge at the Card Table", Erdnase's work has become a classic work in its field. It is arguably the most fa...</summary>
+    <link href="../book_0/book_832.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Behavioural science support for JTRIG's Effects and Online HUMINT Operations [July 9, 2020]</title>
+    <id>calibre:book:825</id>
+    <updated>2020-07-09T01:07:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Mandeep%20K.%20Dhami/Behavioural%20science%20support%20for%20JTRIG%27s%20Effects%20and%20Online%20HUMINT%20Operations%20%28825%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Mandeep%20K.%20Dhami/Behavioural%20science%20support%20for%20JTRIG%27s%20Effects%20and%20Online%20HUMINT%20Operations%20%28825%29/Behavioural%20science%20support%20for%20JTRIG%27s%20Ef%20-%20Mandeep%20K.%20Dhami.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Mandeep K. Dhami</name>
+      <uri>../author_0/author_648_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <summary>Behavioural science support for JTRIG's Effects and Online HUMINT Operations</summary>
+    <link href="../book_0/book_825.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Imformation operations and Counter-propoganda : Making a weapon of public affaird [July 9, 2020]</title>
+    <id>calibre:book:826</id>
+    <updated>2020-07-09T01:07:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Unknown/Imformation%20operations%20and%20Counter-propoganda%20_%20Making%20a%20weapon%20of%20public%20affaird%20%28826%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Unknown/Imformation%20operations%20and%20Counter-propoganda%20_%20Making%20a%20weapon%20of%20public%20affaird%20%28826%29/Imformation%20operations%20and%20Counter-propoga%20-%20Unknown.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Unknown</name>
+      <uri>../author_0/author_278_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_826.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Redis in Action [July 8, 2020]</title>
+    <id>calibre:book:824</id>
+    <updated>2020-07-08T01:10:28Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Josiah%20L.%20Carlson/Redis%20in%20Action%20%28824%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Josiah%20L.%20Carlson/Redis%20in%20Action%20%28824%29/Redis%20in%20Action%20-%20Josiah%20L.%20Carlson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Josiah%20L.%20Carlson/Redis%20in%20Action%20%28824%29/Redis%20in%20Action%20-%20Josiah%20L.%20Carlson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Josiah L. Carlson</name>
+      <uri>../author_0/author_611_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Manning Publications</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Summary</summary>
+    <link href="../book_0/book_824.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A Billion Wicked Thoughts: What the World's Largest Experiment Reveals About Human Desire [July 5, 2020]</title>
+    <id>calibre:book:823</id>
+    <updated>2020-07-05T01:34:34Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Ogi%20Ogas/A%20Billion%20Wicked%20Thoughts_%20What%20the%20World%27s%20Largest%20Experiment%20Reveals%20About%20Human%20Desire%20%28823%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Ogi%20Ogas/A%20Billion%20Wicked%20Thoughts_%20What%20the%20World%27s%20Largest%20Experiment%20Reveals%20About%20Human%20Desire%20%28823%29/A%20Billion%20Wicked%20Thoughts_%20What%20the%20World%27%20-%20Ogi%20Ogas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Ogi%20Ogas/A%20Billion%20Wicked%20Thoughts_%20What%20the%20World%27s%20Largest%20Experiment%20Reveals%20About%20Human%20Desire%20%28823%29/A%20Billion%20Wicked%20Thoughts_%20What%20the%20World%27%20-%20Ogi%20Ogas.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Ogi Ogas</name>
+      <uri>../author_0/author_799_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Sai Gaddam</name>
+      <uri>../author_0/author_800_Page_1.xml</uri>
+    </author>
+    <published>2011-05-04T08:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Dutton</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Two maverick neuroscientists use the world's largest psychology experiment-the Internet-to study the private activities of millions of men and women around the world, unveiling a revolutionary and shocking new vision of human desire that overturns c...</summary>
+    <link href="../book_0/book_823.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Growth Hacker Marketing [July 3, 2020]</title>
+    <id>calibre:book:822</id>
+    <updated>2020-07-03T07:44:30Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Ryan%20Holiday/Growth%20Hacker%20Marketing%20%28822%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Ryan%20Holiday/Growth%20Hacker%20Marketing%20%28822%29/Growth%20Hacker%20Marketing%20-%20Ryan%20Holiday.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Ryan%20Holiday/Growth%20Hacker%20Marketing%20%28822%29/Growth%20Hacker%20Marketing%20-%20Ryan%20Holiday.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Ryan Holiday</name>
+      <uri>../author_0/author_57_Page_1.xml</uri>
+    </author>
+    <published>2016-06-28T04:51:09Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Group, USA</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_822.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

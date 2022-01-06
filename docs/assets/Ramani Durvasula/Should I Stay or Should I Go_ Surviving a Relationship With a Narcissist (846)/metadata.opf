@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">846</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1a0fb8d0-a02d-4960-9613-55c3d2337f12</dc:identifier>
+        <dc:title>Should I Stay or Should I Go: Surviving a Relationship With a Narcissist</dc:title>
+        <dc:creator opf:file-as="Durvasula, Ramani" opf:role="aut">Ramani Durvasula</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-11-23T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;How do you know if you are in a relationship with a narcissist—and what can you do about it? Narcissism is a modern epidemic—and it’s spreading rapidly. Narcissists tend to be pretty on the outside, but empty on the inside. While they are often successful, they are also controlling, manipulative, entitled, vain, and they have no empathy. If your significant other can be charismatic and charming one moment and leave you feeling disappointed, unsettled, and doubting yourself the next, you may be involved with a narcissist. This dangerous relationship can slowly ruin your sense of well-being and ultimately your psychological health. Sometimes leaving is the healthiest option. But sometimes it doesn’t feel like an option, and you may have powerful reasons for staying—for your children, financial security, religious beliefs, or simply because you are in love. In Should I Stay or Should I Go? Dr. Ramani Durvasula gives you the tools to help you stop making the same mistakes. It shows you what to watch for and provides guidance on managing difficult situations. This honest survival manual is based on the real terrain of pathological narcissism and it provides a realistic roadmap of how to navigate this landscape and reclaim your true self, find healing and live an authentic and empowered life. Whether you stay—or go.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781618688781</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">-XUfDAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Family &amp; Relationships</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Divorce &amp; Separation</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Communication &amp; Social Skills</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ramani Durvasula&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-07-09T07:37:29+00:00"/>
+        <meta name="calibre:title_sort" content="Should I Stay or Should I Go: Surviving a Relationship With a Narcissist"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">515</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ca464b5a-43c4-4494-8ec3-455951063f54</dc:identifier>
+        <dc:title>The Tao Te Ching: An Illustrated Journey</dc:title>
+        <dc:creator opf:file-as="Tzu, Lao &amp; Mitchell, Stephen" opf:role="aut">Lao Tzu</dc:creator>
+        <dc:creator opf:file-as="Tzu, Lao &amp; Mitchell, Stephen" opf:role="aut">Stephen Mitchell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-05-31T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Lao Tzu's Tao Te Ching (The Book of the Way) is a timeless guide to the art of living. Its central figure, the Master, lives in harmony with the Tao, the irreducible essence of the universe. Surrendering to it as the Master teaches, we feel whole. Emptying ourselves of judgment and desire, we discover the universal truths within: Without wanting, we find peace; if we let go of what we love, our love becomes present.Stephen Mitchell's acclaimed translation of this age-old text has sold more than half a million copies worldwide. Here, for the first time, it is illustrated with Chinese paintings selected by Asian art expert Dr. Stephen Little. The perfect depiction of plants, animals, and birds expresses harmony with nature, the principal teaching of the Tao; the mountainous landscapes are the heavenly home of the Tao. Each brushstroke is painted with precision, just as each word of Mitchell's translation speaks with unmatched power.This inspired translation, combined with the best images in Chinese art, will ensure that the Tao Te Ching continues to exert a profound influence into the next century.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">n1_lAQAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780060193225</dc:identifier>
+        <dc:identifier opf:scheme="9780061807398">9780061807398</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Religion</dc:subject>
+        <dc:subject>Taoism</dc:subject>
+        <dc:subject>Art</dc:subject>
+        <dc:subject>Subjects &amp; Themes</dc:subject>
+        <dc:subject>Religious</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lao Tzu&quot;: &quot;&quot;, &quot;Stephen Mitchell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2018-08-28T19:06:43+00:00"/>
+        <meta name="calibre:title_sort" content="Tao Te Ching: An Illustrated Journey, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

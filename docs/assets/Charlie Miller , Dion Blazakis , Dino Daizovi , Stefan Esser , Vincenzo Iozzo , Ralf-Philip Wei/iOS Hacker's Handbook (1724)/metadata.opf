@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1724</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c109fa37-9ca6-4a91-9b91-aabe0f8a195c</dc:identifier>
+        <dc:title>iOS Hacker's Handbook</dc:title>
+        <dc:creator opf:file-as="Charlie Miller , Dion Blazakis , Dino Daizovi , Stefan Esser , Vincenzo Iozzo , Ralf-Philip Weinmann" opf:role="aut">Charlie Miller , Dion Blazakis , Dino Daizovi , Stefan Esser , Vincenzo Iozzo , Ralf-Philip Weinmann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-04-28T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Discover all the security risks and exploits that can threaten iOS-based mobile devices&lt;/strong&gt; iOS is Apple's mobile operating system for the iPhone and iPad. With the introduction of iOS5, many security issues have come to light. This book explains and discusses them all. The award-winning author team, experts in Mac and iOS security, examines the vulnerabilities and the internals of iOS to show how attacks can be mitigated. The book explains how the operating system works, its overall security architecture, and the security risks associated with it, as well as exploits, rootkits, and other payloads developed for it. * Covers iOS security architecture, vulnerability hunting, exploit writing, and how iOS jailbreaks work * Explores iOS enterprise and encryption, code signing and memory protection, sandboxing, iPhone fuzzing, exploitation, ROP payloads, and baseband attacks * Also examines kernel debugging and exploitation * Companion website includes source code and tools to facilitate your efforts&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;iOS Hacker's Handbook&lt;/em&gt; arms you with the tools needed to identify, understand, and foil iOS attacks. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781118240755</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">1kDcjKcz9GwC</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B00888KNL2</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Operating Systems</dc:subject>
+        <dc:subject>Mac OS</dc:subject>
+        <dc:subject>Networking</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charlie Miller , Dion Blazakis , Dino Daizovi , Stefan Esser , Vincenzo Iozzo , Ralf-Philip Weinmann&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-09-08T15:53:43+00:00"/>
+        <meta name="calibre:title_sort" content="iOS Hacker's Handbook"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

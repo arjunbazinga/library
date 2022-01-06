@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1030</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">429b53dc-0882-4679-bd27-e5a47162205e</dc:identifier>
+        <dc:title>7 Powers: The Foundations of Business Strategy</dc:title>
+        <dc:creator opf:file-as="Helmer, Hamilton" opf:role="aut">Hamilton Helmer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-10-24T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;What are the secrets to making a company enduringly valuable? 7 Powers breaks fresh ground by constructing a comprehensive strategy toolset that is easy for you to learn, communicate and quickly apply. Drawing on his decades of experience as a business strategy advisor, active equity investor and Stanford University teacher, Hamilton Helmer develops from first principles a practical theory of Strategy rooted in the notion of Power, those conditions which create the potential for persistent differential returns. Using rich real-world examples, Helmer rigorously characterizes exactly what your business must achieve to create Power. And create Power it must, for without it your business is at risk. He explains why invention always comes first and then develops the Power Progression to enable you to target when your Power must be established: in the Origination, Take-Off or Stability phases of your business. Every business faces a do-or-die strategy moment: a crux directional choice made amidst swirling uncertainty. To get this right you need at your fingertips a real-time strategy compass to discern your true north. 7 Powers is that compass.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Deep Strategy</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0998116319</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780998116303</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">9p1evgAACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Entrepreneurship</dc:subject>
+        <dc:subject>Management</dc:subject>
+        <dc:subject>Strategic Planning</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hamilton Helmer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-10-07T16:41:53+00:00"/>
+        <meta name="calibre:title_sort" content="7 Powers: The Foundations of Business Strategy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

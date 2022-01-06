@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">656</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">273d7fd5-3e3c-43f0-ba1c-f69a232d09d9</dc:identifier>
+        <dc:title>A Philosophy of Software Design</dc:title>
+        <dc:creator opf:file-as="Ousterhout, John" opf:role="aut">John Ousterhout</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-22T08:00:00+00:00</dc:date>
+        <dc:description>This book addresses the topic of software design: how to decompose complex software systems into modules (such as classes and methods) that can be implemented relatively independently. The book first introduces the fundamental problem in software design, which is managing complexity. It then discusses philosophical issues about how to approach the software design process, and it presents a collection of design principles to apply during software design. The book also introduces a set of red flags that identify design problems. You can apply the ideas in this book to minimize the complexity of large software systems, so that you can write software more quickly and cheaply.</dc:description>
+        <dc:publisher>Yaknyam Press, Palo Alto, CA</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07N1XLQ7D</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>software complexity</dc:subject>
+        <dc:subject>Computer Programming</dc:subject>
+        <dc:subject>interface vs. implementation</dc:subject>
+        <dc:subject>modular decomposition</dc:subject>
+        <dc:subject>abstraction</dc:subject>
+        <dc:subject>software design</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Ousterhout&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:34+00:00"/>
+        <meta name="calibre:title_sort" content="Philosophy of Software Design, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

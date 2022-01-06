@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">976</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7c70d637-3a55-47c1-bd43-c2e3d2986925</dc:identifier>
+        <dc:title>The Mom Test: How to Talk to Customers &amp; Learn if Your Business Is a Good Idea When Everyone Is Lying to You</dc:title>
+        <dc:creator opf:file-as="Fitzpatrick, Rob" opf:role="aut">Rob Fitzpatrick</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-09-09T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;The Mom Test is a quick, practical guide that will save you time, money, and heartbreak.&lt;/strong&gt; They say you shouldn't ask your mom whether your business is a good idea, because she loves you and will lie to you. This is technically true, but it misses the point. You shouldn't ask &lt;strong&gt;anyone&lt;/strong&gt; if your business is a good idea. It's a bad question and &lt;strong&gt;everyone will lie to you at least a little&lt;/strong&gt;. As a matter of fact, it's not their responsibility to tell you the truth. It's your responsibility to find it and &lt;strong&gt;it's worth doing right&lt;/strong&gt;. Talking to customers is one of the foundational skills of both Customer Development and Lean Startup. We all know we're supposed to do it, but nobody seems willing to admit that it's easy to screw up and hard to do right. This book is going to show you how customer conversations go wrong and how you can do better. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Robfitz Ltd</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">Z5nYDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781492180746</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1492180742</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Entrepreneurship</dc:subject>
+        <dc:subject>Sales &amp; Selling</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rob Fitzpatrick&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-08-26T16:42:21+00:00"/>
+        <meta name="calibre:title_sort" content="Mom Test: How to Talk to Customers &amp; Learn if Your Business Is a Good Idea When Everyone Is Lying to You, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

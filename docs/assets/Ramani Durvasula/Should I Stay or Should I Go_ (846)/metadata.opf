@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">846</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1a0fb8d0-a02d-4960-9613-55c3d2337f12</dc:identifier>
+        <dc:title>Should I Stay or Should I Go?</dc:title>
+        <dc:creator opf:file-as="Durvasula, Ramani" opf:role="aut">Ramani Durvasula</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-05T16:00:00+00:00</dc:date>
+        <dc:description>Narcissism is a modern epidemic, and it's spreading rapidly. But how do you know if you are in a relationship with one—and, what can you do about it? We live in a world of romance and rescue, where many believe love will conquer all, and that the more we endure unacceptable behavior, the more likely that we can "fix" our relationships. It doesn't always work that way—despite what the fairy tales tell us. There are a few hard facts about pathological narcissism that most people don't know and most psychologists will never tell you. Should I Stay or Should I Go? uses checklists, clinical wisdom, and real stories from real people to prepare you for the real terrain of pathological narcissism. It raises the red flags to watch for and provides a realistic roadmap for difficult situations to help you reclaim yourself, find healing, and live an authentic and empowered life. Whether you stay. Or go.</dc:description>
+        <dc:publisher>Post Hill Press</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Ramani Durvasula&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-07-09T07:37:29.779765+00:00" name="calibre:timestamp"/>
+        <meta content="Should I Stay or Should I Go" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

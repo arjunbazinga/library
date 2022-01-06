@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1094</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6fb87bb3-7c56-4cec-b625-368b6ddf7b9f</dc:identifier>
+        <dc:title>Invent and Wander</dc:title>
+        <dc:creator opf:file-as="Jeff Bezos , Walter Isaacson" opf:role="aut">Jeff Bezos , Walter Isaacson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-16T18:30:00+00:00</dc:date>
+        <dc:description>&lt;span&gt;&lt;p&gt;&lt;b&gt;In Jeff Bezos's own words, the core principles and philosophy that have guided him in creating, building, and leading Amazon and Blue Origin.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;In this collection of Jeff Bezos's writings—his unique and strikingly original annual shareholder letters, plus numerous speeches and interviews that provide insight into his background, his work, and the evolution of his ideas—you'll gain an insider's view of the why and how of his success. Spanning a range of topics across business and public policy, from innovation and customer obsession to climate change and outer space, this book provides a rare glimpse into how Bezos thinks about the world and where the future might take us.&lt;/p&gt;&lt;p&gt;Written in a direct, down-to-earth style, &lt;i&gt;Invent and Wander&lt;/i&gt; offers readers a master class in business values, strategy, and execution:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The importance of a Day 1 mindset&lt;/li&gt;&lt;li&gt;Why "it's all about the long term"&lt;/li&gt;&lt;li&gt;What it &lt;i&gt;really&lt;/i&gt; means to be customer obsessed&lt;/li&gt;&lt;li&gt;How to start new businesses and create significant organic growth in an already successful company&lt;/li&gt;&lt;li&gt;Why culture is an imperative&lt;/li&gt;&lt;li&gt;How a willingness to fail is closely connected to innovation&lt;/li&gt;&lt;li&gt;What the Covid-19 pandemic has taught us&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Each insight offers new ways of thinking through today's challenges—and more importantly, tomorrow's—and the never-ending urgency of striving ahead, never resting on one's laurels. Everyone from CEOs of the &lt;i&gt;Fortune&lt;/i&gt; 100 to entrepreneurs just setting up shop to the millions who use Amazon's products and services in their homes or businesses will come to understand the principles that have driven the success of one of the most important innovators of our time.&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;i&gt;Invent and Wander: The Collected Writings of Jeff Bezos&lt;/i&gt;&lt;/b&gt; is co-published by PublicAffairs, an imprint of Perseus Books, and Harvard Business Review Press.&lt;/p&gt;&lt;/span&gt;</dc:description>
+        <dc:publisher>Harvard Business Review Press</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Jeff Bezos , Walter Isaacson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-11-25T08:44:08+00:00"/>
+        <meta name="calibre:title_sort" content="Invent and Wander"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

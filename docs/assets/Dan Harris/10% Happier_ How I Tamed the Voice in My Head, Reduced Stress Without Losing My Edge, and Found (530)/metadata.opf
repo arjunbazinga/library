@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">530</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d4138198-4038-495c-a84d-7880ec48af2a</dc:identifier>
+        <dc:title>10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works--A True Story</dc:title>
+        <dc:creator opf:file-as="Harris, Dan" opf:role="aut">Dan Harris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-03-10T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;#1 &lt;/strong&gt;&lt;span style="font-style: italic; font-weight: 600"&gt;New York Times&lt;/span&gt;&lt;strong&gt; Bestseller&lt;/strong&gt; &lt;strong&gt;"An enormously smart, clear-eyed, brave-hearted, and quite personal look at the benefits of meditation." —Elizabeth Gilbert&lt;/strong&gt; * &lt;strong&gt;Nightline&lt;/strong&gt;&lt;span style="font-style: italic; font-weight: 600"&gt; &lt;/span&gt;&lt;strong&gt;*anchor Dan Harris embarks on an unexpected, hilarious, and deeply skeptical odyssey through the strange worlds of spirituality and self-help, and discovers a way to get happier that is truly achievable. &lt;/strong&gt;&lt;em&gt;After having a nationally televised panic attack, Dan Harris knew he had to make some changes. A lifelong nonbeliever, he found himself on a bizarre adventure involving a disgraced pastor, a mysterious self-help guru, and a gaggle of brain scientists. Eventually, Harris realized that the source of his problems was the very thing he always thought was his greatest asset: the incessant, insatiable voice in his head, which had propelled him through the ranks of a hypercompetitive business, but had also led him to make the profoundly stupid decisions that provoked his on-air freak-out. Finally, Harris stumbled upon an effective way to rein in that voice, something he always assumed to be either impossible or useless: meditation, a tool that research suggests can do everything from lower your blood pressure to essentially rewire your brain.  10% Happier&lt;/em&gt;  takes readers on a ride from the outer reaches of neuroscience to the inner sanctum of network news to the bizarre fringes of America’s spiritual scene, and leaves them with a takeaway that could actually change their lives. This paperback edition is revised with new material.  &lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Harper Collins</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0062265431</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">ycEKAgAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00FJ376CS</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780062265449</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Happiness</dc:subject>
+        <dc:subject>Body; Mind &amp; Spirit</dc:subject>
+        <dc:subject>Mindfulness &amp; Meditation</dc:subject>
+        <dc:subject>Biography &amp; Autobiography</dc:subject>
+        <dc:subject>Personal Memoirs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Dan Harris&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2018-10-13T08:37:25+00:00"/>
+        <meta name="calibre:title_sort" content="10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works--A True Story"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

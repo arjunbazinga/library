@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">727</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">99cadc16-db23-414b-96db-29c82f68415b</dc:identifier>
+        <dc:title>Cypherpunks: Freedom and the Future of the Internet</dc:title>
+        <dc:creator opf:file-as="Julian Assange, Jacob Appelbaum, Andy Muller-Maguhn, Jeremie Zimmermann" opf:role="aut">Julian Assange, Jacob Appelbaum, Andy Muller-Maguhn, Jeremie Zimmermann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-11-25T18:30:00+00:00</dc:date>
+        <dc:description>The harassment of WikiLeaks and other Internet activists, together with attempts to introduce anti-file sharing legislation such as SOPA and ACTA, indicate that the politics of the Internet have reached a crossroads. In one direction lies a future that guarantees, in the watchwords of the cypherpunks, “privacy for the weak and transparency for the powerful”; in the other lies an Internet that allows government and large corporations to discover ever more about internet users while hiding their own activities. Assange and his co-discussants unpick the complex issues surrounding this crucial choice with clarity and engaging enthusiasm.</dc:description>
+        <dc:publisher>OR Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">eBook ISBN: 9781939293015</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bisac Code 1: POL039000</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Julian Assange, Jacob Appelbaum, Andy Muller-Maguhn, Jeremie Zimmermann&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:44+00:00"/>
+        <meta name="calibre:title_sort" content="Cypherpunks: Freedom and the Future of the Internet"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

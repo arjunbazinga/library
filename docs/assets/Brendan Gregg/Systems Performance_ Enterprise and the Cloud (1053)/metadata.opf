@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1053</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">81dfb28f-69c8-4d1b-9413-6df6cb67179f</dc:identifier>
+        <dc:title>Systems Performance: Enterprise and the Cloud</dc:title>
+        <dc:creator opf:file-as="Gregg, Brendan" opf:role="aut">Brendan Gregg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-10-06T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The Complete Guide to Optimizing Systems Performance Written by the winner of the 2013 LISA Award for Outstanding Achievement in System Administration Large-scale enterprise, cloud, and virtualized computing systems have introduced serious performance challenges. Now, internationally renowned performance expert Brendan Gregg has brought together proven methodologies, tools, and metrics for analyzing and tuning even the most complex environments. Systems Performance: Enterprise and the Cloud focuses on Linux® and Unix® performance, while illuminating performance issues that are relevant to all operating systems. You’ll gain deep insight into how systems work and perform, and learn methodologies for analyzing and improving system and application performance. Gregg presents examples from bare-metal systems and virtualized cloud tenants running Linux-based Ubuntu®, Fedora®, CentOS, and the illumos-based Joyent® SmartOS™ and OmniTI OmniOS®. He systematically covers modern systems performance, including the “traditional” analysis of CPUs, memory, disks, and networks, and new areas including cloud computing and dynamic tracing. This book also helps you identify and fix the “unknown unknowns” of complex performance: bottlenecks that emerge from elements and interactions you were not aware of. The text concludes with a detailed case study, showing how a real cloud customer issue was analyzed from start to finish. Coverage includes • Modern performance analysis and tuning: terminology, concepts, models, methods, and techniques • Dynamic tracing techniques and tools, including examples of DTrace, SystemTap, and perf • Kernel internals: uncovering what the OS is doing • Using system observability tools, interfaces, and frameworks • Understanding and monitoring application performance • Optimizing CPUs: processors, cores, hardware threads, caches, interconnects, and kernel scheduling • Memory optimization: virtual memory, paging, swapping, memory architectures, busses, address spaces, and allocators • File system I/O, including caching • Storage devices/controllers, disk I/O workloads, RAID, and kernel I/O • Network-related performance issues: protocols, sockets, interfaces, and physical connections • Performance implications of OS and hardware-based virtualization, and new issues encountered with cloud computing • Benchmarking: getting accurate results and avoiding common mistakes This guide is indispensable for anyone who operates enterprise or cloud environments: system, network, database, and web admins; developers; and other professionals. For students and others new to optimization, it also provides exercises reflecting Gregg’s extensive instructional experience.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Prentice Hall</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">pTYkAQAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780133390100</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Operating Systems</dc:subject>
+        <dc:subject>Unix</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Brendan Gregg&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-18T12:06:34+00:00"/>
+        <meta name="calibre:title_sort" content="Systems Performance: Enterprise and the Cloud"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

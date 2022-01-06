@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Previous fortnight</title>
+  <id>Calibre2opds:recent:FORTNIGHT</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./recent_FORTNIGHT_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Previous fortnight" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
+  <entry>
+    <title>A History of Mathematical Notations [August 17, 2020]</title>
+    <id>calibre:book:932</id>
+    <updated>2020-08-17T08:08:56Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Florian%20Cajori/A%20History%20of%20Mathematical%20Notations%20%28932%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Florian%20Cajori/A%20History%20of%20Mathematical%20Notations%20%28932%29/A%20History%20of%20Mathematical%20Notations%20-%20Florian%20Cajori.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Florian%20Cajori/A%20History%20of%20Mathematical%20Notations%20%28932%29/A%20History%20of%20Mathematical%20Notations%20-%20Florian%20Cajori.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Florian Cajori</name>
+      <uri>../author_0/author_738_Page_1.xml</uri>
+    </author>
+    <published>2013-08-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Dover Publications, Inc.</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_932.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>50 Shades of Golang Traps, Gotchas and Common Mistakes for New Golang Devs [August 17, 2020]</title>
+    <id>calibre:book:929</id>
+    <updated>2020-08-17T08:06:34Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Kyle%20Quest/50%20Shades%20of%20Golang%20Traps%2C%20Gotchas%20and%20Common%20Mistakes%20for%20New%20Golang%20Devs%20%28929%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Kyle%20Quest/50%20Shades%20of%20Golang%20Traps%2C%20Gotchas%20and%20Common%20Mistakes%20for%20New%20Golang%20Devs%20%28929%29/50%20Shades%20of%20Golang%20Traps%2C%20Gotchas%20and%20Com%20-%20Kyle%20Quest.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Kyle Quest</name>
+      <uri>../author_0/author_741_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_929.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Half-Life of Facts [August 17, 2020]</title>
+    <id>calibre:book:930</id>
+    <updated>2020-08-17T08:07:00Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Samuel%20Arbesman/The%20Half-Life%20of%20Facts%20%28930%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Samuel%20Arbesman/The%20Half-Life%20of%20Facts%20%28930%29/The%20Half-Life%20of%20Facts%20-%20Samuel%20Arbesman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Samuel%20Arbesman/The%20Half-Life%20of%20Facts%20%28930%29/The%20Half-Life%20of%20Facts%20-%20Samuel%20Arbesman.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Samuel Arbesman</name>
+      <uri>../author_0/author_736_Page_1.xml</uri>
+    </author>
+    <published>2013-09-15T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Group US</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_930.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Types as axioms, or playing god with static types [August 17, 2020]</title>
+    <id>calibre:book:927</id>
+    <updated>2020-08-17T08:06:33Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Blog/Types%20as%20axioms%2C%20or%20playing%20god%20with%20static%20types%20%28927%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Blog/Types%20as%20axioms%2C%20or%20playing%20god%20with%20static%20types%20%28927%29/Types%20as%20axioms%2C%20or%20playing%20god%20with%20stati%20-%20Blog.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Blog</name>
+      <uri>../author_0/author_739_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_927.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Notation as a Tool of Thought [August 17, 2020]</title>
+    <id>calibre:book:928</id>
+    <updated>2020-08-17T08:06:34Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Kenneth%20e.%20Iverson/Notation%20as%20a%20Tool%20of%20Thought%20%28928%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Kenneth%20e.%20Iverson/Notation%20as%20a%20Tool%20of%20Thought%20%28928%29/Notation%20as%20a%20Tool%20of%20Thought%20-%20Kenneth%20e.%20Iverson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Kenneth e. Iverson</name>
+      <uri>../author_0/author_740_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_928.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Unraveling the Mindset of Victimhood [August 12, 2020]</title>
+    <id>calibre:book:925</id>
+    <updated>2020-08-13T00:51:27Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Scientific%20American/Unraveling%20the%20Mindset%20of%20Victimhood%20%28925%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Scientific%20American/Unraveling%20the%20Mindset%20of%20Victimhood%20%28925%29/Unraveling%20the%20Mindset%20of%20Victimhood%20-%20Scientific%20American.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Scientific American</name>
+      <uri>../author_0/author_733_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_925.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Practice of Programming [August 12, 2020]</title>
+    <id>calibre:book:926</id>
+    <updated>2020-08-13T00:51:27Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Brian%20W.Kerninghan/The%20Practice%20of%20Programming%20%28926%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Brian%20W.Kerninghan/The%20Practice%20of%20Programming%20%28926%29/The%20Practice%20of%20Programming%20-%20Brian%20W.Kerninghan.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Brian W.Kerninghan</name>
+      <uri>../author_0/author_735_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_926.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

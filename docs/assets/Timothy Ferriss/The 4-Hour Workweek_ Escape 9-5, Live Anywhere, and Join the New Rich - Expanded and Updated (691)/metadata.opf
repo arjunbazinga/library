@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">691</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ca8e8dfb-e106-4ddc-8c19-8bf42b48a11d</dc:identifier>
+        <dc:title>The 4-Hour Workweek: Escape 9–5, Live Anywhere, and Join the New Rich - Expanded and Updated</dc:title>
+        <dc:creator opf:file-as="Ferriss, Timothy" opf:role="aut">Timothy Ferriss</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-03-14T18:30:00+00:00</dc:date>
+        <dc:publisher>Crown Publishers</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307591166</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self Help</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Timothy Ferriss&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:38+00:00"/>
+        <meta name="calibre:title_sort" content="4-Hour Workweek: Escape 9–5, Live Anywhere, and Join the New Rich - Expanded and Updated, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

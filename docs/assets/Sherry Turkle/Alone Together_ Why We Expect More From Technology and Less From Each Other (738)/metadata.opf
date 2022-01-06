@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">738</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bc218eea-9601-446e-8339-1db58f4ae49d</dc:identifier>
+        <dc:title>Alone Together: Why We Expect More From Technology and Less From Each Other</dc:title>
+        <dc:creator opf:file-as="Turkle, Sherry" opf:role="aut">Sherry Turkle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-11T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Consider Facebook—it’s human contact, only easier to engage with and easier to avoid. Developing technology promises closeness. Sometimes it delivers, but much of our modern life leaves us less connected with people and more connected to simulations of them.&lt;/p&gt;&lt;p&gt;In &lt;em&gt;Alone Together&lt;/em&gt;, MIT technology and society professor Sherry Turkle explores the power of our new tools and toys to dramatically alter our social lives. It’s a nuanced exploration of what we are looking for—and sacrificing—in a world of electronic companions and social networking tools, and an argument that, despite the hand-waving of today’s self-described prophets of the future, it will be the next generation who will chart the path between isolation and connectivity.&lt;/p&gt;&lt;p&gt;**&lt;/p&gt;</dc:description>
+        <dc:publisher>Basic Books</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">204d5d90-6b82-4372-9c2f-637d8985079c</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780465010219</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0465031463</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Technology</dc:subject>
+        <dc:subject>Society</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sherry Turkle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:45+00:00"/>
+        <meta name="calibre:title_sort" content="Alone Together: Why We Expect More From Technology and Less From Each Other"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

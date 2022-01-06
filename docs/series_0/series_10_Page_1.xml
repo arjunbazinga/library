@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The autobiography of America's master swindler</title>
+  <id>Calibre2opds::serieslistseries:10</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_10_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="The autobiography of America's master swindler" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series" />
+  <entry>
+    <title>1 - "Yellow Kid" Weil</title>
+    <id>calibre:book:407</id>
+    <updated>2020-03-28T07:26:30Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Joseph%20R%20Weil%20%2C%20William%20T%20Brannon/_Yellow%20Kid_%20Weil%20%28407%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Joseph%20R%20Weil%20%2C%20William%20T%20Brannon/_Yellow%20Kid_%20Weil%20%28407%29/_Yellow%20Kid_%20Weil%20-%20Joseph%20R%20Weil%20%2C%20William%20T%20Brannon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Joseph%20R%20Weil%20%2C%20William%20T%20Brannon/_Yellow%20Kid_%20Weil%20%28407%29/_Yellow%20Kid_%20Weil%20-%20Joseph%20R%20Weil%20%2C%20William%20T%20Brannon.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Joseph%20R%20Weil%20%2C%20William%20T%20Brannon/_Yellow%20Kid_%20Weil%20%28407%29/_Yellow%20Kid_%20Weil%20-%20Joseph%20R%20Weil%20%2C%20William%20T%20Brannon.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Joseph R Weil , William T Brannon</name>
+      <uri>../author_0/author_232_Page_1.xml</uri>
+    </author>
+    <published>1948-07-31T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Chicago, Ziff-Davis Pub. Co.</dcterms:publisher>
+    <category term="Swindlers and swindling" />
+    <category term="Weil" />
+    <category term="Joe" />
+    <category term="Lang:en" />
+    <category term="autobiography of America's master swindler" />
+    <summary>The autobiography of America's master swindler [1]:</summary>
+    <link href="../book_0/book_407.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

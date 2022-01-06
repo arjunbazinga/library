@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Authors starting with A</title>
+  <id>Calibre2opds:authorlist:A</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Authors starting with A" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>AQR</title>
+    <id>Calibre2opds:author:518</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_518_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Adnan Aziz, Tsung-Hsien Lee, Amit Prakash</title>
+    <id>Calibre2opds:author:480</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_480_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Aesop</title>
+    <id>Calibre2opds:author:161</id>
+    <content type="text">Aesop's Fables</content>
+    <link href="../author_0/author_161_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Aditya Agashe</title>
+    <id>Calibre2opds:author:702</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_702_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Alfred V. Aho</title>
+    <id>Calibre2opds:author:768</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_768_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Al Ries, Jack Trout</title>
+    <id>Calibre2opds:author:484</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_484_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Alfredo H-S.Ang, Wilson H. Tang</title>
+    <id>Calibre2opds:author:647</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_647_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Arxiv</title>
+    <id>Calibre2opds:author:503</id>
+    <content type="text">5 books</content>
+    <link href="../author_0/author_503_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Ayn Rand, Peikoff Rand</title>
+    <id>Calibre2opds:author:483</id>
+    <content type="text">The Fountainhead</content>
+    <link href="../author_0/author_483_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Abhijit V. Banerjee</title>
+    <id>Calibre2opds:author:461</id>
+    <content type="text">Good Economics for Hard Times</content>
+    <link href="../author_0/author_461_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Alastair R. Beresford</title>
+    <id>Calibre2opds:author:659</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_659_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Albert Camus</title>
+    <id>Calibre2opds:author:323</id>
+    <content type="text">2 books</content>
+    <link href="../author_0/author_323_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Andrew Chen</title>
+    <id>Calibre2opds:author:690</id>
+    <content type="text">Zero To Traction</content>
+    <link href="../author_0/author_690_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Arthur C. Clarke</title>
+    <id>Calibre2opds:author:328</id>
+    <content type="text">Profiles of the Future</content>
+    <link href="../author_0/author_328_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Adrian Colyer</title>
+    <id>Calibre2opds:author:520</id>
+    <content type="text">8 books</content>
+    <link href="../author_0/author_520_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Anthony Doerr</title>
+    <id>Calibre2opds:author:33</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_33_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Arthur Conan Doyle</title>
+    <id>Calibre2opds:author:766</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_766_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Annie Duke</title>
+    <id>Calibre2opds:author:141</id>
+    <content type="text">Thinking in Bets</content>
+    <link href="../author_0/author_141_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Alex Edwards</title>
+    <id>Calibre2opds:author:732</id>
+    <content type="text">Let's Go</content>
+    <link href="../author_0/author_732_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Anand Giridharadas</title>
+    <id>Calibre2opds:author:457</id>
+    <content type="text">2 books</content>
+    <link href="../author_0/author_457_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Alasdair Gray</title>
+    <id>Calibre2opds:author:550</id>
+    <content type="text">Lanark: A Life in Four Books</content>
+    <link href="../author_0/author_550_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Andrew S. Grove</title>
+    <id>Calibre2opds:author:190</id>
+    <content type="text">2 books</content>
+    <link href="../author_0/author_190_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Aldous Leonard Huxley</title>
+    <id>Calibre2opds:author:30</id>
+    <content type="text">Brave New World</content>
+    <link href="../author_0/author_30_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Alex Ely Kossovsky</title>
+    <id>Calibre2opds:author:516</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_516_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Anne Lamott</title>
+    <id>Calibre2opds:author:785</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_785_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Alan Levinovitz</title>
+    <id>Calibre2opds:author:679</id>
+    <content type="text">Natural</content>
+    <link href="../author_0/author_679_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Alan Lightman</title>
+    <id>Calibre2opds:author:143</id>
+    <content type="text">2 books</content>
+    <link href="../author_0/author_143_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Alan Moore</title>
+    <id>Calibre2opds:author:267</id>
+    <content type="text">Watchmen #01 - #12</content>
+    <link href="../author_0/author_267_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Alberto Paro</title>
+    <id>Calibre2opds:author:716</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_716_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Ayn Rand</title>
+    <id>Calibre2opds:author:53</id>
+    <content type="text">Atlas Shrugged</content>
+    <link href="../author_0/author_53_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Ariel Rubinstein</title>
+    <id>Calibre2opds:author:225</id>
+    <content type="text">2 books</content>
+    <link href="../author_0/author_225_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Abraham Silberschatz</title>
+    <id>Calibre2opds:author:269</id>
+    <content type="text">Operating System Concepts</content>
+    <link href="../author_0/author_269_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Adam Smith</title>
+    <id>Calibre2opds:author:478</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_478_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Alan Sokal</title>
+    <id>Calibre2opds:author:26</id>
+    <content type="text">Fashionable Nonsense</content>
+    <link href="../author_0/author_26_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Andrew Ross Sorkin</title>
+    <id>Calibre2opds:author:313</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_313_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Adam Stubblefield</title>
+    <id>Calibre2opds:author:566</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_566_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Alvin Toffler</title>
+    <id>Calibre2opds:author:176</id>
+    <content type="text">Future Shock</content>
+    <link href="../author_0/author_176_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Alan Watts</title>
+    <id>Calibre2opds:author:573</id>
+    <content type="text">2 books</content>
+    <link href="../author_0/author_573_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Alan W. Watts</title>
+    <id>Calibre2opds:author:649</id>
+    <content type="text">The Wisdom of Insecurity</content>
+    <link href="../author_0/author_649_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>avoid boring people</title>
+    <id>Calibre2opds:author:674</id>
+    <content type="text">Gpt3</content>
+    <link href="../author_0/author_674_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+</feed>

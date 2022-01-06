@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">965</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f0bebada-f263-4ed6-b402-a8eb60df97f6</dc:identifier>
+        <dc:title>Why Stock Markets Crash: Critical Events in Complex Financial Systems</dc:title>
+        <dc:creator opf:file-as="Sornette, Didier" opf:role="aut">Didier Sornette</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-03-20T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The scientific study of complex systems has transformed a wide range of disciplines in recent years, enabling researchers in both the natural and social sciences to model and predict phenomena as diverse as earthquakes, global warming, demographic patterns, financial crises, and the failure of materials. In this book, Didier Sornette boldly applies his varied experience in these areas to propose a simple, powerful, and general theory of how, why, and when stock markets crash.&lt;/p&gt;
+&lt;p&gt;Most attempts to explain market failures seek to pinpoint triggering mechanisms that occur hours, days, or weeks before the collapse. Sornette proposes a radically different view: the underlying cause can be sought months and even years before the abrupt, catastrophic event in the build-up of cooperative speculation, which often translates into an accelerating rise of the market price, otherwise known as a "bubble." Anchoring his sophisticated, step-by-step analysis in leading-edge physical and statistical modeling techniques, he unearths remarkable insights and some predictions--among them, that the "end of the growth era" will occur around 2050.&lt;/p&gt;
+&lt;p&gt;Sornette probes major historical precedents, from the decades-long "tulip mania" in the Netherlands that wilted suddenly in 1637 to the South Sea Bubble that ended with the first huge market crash in England in 1720, to the Great Crash of October 1929 and Black Monday in 1987, to cite just a few. He concludes that most explanations other than cooperative self-organization fail to account for the subtle bubbles by which the markets lay the groundwork for catastrophe.&lt;/p&gt;
+&lt;p&gt;Any investor or investment professional who seeks a genuine understanding of looming financial disasters should read this book. Physicists, geologists, biologists, economists, and others will welcome &lt;em&gt;Why Stock Markets Crash&lt;/em&gt; as a highly original "scientific tale," as Sornette aptly puts it, of the exciting and sometimes fearsome--but no longer quite so unfathomable--world of stock markets. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Princeton University Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780691175959</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">o3GYDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0691175950</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business</dc:subject>
+        <dc:subject>Economics</dc:subject>
+        <dc:subject>Investments</dc:subject>
+        <dc:subject>Securities</dc:subject>
+        <dc:subject>Stocks</dc:subject>
+        <dc:subject>Forecasting</dc:subject>
+        <dc:subject>Finance</dc:subject>
+        <dc:subject>Financial Engineering</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Physics</dc:subject>
+        <dc:subject>Mathematical</dc:subject>
+        <dc:subject>Computational</dc:subject>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Game Theory</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Didier Sornette&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-08-26T15:57:21+00:00"/>
+        <meta name="calibre:title_sort" content="Why Stock Markets Crash: Critical Events in Complex Financial Systems"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

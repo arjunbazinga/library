@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1022</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7d5496a6-1cbb-4ab7-a8f7-56919f9465a2</dc:identifier>
+        <dc:title>Brick by Brick: How LEGO Rewrote the Rules of Innovation and Conquered the Global Toy Industry</dc:title>
+        <dc:creator opf:file-as="David Robertson , Bill Breen" opf:role="aut">David Robertson , Bill Breen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-24T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Sometimes radical yet always applicable, &lt;/strong&gt;&lt;span style="font-weight: 600; font-style: italic"&gt;Brick by Brick&lt;/span&gt;&lt;strong&gt; abounds with real-world lessons for unleashing breakthrough innovation in your organization, using LEGO--which experienced one of the most remarkable business transformations in recent history &lt;/strong&gt;--as a business model.**** &lt;/p&gt;
+&lt;p&gt;As LEGO failed to keep pace with the revolutionary changes in kids' lives and began sliding into irrelevance, the company's leaders implemented some of the business world's most widely espoused prescriptions for boosting innovation. Ironically, these changes pushed the iconic toymaker to the brink of bankruptcy, showing that what works in theory can fail spectacularly in the brutally competitive global economy. &lt;/p&gt;
+&lt;p&gt;It took a new LEGO management team--faced with the growing rage for electronic toys, few barriers to entry, and ultra-demanding consumers (ten-year old boys)--to reinvent the innovation rule book and transform LEGO into one of the world's most profitable, fastest-growing companies.  &lt;/p&gt;
+&lt;p&gt;Along the way, &lt;em&gt;Brick by Brick&lt;/em&gt; reveals how LEGO: &lt;/p&gt;
+&lt;p&gt;- Became truly customer-driven by co-creating with kids as well as its passionate adult fans&lt;br&gt;- Looked beyond products and learned to leverage a full-spectrum approach to innovation&lt;br&gt;- Opened its innovation process by using both the "wisdom of crowds" and the expertise of elite cliques&lt;br&gt;- Discovered uncontested, "blue ocean" markets, even as it thrived in brutally competitive red oceans&lt;br&gt;- Gave its world-class design teams enough space to create and direction to deliver built a culture where &lt;em&gt;profitable&lt;/em&gt; innovation flourishes &lt;/p&gt;
+&lt;p&gt;Whether you're a senior executive looking to make your company grow, an entrepreneur building a startup from scratch, or a fan who wants to instill some of that LEGO magic in your career, you'll learn how to build your own innovation advantage, brick by brick. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Crown</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307951625</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">OsyEX0nPkygC</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0307951618</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Management</dc:subject>
+        <dc:subject>Decision-Making &amp; Problem Solving</dc:subject>
+        <dc:subject>Corporate &amp; Business History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;David Robertson , Bill Breen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-10-03T21:38:36+00:00"/>
+        <meta name="calibre:title_sort" content="Brick by Brick: How LEGO Rewrote the Rules of Innovation and Conquered the Global Toy Industry"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

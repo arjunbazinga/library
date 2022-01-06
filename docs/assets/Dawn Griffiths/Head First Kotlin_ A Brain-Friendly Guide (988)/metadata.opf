@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">988</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cc1e2960-5e77-4acd-823f-0e73702c2a16</dc:identifier>
+        <dc:title>Head First Kotlin: A Brain-Friendly Guide</dc:title>
+        <dc:creator opf:file-as="Griffiths, Dawn &amp; Griffiths, David" opf:role="aut">Dawn Griffiths</dc:creator>
+        <dc:creator opf:file-as="Griffiths, Dawn &amp; Griffiths, David" opf:role="aut">David Griffiths</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-12T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;What will you learn from this book?&lt;/strong&gt; &lt;em&gt;Head First Kotlin&lt;/em&gt; is a complete introduction to coding in Kotlin. This hands-on book helps you learn the Kotlin language with a unique method that goes beyond syntax and how-to manuals and teaches you how to think like a great Kotlin developer. You’ll learn everything from language fundamentals to collections, generics, lambdas, and higher-order functions. Along the way, you’ll get to play with both object-oriented and functional programming. If you want to really understand Kotlin, this is the book for you. &lt;strong&gt;Why does this book look so different?&lt;/strong&gt; Based on the latest research in cognitive science and learning theory, &lt;em&gt;Head First Kotlin&lt;/em&gt; uses a visually rich format to engage your mind rather than a text-heavy approach that puts you to sleep. Why waste your time struggling with new concepts? This multisensory learning experience is designed for the way your brain really works. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>"O'Reilly Media, Inc."</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1491996692</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">NcuHDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781491996669</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>Java</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Mobile Devices</dc:subject>
+        <dc:subject>Web</dc:subject>
+        <dc:subject>Web Programming</dc:subject>
+        <dc:subject>Client-Server Computing</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Dawn Griffiths&quot;: &quot;&quot;, &quot;David Griffiths&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-09-02T13:09:36+00:00"/>
+        <meta name="calibre:title_sort" content="Head First Kotlin: A Brain-Friendly Guide"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

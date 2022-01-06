@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">57</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">837f918c-2e28-46a9-ae14-9e11ee7182be</dc:identifier>
+        <dc:title>Sex at Dawn: How We Mate, Why We Stray, and What It Means for Modern Relationships</dc:title>
+        <dc:creator opf:file-as="Ryan, Christopher &amp; Jetha, Cacilda" opf:role="aut">Christopher Ryan</dc:creator>
+        <dc:creator opf:file-as="Ryan, Christopher &amp; Jetha, Cacilda" opf:role="aut">Cacilda Jetha</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-26T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;“Sex at Dawn challenges conventional wisdom about sex in a big way. By examining the prehistoric origins of human sexual behavior the authors are able to expose the fallacies and weaknesses of standard theories proposed by most experts. This is a provocative, entertaining, and pioneering book. I learned a lot from it and recommend it highly.” — Andrew Weil, M.D. “Sex at Dawn irrefutably shows that what is obvious—that human beings, both male and female, are lustful—is true, and has always been so…. The more dubious its evidentiary basis and lack of connection with current reality, the more ardently the scientific inevitability of monogamy is maintained—even as it falls away around us.” — Stanton Peele, Ph.D. A controversial, idea-driven book that challenges everything you (think you) know about sex, monogamy, marriage, and family. In the words of Steve Taylor (The Fall, Waking From Sleep), Sex at Dawn is “a wonderfully provocative and well-written book which completely re-evaluates human sexual behavior and gets to the root of many of our social and psychological ills.”&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Harper Collins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780062207944</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">zV4PuFn5gvoC</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B007679QTG</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Human Sexuality</dc:subject>
+        <dc:subject>Family &amp; Relationships</dc:subject>
+        <dc:subject>Marriage &amp; Long-Term Relationships</dc:subject>
+        <dc:subject>Social Psychology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Christopher Ryan&quot;: &quot;&quot;, &quot;Cacilda Jetha&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2018-06-01T08:27:38+00:00"/>
+        <meta name="calibre:title_sort" content="Sex at Dawn: How We Mate, Why We Stray, and What It Means for Modern Relationships"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

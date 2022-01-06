@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">919</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">46f6157b-0501-4efa-aa20-919becd18eca</dc:identifier>
+        <dc:title>Cynical Theories</dc:title>
+        <dc:creator opf:file-as="Helen Pluckrose,James A. Lindsay" opf:role="aut">Helen Pluckrose,James A. Lindsay</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-15T00:00:00+00:00</dc:date>
+        <dc:description>Have you heard that language is violence and that science is sexist? Have you read that certain people shouldn't practice yoga or cook Chinese food? Or been told that being obese is healthy, that there is no such thing as biological sex, or that only white people can be racist? Are you confused by these ideas, and do you wonder how they have managed so quickly to challenge the very logic of Western society? In this probing and intrepid volume, Helen Pluckrose and James Lindsay document the evolution of the dogma behind these ideas, from its coarse origins in French postmodernism to its refinement within activist academic fields. Today this dogma is recognizable as much by its effects, such as cancel culture and social-media dogpiles, as by its tenets, which are all too often embraced as axiomatic in mainstream media: knowledge is a social construct; science and reason are tools of oppression; all human interactions are sites of oppressive power play; and language is dangerous. As Pluckrose and Lindsay warn, the unchecked proliferation of these anti-Enlightenment beliefs present a threat not only to liberal democracy but also to modernity itself. While acknowledging the need to challenge the complacency of those who think a just society has been fully achieved, Pluckrose and Lindsay break down how this often-radical activist scholarship does far more harm than good, not least to those marginalized communities it claims to champion. They also detail its alarmingly inconsistent and illiberal ethics. Only through a proper understanding of the evolution of these ideas, they conclude, can those who value science, reason, and consistently liberal ethics successfully challenge this harmful and authoritarian orthodoxy-in the academy, in culture, and beyond.</dc:description>
+        <dc:publisher>Independent Publishers Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Helen Pluckrose,James A. Lindsay&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-08-09T11:10:24.328563+00:00" name="calibre:timestamp"/>
+        <meta content="Cynical Theories" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

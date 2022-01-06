@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1076</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7fe98834-a194-4458-b226-255a6b080830</dc:identifier>
+        <dc:title>One Man's View of the World</dc:title>
+        <dc:creator opf:file-as="Yew, Lee Kuan" opf:role="aut">Lee Kuan Yew</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-08-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Born in 1923, Singapore's former Prime Minister Lee Kuan Yew has spent a lifetime being intimately involved in international affairs. He has met every major Chinese leader from Mao Zedong to Xi Jinping and hobnobbed with American presidents from Lyndon Johnson to Barack Obama. In this book, Lee draws on that wealth of experience and depth of insight to offer his views on today's world and what it might look like in 20 years. This is no dry geopolitical treatise. Nor is it a thematic account of the twists and turns in global affairs. Instead, in this broad-sweep narrative that takes in America, China, Asia and Europe, he parses their society, probes the psyche of the people and draws his conclusions about their chances for survival and just where they might land in the hierarchy of tomorrow's balance of power. What makes a society tick? What do its people really believe? Can it adapt? In spare, unflinching prose that eschews political correctness, he describes a China that remains obsessed with control from the centre on its way to an unstoppable rise; an America that will have to share its pre-eminence despite its never-say-die dynamism; and a Europe that struggles with the challenges of keeping its union intact. His candid and often startling views - on why Japan is closed to foreigners, why the Arab Spring won't bring one man, one vote to the Middle East, and why preventing global warming is not going to be as fruitful as preparing for it - make this a fresh and gripping read. Lee completes the book by looking into the future of Singapore - his enduring concern - and by offering the reader a glimpse into his personal life and his view of death. The book is interspersed with a Q&amp;amp;A section in each chapter, gleaned from conversations he had with journalists from The Straits Times.
+**&lt;/p&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">24d5ef10-bbb3-49ff-8b23-26220163eefe</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789814342568</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lee Kuan Yew&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-11-19T07:29:31+00:00"/>
+        <meta name="calibre:title_sort" content="One Man's View of the World"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

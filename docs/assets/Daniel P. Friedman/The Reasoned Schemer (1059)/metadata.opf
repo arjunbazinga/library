@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1059</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">69dce594-ed28-4670-9eb0-15ba1ccb5bbe</dc:identifier>
+        <dc:title>The Reasoned Schemer</dc:title>
+        <dc:creator opf:file-as="Friedman, Daniel P. &amp; Byrd, William E. &amp; Kiselyov, Oleg &amp; Hemann, Jason" opf:role="aut">Daniel P. Friedman</dc:creator>
+        <dc:creator opf:file-as="Friedman, Daniel P. &amp; Byrd, William E. &amp; Kiselyov, Oleg &amp; Hemann, Jason" opf:role="aut">William E. Byrd</dc:creator>
+        <dc:creator opf:file-as="Friedman, Daniel P. &amp; Byrd, William E. &amp; Kiselyov, Oleg &amp; Hemann, Jason" opf:role="aut">Oleg Kiselyov</dc:creator>
+        <dc:creator opf:file-as="Friedman, Daniel P. &amp; Byrd, William E. &amp; Kiselyov, Oleg &amp; Hemann, Jason" opf:role="aut">Jason Hemann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-10-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A new edition of a book, written in a humorous question-and-answer style, that shows how to implement and use an elegant little programming language for logic programming.The goal of this book is to show the beauty and elegance of relational programming, which captures the essence of logic programming. The book shows how to implement a relational programming language in Scheme, or in any other functional language, and demonstrates the remarkable flexibility of the resulting relational programs. As in the first edition, the pedagogical method is a series of questions and answers, which proceed with the characteristic humor that marked The Little Schemer and The Seasoned Schemer. Familiarity with a functional language or with the first five chapters of The Little Schemer is assumed. For this second edition, the authors have greatly simplified the programming language used in the book, as well as the implementation of the language. In addition to revising the text extensively, and simplifying and revising the "Laws" and "Commandments," they have added explicit "Translation" rules to ease translation of Scheme functions into relations.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>MIT Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780262535519</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07B9SL4LR</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">ur34DwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Daniel P. Friedman&quot;: &quot;&quot;, &quot;William E. Byrd&quot;: &quot;&quot;, &quot;Oleg Kiselyov&quot;: &quot;&quot;, &quot;Jason Hemann&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-30T14:00:41+00:00"/>
+        <meta name="calibre:title_sort" content="Reasoned Schemer, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">653</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ca8ddd53-de29-4611-a5df-ffb7cec43c58</dc:identifier>
+        <dc:title>The Case Against the Fed</dc:title>
+        <dc:creator opf:file-as="Rothbard, Murray N." opf:role="aut">Murray N. Rothbard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-09-03T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The most powerful case against the American central bank ever written. This work begins with a minitreatment of money and banking theory, and then plunges right in with the real history of the Federal Reserve System. Rothbard covers the struggle between competing elites and how they converged with the Fed. &lt;/p&gt;
+&lt;p&gt;Rothbard calls for the abolition of the central bank and a restoration of the gold standard. His popular treatment incorporates the best and most up-to-date scholarship on the Fed's origins and effects. &lt;/p&gt;
+&lt;p&gt;The contents of this volume include:&lt;br&gt;&lt;em&gt;Introduction: Money and Politics&lt;br&gt;&lt;/em&gt;The Genesis of Money&lt;br&gt;&lt;em&gt;What is the Optimum Quantity of Money?&lt;br&gt;&lt;/em&gt;Monetary Inflation and Counterfeiting&lt;br&gt;&lt;em&gt;Legalized Counterfeiting&lt;br&gt;&lt;/em&gt;Loan Banking&lt;br&gt;&lt;em&gt;Deposit Banking&lt;br&gt;&lt;/em&gt;Problems for the Fractional-Reserve Banker: The Criminal Law&lt;br&gt;&lt;em&gt;Problems for the Fractional-Reserve Banker: Insolvency&lt;br&gt;&lt;/em&gt;Booms and Busts&lt;br&gt;&lt;em&gt;Types of Warehouse Receipts&lt;br&gt;&lt;/em&gt;Enter the Central Bank&lt;br&gt;&lt;em&gt;Easing the Limits on Bank Credit Expansion&lt;br&gt;&lt;/em&gt;The Central Bank Buys Assets&lt;br&gt;&lt;em&gt;Origins of the Federal Reserve: The Advent of the National Banking System&lt;br&gt;&lt;/em&gt;Origins of the Federal Reserve: Wall Street Discontent&lt;br&gt;&lt;em&gt;Putting Cartelization Across: The Progressive Line&lt;br&gt;&lt;/em&gt;Putting a Central Bank Across: Manipulating a Movement, 1897-1902&lt;br&gt;&lt;em&gt;The Central Bank Movement Revives, 1906-1910&lt;br&gt;&lt;/em&gt;Culmination at Jekyll Island&lt;br&gt;&lt;em&gt;The Fed at Last: Morgan-Controlled Inflation&lt;br&gt;&lt;/em&gt;The New Deal and the Displacement of the Morgans&lt;br&gt;&lt;em&gt;Deposit "Insurance"&lt;br&gt;&lt;/em&gt;How the Fed Rules and Inflates&lt;br&gt;* What Can Be Done? &lt;/p&gt;
+&lt;p&gt;To search for Mises Institute titles, enter a keyword and "LvMI" (short for Ludwig von Mises Institute); e.g., "Depression LvMI" **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ludwig von Mises Institute</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">094546617X</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B002AKKCEC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Murray N. Rothbard&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2020-03-28T06:02:34+00:00" name="calibre:timestamp"/>
+        <meta content="Case Against the Fed, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

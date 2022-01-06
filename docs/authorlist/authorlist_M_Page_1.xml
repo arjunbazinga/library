@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Authors starting with M</title>
+  <id>Calibre2opds:authorlist:M</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Authors starting with M" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>Martin Amis</title>
+    <id>Calibre2opds:author:774</id>
+    <content type="text">Money: A Suicide Note</content>
+    <link href="../author_0/author_774_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Margaret Atwood</title>
+    <id>Calibre2opds:author:318</id>
+    <content type="text">The Handmaid's Tale</content>
+    <link href="../author_0/author_318_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Marcus Aurelius</title>
+    <id>Calibre2opds:author:220</id>
+    <content type="text">Meditations</content>
+    <link href="../author_0/author_220_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Marc Bousquet</title>
+    <id>Calibre2opds:author:268</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_268_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Miguel de Cervantes</title>
+    <id>Calibre2opds:author:283</id>
+    <content type="text">Don Quixote</content>
+    <link href="../author_0/author_283_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Marcus Tullius Cicero</title>
+    <id>Calibre2opds:author:240</id>
+    <content type="text">De Oratore</content>
+    <link href="../author_0/author_240_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Mihaly Csikszentmihalyi</title>
+    <id>Calibre2opds:author:144</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_144_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>MJ DeMarco</title>
+    <id>Calibre2opds:author:420</id>
+    <content type="text">2 books</content>
+    <link href="../author_0/author_420_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Mandeep K. Dhami</title>
+    <id>Calibre2opds:author:648</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_648_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Michael C. Feathers</title>
+    <id>Calibre2opds:author:650</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_650_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Murray Gell-Mann</title>
+    <id>Calibre2opds:author:213</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_213_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Malcolm Gladwell</title>
+    <id>Calibre2opds:author:9</id>
+    <content type="text">Blink, Outliers</content>
+    <link href="../author_0/author_9_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Maureen Johnson</title>
+    <id>Calibre2opds:author:795</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_795_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Martin Kleppmann</title>
+    <id>Calibre2opds:author:372</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_372_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Matt Kline</title>
+    <id>Calibre2opds:author:333</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_333_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Milan Kundera</title>
+    <id>Calibre2opds:author:342</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_342_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Monica S. Lam</title>
+    <id>Calibre2opds:author:769</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_769_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Michael Lewis</title>
+    <id>Calibre2opds:author:312</id>
+    <content type="text">4 books</content>
+    <link href="../author_0/author_312_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Mark Ludwig</title>
+    <id>Calibre2opds:author:338</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_338_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Margaret MacMillan</title>
+    <id>Calibre2opds:author:194</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_194_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Machiavelli, Jim Manis</title>
+    <id>Calibre2opds:author:235</id>
+    <content type="text">Discourses Titus Livius</content>
+    <link href="../author_0/author_235_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Mark Manson</title>
+    <id>Calibre2opds:author:2</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_2_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Martin Kleppmann, Victor B. F. Gomes, Dominic P. Mulligan</title>
+    <id>Calibre2opds:author:658</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_658_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Mckeown, Greg</title>
+    <id>Calibre2opds:author:22</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_22_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Micha Gorelick, Ian Ozsvald</title>
+    <id>Calibre2opds:author:723</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_723_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Michael T. Osterholm, Mark Olshaker</title>
+    <id>Calibre2opds:author:479</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_479_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Michaels, F.S.</title>
+    <id>Calibre2opds:author:252</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_252_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Miller, Henry</title>
+    <id>Calibre2opds:author:319</id>
+    <content type="text">Tropic of Cancer</content>
+    <link href="../author_0/author_319_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Ming Li, Paul Vitanyi</title>
+    <id>Calibre2opds:author:344</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_344_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Marvin Minsky</title>
+    <id>Calibre2opds:author:231</id>
+    <content type="text">The society of mind</content>
+    <link href="../author_0/author_231_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Mokyr, Joel</title>
+    <id>Calibre2opds:author:50</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_50_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Mark Monmonier</title>
+    <id>Calibre2opds:author:364</id>
+    <content type="text">How to Lie with Maps</content>
+    <link href="../author_0/author_364_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Montaigne, John Florio</title>
+    <id>Calibre2opds:author:271</id>
+    <content type="text">Montaigne's Essays</content>
+    <link href="../author_0/author_271_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Murphy, Joseph</title>
+    <id>Calibre2opds:author:429</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_429_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Michael Pollan</title>
+    <id>Calibre2opds:author:56</id>
+    <content type="text">How to Change Your Mind</content>
+    <link href="../author_0/author_56_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Mario Puzo</title>
+    <id>Calibre2opds:author:132</id>
+    <content type="text">The Godfather</content>
+    <link href="../author_0/author_132_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Martin Rees</title>
+    <id>Calibre2opds:author:717</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_717_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Matt Ridley</title>
+    <id>Calibre2opds:author:249</id>
+    <content type="text">2 books</content>
+    <link href="../author_0/author_249_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Marshall B. Rosenberg</title>
+    <id>Calibre2opds:author:204</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_204_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Murray N. Rothbard</title>
+    <id>Calibre2opds:author:404</id>
+    <content type="text">The Case Against the Fed</content>
+    <link href="../author_0/author_404_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Muriel Spark</title>
+    <id>Calibre2opds:author:549</id>
+    <content type="text">The Prime of Miss Jean Brodie</content>
+    <link href="../author_0/author_549_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Max Stirner</title>
+    <id>Calibre2opds:author:726</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_726_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Matt Taibbi</title>
+    <id>Calibre2opds:author:424</id>
+    <content type="text">Hate Inc.</content>
+    <link href="../author_0/author_424_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Mark Twain</title>
+    <id>Calibre2opds:author:201</id>
+    <content type="text">2 books</content>
+    <link href="../author_0/author_201_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Matthew Walker</title>
+    <id>Calibre2opds:author:102</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_102_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Max Wertheimer</title>
+    <id>Calibre2opds:author:720</id>
+    <content type="text">Productive Thinking</content>
+    <link href="../author_0/author_720_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Michal Zalewski</title>
+    <id>Calibre2opds:author:439</id>
+    <content type="text">Silence on the Wire</content>
+    <link href="../author_0/author_439_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+</feed>

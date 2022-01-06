@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">546</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">750a2ce5-1d4e-428b-b64d-c3625df65b82</dc:identifier>
+        <dc:title>Compilers: Principles, Techniques, and Tools</dc:title>
+        <dc:creator opf:file-as="Aho, Alfred V. &amp; Lam, Monica S. &amp; Sethi, Ravi &amp; Ullman, Jeffrey D." opf:role="aut">Alfred V. Aho</dc:creator>
+        <dc:creator opf:file-as="Aho, Alfred V. &amp; Lam, Monica S. &amp; Sethi, Ravi &amp; Ullman, Jeffrey D." opf:role="aut">Monica S. Lam</dc:creator>
+        <dc:creator opf:file-as="Aho, Alfred V. &amp; Lam, Monica S. &amp; Sethi, Ravi &amp; Ullman, Jeffrey D." opf:role="aut">Ravi Sethi</dc:creator>
+        <dc:creator opf:file-as="Aho, Alfred V. &amp; Lam, Monica S. &amp; Sethi, Ravi &amp; Ullman, Jeffrey D." opf:role="aut">Jeffrey D. Ullman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-09-09T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;em&gt;Compilers: Principles, Techniques and Tools&lt;/em&gt; , known to professors, students, and developers worldwide as the "Dragon Book," is available in a new edition.  Every chapter has been completely revised to reflect developments in software engineering, programming languages, and computer architecture that have occurred since 1986, when the last edition published.  The authors, recognizing that few readers will ever go on to construct a compiler, retain their focus on the broader set of problems faced in software design and software development. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Addison Wesley</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780321486813</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0321493028</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Programming</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alfred V. Aho&quot;: &quot;&quot;, &quot;Monica S. Lam&quot;: &quot;&quot;, &quot;Ravi Sethi&quot;: &quot;&quot;, &quot;Jeffrey D. Ullman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2019-01-27T09:36:38+00:00"/>
+        <meta name="calibre:title_sort" content="Compilers: Principles, Techniques, and Tools"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

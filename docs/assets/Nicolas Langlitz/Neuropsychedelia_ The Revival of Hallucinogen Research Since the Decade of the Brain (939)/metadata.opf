@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">939</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">506bbe9b-c6d5-4797-a45a-71e3ec77b8b9</dc:identifier>
+        <dc:title>Neuropsychedelia: The Revival of Hallucinogen Research Since the Decade of the Brain</dc:title>
+        <dc:creator opf:file-as="Langlitz, Nicolas" opf:role="aut">Nicolas Langlitz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-11-06T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;em&gt;Neuropsychedelia&lt;/em&gt; examines the revival of psychedelic science since the "Decade of the Brain." After the breakdown of this previously prospering area of psychopharmacology, and in the wake of clashes between counterculture and establishment in the late 1960s, a new generation of hallucinogen researchers used the hype around the neurosciences in the 1990s to bring psychedelics back into the mainstream of science and society. This book is based on anthropological fieldwork and philosophical reflections on life and work in two laboratories that have played key roles in this development: a human lab in Switzerland and an animal lab in California. It sheds light on the central transnational axis of the resurgence connecting American psychedelic culture with the home country of LSD. In the borderland of science and religion, &lt;em&gt;Neuropsychedelia&lt;/em&gt; explores the tensions between the use of hallucinogens to model psychoses and to evoke spiritual experiences in laboratory settings. Its protagonists, including the anthropologist himself, struggle to find a place for the mystical under conditions of late-modern materialism. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Univ of California Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780520274822</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0520274822</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">jakwDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Anthropology</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nicolas Langlitz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-08-21T08:16:07+00:00"/>
+        <meta name="calibre:title_sort" content="Neuropsychedelia: The Revival of Hallucinogen Research Since the Decade of the Brain"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

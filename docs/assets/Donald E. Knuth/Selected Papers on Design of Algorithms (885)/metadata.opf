@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">885</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eee06b00-ee3e-4478-b3e3-2ce226080f2f</dc:identifier>
+        <dc:title>Selected Papers on Design of Algorithms</dc:title>
+        <dc:creator opf:file-as="Knuth, Donald E." opf:role="aut">Donald E. Knuth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Donald Knuth’s influence in computer science ranges from the invention of methods for translating and defining programming languages to the creation of the TEX and METAFONT systems for desktop publishing. His award-winning textbooks have become classics that are often given credit for shaping the field; his scientific papers are widely referenced and stand as milestones of development over a wide variety of topics. The present volume, which is the seventh in a series of his collected papers, is devoted to his work on the design of new algorithms. It covers methods for numerous discrete problems such as sorting, searching, data compression, optimization, theorem-proving, and cryptography, as well as methods for controlling errors in numerical computations and for Brownian motion.&lt;/p&gt;
+&lt;p&gt;Nearly thirty of Knuth’s classic papers on the subject are collected in this book, brought up to date with extensive revisions and notes on subsequent developments. Many of these algorithms have seen wide use—for example, Knuth’s algorithm for optimum search trees, the Faller-Gallagher-Knuth algorithm for adaptive Huffman coding, the Knuth-Morris-Pratt algorithm for pattern matching, the Dijkstra-Knuth algorithm for optimum expressions, and the Knuth-Bendix algorithm for deducing the consequences of axioms. Others are pedagogically important, helping students to learn how to design new algorithms for new tasks. One or two are significant historically, as they show how things were done in computing’s early days. All are found here, together with more than forty newly created illustrations.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Center for the Study of Language and Inf</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1575865823</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781575865829</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Donald E. Knuth&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="CSLI Lecture Notes"/>
+        <meta name="calibre:series_index" content="191"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2010-07-29T19:27:02+00:00"/>
+        <meta name="calibre:title_sort" content="Selected Papers on Design of Algorithms"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

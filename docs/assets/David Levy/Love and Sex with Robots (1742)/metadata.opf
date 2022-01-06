@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1742</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7b8ee855-6108-46d1-81f0-a0d29e7616ca</dc:identifier>
+        <dc:title>Love and Sex with Robots</dc:title>
+        <dc:creator opf:file-as="Levy, David" opf:role="aut">David Levy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Love, marriage, and sex with robots? Not in a million years? Maybe a whole lot sooner!&lt;/p&gt;&lt;p&gt;A leading expert in artificial intelligence, David Levy argues that the entities we once deemed cold and mechanical will soon become the objects of real companionship and human desire. He shows how automata have evolved and how human interactions with technology have changed over the years. Levy explores many aspects of human relationships&amp;#8212;the reasons we fall in love, why we form emotional attachments to animals and virtual pets, and why these same attachments could extend to love for robots. Levy also examines how society's ideas about what constitutes normal sex have changed&amp;#8212;and will continue to change&amp;#8212;as sexual technology becomes increasingly sophisticated. &lt;/p&gt;&lt;p&gt;Shocking, eye-opening, provocative, and utterly convincing, Love and Sex with Robots is compelling reading for anyone with an open mind.&lt;/p&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="9780061860386">9780061860386</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;David Levy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-09-26T15:50:22+00:00"/>
+        <meta name="calibre:title_sort" content="Love and Sex with Robots"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

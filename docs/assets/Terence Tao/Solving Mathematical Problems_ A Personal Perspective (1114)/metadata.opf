@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1114</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b387487f-80f9-47a6-960d-279e5281d2a1</dc:identifier>
+        <dc:title>Solving Mathematical Problems: A Personal Perspective</dc:title>
+        <dc:creator opf:file-as="Tao, Terence" opf:role="aut">Terence Tao</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-12-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Authored by a leading name in mathematics, this engaging and clearly presented text leads the reader through the various tactics involved in solving mathematical problems at the Mathematical Olympiad level. Covering number theory, algebra, analysis, Euclidean geometry, and analytic geometry, Solving Mathematical Problems includes numerous exercises and model solutions throughout. Assuming only a basic level of mathematics, the text is ideal for students of 14 years and above in pure mathematics. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Oxford University Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780199205615</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">4IM_AQAAIAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0199205604</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Terence Tao&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-12-06T11:34:18+00:00"/>
+        <meta name="calibre:title_sort" content="Solving Mathematical Problems: A Personal Perspective"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

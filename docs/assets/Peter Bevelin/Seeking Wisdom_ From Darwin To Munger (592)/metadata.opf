@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">592</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bb4c469f-8d13-4a9b-8063-0f54fadd134c</dc:identifier>
+        <dc:title>Seeking Wisdom: From Darwin to Munger</dc:title>
+        <dc:creator opf:file-as="Bevelin, Peter" opf:role="aut">Peter Bevelin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-09-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Peter Bevelin begins his fascinating book with Confucius' great wisdom: "A man who has committed a mistake and doesn't correct it, is committing another mistake." Seeking Wisdom is the result of Bevelin's learning about attaining wisdom. His quest for wisdom originated partly from making mistakes himself and observing those of others but also from the philosophy of super-investor and Berkshire Hathaway Vice Chairman Charles Munger. A man whose simplicity and clarity of thought was unequal to anything Bevelin had seen. In addition to naturalist Charles Darwin and Munger, Bevelin cites an encyclopedic range of thinkers: from first-century BCE Roman poet Publius Terentius to Mark Twain-from Albert Einstein to Richard Feynman-from 16th Century French essayist Michel de Montaigne to Berkshire Hathaway Chairman Warren Buffett. In the book, he describes ideas and research findings from many different fields. This book is for those who love the constant search for knowledge. It is in the spirit of Charles Munger, who says, "All I want to know is where I'm going to die so I'll never go there." There are roads that lead to unhappiness. An understanding of how and why we can "die" should help us avoid them. We can't eliminate mistakes, but we can prevent those that can really hurt us. Using exemplars of clear thinking and attained wisdom, Bevelin focuses on how our thoughts are influenced, why we make misjudgments and tools to improve our thinking. Bevelin tackles such eternal questions as: Why do we behave like we do? What do we want out of life? What interferes with our goals? Read and study this wonderful multidisciplinary exploration of wisdom. It may change the way you think and act in business and in life.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Post scriptum</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">9163136864</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789163136863</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">QkX6OQAACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Munger</dc:subject>
+        <dc:subject>Investing</dc:subject>
+        <dc:subject>Mental Models</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Peter Bevelin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2019-10-22T12:52:22+00:00"/>
+        <meta name="calibre:title_sort" content="Seeking Wisdom: From Darwin to Munger"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

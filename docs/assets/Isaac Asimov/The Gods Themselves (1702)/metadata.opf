@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1702</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f0de4623-0a6b-4fd1-b637-12b2a3c83b78</dc:identifier>
+        <dc:title>The Gods Themselves</dc:title>
+        <dc:creator opf:file-as="Asimov, Isaac" opf:role="aut">Isaac Asimov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1990-09-04T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div&gt;&lt;h3&gt;Amazon.com Review&lt;/h3&gt;&lt;p&gt;Winner of the &lt;/p&gt;&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;Only a few know the terrifying truth--an outcast Earth scientist, a rebellious alien inhabitant of a dying planet, a lunar-born human intuitionist who senses the imminent annihilation of the Sun.  They know the truth--but who will listen?  They have foreseen the cost of abundant energy--but who will believe?  These few beings, human and alien, hold the key to the Earth's survival. &lt;/p&gt;
+
+&lt;/div&gt;
+&lt;h3&gt;Amazon.com Review&lt;/h3&gt;&lt;p&gt;Winner of the &lt;/p&gt;&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;Only a few know the terrifying truth--an outcast Earth scientist, a rebellious alien inhabitant of a dying planet, a lunar-born human intuitionist who senses the imminent annihilation of the Sun.  They know the truth--but who will listen?  They have foreseen the cost of abundant energy--but who will believe?  These few beings, human and alien, hold the key to the Earth's survival. &lt;/p&gt;
+
+&lt;/div&gt;</dc:description>
+        <dc:publisher>Random House Digital, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780553288100</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction; American</dc:subject>
+        <dc:subject>Sun</dc:subject>
+        <dc:subject>Space Opera</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Human-alien encounters</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Isaac Asimov&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-07-09T19:31:36+00:00"/>
+        <meta name="calibre:title_sort" content="Gods Themselves, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

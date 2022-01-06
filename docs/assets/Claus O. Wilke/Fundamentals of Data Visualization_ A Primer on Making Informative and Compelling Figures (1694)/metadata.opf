@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1694</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b14b8f24-da08-4ff6-b5af-9a18bab20a78</dc:identifier>
+        <dc:title>Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures</dc:title>
+        <dc:creator opf:file-as="Wilke, Claus O." opf:role="aut">Claus O. Wilke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-18T19:27:06+00:00</dc:date>
+        <dc:description>&lt;p&gt;Effective visualization is the best way to communicate information from the increasingly large and complex datasets in the natural and social sciences. But with the increasing power of visualization software today, scientists, engineers, and business analysts often have to navigate a bewildering array of visualization choices and options.
+This practical book takes you through many commonly encountered visualization problems, and it provides guidelines on how to turn large datasets into clear and compelling figures. What visualization type is best for the story you want to tell? How do you make informative figures that are visually pleasing? Author Claus O. Wilke teaches you the elements most critical to successful data visualization.
+  * Explore the basic concepts of color as a tool to highlight, distinguish, or represent a value
+  * Understand the importance of redundant coding to ensure you provide key information in multiple ways
+  * Use the book’s visualizations directory, a graphical guide to commonly used types of data visualizations
+  * Get extensive examples of good and bad figures
+  * Learn how to use figures in a document or report and how employ them effectively to tell a compelling story&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;</dc:description>
+        <dc:publisher>"O'Reilly Media, Inc."</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">XmmNDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1492031089</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781492031055</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Data Visualization</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Skills</dc:subject>
+        <dc:subject>Industries</dc:subject>
+        <dc:subject>Computers &amp; Information Technology</dc:subject>
+        <dc:subject>Business Mathematics</dc:subject>
+        <dc:subject>Computer Graphics</dc:subject>
+        <dc:subject>Data Processing</dc:subject>
+        <dc:subject>Data Modeling &amp; Design</dc:subject>
+        <dc:subject>Desktop Applications</dc:subject>
+        <dc:subject>Design &amp; Graphics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Claus O. Wilke&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-07-09T19:26:54+00:00"/>
+        <meta name="calibre:title_sort" content="Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

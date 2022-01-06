@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1190</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">661480e2-e06f-4ea4-8842-bf5956f77532</dc:identifier>
+        <dc:title>Vectors: Aphorisms &amp; Ten-Second Essays</dc:title>
+        <dc:creator opf:file-as="Richardson, James" opf:role="aut">James Richardson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-01-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Richardson is well-known for his five previous volumes of poetry and for his critical work. Along with new poems, this book includes a large selection of aphorisms, which have brought him a whole new audience. They are witty, profound, and often very funny.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ausable Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780967266886</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Sg0NpKQWe7wC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Literary Criticism</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Richardson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-01-22T18:19:25+00:00"/>
+        <meta name="calibre:title_sort" content="Vectors: Aphorisms &amp; Ten-Second Essays"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

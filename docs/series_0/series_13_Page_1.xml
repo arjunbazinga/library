@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>CFA Level 1</title>
+  <id>Calibre2opds::serieslistseries:13</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_13_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="CFA Level 1" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series" />
+  <entry>
+    <title>1 - Ethical , Professional Standards,  Quantative Methods</title>
+    <id>calibre:book:618</id>
+    <updated>2020-03-28T11:32:28Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/CFA%20Institute/Ethical%20%2C%20Professional%20Standards%2C%20%20Quantative%20Methods%20%28618%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/CFA%20Institute/Ethical%20%2C%20Professional%20Standards%2C%20%20Quantative%20Methods%20%28618%29/Ethical%20%2C%20Professional%20Standards%2C%20%20Quantat%20-%20CFA%20Institute.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>CFA Institute</name>
+      <uri>../author_0/author_521_Page_1.xml</uri>
+    </author>
+    <published>2019-04-17T06:38:33Z</published>
+    <category term="CFA Level 1" />
+    <summary>CFA Level 1 [1]:</summary>
+    <link href="../book_0/book_618.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

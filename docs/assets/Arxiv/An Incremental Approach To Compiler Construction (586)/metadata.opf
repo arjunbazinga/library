@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">586</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">690a0a4a-df68-4e4f-b69a-56f6c0a46996</dc:identifier>
+        <dc:title>An Incremental Approach To Compiler Construction</dc:title>
+        <dc:creator opf:file-as="Arxiv" opf:role="aut">Arxiv</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;font face="Ubuntu, sans-serif"&gt;Making a compiler&lt;/font&gt;&lt;div&gt;&lt;font face="Ubuntu, sans-serif"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Ubuntu, sans-serif"&gt;arxiv&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Abdulaziz Ghuloum</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Arxiv&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2019-06-02T04:22:01+00:00"/>
+        <meta name="calibre:title_sort" content="Incremental Approach To Compiler Construction, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

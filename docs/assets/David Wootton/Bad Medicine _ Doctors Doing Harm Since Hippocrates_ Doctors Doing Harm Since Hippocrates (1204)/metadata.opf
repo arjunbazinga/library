@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1204</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3429e87c-9328-4d3c-b9ad-c5b0e9ae7a07</dc:identifier>
+        <dc:title>Bad Medicine : Doctors Doing Harm Since Hippocrates: Doctors Doing Harm Since Hippocrates</dc:title>
+        <dc:creator opf:file-as="Wootton, David" opf:role="aut">David Wootton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-06-21T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;We all face disease and death, and rely on the medical profession to extend our lives. Yet, David Wootton argues, from the fifth century BC until the 1930s, doctors actually did more harm than good. In this controversial new account of the history of medicine, he asks just how much good it has done us over the years, and how much harm it continues to do today. - ;Just how much good has medicine done over the years, and how much harm does it continue to do? The history of medicine begins with Hippocrates in the fifth century BC. Yet until the invention of antibiotics in the 1930s doctors, in general, did their patients more harm than good. In this fascinating new look at the history of medicine, David Wootton argues that for more than 2300 years doctors have relied on their patients' misplaced faith in their ability to cure. Over and over again major discoveries which could save lives were met with professional resistance. And this is not just a phenomenon of the distant past. The first patient effectively treated with penicillin was in the 1880s; the second not until the 1940s. There was overwhelming evidence that smoking caused lung cancer in the 1950s; but it took thirty years for doctors to accept the claim that smoking was addictive. In the 1960s there was the notorious thalidomide tragedy, while today there is the ongoing problem of unnecessary operations, especially in the United States - and this all at a time of rapidly rising healthcare costs. As Wootton graphically illustrates, throughout history and right up to the present, bad medical practice has often been deeply entrenched and stubbornly resistant to evidence. This is a bold and challenging book - and the first general history of medicine to acknowledge the frequency with which doctors do harm. - ;A sad but fascinating story of centuries of missed opportunities, unnecessary suffering and misplaced faith in outlandish remedies. - Nick Rennison, Sunday Times Culture;The historical catastrophe of medicine has never been so excitingly and stirringly told. - Druin Birch, Times Literary Supplement;David Wotton [creates] a genuinely thrilling adventure out of the abysmal failings of doctors over the past 2000 years. - Druin Birch, Times Literary Supplement;A very stimulating and thought-provoking book. - Theodore Dalrymple, Sunday Telegraph;Ought to be required reading for every first year medical student. - British Medical Journal;lucid, elegantly written and pleasingly slim book - Will Cohu, Sunday Telegraph&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Oxford University Press, UK</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780192803559</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">956vo-Tt2v4C</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>History</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Medical</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;David Wootton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-01-26T14:03:48+00:00"/>
+        <meta name="calibre:title_sort" content="Bad Medicine : Doctors Doing Harm Since Hippocrates: Doctors Doing Harm Since Hippocrates"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

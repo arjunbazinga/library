@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">982</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">501e9dfb-5625-4a26-a92f-cf43501f6d88</dc:identifier>
+        <dc:title>Essentials of Programming Languages</dc:title>
+        <dc:creator opf:file-as="Daniel P. Friedman, Mitchell Wand" opf:role="aut">Daniel P. Friedman, Mitchell Wand</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-06T16:17:33+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;span style="color: #000000"&gt;What really happens when a program runs? &lt;/span&gt;&lt;em style="color: #000000"&gt;Essentials of Programming Languages&lt;/em&gt;&lt;span style="color: #000000"&gt; teaches the fundamental concepts of programming languages through numerous short programs, or "interpreters," that actually implement the features of a language. Nearly 300 exercises using these programs provide a hands-on understanding of programming principles that is hard, if not impossible, to achieve by formal study alone. In an approach that is uniquely suited to mastering a new level of programming structure, the authors derive a sequence of interpreters that begins with a high-level operational specification (close to formal semantics) and ends with what is effectively assembly language a process involving programming transformation techniques that should be in the toolbox of every programmer. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000"&gt;The first four chapters provide the foundation for an indepth study of programming languages, including most of the features of Scheme, needed to run the language-processing programs of the book. The next four chapters form the core of the book, deriving a sequence of interpreters ranging from very high- to very low-level. The authors then explore variations in programming language semantics, including various parameter-passing techniques and object-oriented languages, and describe techniques for transforming interpreters that ultimately allow the interpreter to be implemented in any low-level language. They conclude by discussing scanners and parsers and the derivation of a compiler and virtual machine from an interpreter. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000"&gt;Daniel P. Friedman is Professor of Computer Science at Indiana University. Mitchell Wand is Professor in the College of Computer Science at Northeastern University. Christopher T. Haynes is Associate Professor in the Computer Science Department at Indiana University. ** &lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Daniel P. Friedman, Mitchell Wand&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-09-02T06:27:38+00:00"/>
+        <meta name="calibre:title_sort" content="Essentials of Programming Languages"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

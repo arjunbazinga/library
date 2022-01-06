@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1175</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7fb84d7f-551e-49b5-a7ef-d2ec22239116</dc:identifier>
+        <dc:title>Generalized Linear Models &amp; Applications in Engineering &amp; the Sciences</dc:title>
+        <dc:creator opf:file-as="Raymond H. Myers, Douglas C. Montgomery, G. Geoffrey Vining" opf:role="aut">Raymond H. Myers, Douglas C. Montgomery, G. Geoffrey Vining</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Second Edition&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong style="color: #000000"&gt;Praise for the First Edition&lt;/strong&gt;&lt;span style="color: #000000"&gt; "The obvious enthusiasm of Myers, Montgomery, and Vining and their reliance on their many examples as a major focus of their pedagogy make Generalized Linear Models a joy to read. Every statistician working in any area of applied science should buy it and experience the excitement of these new approaches to familiar activities."&lt;br&gt;―Technometrics &lt;/span&gt;&lt;em style="color: #000000"&gt;Generalized Linear Models: With Applications in Engineering and the Sciences, Second Edition&lt;/em&gt;&lt;span style="color: #000000"&gt; continues to provide a clear introduction to the theoretical foundations and key applications of generalized linear models (GLMs). Maintaining the same nontechnical approach as its predecessor, this update has been thoroughly extended to include the latest developments, relevant computational approaches, and modern examples from the fields of engineering and physical sciences. This new edition maintains its accessible approach to the topic by reviewing the various types of problems that support the use of GLMs and providing an overview of the basic, related concepts such as multiple linear regression, nonlinear regression, least squares, and the maximum likelihood estimation procedure. Incorporating the latest developments, new features of this Second Edition include: * A new chapter on random effects and designs for GLMs * A thoroughly revised chapter on logistic and Poisson regression, now with additional results on goodness of fit testing, nominal and ordinal responses, and overdispersion * A new emphasis on GLM design, with added sections on designs for regression models and optimal designs for nonlinear regression models * Expanded discussion of weighted least squares, including examples that illustrate how to estimate the weights * Illustrations of R code to perform GLM analysis&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000"&gt;The authors demonstrate the diverse applications of GLMs through numerous examples, from classical applications in the fields of biology and biopharmaceuticals to more modern examples related to engineering and quality assurance. The &lt;/span&gt;&lt;em style="color: #000000"&gt;Second Edition&lt;/em&gt;&lt;span style="color: #000000"&gt; has been designed to demonstrate the growing computational nature of GLMs, as SAS®, Minitab®, JMP®, and R software packages are used throughout the book to demonstrate fitting and analysis of generalized linear models, perform inference, and conduct diagnostic checking. Numerous figures and screen shots illustrating computer output are provided, and a related FTP site houses supplementary material, including computer commands and additional data sets. &lt;/span&gt;&lt;em style="color: #000000"&gt;Generalized Linear Models, Second Edition&lt;/em&gt;&lt;span style="color: #000000"&gt; is an excellent book for courses on regression analysis and regression modeling at the upper-undergraduate and graduate level. It also serves as a valuable reference for engineers, scientists, and statisticians who must understand and apply GLMs in their work. ** &lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Wiley Series in Probability and Statistics</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Raymond H. Myers, Douglas C. Montgomery, G. Geoffrey Vining&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-01-13T07:03:58+00:00"/>
+        <meta name="calibre:title_sort" content="Generalized Linear Models &amp; Applications in Engineering &amp; the Sciences"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

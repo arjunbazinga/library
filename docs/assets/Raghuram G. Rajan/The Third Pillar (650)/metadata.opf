@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">650</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">82680f7d-bd68-4501-91c5-ff16b670f14a</dc:identifier>
+        <dc:title>The Third Pillar</dc:title>
+        <dc:creator opf:file-as="Rajan, Raghuram G." opf:role="aut">Raghuram G. Rajan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-26T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;From one of the most important economic thinkers of our time, a brilliant and far-seeing analysis of the current populist backlash against globalization.&lt;/b&gt;&lt;br&gt;Raghuram Rajan, distinguished University of Chicago economist, former IMF chief economist, head of India's central bank, and author of the 2010 FT-Goldman-Sachs Book of the Year &lt;i&gt;Fault Lines&lt;/i&gt;, has an unparalleled vantage point onto the social and economic consequences of globalization and their ultimate effect on our politics. In &lt;i&gt;The Third Pillar &lt;/i&gt;he offers up a magnificent big-picture framework for understanding how these three forces - the economy, society, and the state - interact, why things begin to break down, and how we can find our way back to a more secure and stable plane. &lt;br&gt;The "third pillar" of the title is society. Economists all too often understand their field as the relationship between the market and government, and they leave squishy social issues for other people. That's not just myopic,...</dc:description>
+        <dc:publisher>Penguin Publishing Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Raghuram G. Rajan&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-03-28T06:02:34+00:00" name="calibre:timestamp"/>
+        <meta content="Third Pillar, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">882</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0464f005-469a-422e-9366-ae471de6d0c4</dc:identifier>
+        <dc:title>Trance and Treatment: Clinical Uses of Hypnosis</dc:title>
+        <dc:creator opf:file-as="Spiegel, Herbert &amp; Spiegel, David" opf:role="aut">Herbert Spiegel</dc:creator>
+        <dc:creator opf:file-as="Spiegel, Herbert &amp; Spiegel, David" opf:role="aut">David Spiegel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;What is hypnosis? Despite widespread misconceptions, hypnosis is not a treatment in itself; instead, it is a facilitator -- a useful diagnostic tool that can help the practitioner choose an appropriate treatment modality and accelerate various primary treatment strategies. The second edition of this remarkable work (first published 25 years ago) is written to provide both beginning and seasoned practitioners with a brief, disciplined technique for mobilizing and learning from an individual's capacity to concentrate. Putting to rest both exaggerated fears about hypnosis and overblown statements of its efficacy, this compelling volume brings scientific discipline to a systematic exploration of the clinical uses and limitations of hypnosis. The challenge was to develop a clinical measurement that could transform a fascinating amalgam of anecdotes, speculations, clinical intuitions and observations, and laboratory advances into a more fruitful and systematic body of information. Thus was born the authors' Hypnotic Induction Profile (HIP), a crucial 10-minute clinical assessment procedure that relates the spectrum of hypnotizability to personality style, psychopathology, and treatment outcome. Structured to reflect the flow of a typical evaluation and treatment session and highlighted by case examples throughout, this remarkable synthesis describes how to use the HIP, reviews relevant literature, and details principles and short- and long-term treatment strategies for smoking control; eating disorders; anxiety, concentration, and insomnia; phobias; pain control; psychosomatic disorders and conversion symptoms; trichotillomania; stuttering; and acute and posttraumatic stress disorders and dissociation. Meticulously referenced and indexed, this in-depth work concludes with an appendix on the interpretation and standardization of the HIP.This unique work stands out in the literature because - It is written both as an introduction for practitioners new to hypnosis and as an in-depth guide for practitioners with wide experience in hypnosis.- Unlike current clinical works, it emphasizes the importance of performing a systematic assessment of hypnotizability to identify, measure, and utilize a given patient's optimal therapeutic potential -- a process that, until now, has been relegated to clinical intuition.- It describes human behavior phenomenologically as it relates to hypnosis in a probable rather than an absolute fashion.- It reviews only specific portions of the literature that are particularly relevant to the important themes presented by the authors. Wherever possible, the authors apply statistical methods to test their hypotheses. The realm of scientific investigation encompassing hypnosis and psychological dysfunction is comparatively new. This exceptional volume, with its profusion of systematic data, will spark controversy and interest among scientific students of hypnosis everywhere, from psychiatrists, psychologists, and psychoanalysts to physicians, dentists, and other interested clinicians. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="AMAZON">1585621900</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hypnosis</dc:subject>
+        <dc:subject>Medicine</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Herbert Spiegel&quot;: &quot;&quot;, &quot;David Spiegel&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-07-28T13:34:42+00:00"/>
+        <meta name="calibre:title_sort" content="Trance and Treatment: Clinical Uses of Hypnosis"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1727</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1fd2a972-3c74-4cbf-ae36-d00783297d30</dc:identifier>
+        <dc:title>Sell Your Business Your Way: Getting Out, Getting Rich, and Getting on With Your Life</dc:title>
+        <dc:creator opf:file-as="Rickertsen, Rick" opf:role="aut">Rick Rickertsen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-09-21T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Sell Your Business Your Way features a treasure trove of sample documents, adaptable forms, and - whether you plan to hire one consultant or dozens - a resource listing hundreds of business brokers, valuation firms, accountants, investment firms, debt-financing sources, and much more. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>AMACOM</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0814408966</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780814408964</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Rick Rickertsen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-09-08T15:53:44+00:00"/>
+        <meta name="calibre:title_sort" content="Sell Your Business Your Way: Getting Out, Getting Rich, and Getting on With Your Life"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1231</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6e4b106a-e75f-4263-a2f4-7134f4f77b00</dc:identifier>
+        <dc:title>Causal Inference</dc:title>
+        <dc:creator opf:file-as="Miquel A. Hernan , James M. Robins" opf:role="aut">Miquel A. Hernan , James M. Robins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Causal inference is a complex scientific task that relies on combining evidence from multiple sources, and on the application of a variety of methodological approaches. Causal Inference: What If is an introduction to causal inference when data are collected on each individual in a population. The book is divided into three parts of increasing difficulty: causal inference without models, causal inference with models, and causal inference from complex longitudinal data. The book helps scientists to generate and analyze data for causal inferences that are explicit about both the causal question and the assumptions underlying the data analysis. Features: Provides a cohesive presentation of concepts and methods for causal inference that are currently scattered across journals in several disciplines Emphasizes the need to take the causal question seriously enough to articulate it with sufficient precision Shows that causal inference from observational data cannot be reduced to a collection of recipes for data analysis, as subject-matter knowledge is required to justify the necessary assumptions Describes causal diagrams, both directed acyclic graphs and single-world intervention graphs, to represent causal inference problems Describes various data analysis approaches to estimate the causal effect of interest, including the g-formula, inverse probability weighting, g-estimation, instrumental variable estimation, and propensity score adjustment Includes 'Fine Points' and 'Technical Points' throughout to elaborate on certain key topics, as well as software and real data examples Causal Inference: What If has been written to be accessible to all professionals that make causal inferences, including epidemiologists, statisticians, psychologists, economists, sociologists, political scientists, computer scientists, and more. It can be used to teach an introductory course on causal inference at graduate and advanced undergraduate level.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>CRC Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781420076165</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1420076167</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">_KnHIAAACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Medical</dc:subject>
+        <dc:subject>Epidemiology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Miquel A. Hernan , James M. Robins&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-05-26T15:19:34+00:00"/>
+        <meta name="calibre:title_sort" content="Causal Inference"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

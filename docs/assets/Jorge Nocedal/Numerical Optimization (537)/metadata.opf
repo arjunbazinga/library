@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">537</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4cb97964-f56d-4690-b515-5bf172512603</dc:identifier>
+        <dc:title>Numerical Optimization</dc:title>
+        <dc:creator opf:file-as="Nocedal, Jorge &amp; Wright, Stephen" opf:role="aut">Jorge Nocedal</dc:creator>
+        <dc:creator opf:file-as="Nocedal, Jorge &amp; Wright, Stephen" opf:role="aut">Stephen Wright</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-12-10T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Numerical Optimization presents a comprehensive and up-to-date description of the most effective methods in continuous optimization. It responds to the growing interest in optimization in engineering, science, and business by focusing on the methods that are best suited to practical problems. For this new edition the book has been thoroughly updated throughout. There are new chapters on nonlinear interior methods and derivative-free methods for optimization, both of which are used widely in practice and the focus of much current research. Because of the emphasis on practical methods, as well as the extensive illustrations and exercises, the book is accessible to a wide audience. It can be used as a graduate text in engineering, operations research, mathematics, computer science, and business. It also serves as a handbook for researchers and practitioners in the field. The authors have strived to produce a text that is pleasant to read, informative, and rigorous - one that reveals both the beautiful nature of the discipline and its practical side. There is a selected solutions manual for instructors for the new edition.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Springer Science &amp; Business Media</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">VbHYoSyelFcC</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0387303030</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780387400655</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Applied</dc:subject>
+        <dc:subject>Calculus</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>System Theory</dc:subject>
+        <dc:subject>Counting &amp; Numeration</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Operations Research</dc:subject>
+        <dc:subject>Optimization</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Functional Analysis</dc:subject>
+        <dc:subject>Language Arts &amp; Disciplines</dc:subject>
+        <dc:subject>Library &amp; Information Science</dc:subject>
+        <dc:subject>Numerical Analysis</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jorge Nocedal&quot;: &quot;&quot;, &quot;Stephen Wright&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2018-11-04T17:32:19+00:00"/>
+        <meta name="calibre:title_sort" content="Numerical Optimization"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1152</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bed128f2-3b7a-4ea8-8fd7-56ac4864fb94</dc:identifier>
+        <dc:title>Machine Learning With R, the Tidyverse, and Mlr</dc:title>
+        <dc:creator opf:file-as="Rhys, Hefin I." opf:role="aut">Hefin I. Rhys</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-30T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Summary Machine learning (ML) is a collection of programming techniques for discovering relationships in data. With ML algorithms, you can cluster and classify data for tasks like making recommendations or fraud detection and make predictions for sales trends, risk analysis, and other forecasts. Once the domain of academic data scientists, machine learning has become a mainstream business process, and tools like the easy-to-learn R programming language put high-quality data analysis in the hands of any programmer. Machine Learning with R, the tidyverse, and mlr teaches you widely used ML techniques and how to apply them to your own datasets using the R programming language and its powerful ecosystem of tools. This book will get you started! Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. About the book Machine Learning with R, the tidyverse, and mlr gets you started in machine learning using R Studio and the awesome mlr machine learning package. This practical guide simplifies theory and avoids needlessly complicated statistics or math. All core ML techniques are clearly explained through graphics and easy-to-grasp examples. In each engaging chapter, you’ll put a new algorithm into action to solve a quirky predictive analysis problem, including Titanic survival odds, spam email filtering, and poisoned wine investigation. What's inside Using the tidyverse packages to process and plot your data Techniques for supervised and unsupervised learning Classification, regression, dimension reduction, and clustering algorithms Statistics primer to fill gaps in your knowledge About the reader For newcomers to machine learning with basic skills in R. About the author Hefin I. Rhys is a senior laboratory research scientist at the Francis Crick Institute. He runs his own YouTube channel of screencast tutorials for R and RStudio. Table of contents: PART 1 - INTRODUCTION 1.Introduction to machine learning 2. Tidying, manipulating, and plotting data with the tidyverse PART 2 - CLASSIFICATION 3. Classifying based on similarities with k-nearest neighbors 4. Classifying based on odds with logistic regression 5. Classifying by maximizing separation with discriminant analysis 6. Classifying with naive Bayes and support vector machines 7. Classifying with decision trees 8. Improving decision trees with random forests and boosting PART 3 - REGRESSION 9. Linear regression 10. Nonlinear regression with generalized additive models 11. Preventing overfitting with ridge regression, LASSO, and elastic net 12. Regression with kNN, random forest, and XGBoost PART 4 - DIMENSION REDUCTION 13. Maximizing variance with principal component analysis 14. Maximizing similarity with t-SNE and UMAP 15. Self-organizing maps and locally linear embedding PART 5 - CLUSTERING 16. Clustering by finding centers with k-means 17. Hierarchical clustering 18. Clustering based on density: DBSCAN and OPTICS 19. Clustering based on distributions with mixture modeling 20. Final notes and further reading&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781617296574</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">jRzYDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Neural Networks</dc:subject>
+        <dc:subject>Databases</dc:subject>
+        <dc:subject>Data Mining</dc:subject>
+        <dc:subject>Intelligence (AI) &amp; Semantics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hefin I. Rhys&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-18T20:46:11+00:00"/>
+        <meta name="calibre:title_sort" content="Machine Learning With R, the Tidyverse, and Mlr"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

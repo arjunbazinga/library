@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1747</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da7e6f82-b897-4005-9c66-85eff00a83e9</dc:identifier>
+        <dc:title>The History of the Future: Oculus, Facebook, and the Revolution That Swept Virtual Reality</dc:title>
+        <dc:creator opf:file-as="Harris, Blake J." opf:role="aut">Blake J. Harris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-19T11:11:04+00:00</dc:date>
+        <dc:description>The dramatic, larger-than-life true story behind the founding of Oculus and its quest for virtual reality, by the bestselling author of Console Wars. Drawing on over a hundred interviews with the key players driving this revolution, The History of the Future weaves together a rich, cinematic narrative that captures the breakthroughs, breakdowns and human drama of trying to change the world. The result is a super accessible and supremely entertaining look at the birth of a game-changing new industry.From iconic books like Neuromancer to blockbuster films like The Matrix, virtual reality has long been hailed as the ultimate technology. But outside of a few research labs and military training facilities, this tantalizing vision of the future was nothing but science fiction. Until 2012, when Oculus founder Palmer Luckey—then just a rebellious teenage dreamer living alone in a camper trailer—invents a device that has the potential to change everything. With the help of a videogame legend, a serial entrepreneur and many other colorful characters, Luckey’s scrappy startup kickstarts a revolution and sets out to bring VR to the masses. As with most underdog stories, things don’t quite go according to plan. But what happens next turns out to be the ultimate entrepreneurial journey: a tale of battles won and lost, lessons learned and neverending twists and turns—including an unlikely multi-billion-dollar acquisition by Facebook’s Mark Zuckerberg, which shakes up the landscape in Silicon Valley and gives Oculus the chance to forever change our reality. Drawing on over a hundred interviews with the key players driving this revolution, The History of the Future weaves together a rich, cinematic narrative that captures the breakthroughs, breakdowns and human drama of trying to change the world. The result is a super accessible and supremely entertaining look at the birth of a game-changing new industry.</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">97HnDQAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780062455987</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Virtual &amp; Augmented Reality</dc:subject>
+        <dc:subject>Technology &amp; Engineering</dc:subject>
+        <dc:subject>Social Aspects</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Industries</dc:subject>
+        <dc:subject>Computers &amp; Information Technology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Blake J. Harris&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-11-05T10:57:34+00:00"/>
+        <meta name="calibre:title_sort" content="History of the Future: Oculus, Facebook, and the Revolution That Swept Virtual Reality, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

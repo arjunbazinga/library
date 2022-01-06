@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">986</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1a207a00-f8ec-44ca-9edc-2983a5f66d2d</dc:identifier>
+        <dc:title>An Elegant Puzzle: Systems of Engineering Management</dc:title>
+        <dc:creator opf:file-as="Larson, Will" opf:role="aut">Will Larson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-27T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;span style="color: #000000"&gt;There's a saying that people don't leave companies, they leave managers. Management is a key part of any organization, yet the discipline is often self-taught and unstructured. Getting to the good solutions of complex management challenges can make the difference between fulfillment and frustration for teams, and, ultimately, the success or failure of companies. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000"&gt;Will Larson's &lt;/span&gt;&lt;em style="color: #000000"&gt;An Elegant Puzzle&lt;/em&gt;&lt;span style="color: #000000"&gt; orients around the particular challenges of engineering management--from sizing teams to technical debt to succession planning--and provides a path to the good solutions. Drawing from his experience at Digg, Uber, and Stripe, Will Larson has developed a thoughtful approach to engineering management that leaders of all levels at companies of all sizes can apply. &lt;/span&gt;&lt;em style="color: #000000"&gt;An Elegant Puzzle&lt;/em&gt;&lt;span style="color: #000000"&gt; balances structured principles and human-centric thinking to help any leader create more effective and rewarding organizations for engineers to thrive in. ** &lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Stripe Press</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07QYCHJ7V</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Will Larson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-09-02T13:09:36+00:00"/>
+        <meta name="calibre:title_sort" content="Elegant Puzzle: Systems of Engineering Management, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

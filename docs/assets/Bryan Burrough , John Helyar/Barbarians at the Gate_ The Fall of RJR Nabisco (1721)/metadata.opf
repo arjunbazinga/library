@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1721</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">73ca1804-bd46-4dd8-8cf6-352b16b226ab</dc:identifier>
+        <dc:title>Barbarians at the Gate: The Fall of RJR Nabisco</dc:title>
+        <dc:creator opf:file-as="Bryan Burrough , John Helyar" opf:role="aut">Bryan Burrough , John Helyar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-13T04:49:28+00:00</dc:date>
+        <dc:description>“One of the finest, most compelling accounts of what happened to corporate America and Wall Street in the 1980’s.” —New York Times Book ReviewA #1 New York Times bestseller and arguably the best business narrative ever written, Barbarians at the Gate is the classic account of the fall of RJR Nabisco. An enduring masterpiece of investigative journalism by Bryan Burrough and John Helyar, it includes a new afterword by the authors that brings this remarkable story of greed and double-dealings up to date twenty years after the famed deal. The Los Angeles Times calls Barbarians at the Gate, “Superlative.” The Chicago Tribune raves, “It’s hard to imagine a better story...and it’s hard to imagine a better account.” And in an era of spectacular business crashes and federal bailouts, it still stands as a valuable cautionary tale that must be heeded.</dc:description>
+        <dc:publisher>Harper Collins</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">G7j3n0q7yq0C</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780061804038</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Corporate &amp; Business History</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Modern</dc:subject>
+        <dc:subject>20th Century</dc:subject>
+        <dc:subject>Industries</dc:subject>
+        <dc:subject>Food Industry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bryan Burrough , John Helyar&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-07-14T04:48:55+00:00"/>
+        <meta name="calibre:title_sort" content="Barbarians at the Gate: The Fall of RJR Nabisco"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

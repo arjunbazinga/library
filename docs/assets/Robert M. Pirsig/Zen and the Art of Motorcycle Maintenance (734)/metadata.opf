@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">734</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8b84814f-c183-438d-b198-a5289d16fbaf</dc:identifier>
+        <dc:title>Zen and the Art of Motorcycle Maintenance</dc:title>
+        <dc:creator opf:file-as="Pirsig, Robert M." opf:role="aut">Robert M. Pirsig</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1984-09-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The extraordinary story of a man's quest for truth. It will change the way you think and feel about your life. "The cycle you're working on is a cycle called 'yourself.'" "The study of the art of motorcycle maintainence is really a study of the art of rationality itself. Working on a motorcycle, working well, caring, is to become part of a process, to achieve an inner peace of mind. The motorcycle is primarily a mental phenomenon." -- Robert M. Pirsig "Profoundly important... full of insights into our most perplexing contemporary dilemmas... It is intellectual entertainment of the highest order." -- "The New York Times" "It lodges in the mind as few recent novels have... The book is inspired, original... As the mountains gentle toward the sea--with father and child locked in a ghostly grip--the narrative tact, the perfect economy of effect defy criticism... The analogies with "Moby Dick" are patent. Robert Pirsig invites the prodigious comparison... What more can one say?" -- "The New Yorker" "It's a miracle.. sparkles like an electric dream. Freshness, originality... that seduces you into loving motorcycles, as tender in their pistons as the petals in the Buddah's dawn lotus." -- "The Village Voice"&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Bantam Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780553277470</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">uIETEv37kDoC</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0060589469</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Zen</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Self-Esteem</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert M. Pirsig&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:45+00:00"/>
+        <meta name="calibre:title_sort" content="Zen and the Art of Motorcycle Maintenance"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

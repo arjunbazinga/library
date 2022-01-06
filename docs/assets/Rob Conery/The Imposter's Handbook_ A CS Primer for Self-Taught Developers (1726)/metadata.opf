@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1726</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">22ec877d-5b9d-40b1-b97e-11ad3c56a160</dc:identifier>
+        <dc:title>The Imposter's Handbook: A CS Primer for Self-Taught Developers</dc:title>
+        <dc:creator opf:file-as="Conery, Rob" opf:role="aut">Rob Conery</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.34.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-25T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Don't have a CS degree? Neither does Rob. That's why he wrote this book: to fill the gaps in his career. The result? Over 450 pages of essentials skills and ideas every developer should know with illustrations by the author, who loves to sketch. An illustrated CS Primer, if you will. Rob is a self-taught software developer (like so many) and for most of his career he learned what was required to get the job done. When conversations veered toward core concepts, he disengaged. Rob decided to change all of this in 2014. He sat down and looked up all of the topics that a typical CS degree covers and then dove in. Half way through, he decided to write a book about what he was learning. That book is The Imposter's Handbook, a compendium of useful programming concepts from Algorithms to Complexity Theory, TDD to Garbage Collection. Things you should really know if you're paid to write software.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Amazon Digital Services LLC - KDP Print US</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9798679414075</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">VefZzQEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computer Science</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rob Conery&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-09-08T15:53:43+00:00"/>
+        <meta name="calibre:title_sort" content="Imposter's Handbook: A CS Primer for Self-Taught Developers, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

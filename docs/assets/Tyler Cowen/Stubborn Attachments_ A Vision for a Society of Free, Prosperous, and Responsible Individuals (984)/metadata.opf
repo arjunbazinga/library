@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">984</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fa9c0040-74fb-4510-a7f0-bf5dfcbca9f1</dc:identifier>
+        <dc:title>Stubborn Attachments: A Vision for a Society of Free, Prosperous, and Responsible Individuals</dc:title>
+        <dc:creator opf:file-as="Cowen, Tyler" opf:role="aut">Tyler Cowen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-10-15T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Growth is good&lt;/strong&gt;. Through history, economic growth, in particular, has alleviated human misery, improved human happiness and opportunity, and lengthened human lives. Wealthier societies are more stable, offer better living standards, produce better medicines, and ensure greater autonomy, greater fulfillment, and more sources of fun. If we want to continue on our trends of growth, and the overwhelmingly positive outcomes for societies that come with it, every individual must become more concerned with the welfare of those around us. So, how do we proceed? &lt;/p&gt;
+&lt;p&gt;Tyler Cowen, in a culmination of 20 years of thinking and research, provides a roadmap for moving forward. In this new book, &lt;em&gt;Stubborn Attachments: A Vision for a Society of Free, Prosperous, and Responsible Individuals&lt;/em&gt; , Cowen argues that our reason and common sense can help free us of the faulty ideas that hold us back as people and as a society. Stubborn Attachments, at its heart, makes the contemporary moral case for economic growth and delivers a great dose of inspiration and optimism about our future possibilities. &lt;/p&gt;
+&lt;p&gt;"Tyler Cowen is one of the most intriguing and eclectic thinkers on the planet like many people, I read something by him every day. In Stubborn Attachments he combines economics and philosophy in a truly important achievement. His best, most ambitious and most personal work. -Tim Harford, author of &lt;em&gt;The Undercover Economist&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;As a means of practicing the altruism that Stubborn Attachments argues for, Tyler Cowen is donating all earnings from this book to a man he met in Ethiopia earlier this year with aspirations to open his own travel business.&lt;/em&gt; **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Stripe Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">xsbFugEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1732265135</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07G9DFC8W</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781732265134</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>PHILOSOPHY / PHI005000 - Ethics &amp; Moral Philosophy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Tyler Cowen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-09-02T13:09:35+00:00"/>
+        <meta name="calibre:title_sort" content="Stubborn Attachments: A Vision for a Society of Free, Prosperous, and Responsible Individuals"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

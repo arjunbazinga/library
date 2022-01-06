@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1171</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">64c15eb8-0a6b-4759-aad4-f0ba76ce2429</dc:identifier>
+        <dc:title>The Synthesizer Generator : A System for Constructing Language-Based Editors</dc:title>
+        <dc:creator opf:file-as="Thomas W. Reps, Tim Teitelbaum" opf:role="aut">Thomas W. Reps, Tim Teitelbaum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-28T15:21:46+00:00</dc:date>
+        <dc:publisher>Springer</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas W. Reps, Tim Teitelbaum&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-01-05T18:53:23+00:00"/>
+        <meta name="calibre:title_sort" content="Synthesizer Generator : A System for Constructing Language-Based Editors, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">595</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">893bef14-027b-4899-8bab-8ac5667e940c</dc:identifier>
+        <dc:title>Side Hustle</dc:title>
+        <dc:creator opf:file-as="Guillebeau, Chris" opf:role="aut">Chris Guillebeau</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-19T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;The author of the New York Times Bestseller THE $100 STARTUP, shows how to launch a profitable side hustle in just 27 days.&lt;/b&gt;&lt;br&gt; &lt;br&gt;To some, the idea of quitting their day job to start a business is exhilarating. For others, it's terrifying. After all, a job that produces a steady paycheck can be difficult to give up.&lt;br&gt; &lt;br&gt;But in a time when businesses have so little loyalty to employees that the very notion of "job security" has become a punchline, wouldn't it be great to have an additional source of income to fall back on? And wouldn't it be great to make that happen &lt;i&gt;without&lt;/i&gt; leaving your day job?&lt;br&gt; &lt;br&gt;Enter the Side Hustle. Based on detailed information from hundreds of case studies, Chris Guillebeau provides a step-by-step guide that anyone can use to create and launch a profitable project in less than a month. Designed for the busy and impatient, this plan will have you generating income immediately, without the risk of throwing yourself head first into the...</dc:description>
+        <dc:publisher>The Crown Publishing Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Chris Guillebeau&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-10T11:33:16.734889+00:00" name="calibre:timestamp"/>
+        <meta content="Side Hustle" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

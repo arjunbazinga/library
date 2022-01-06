@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c695997b-c7a9-4dda-b2ff-9c137b390f20</dc:identifier>
+        <dc:title>How Buildings Learn: What Happens After They're Built</dc:title>
+        <dc:creator opf:file-as="Brand, Stewart" opf:role="aut">Stewart Brand</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1995-09-30T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Buildings have often been studies whole in space, but never before have they been studied whole in time. &lt;strong&gt;How Buildings Learn&lt;/strong&gt; is a masterful new synthesis that proposes that buildings adapt best when constantly refined and reshaped by their occupants, and that architects can mature from being artists of space to becoming artists of time. From the connected farmhouses of New England to I.M. Pei's Media Lab, from "satisficing" to "form follows funding," from the evolution of bungalows to the invention of Santa Fe Style, from Low Road military surplus buildings to a High Road English classic like Chatsworth—this is a far-ranging survey of unexplored essential territory. More than any other human artifacts, buildings improve with time—if they're allowed to. &lt;strong&gt;How Buildings Learn&lt;/strong&gt; shows how to work with time rather than against it. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781101562642</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00AFZ3PI4</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">zkgRgdVN2GIC</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0140139966</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Architecture</dc:subject>
+        <dc:subject>Historic Preservation</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Criticism</dc:subject>
+        <dc:subject>History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stewart Brand&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2018-06-01T08:27:06+00:00"/>
+        <meta name="calibre:title_sort" content="How Buildings Learn: What Happens After They're Built"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

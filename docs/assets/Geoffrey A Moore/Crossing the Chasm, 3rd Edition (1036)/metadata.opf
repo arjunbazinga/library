@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1036</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0ed1903b-7c8c-4086-9f63-0af0aae59336</dc:identifier>
+        <dc:title>Crossing the Chasm, 3rd Edition</dc:title>
+        <dc:creator opf:file-as="Moore, Geoffrey A" opf:role="aut">Geoffrey A Moore</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The bible for bringing cutting-edge products to larger markets—now revised and updated with new insights into the realities of high-tech marketing In &lt;em&gt;Crossing the Chasm&lt;/em&gt;, Geoffrey A. Moore shows that in the Technology Adoption Life Cycle—which begins with innovators and moves to early adopters, early majority, late majority, and laggards—there is a vast chasm between the early adopters and the early majority. While early adopters are willing to sacrifice for the advantage of being first, the early majority waits until they know that the technology actually offers improvements in productivity. The challenge for innovators and marketers is to narrow this chasm and ultimately accelerate adoption across every segment. This third edition brings Moore's classic work up to date with dozens of new examples of successes and failures, new strategies for marketing in the digital world, and Moore's most current insights and findings. He also includes two new appendices, the first connecting the ideas in &lt;em&gt;Crossing the Chasm&lt;/em&gt; to work subsequently published in his &lt;em&gt;Inside the Tornado&lt;/em&gt; , and the second presenting his recent groundbreaking work for technology adoption models for high-tech consumer markets. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="AMAZON">0062292986</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Geoffrey A Moore&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-10-09T19:52:24+00:00"/>
+        <meta name="calibre:title_sort" content="Crossing the Chasm, 3rd Edition"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

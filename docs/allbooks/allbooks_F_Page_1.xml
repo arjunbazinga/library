@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with F</title>
+  <id>Calibre2opds:allbooks:F</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with F" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>Fahrenheit 451</title>
+    <id>calibre:book:23</id>
+    <updated>2019-12-07T00:47:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Ray%20Bradbury/Fahrenheit%20451%20%2823%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Ray%20Bradbury/Fahrenheit%20451%20%2823%29/Fahrenheit%20451%20-%20Ray%20Bradbury.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Ray%20Bradbury/Fahrenheit%20451%20%2823%29/Fahrenheit%20451%20-%20Ray%20Bradbury.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Ray%20Bradbury/Fahrenheit%20451%20%2823%29/Fahrenheit%20451%20-%20Ray%20Bradbury.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Ray Bradbury</name>
+      <uri>../author_0/author_233_Page_1.xml</uri>
+    </author>
+    <published>1953-10-27T06:30:00Z</published>
+    <link href="../book_0/book_23.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Failure is your Domain Middlemost Systems</title>
+    <id>calibre:book:866</id>
+    <updated>2020-07-22T10:44:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Unknown/Failure%20is%20your%20Domain%20Middlemost%20Systems%20%28866%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Unknown/Failure%20is%20your%20Domain%20Middlemost%20Systems%20%28866%29/Failure%20is%20your%20Domain%20Middlemost%20Systems%20-%20Unknown.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Unknown</name>
+      <uri>../author_0/author_278_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_866.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Fashionable Nonsense</title>
+    <id>calibre:book:29</id>
+    <updated>2020-03-28T07:51:34Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20Sokal/Fashionable%20Nonsense%20%2829%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20Sokal/Fashionable%20Nonsense%20%2829%29/Fashionable%20Nonsense%20-%20Alan%20Sokal.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20Sokal/Fashionable%20Nonsense%20%2829%29/Fashionable%20Nonsense%20-%20Alan%20Sokal.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20Sokal/Fashionable%20Nonsense%20%2829%29/Fashionable%20Nonsense%20-%20Alan%20Sokal.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Alan Sokal</name>
+      <uri>../author_0/author_26_Page_1.xml</uri>
+    </author>
+    <published>1997-09-30T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Picador</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>In 1996 physicist Alan Sokal published an essay in Social Text&amp;#8212;an influential academic journal of cultural studies&amp;#8212;touting the deep similarities between quantum gravitational theory and postmodern philosophy. Soon thereafter, the essay wa...</summary>
+    <link href="../book_0/book_29.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Father Forgets</title>
+    <id>calibre:book:574</id>
+    <updated>2019-12-07T00:47:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Unknown/Father%20Forgets%20%28574%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Unknown/Father%20Forgets%20%28574%29/Father%20Forgets%20-%20Unknown.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Unknown/Father%20Forgets%20%28574%29/Father%20Forgets%20-%20Unknown.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Unknown</name>
+      <uri>../author_0/author_278_Page_1.xml</uri>
+    </author>
+    <published>2007-05-03T10:07:46Z</published>
+    <category term="Essays" />
+    <link href="../book_0/book_574.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Feeling Good : The New Mood Therapy</title>
+    <id>calibre:book:478</id>
+    <updated>2020-03-28T07:04:14Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/David%20D.%20Burns/Feeling%20Good%20_%20The%20New%20Mood%20Therapy%20%28478%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/David%20D.%20Burns/Feeling%20Good%20_%20The%20New%20Mood%20Therapy%20%28478%29/Feeling%20Good%20_%20The%20New%20Mood%20Therapy%20-%20David%20D.%20Burns.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/David%20D.%20Burns/Feeling%20Good%20_%20The%20New%20Mood%20Therapy%20%28478%29/Feeling%20Good%20_%20The%20New%20Mood%20Therapy%20-%20David%20D.%20Burns.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/David%20D.%20Burns/Feeling%20Good%20_%20The%20New%20Mood%20Therapy%20%28478%29/Feeling%20Good%20_%20The%20New%20Mood%20Therapy%20-%20David%20D.%20Burns.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>David D. Burns</name>
+      <uri>../author_0/author_226_Page_1.xml</uri>
+    </author>
+    <published>1999-12-30T06:30:00Z</published>
+    <dcterms:publisher>Harper Paperbacks</dcterms:publisher>
+    <link href="../book_0/book_478.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Fifteen Decisive Battles of the World: from Marathon to Waterloo</title>
+    <id>calibre:book:429</id>
+    <updated>2020-03-28T07:08:34Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Sir%20Edward%20Shepherd%20Creasy/The%20Fifteen%20Decisive%20Battles%20of%20the%20World_%20from%20Marathon%20to%20Waterloo%20%28429%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Sir%20Edward%20Shepherd%20Creasy/The%20Fifteen%20Decisive%20Battles%20of%20the%20World_%20from%20Marathon%20to%20Waterloo%20%28429%29/The%20Fifteen%20Decisive%20Battles%20of%20the%20World_%20-%20Sir%20Edward%20Shepherd%20Creasy.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Sir%20Edward%20Shepherd%20Creasy/The%20Fifteen%20Decisive%20Battles%20of%20the%20World_%20from%20Marathon%20to%20Waterloo%20%28429%29/The%20Fifteen%20Decisive%20Battles%20of%20the%20World_%20-%20Sir%20Edward%20Shepherd%20Creasy.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Sir%20Edward%20Shepherd%20Creasy/The%20Fifteen%20Decisive%20Battles%20of%20the%20World_%20from%20Marathon%20to%20Waterloo%20%28429%29/The%20Fifteen%20Decisive%20Battles%20of%20the%20World_%20-%20Sir%20Edward%20Shepherd%20Creasy.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Sir Edward Shepherd Creasy</name>
+      <uri>../author_0/author_175_Page_1.xml</uri>
+    </author>
+    <published>2003-04-30T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Battles" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_429.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Financial Diet</title>
+    <id>calibre:book:470</id>
+    <updated>2020-03-28T07:16:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Chelsea%20Fagan%2C%20Lauren%20Ver%20Hage/The%20Financial%20Diet%20%28470%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Chelsea%20Fagan%2C%20Lauren%20Ver%20Hage/The%20Financial%20Diet%20%28470%29/The%20Financial%20Diet%20-%20Chelsea%20Fagan%2C%20Lauren%20Ver%20Hage.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Chelsea%20Fagan%2C%20Lauren%20Ver%20Hage/The%20Financial%20Diet%20%28470%29/The%20Financial%20Diet%20-%20Chelsea%20Fagan%2C%20Lauren%20Ver%20Hage.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Chelsea%20Fagan%2C%20Lauren%20Ver%20Hage/The%20Financial%20Diet%20%28470%29/The%20Financial%20Diet%20-%20Chelsea%20Fagan%2C%20Lauren%20Ver%20Hage.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Chelsea Fagan, Lauren Ver Hage</name>
+      <uri>../author_0/author_508_Page_1.xml</uri>
+    </author>
+    <published>2017-11-24T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Henry Holt and Co.</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>A budget boot camp and guide to long-term transformation that will help you save, date, decorate and dream your way to your best financial life.THE FINANCIAL DIET is the personal finance book for people who don't care about personal finance; it's you...</summary>
+    <link href="../book_0/book_470.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Financial Fraud A Forensic Approach</title>
+    <id>calibre:book:904</id>
+    <updated>2020-08-09T00:59:05Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Jim%20Spellman/Financial%20Fraud%20A%20Forensic%20Approach%20%28904%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Jim%20Spellman/Financial%20Fraud%20A%20Forensic%20Approach%20%28904%29/Financial%20Fraud%20A%20Forensic%20Approach%20-%20Jim%20Spellman.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Jim Spellman</name>
+      <uri>../author_0/author_703_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_904.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Financial Statements: A Step-by-Step Guide to Understanding and Creating Financial Reports</title>
+    <id>calibre:book:878</id>
+    <updated>2020-07-26T07:23:12Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Thomas%20R.%20Ittelson/Financial%20Statements_%20A%20Step-by-Step%20Guide%20to%20Understanding%20and%20Creating%20Financial%20Reports%20%28878%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Thomas%20R.%20Ittelson/Financial%20Statements_%20A%20Step-by-Step%20Guide%20to%20Understanding%20and%20Creating%20Financial%20Reports%20%28878%29/Financial%20Statements_%20A%20Step-by-Step%20Guide%20-%20Thomas%20R.%20Ittelson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Thomas%20R.%20Ittelson/Financial%20Statements_%20A%20Step-by-Step%20Guide%20to%20Understanding%20and%20Creating%20Financial%20Reports%20%28878%29/Financial%20Statements_%20A%20Step-by-Step%20Guide%20-%20Thomas%20R.%20Ittelson.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Thomas R. Ittelson</name>
+      <uri>../author_0/author_673_Page_1.xml</uri>
+    </author>
+    <published>2009-08-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Career Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_878.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Flow: The Psychology of Optimal Experience</title>
+    <id>calibre:book:397</id>
+    <updated>2020-03-28T07:09:14Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Mihaly%20Csikszentmihalyi/Flow_%20The%20Psychology%20of%20Optimal%20Experience%20%28397%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Mihaly%20Csikszentmihalyi/Flow_%20The%20Psychology%20of%20Optimal%20Experience%20%28397%29/Flow_%20The%20Psychology%20of%20Optimal%20Experience%20-%20Mihaly%20Csikszentmihalyi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Mihaly%20Csikszentmihalyi/Flow_%20The%20Psychology%20of%20Optimal%20Experience%20%28397%29/Flow_%20The%20Psychology%20of%20Optimal%20Experience%20-%20Mihaly%20Csikszentmihalyi.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Mihaly%20Csikszentmihalyi/Flow_%20The%20Psychology%20of%20Optimal%20Experience%20%28397%29/Flow_%20The%20Psychology%20of%20Optimal%20Experience%20-%20Mihaly%20Csikszentmihalyi.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Mihaly Csikszentmihalyi</name>
+      <uri>../author_0/author_144_Page_1.xml</uri>
+    </author>
+    <published>2009-10-12T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Harper Collins</dcterms:publisher>
+    <category term="Psychology" />
+    <category term="General" />
+    <category term="Creative Ability" />
+    <category term="Applied Psychology" />
+    <category term="Lang:en" />
+    <summary>THE BESTSELLING CLASSIC ON 'FLOW' – THE KEY TO UNLOCKING MEANING, CREATIVITY, PEAK PERFORMANCE, AND TRUE HAPPINESSLegendary psychologist Mihaly Csikszentmihalyi's famous investigations of "optimal experience" have revealed that what makes an experien...</summary>
+    <link href="../book_0/book_397.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Fluent in 3 Months: How Anyone at Any Age Can Learn to Speak Any Language from Anywhere in the World</title>
+    <id>calibre:book:139</id>
+    <updated>2020-03-28T07:29:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Lewis%2C%20Benny/Fluent%20in%203%20Months_%20How%20Anyone%20at%20Any%20Age%20Can%20Learn%20to%20Speak%20Any%20Language%20from%20Anywhere%20in%20the%20%28139%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Lewis%2C%20Benny/Fluent%20in%203%20Months_%20How%20Anyone%20at%20Any%20Age%20Can%20Learn%20to%20Speak%20Any%20Language%20from%20Anywhere%20in%20the%20%28139%29/Fluent%20in%203%20Months_%20How%20Anyone%20at%20Any%20Age%20-%20Lewis%2C%20Benny.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Lewis%2C%20Benny/Fluent%20in%203%20Months_%20How%20Anyone%20at%20Any%20Age%20Can%20Learn%20to%20Speak%20Any%20Language%20from%20Anywhere%20in%20the%20%28139%29/Fluent%20in%203%20Months_%20How%20Anyone%20at%20Any%20Age%20-%20Lewis%2C%20Benny.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Lewis%2C%20Benny/Fluent%20in%203%20Months_%20How%20Anyone%20at%20Any%20Age%20Can%20Learn%20to%20Speak%20Any%20Language%20from%20Anywhere%20in%20the%20%28139%29/Fluent%20in%203%20Months_%20How%20Anyone%20at%20Any%20Age%20-%20Lewis%2C%20Benny.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Lewis, Benny</name>
+      <uri>../author_0/author_93_Page_1.xml</uri>
+    </author>
+    <published>2014-03-11T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_139.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Fly *****</title>
+    <id>calibre:book:706</id>
+    <updated>2020-03-28T11:32:38Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Katherine%20Mansfield/The%20Fly%20%28706%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Katherine%20Mansfield/The%20Fly%20%28706%29/The%20Fly%20-%20Katherine%20Mansfield.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Katherine Mansfield</name>
+      <uri>../author_0/author_467_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <summary>"The Fly", by Katherine Mansfield, deals with the aftermath of the loss of an only beloved son in the wake of World War I. Rife with symbolism, the short story leaves the listener with intriguing questions to ponder. "The Fly" is a wonderful example...</summary>
+    <link href="../book_0/book_706.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Fooled by Randomness</title>
+    <id>calibre:book:19</id>
+    <updated>2020-03-28T08:00:44Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Nassim%20Nicholas%20Taleb/Fooled%20by%20Randomness%20%2819%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Nassim%20Nicholas%20Taleb/Fooled%20by%20Randomness%20%2819%29/Fooled%20by%20Randomness%20-%20Nassim%20Nicholas%20Taleb.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Nassim%20Nicholas%20Taleb/Fooled%20by%20Randomness%20%2819%29/Fooled%20by%20Randomness%20-%20Nassim%20Nicholas%20Taleb.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Nassim%20Nicholas%20Taleb/Fooled%20by%20Randomness%20%2819%29/Fooled%20by%20Randomness%20-%20Nassim%20Nicholas%20Taleb.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Nassim Nicholas Taleb</name>
+      <uri>../author_0/author_19_Page_1.xml</uri>
+    </author>
+    <published>2008-10-13T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_19.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>For Men Only, Revised and Updated Edition: A Straightforward Guide to the Inner Lives of Women ****</title>
+    <id>calibre:book:737</id>
+    <updated>2020-03-28T07:16:42Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Shaunti%20Feldhahn%2C%20Jeff%20Feldhahn/For%20Men%20Only%2C%20Revised%20and%20Updated%20Edition_%20A%20Straightforward%20Guide%20to%20the%20Inner%20Lives%20of%20Women%20%28737%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Shaunti%20Feldhahn%2C%20Jeff%20Feldhahn/For%20Men%20Only%2C%20Revised%20and%20Updated%20Edition_%20A%20Straightforward%20Guide%20to%20the%20Inner%20Lives%20of%20Women%20%28737%29/For%20Men%20Only%2C%20Revised%20and%20Updated%20Edition_%20-%20Shaunti%20Feldhahn%2C%20Jeff%20Feldhahn.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Shaunti%20Feldhahn%2C%20Jeff%20Feldhahn/For%20Men%20Only%2C%20Revised%20and%20Updated%20Edition_%20A%20Straightforward%20Guide%20to%20the%20Inner%20Lives%20of%20Women%20%28737%29/For%20Men%20Only%2C%20Revised%20and%20Updated%20Edition_%20-%20Shaunti%20Feldhahn%2C%20Jeff%20Feldhahn.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Shaunti Feldhahn, Jeff Feldhahn</name>
+      <uri>../author_0/author_509_Page_1.xml</uri>
+    </author>
+    <published>2006-04-03T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Multnomah Books</dcterms:publisher>
+    <category term="Non-Fiction" />
+    <category term="Psychology" />
+    <category term="Lang:en" />
+    <summary>Finally--You Can Understand Her! Women: complicated and impossible to understand? Do you love and want to please the woman in your life, but just can't seem to figure her out? That was before For Men Only. Now at your fingertips is the tool that will...</summary>
+    <link href="../book_0/book_737.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Fortune at the Bottom of the Pyramid</title>
+    <id>calibre:book:15</id>
+    <updated>2019-12-07T00:47:18Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/C.%20K.%20Prahalad/The%20Fortune%20at%20the%20Bottom%20of%20the%20Pyramid%20%2815%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/C.%20K.%20Prahalad/The%20Fortune%20at%20the%20Bottom%20of%20the%20Pyramid%20%2815%29/The%20Fortune%20at%20the%20Bottom%20of%20the%20Pyramid%20-%20C.%20K.%20Prahalad.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/C.%20K.%20Prahalad/The%20Fortune%20at%20the%20Bottom%20of%20the%20Pyramid%20%2815%29/The%20Fortune%20at%20the%20Bottom%20of%20the%20Pyramid%20-%20C.%20K.%20Prahalad.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/C.%20K.%20Prahalad/The%20Fortune%20at%20the%20Bottom%20of%20the%20Pyramid%20%2815%29/The%20Fortune%20at%20the%20Bottom%20of%20the%20Pyramid%20-%20C.%20K.%20Prahalad.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>C. K. Prahalad</name>
+      <uri>../author_0/author_229_Page_1.xml</uri>
+    </author>
+    <published>2004-07-07T04:57:50Z</published>
+    <dcterms:publisher>Wharton School Publishing</dcterms:publisher>
+    <link href="../book_0/book_15.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Fountainhead</title>
+    <id>calibre:book:474</id>
+    <updated>2020-03-28T07:01:06Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Ayn%20Rand%2C%20Peikoff%20Rand/The%20Fountainhead%20%28474%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Ayn%20Rand%2C%20Peikoff%20Rand/The%20Fountainhead%20%28474%29/The%20Fountainhead%20-%20Ayn%20Rand%2C%20Peikoff%20Rand.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Ayn%20Rand%2C%20Peikoff%20Rand/The%20Fountainhead%20%28474%29/The%20Fountainhead%20-%20Ayn%20Rand%2C%20Peikoff%20Rand.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Ayn%20Rand%2C%20Peikoff%20Rand/The%20Fountainhead%20%28474%29/The%20Fountainhead%20-%20Ayn%20Rand%2C%20Peikoff%20Rand.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Ayn Rand, Peikoff Rand</name>
+      <uri>../author_0/author_483_Page_1.xml</uri>
+    </author>
+    <published>1971-07-31T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Plume</dcterms:publisher>
+    <category term="Psychological" />
+    <category term="Man-Woman Relationships" />
+    <category term="Psychological Fiction" />
+    <category term="Architects" />
+    <category term="Fiction" />
+    <category term="Romance" />
+    <category term="Literary" />
+    <category term="General" />
+    <category term="Individual Architect" />
+    <category term="Architecture" />
+    <category term="Classics" />
+    <category term="Didactic Fiction" />
+    <category term="Individualism" />
+    <category term="Lang:en" />
+    <summary>A special edition hardcover in celebration of Ayn Rand's centennial.When it was first published in 1943, The Fountainhead--containing Ayn Rand's daringly original literary vision with the seeds of her groundbreaking philosophy, Objectivismwon immedi...</summary>
+    <link href="../book_0/book_474.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Fundamentals of Materials Science and Engineering, Binder Ready Version: An Integrated Approach ***</title>
+    <id>calibre:book:628</id>
+    <updated>2020-03-28T11:32:30Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/William%20D.%20Callister%20Jr_/Fundamentals%20of%20Materials%20Science%20and%20Engineering%2C%20Binder%20Ready%20Version_%20An%20Integrated%20Approach%20%28628%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/William%20D.%20Callister%20Jr_/Fundamentals%20of%20Materials%20Science%20and%20Engineering%2C%20Binder%20Ready%20Version_%20An%20Integrated%20Approach%20%28628%29/Fundamentals%20of%20Materials%20Science%20and%20Engi%20-%20William%20D.%20Callister%20Jr_.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>William D. Callister Jr.</name>
+      <uri>../author_0/author_781_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>David G. Rethwisch</name>
+      <uri>../author_0/author_782_Page_1.xml</uri>
+    </author>
+    <published>2015-12-13T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Wiley</dcterms:publisher>
+    <category term="materials science physics" />
+    <category term="Lang:en" />
+    <summary>***This text is an unbound, three hole punched version. 
+Fundamentals of Materials Science and Engineering: An Integrated Approach, Binder Ready Version, 5th Edition *takes an integrated approach to the sequence of topics – one specific structure, c...</summary>
+    <link href="../book_0/book_628.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Future Shock</title>
+    <id>calibre:book:432</id>
+    <updated>2019-12-07T00:47:18Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Alvin%20Toffler/Future%20Shock%20%28432%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Alvin%20Toffler/Future%20Shock%20%28432%29/Future%20Shock%20-%20Alvin%20Toffler.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Alvin%20Toffler/Future%20Shock%20%28432%29/Future%20Shock%20-%20Alvin%20Toffler.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Alvin%20Toffler/Future%20Shock%20%28432%29/Future%20Shock%20-%20Alvin%20Toffler.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Alvin Toffler</name>
+      <uri>../author_0/author_176_Page_1.xml</uri>
+    </author>
+    <published>1970-08-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Technology" />
+    <category term="Society" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_432.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Future of Machine Intelligence</title>
+    <id>calibre:book:104</id>
+    <updated>2019-12-07T00:47:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/David%20Beyer/The%20Future%20of%20Machine%20Intelligence%20%28104%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/David%20Beyer/The%20Future%20of%20Machine%20Intelligence%20%28104%29/The%20Future%20of%20Machine%20Intelligence%20-%20David%20Beyer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/David%20Beyer/The%20Future%20of%20Machine%20Intelligence%20%28104%29/The%20Future%20of%20Machine%20Intelligence%20-%20David%20Beyer.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/David%20Beyer/The%20Future%20of%20Machine%20Intelligence%20%28104%29/The%20Future%20of%20Machine%20Intelligence%20-%20David%20Beyer.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>David Beyer</name>
+      <uri>../author_0/author_88_Page_1.xml</uri>
+    </author>
+    <published>2016-02-29T06:17:15Z</published>
+    <link href="../book_0/book_104.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The five greatest applications of markov chanins</title>
+    <id>calibre:book:840</id>
+    <updated>2020-07-09T01:07:28Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Philipp%20Von%20Hilgers%2C%20Amy%20n.%20Langville/The%20five%20greatest%20applications%20of%20markov%20chanins%20%28840%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Philipp%20Von%20Hilgers%2C%20Amy%20n.%20Langville/The%20five%20greatest%20applications%20of%20markov%20chanins%20%28840%29/The%20five%20greatest%20applications%20of%20markov%20c%20-%20Philipp%20Von%20Hilgers%2C%20Amy%20n.%20Langville.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Philipp Von Hilgers, Amy n. Langville</name>
+      <uri>../author_0/author_639_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_840.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

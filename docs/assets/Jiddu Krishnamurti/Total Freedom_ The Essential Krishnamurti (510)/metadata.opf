@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">510</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2a4061d5-bbeb-461b-83c1-e627ed9d4f02</dc:identifier>
+        <dc:title>Total Freedom: The Essential Krishnamurti</dc:title>
+        <dc:creator opf:file-as="Krishnamurti, Jiddu" opf:role="aut">Jiddu Krishnamurti</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-08-29T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Counted among his admirers are Jonas Salk, Aldous Huxley, David Hockney, and Van Morrison, along with countless other philosophers, artist, writers and students of the spiritual path. Now the trustees of Krishnamurti’s work have gathered his very best and most illuminating writings and talks to present in one volume the truly essential ideas of this great spiritual thinker.Total Freedom includes selections from Krishnamurti’s early works, his ‘Commentaries on Living’, and his discourses on life, the self, meditation, sex and love. These writings reveal Krishnamuri’s core teachings in their full eloquence and power: the nature of personal freedom; the mysteries of life and death; and the ‘pathless land’, the personal search for truth and peace. Warning readers away from blind obedience to creeds or teachers – including himself – Krishnamurti celebrated the individual quest for truth, and thus became on of the most influential guides for independent-minded seekers of the twentieth century – and beyond. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0060648805</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">11qf4KtRyYoC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780060648800</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Religion</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jiddu Krishnamurti&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2018-08-28T19:06:19+00:00"/>
+        <meta name="calibre:title_sort" content="Total Freedom: The Essential Krishnamurti"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

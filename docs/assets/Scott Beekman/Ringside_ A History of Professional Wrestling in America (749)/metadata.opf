@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">749</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ff1b5cd1-ccaa-4c48-8bc2-ac21d3a47da0</dc:identifier>
+        <dc:title>Ringside: A History of Professional Wrestling in America</dc:title>
+        <dc:creator opf:file-as="Beekman, Scott" opf:role="aut">Scott Beekman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-09-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Despite its status as one of the oldest and most enduringly popular sports in history, wrestling has been pushed to the background of the current American sports scene. Most people today would have a hard time even considering wrestling (with some of its modern theatrics) in the same terms as track and field or boxing. But until the 1920s, wrestling stood as a legitimate professional sport in this country, and a widely practiced amateur one as well. Its past respectability may not have endured, but the advent of cable television in the 1980s offered the sport a renewed opportunity to play a determining role in American popular culture. This opportunity was not wasted, and wrestlers now assume places in politics and film at the highest levels. &lt;em&gt;Ringside&lt;/em&gt; , the first work to fully examine the history of professional wrestling in this country, provides an illuminating and colorful account of all of the various athletes, entertainers, businessmen, and national outlooks that have determined wrestling's erratic route through American history. This chronological work begins with a brief account of wrestling's global history, and then proceeds to investigate the sport's growth as a specifically American institution. Wrestling has continued to survive in the face of technological developments, scandals, public ridicule, and a lack of centralized control, and today this supremely adaptable entertainment form represents, in sum, an international industry capable of attracting enormous television and pay-per-view audiences, along with massive amounts of advertising and merchandizing revenue. &lt;em&gt;Ringside&lt;/em&gt; focuses on the business of wrestling as well as on the performers and their in-ring antics, and offers readers a fully nuanced examination of the development of professional wrestling in America. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Greenwood Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">SzAHxRZtreQC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780275984014</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">027598401X</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Organizational Behavior</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Scott Beekman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2020-04-04T08:09:36+00:00"/>
+        <meta name="calibre:title_sort" content="Ringside: A History of Professional Wrestling in America"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

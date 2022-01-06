@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1703</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">17292e3f-92dc-4963-a9d6-b6fc340e4457</dc:identifier>
+        <dc:title>Timescape</dc:title>
+        <dc:creator opf:file-as="Benford, Gregory" opf:role="aut">Gregory Benford</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-07-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The author of Tides of Light offers his Nebula Award-winning SF classic--a combination of hard science, bold speculation, and human drama. In the year 1998, a group of scientists works desperatey to communicate with the scientists of 1962, warning of an ecological disaster that will destroy the oceans in the future--if it is not averted in the past.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Millennium</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">OV4eQgAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1449842372</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781857989359</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gregory Benford&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-07-09T19:31:36+00:00"/>
+        <meta name="calibre:title_sort" content="Timescape"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

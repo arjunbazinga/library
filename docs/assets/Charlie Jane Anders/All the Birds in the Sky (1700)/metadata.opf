@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1700</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c94ea6ef-a8b6-49a7-b7a3-2d26023a1bce</dc:identifier>
+        <dc:title>All the Birds in the Sky</dc:title>
+        <dc:creator opf:file-as="Anders, Charlie Jane" opf:role="aut">Charlie Jane Anders</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-26T19:33:49+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;From the editor-in-chief of io9.com, a stunning novel about the end of the world—and the beginning of our future&lt;/p&gt;
+&lt;p&gt;Childhood friends Patricia Delfine and Laurence Armstead didn't expect to see each other again, after parting ways under mysterious circumstances during high school. After all, the development of magical powers and the invention of a two-second time machine could hardly fail to alarm one's peers and families.&lt;/p&gt;
+&lt;p&gt;But now they're both adults, living in the hipster mecca San Francisco, and the planet is falling apart around them. Laurence is an engineering genius who's working with a group that aims to avert catastrophic breakdown through technological intervention into the changing global climate. Patricia is a graduate of Eltisley Maze, the hidden academy for the world's magically gifted, and works with a small band of other magicians to secretly repair the world's every-growing ailments. Little do they realize that something bigger than either...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Tom Doherty Associates</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">VjIXCAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0765379953</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781466871120</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Contemporary</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charlie Jane Anders&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-07-09T19:31:36+00:00"/>
+        <meta name="calibre:title_sort" content="All the Birds in the Sky"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

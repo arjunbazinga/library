@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1056</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0a8f0f16-b344-4acf-935b-e943816cb661</dc:identifier>
+        <dc:title>Scientific Freedom: The Elixir of Civilization</dc:title>
+        <dc:creator opf:file-as="Braben, Donald W." opf:role="aut">Donald W. Braben</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-12T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;span style="font-weight: 600; font-style: italic"&gt;A revolutionary and timely proposal for reinvigorating transformative scientific discovery, written by a preeminent leader in Venture Research.&lt;/span&gt; &lt;/p&gt;
+&lt;p&gt;So rich was the scientific harvest of the early 20th century that it transformed entire industries and economies. Max Planck laid the foundation for quantum physics, Barbara McClintock for modern genetics, Linus Pauling for chemistry--the list goes on. &lt;/p&gt;
+&lt;p&gt;In the 1970s, the nature of scientific work started to change. Increases in public funding for scientific research brought demands that spending be justified; a system of peer review that selected only the research proposals promising the greatest returns; and a push for endless short-term miracles instead of in-depth, boundary-pushing research. A vicious spiral of decline began. &lt;/p&gt;
+&lt;p&gt;In &lt;em&gt;Scientific Freedom&lt;/em&gt;, Donald W. Braben presents a framework to find and support cutting-edge, much-needed scientific innovation. Braben--who led British Petroleum's Venture Research initiative, which aimed to identify and aid researchers challenging current scientific thinking--explains: &lt;/p&gt;
+&lt;p&gt;--the conditions that catalyzed scientific research in the early 20th century;&lt;br&gt;--the costs to society of our current research model;&lt;br&gt;--the changing role of the university as a research institution;&lt;br&gt;--how BP's Venture Research initiative succeeded by minimizing bureaucracy and peer review, and the program's impact;&lt;br&gt;--the selection, budget, and organizational criteria for implementing a Venture Research program today. &lt;/p&gt;
+&lt;p&gt;Even in the earliest stages, transformative and groundbreaking research can look unrecognizable to those who are accustomed to the patterns established by the past. Support for this research can, in fact, be low risk and offer rich rewards, but it requires rethinking the processes used to discover and sponsor scientists with groundbreaking ideas--and then giving those innovators the freedom to explore. &lt;/p&gt;
+&lt;p&gt;First published in 2008, this new edition of &lt;em&gt;Scientific Freedom&lt;/em&gt; is produced in a gorgeous archival quality hardcover with over 30 new illustrations and an up-to-date foreword by Donald Braben. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">3r9pEW8ZpUsC</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0578675919</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780470245712</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>9780470245712.pdf</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Donald W. Braben&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-22T06:36:32+00:00"/>
+        <meta name="calibre:title_sort" content="Scientific Freedom: The Elixir of Civilization"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

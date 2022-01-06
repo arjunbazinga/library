@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1075</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c8bfa861-02c1-49e8-b7c2-96a25babbb34</dc:identifier>
+        <dc:title>Practical Common Lisp</dc:title>
+        <dc:creator opf:file-as="Seibel, Peter" opf:role="aut">Peter Seibel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-10-31T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;...it has a fresh view on the language and the examples in the later chapters are usable in your day-to-day work as a programmer. — Frank Buss, Lisp Programmer and Slashdot Contributor &lt;/p&gt;
+&lt;p&gt;If you're interested in Lisp as it relates to Python or Perl, and want to learn through doing rather than watching, &lt;em&gt;Practical Common Lisp&lt;/em&gt; is an excellent entry point. — Chris McAvoy, Chicago Python Users Group &lt;/p&gt;
+&lt;p&gt;Lisp is often thought of as an academic language, but it need not be. This is the first book that introduces Lisp as a language for the real world. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Practical Common Lisp&lt;/em&gt; presents a thorough introduction to Common Lisp, providing you with an overall understanding of the language features and how they work. Over a third of the book is devoted to practical examples such as the core of a spam filter and a web application for browsing MP3s and streaming them via the Shoutcast protocol to any standard MP3 client software (e.g., iTunes, XMMS, or WinAmp). In other "practical" chapters, author Peter Seibel demonstrates how to build a simple but flexible in-memory database, how to parse binary files, and how to build a unit test framework in 26 lines of code. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">dVJvr8PtCMUC</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1590592395</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781430200178</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Software Development &amp; Engineering</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Peter Seibel&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-11-10T06:51:05+00:00"/>
+        <meta name="calibre:title_sort" content="Practical Common Lisp"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

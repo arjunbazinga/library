@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1008</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">64ac9ce7-6dbf-4db0-ae35-54b4548b92ed</dc:identifier>
+        <dc:title>Infidel</dc:title>
+        <dc:creator opf:file-as="Ali, Ayaan Hirsi" opf:role="aut">Ayaan Hirsi Ali</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-04-01T21:54:32+00:00</dc:date>
+        <dc:description>SUMMARY:
+In this profoundly affecting memoir from the internationally renowned author of The Caged Virgin, Ayaan Hirsi Ali tells her astonishing life story, from her traditional Muslim childhood in Somalia, Saudi Arabia, and Kenya, to her intellectual awakening and activism in the Netherlands, and her current life under armed guard in the West. One of today's most admired and controversial political figures, Ayaan Hirsi Ali burst into international headlines following an Islamist's murder of her colleague, Theo van Gogh, with whom she made the movie Submission. Infidel is the eagerly awaited story of the coming of age of this elegant, distinguished -- and sometimes reviled -- political superstar and champion of free speech. With a gimlet eye and measured, often ironic, voice, Hirsi Ali recounts the evolution of her beliefs, her ironclad will, and her extraordinary resolve to fight injustice done in the name of religion. Raised in a strict Muslim family and extended clan, Hirsi Ali survived civil war, female mutilation, brutal beatings, adolescence as a devout believer during the rise of the Muslim Brotherhood, and life in four troubled, unstable countries largely ruled by despots. In her early twenties, she escaped from a forced marriage and sought asylum in the Netherlands, where she earned a college degree in political science, tried to help her tragically depressed sister adjust to the West, and fought for the rights of Muslim immigrant women and the reform of Islam as a member of Parliament. Even though she is under constant threat -- demonized by reactionary Islamists and politicians, disowned by her father, and expelled from her family and clan -- she refuses to be silenced. Ultimately a celebration of triumph over adversity, Hirsi Ali's story tells how a bright little girl evolved out of dutiful obedience to become an outspoken, pioneering freedom fighter. As Western governments struggle to balance democratic ideals with religious pressures, no story could be timelier or more significant.</dc:description>
+        <dc:publisher>Free Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781416586043</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Biography &amp; Autobiography</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Political</dc:subject>
+        <dc:subject>Refugees</dc:subject>
+        <dc:subject>Islamic Studies</dc:subject>
+        <dc:subject>Muslims</dc:subject>
+        <dc:subject>Politicians</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ayaan Hirsi Ali&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-09-23T20:28:10+00:00"/>
+        <meta name="calibre:title_sort" content="Infidel"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">653</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ca8ddd53-de29-4611-a5df-ffb7cec43c58</dc:identifier>
+        <dc:title>The Case Against the Fed</dc:title>
+        <dc:creator opf:file-as="Rothbard, Murray Newton" opf:role="aut">Murray Newton Rothbard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1994-09-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;"By far the most secret and least accountable operation of the federal government is not, as one might expect, the CIA, DIA, or some other super-secret intelligence agency. They are accountable: a Congressional committee supervises these operations, controls their budgets, and is informed of the covert activities. It is little known that there is a federal agency that tops the others in secrecy by a country mile. The Federal Reserve System is accountable to no one; it has no budget; it is subject to no audit; and no Congressional committee knows or, or can truly supervise, its operations. The Federal Reserve, virtually in total control of the nation's vital monetary system, is accountable to nobody--and this strange situation, if acknowledged at all, is invariably trumpeted as a virtue"--Page 4 of cover.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ludwig von Mies Institute, Auburn University</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">LVauAAAAIAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780945466178</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B002AKKCEC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Murray Newton Rothbard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:34+00:00"/>
+        <meta name="calibre:title_sort" content="Case Against the Fed, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

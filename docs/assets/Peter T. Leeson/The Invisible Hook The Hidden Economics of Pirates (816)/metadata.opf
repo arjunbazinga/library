@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">816</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4443d3e4-022c-4518-9b49-d756133b2af6</dc:identifier>
+        <dc:title>The Invisible Hook The Hidden Economics of Pirates</dc:title>
+        <dc:creator opf:file-as="Leeson, Peter T." opf:role="aut">Peter T. Leeson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-04-02T06:38:36+00:00</dc:date>
+        <dc:publisher>Princeton University Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780691137476</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Peter T. Leeson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-06-14T13:09:53+00:00"/>
+        <meta name="calibre:title_sort" content="Invisible Hook The Hidden Economics of Pirates, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

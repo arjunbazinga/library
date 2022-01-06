@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with D</title>
+  <id>Calibre2opds:allbooks:D</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with D" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>Database State</title>
+    <id>calibre:book:913</id>
+    <updated>2020-08-09T00:59:07Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Unknown/Database%20State%20%28913%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Unknown/Database%20State%20%28913%29/Database%20State%20-%20Unknown.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Unknown</name>
+      <uri>../author_0/author_278_Page_1.xml</uri>
+    </author>
+    <published>2009-03-13T00:50:58Z</published>
+    <link href="../book_0/book_913.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Dataclysm</title>
+    <id>calibre:book:698</id>
+    <updated>2020-03-28T07:47:16Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Christian%20Rudder/Dataclysm%20%28698%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Christian%20Rudder/Dataclysm%20%28698%29/Dataclysm%20-%20Christian%20Rudder.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Christian%20Rudder/Dataclysm%20%28698%29/Dataclysm%20-%20Christian%20Rudder.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Christian Rudder</name>
+      <uri>../author_0/author_442_Page_1.xml</uri>
+    </author>
+    <published>2014-09-08T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Crown Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>What is the secret to a stable marriage? How many gay people are still in the closet? Do we truly live in a postracial society? Has Twitter made us dumber? These are just a few of the questions Christian Rudder answers in Dataclysm, a smart, funny, i...</summary>
+    <link href="../book_0/book_698.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>De Oratore</title>
+    <id>calibre:book:405</id>
+    <updated>2019-12-07T00:47:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Marcus%20Tullius%20Cicero/De%20Oratore%20%28405%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Marcus%20Tullius%20Cicero/De%20Oratore%20%28405%29/De%20Oratore%20-%20Marcus%20Tullius%20Cicero.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Marcus%20Tullius%20Cicero/De%20Oratore%20%28405%29/De%20Oratore%20-%20Marcus%20Tullius%20Cicero.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Marcus%20Tullius%20Cicero/De%20Oratore%20%28405%29/De%20Oratore%20-%20Marcus%20Tullius%20Cicero.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Marcus Tullius Cicero</name>
+      <uri>../author_0/author_240_Page_1.xml</uri>
+    </author>
+    <published>1996-08-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Harvard University Press</dcterms:publisher>
+    <category term="Language Arts &amp; Disciplines" />
+    <category term="Public Speaking" />
+    <category term="Lang:en" />
+    <summary>Cicero (Marcus Tullius, 106-43 BCE), Roman lawyer, orator, politician and philosopher, of whom we know more than of any other Roman, lived through the stirring era which saw the rise, dictatorship, and death of Julius Caesar in a tottering republic. ...</summary>
+    <link href="../book_0/book_405.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>De-escalate Anyone, Anywhere, Anytime: Unplug the Power Struggle with Principle-Based De-escalation</title>
+    <id>calibre:book:849</id>
+    <updated>2020-07-09T01:07:32Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Service%20Alternatives%20Training%20Institute%2C%20Steven%20Seiller/De-escalate%20Anyone%2C%20Anywhere%2C%20Anytime_%20Unplug%20the%20Power%20Struggle%20with%20Principle-Based%20De-escala%20%28849%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Service%20Alternatives%20Training%20Institute%2C%20Steven%20Seiller/De-escalate%20Anyone%2C%20Anywhere%2C%20Anytime_%20Unplug%20the%20Power%20Struggle%20with%20Principle-Based%20De-escala%20%28849%29/De-escalate%20Anyone%2C%20Anywhere%2C%20Anytime_%20Unp%20-%20Service%20Alternatives%20Training%20Institute%2C%20S.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Service Alternatives Training Institute, Steven Seiller</name>
+      <uri>../author_0/author_636_Page_1.xml</uri>
+    </author>
+    <published>2013-06-24T04:34:00Z</published>
+    <category term="behavior" />
+    <category term="crisis" />
+    <category term="de-escalation" />
+    <category term="escalation" />
+    <category term="intervention" />
+    <category term="restraint" />
+    <category term="prevention" />
+    <category term="postvention" />
+    <summary>Unplug the Power Struggle with Principle-Based De-escalation</summary>
+    <link href="../book_0/book_849.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Deadliest Enemy: Our War Against Killer Germs</title>
+    <id>calibre:book:728</id>
+    <updated>2020-03-28T07:32:30Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Michael%20T.%20Osterholm%2C%20Mark%20Olshaker/Deadliest%20Enemy_%20Our%20War%20Against%20Killer%20Germs%20%28728%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Michael%20T.%20Osterholm%2C%20Mark%20Olshaker/Deadliest%20Enemy_%20Our%20War%20Against%20Killer%20Germs%20%28728%29/Deadliest%20Enemy_%20Our%20War%20Against%20Killer%20Ge%20-%20Michael%20T.%20Osterholm%2C%20Mark%20Olshaker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Michael%20T.%20Osterholm%2C%20Mark%20Olshaker/Deadliest%20Enemy_%20Our%20War%20Against%20Killer%20Germs%20%28728%29/Deadliest%20Enemy_%20Our%20War%20Against%20Killer%20Ge%20-%20Michael%20T.%20Osterholm%2C%20Mark%20Olshaker.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Michael T. Osterholm, Mark Olshaker</name>
+      <uri>../author_0/author_479_Page_1.xml</uri>
+    </author>
+    <published>2017-03-14T07:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Little, Brown and Company</dcterms:publisher>
+    <category term="Medical / Infectious Diseases" />
+    <category term="Medical / Epidemiology" />
+    <category term="Medical / Public Health" />
+    <category term="Science / Life Sciences / Biology" />
+    <category term="Lang:en" />
+    <summary>A world-leading epidemiologist shares his stories from the front  lines of our war on infectious diseases and explains how to prepare for  epidemics that can challenge world order.</summary>
+    <link href="../book_0/book_728.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Death of Expertise: The Campaign Against Established Knowledge and Why it Matters</title>
+    <id>calibre:book:457</id>
+    <updated>2020-03-28T07:37:14Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Tom%20Nichols/The%20Death%20of%20Expertise_%20The%20Campaign%20Against%20Established%20Knowledge%20and%20Why%20it%20Matters%20%28457%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Tom%20Nichols/The%20Death%20of%20Expertise_%20The%20Campaign%20Against%20Established%20Knowledge%20and%20Why%20it%20Matters%20%28457%29/The%20Death%20of%20Expertise_%20The%20Campaign%20Again%20-%20Tom%20Nichols.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Tom%20Nichols/The%20Death%20of%20Expertise_%20The%20Campaign%20Against%20Established%20Knowledge%20and%20Why%20it%20Matters%20%28457%29/The%20Death%20of%20Expertise_%20The%20Campaign%20Again%20-%20Tom%20Nichols.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Tom%20Nichols/The%20Death%20of%20Expertise_%20The%20Campaign%20Against%20Established%20Knowledge%20and%20Why%20it%20Matters%20%28457%29/The%20Death%20of%20Expertise_%20The%20Campaign%20Again%20-%20Tom%20Nichols.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Tom Nichols</name>
+      <uri>../author_0/author_186_Page_1.xml</uri>
+    </author>
+    <published>2017-01-31T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Oxford University Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_457.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Death of Ivan Ilyich and Other Stories *****</title>
+    <id>calibre:book:568</id>
+    <updated>2020-03-28T08:02:50Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Leo%20Tolstoy/The%20Death%20of%20Ivan%20Ilyich%20and%20Other%20Stories%20%28568%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Leo%20Tolstoy/The%20Death%20of%20Ivan%20Ilyich%20and%20Other%20Stories%20%28568%29/The%20Death%20of%20Ivan%20Ilyich%20and%20Other%20Stories%20-%20Leo%20Tolstoy.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Leo%20Tolstoy/The%20Death%20of%20Ivan%20Ilyich%20and%20Other%20Stories%20%28568%29/The%20Death%20of%20Ivan%20Ilyich%20and%20Other%20Stories%20-%20Leo%20Tolstoy.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Leo Tolstoy</name>
+      <uri>../author_0/author_324_Page_1.xml</uri>
+    </author>
+    <published>2008-05-26T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>OUP Oxford</dcterms:publisher>
+    <category term="Literary Collections" />
+    <category term="Ancient &amp; Classical" />
+    <category term="Fiction" />
+    <category term="Classics" />
+    <category term="Short Stories (Single Author)" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>'no one pitied him as he would have liked to be pitied' As Ivan Ilyich lies dying he begins to re-evaluate his life, searching for meaning that will make sense of his sufferings. In 'The Death of Ivan Ilyich' and the other works in this volume, Tols...</summary>
+    <link href="../book_0/book_568.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Decision Checklist</title>
+    <id>calibre:book:98</id>
+    <updated>2020-03-28T07:29:00Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Kyle%2C%20Sam/Decision%20Checklist%20%2898%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Kyle%2C%20Sam/Decision%20Checklist%20%2898%29/Decision%20Checklist%20-%20Kyle%2C%20Sam.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Kyle%2C%20Sam/Decision%20Checklist%20%2898%29/Decision%20Checklist%20-%20Kyle%2C%20Sam.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Kyle%2C%20Sam/Decision%20Checklist%20%2898%29/Decision%20Checklist%20-%20Kyle%2C%20Sam.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Kyle, Sam</name>
+      <uri>../author_0/author_83_Page_1.xml</uri>
+    </author>
+    <published>2018-06-11T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <summary>Timeless steps to help you make meaningful decisions that will improve your career and your life</summary>
+    <link href="../book_0/book_98.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Deep Simplicity: Chaos, Complexity and the Emergence of Life ****</title>
+    <id>calibre:book:657</id>
+    <updated>2020-03-28T07:22:40Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/John%20R.%20Gribbin/Deep%20Simplicity_%20Chaos%2C%20Complexity%20and%20the%20Emergence%20of%20Life%20%28657%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/John%20R.%20Gribbin/Deep%20Simplicity_%20Chaos%2C%20Complexity%20and%20the%20Emergence%20of%20Life%20%28657%29/Deep%20Simplicity_%20Chaos%2C%20Complexity%20and%20the%20-%20John%20R.%20Gribbin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/John%20R.%20Gribbin/Deep%20Simplicity_%20Chaos%2C%20Complexity%20and%20the%20Emergence%20of%20Life%20%28657%29/Deep%20Simplicity_%20Chaos%2C%20Complexity%20and%20the%20-%20John%20R.%20Gribbin.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>John R. Gribbin</name>
+      <uri>../author_0/author_764_Page_1.xml</uri>
+    </author>
+    <published>2005-01-26T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>'Gribbin takes us through the basics with his customary talent for accessibility and clarity' - "Sunday Times". The world around us can be a complex, confusing place. Earthquakes happen without warning, stock markets fluctuate, weather forecasters s...</summary>
+    <link href="../book_0/book_657.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Deep Work</title>
+    <id>calibre:book:471</id>
+    <updated>2020-03-28T07:37:02Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Cal%20Newport/Deep%20Work%20%28471%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Cal%20Newport/Deep%20Work%20%28471%29/Deep%20Work%20-%20Cal%20Newport.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Cal%20Newport/Deep%20Work%20%28471%29/Deep%20Work%20-%20Cal%20Newport.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Cal%20Newport/Deep%20Work%20%28471%29/Deep%20Work%20-%20Cal%20Newport.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Cal Newport</name>
+      <uri>../author_0/author_197_Page_1.xml</uri>
+    </author>
+    <published>2016-01-05T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Grand Central Publishing</dcterms:publisher>
+    <category term="Business &amp; Economics / Time Management" />
+    <category term="Lang:en" />
+    <summary>An Amazon Best Book of January 2016 in Business &amp; Leadership PickOne of the most valuable skills in our economy is becoming increasingly rare. If you master this skill, you'll achieve extraordinary results.Deep work is the ability to focus without di...</summary>
+    <link href="../book_0/book_471.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Defending AI Research: A Collection of Essays and Reviews</title>
+    <id>calibre:book:889</id>
+    <updated>2020-07-30T00:57:06Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/John%20McCarthy/Defending%20AI%20Research_%20A%20Collection%20of%20Essays%20and%20Reviews%20%28889%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/John%20McCarthy/Defending%20AI%20Research_%20A%20Collection%20of%20Essays%20and%20Reviews%20%28889%29/Defending%20AI%20Research_%20A%20Collection%20of%20Ess%20-%20John%20McCarthy.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>John McCarthy</name>
+      <uri>../author_0/author_688_Page_1.xml</uri>
+    </author>
+    <published>1997-05-27T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Cambridge University Press</dcterms:publisher>
+    <category term="Computers" />
+    <category term="Natural Language Processing" />
+    <category term="Intelligence (AI) &amp; Semantics" />
+    <category term="Artificial intelligence--Research." />
+    <category term="Lang:en" />
+    <category term="CSLI Lecture Notes" />
+    <summary>CSLI Lecture Notes [192]: John McCarthy's influence in computer science ranges from the invention of LISP and time-sharing to the coining of the term AI and the founding of the AI laboratory at Stanford University. One of the foremost figures in comp...</summary>
+    <link href="../book_0/book_889.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Design Thinking</title>
+    <id>calibre:book:502</id>
+    <updated>2020-03-28T07:08:46Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Nigel%20Cross/Design%20Thinking%20%28502%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Nigel%20Cross/Design%20Thinking%20%28502%29/Design%20Thinking%20-%20Nigel%20Cross.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Nigel%20Cross/Design%20Thinking%20%28502%29/Design%20Thinking%20-%20Nigel%20Cross.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Nigel%20Cross/Design%20Thinking%20%28502%29/Design%20Thinking%20-%20Nigel%20Cross.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Nigel Cross</name>
+      <uri>../author_0/author_253_Page_1.xml</uri>
+    </author>
+    <published>2011-08-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Berg Publishers</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Design thinking is the core creative process for any designer; this book explores and explains this apparently mysterious "design ability". Focusing on what designers do when they design, Design Thinking is structured around a series of in-depth case...</summary>
+    <link href="../book_0/book_502.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Design of Everyday Things: Revised and Expanded Edition</title>
+    <id>calibre:book:528</id>
+    <updated>2020-03-28T07:37:42Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Norman%2C%20Don/The%20Design%20of%20Everyday%20Things_%20Revised%20and%20Expanded%20Edition%20%28528%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Norman%2C%20Don/The%20Design%20of%20Everyday%20Things_%20Revised%20and%20Expanded%20Edition%20%28528%29/The%20Design%20of%20Everyday%20Things_%20Revised%20and%20-%20Norman%2C%20Don.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Norman%2C%20Don/The%20Design%20of%20Everyday%20Things_%20Revised%20and%20Expanded%20Edition%20%28528%29/The%20Design%20of%20Everyday%20Things_%20Revised%20and%20-%20Norman%2C%20Don.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Norman%2C%20Don/The%20Design%20of%20Everyday%20Things_%20Revised%20and%20Expanded%20Edition%20%28528%29/The%20Design%20of%20Everyday%20Things_%20Revised%20and%20-%20Norman%2C%20Don.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Norman, Don</name>
+      <uri>../author_0/author_280_Page_1.xml</uri>
+    </author>
+    <published>2013-11-05T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Basic Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_528.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Designing Data-Intensive Applications</title>
+    <id>calibre:book:612</id>
+    <updated>2020-03-28T11:32:28Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Martin%20Kleppmann/Designing%20Data-Intensive%20Applications%20%28612%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Martin%20Kleppmann/Designing%20Data-Intensive%20Applications%20%28612%29/Designing%20Data-Intensive%20Applications%20-%20Martin%20Kleppmann.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Martin Kleppmann</name>
+      <uri>../author_0/author_372_Page_1.xml</uri>
+    </author>
+    <published>2017-03-01T06:01:20Z</published>
+    <link href="../book_0/book_612.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Dialogues</title>
+    <id>calibre:book:422</id>
+    <updated>2019-12-07T00:47:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Seneca%2C%20Tobias%20Reinhardt%2C%20John%20Davie/Dialogues%20%28422%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Seneca%2C%20Tobias%20Reinhardt%2C%20John%20Davie/Dialogues%20%28422%29/Dialogues%20-%20Seneca%2C%20Tobias%20Reinhardt%2C%20John%20Davie.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Seneca%2C%20Tobias%20Reinhardt%2C%20John%20Davie/Dialogues%20%28422%29/Dialogues%20-%20Seneca%2C%20Tobias%20Reinhardt%2C%20John%20Davie.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Seneca%2C%20Tobias%20Reinhardt%2C%20John%20Davie/Dialogues%20%28422%29/Dialogues%20-%20Seneca%2C%20Tobias%20Reinhardt%2C%20John%20Davie.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Seneca, Tobias Reinhardt, John Davie</name>
+      <uri>../author_0/author_212_Page_1.xml</uri>
+    </author>
+    <published>2009-02-04T01:18:17Z</published>
+    <link href="../book_0/book_422.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Diamond Age</title>
+    <id>calibre:book:551</id>
+    <updated>2020-03-28T02:31:38Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Neal%20Stephenson/Diamond%20Age%20%28551%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Neal%20Stephenson/Diamond%20Age%20%28551%29/Diamond%20Age%20-%20Neal%20Stephenson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Neal%20Stephenson/Diamond%20Age%20%28551%29/Diamond%20Age%20-%20Neal%20Stephenson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Neal Stephenson</name>
+      <uri>../author_0/author_491_Page_1.xml</uri>
+    </author>
+    <published>2008-11-17T05:06:37Z</published>
+    <link href="../book_0/book_551.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Diary of Anne Frank</title>
+    <id>calibre:book:200</id>
+    <updated>2020-03-28T07:21:48Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Frances%20Goodrich%2C%20Anne%20Frank%2C%20Albert%20Hackett/The%20Diary%20of%20Anne%20Frank%20%28200%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Frances%20Goodrich%2C%20Anne%20Frank%2C%20Albert%20Hackett/The%20Diary%20of%20Anne%20Frank%20%28200%29/The%20Diary%20of%20Anne%20Frank%20-%20Frances%20Goodrich%2C%20Anne%20Frank%2C%20Albert%20Hacke.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Frances%20Goodrich%2C%20Anne%20Frank%2C%20Albert%20Hackett/The%20Diary%20of%20Anne%20Frank%20%28200%29/The%20Diary%20of%20Anne%20Frank%20-%20Frances%20Goodrich%2C%20Anne%20Frank%2C%20Albert%20Hacke.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Frances%20Goodrich%2C%20Anne%20Frank%2C%20Albert%20Hackett/The%20Diary%20of%20Anne%20Frank%20%28200%29/The%20Diary%20of%20Anne%20Frank%20-%20Frances%20Goodrich%2C%20Anne%20Frank%2C%20Albert%20Hacke.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Frances Goodrich, Anne Frank, Albert Hackett</name>
+      <uri>../author_0/author_511_Page_1.xml</uri>
+    </author>
+    <published>1958-08-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Samuel French Limited</dcterms:publisher>
+    <category term="Drama" />
+    <category term="European" />
+    <category term="English; Irish; Scottish; Welsh" />
+    <category term="Lang:en" />
+    <summary>Adapted from Anne Frank: The Diary of a Young Girl, edited by Otto Frank, winner of the 1956 Pulitzer Prize, Tony Award, Critics Circle Award, and virtually every other coveted prize of the theatre. During the Nazi occupation of the Netherlands Anne ...</summary>
+    <link href="../book_0/book_200.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Diary of a Nobody *****</title>
+    <id>calibre:book:746</id>
+    <updated>2020-04-04T01:39:36Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/George%20Grossmith/Diary%20of%20a%20Nobody%20%28746%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/George%20Grossmith/Diary%20of%20a%20Nobody%20%28746%29/Diary%20of%20a%20Nobody%20-%20George%20Grossmith.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>George Grossmith</name>
+      <uri>../author_0/author_791_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Weedon Grossmith</name>
+      <uri>../author_0/author_792_Page_1.xml</uri>
+    </author>
+    <published>1999-12-04T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Wordsworth Editions</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>The diary is that of a man who acknowledges that he is not a "Somebody" - Charles Pooter of 'The Laurels', Brickfield Terrace, Holloway, a clerk in the city of London - and it chronicles in hilarious detail the everyday life of the lower middle clas...</summary>
+    <link href="../book_0/book_746.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics</title>
+    <id>calibre:book:548</id>
+    <updated>2020-03-28T07:04:10Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/de%20Mesquita%20Bueno/The%20Dictator%27s%20Handbook_%20Why%20Bad%20Behavior%20is%20Almost%20Always%20Good%20Politics%20%28548%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/de%20Mesquita%20Bueno/The%20Dictator%27s%20Handbook_%20Why%20Bad%20Behavior%20is%20Almost%20Always%20Good%20Politics%20%28548%29/The%20Dictator%27s%20Handbook_%20Why%20Bad%20Behavior%20-%20de%20Mesquita%20Bueno.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/de%20Mesquita%20Bueno/The%20Dictator%27s%20Handbook_%20Why%20Bad%20Behavior%20is%20Almost%20Always%20Good%20Politics%20%28548%29/The%20Dictator%27s%20Handbook_%20Why%20Bad%20Behavior%20-%20de%20Mesquita%20Bueno.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/de%20Mesquita%20Bueno/The%20Dictator%27s%20Handbook_%20Why%20Bad%20Behavior%20is%20Almost%20Always%20Good%20Politics%20%28548%29/The%20Dictator%27s%20Handbook_%20Why%20Bad%20Behavior%20-%20de%20Mesquita%20Bueno.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>de Mesquita Bueno</name>
+      <uri>../author_0/author_298_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Perseus Books Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_548.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Difficult Conversations: How to Discuss What Matters Most *****</title>
+    <id>calibre:book:677</id>
+    <updated>2020-03-28T07:55:42Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Douglas%20Stone/Difficult%20Conversations_%20How%20to%20Discuss%20What%20Matters%20Most%20%28677%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Douglas%20Stone/Difficult%20Conversations_%20How%20to%20Discuss%20What%20Matters%20Most%20%28677%29/Difficult%20Conversations_%20How%20to%20Discuss%20Wh%20-%20Douglas%20Stone.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Douglas%20Stone/Difficult%20Conversations_%20How%20to%20Discuss%20What%20Matters%20Most%20%28677%29/Difficult%20Conversations_%20How%20to%20Discuss%20Wh%20-%20Douglas%20Stone.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Douglas Stone</name>
+      <uri>../author_0/author_426_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Sheila Heen</name>
+      <uri>../author_0/author_765_Page_1.xml</uri>
+    </author>
+    <published>2010-11-01T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>The 10th-anniversary edition of the New York Times business bestseller-now updated with "Answers to Ten Questions People Ask" 
+We attempt or avoid difficult conversations every day-whether dealing with an underperforming employee, disagreeing with a...</summary>
+    <link href="../book_0/book_677.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Discourses Titus Livius</title>
+    <id>calibre:book:415</id>
+    <updated>2019-12-07T00:47:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Machiavelli%2C%20Jim%20Manis/Discourses%20Titus%20Livius%20%28415%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Machiavelli%2C%20Jim%20Manis/Discourses%20Titus%20Livius%20%28415%29/Discourses%20Titus%20Livius%20-%20Machiavelli%2C%20Jim%20Manis.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Machiavelli%2C%20Jim%20Manis/Discourses%20Titus%20Livius%20%28415%29/Discourses%20Titus%20Livius%20-%20Machiavelli%2C%20Jim%20Manis.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Machiavelli%2C%20Jim%20Manis/Discourses%20Titus%20Livius%20%28415%29/Discourses%20Titus%20Livius%20-%20Machiavelli%2C%20Jim%20Manis.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Machiavelli, Jim Manis</name>
+      <uri>../author_0/author_235_Page_1.xml</uri>
+    </author>
+    <published>1533-10-28T07:33:39Z</published>
+    <link href="../book_0/book_415.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Discovery of France</title>
+    <id>calibre:book:419</id>
+    <updated>2020-03-28T07:46:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Graham%20Robb/The%20Discovery%20of%20France%20%28419%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Graham%20Robb/The%20Discovery%20of%20France%20%28419%29/The%20Discovery%20of%20France%20-%20Graham%20Robb.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Graham%20Robb/The%20Discovery%20of%20France%20%28419%29/The%20Discovery%20of%20France%20-%20Graham%20Robb.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Graham%20Robb/The%20Discovery%20of%20France%20%28419%29/The%20Discovery%20of%20France%20-%20Graham%20Robb.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Graham Robb</name>
+      <uri>../author_0/author_167_Page_1.xml</uri>
+    </author>
+    <published>2013-01-02T11:01:43Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Picador</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_419.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Doing Good Better: How Effective Altruism Can Help You Make a Difference</title>
+    <id>calibre:book:8</id>
+    <updated>2020-03-28T07:30:50Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/William%20MacAskill/Doing%20Good%20Better_%20How%20Effective%20Altruism%20Can%20Help%20You%20Make%20a%20Difference%20%288%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/William%20MacAskill/Doing%20Good%20Better_%20How%20Effective%20Altruism%20Can%20Help%20You%20Make%20a%20Difference%20%288%29/Doing%20Good%20Better_%20How%20Effective%20Altruism%20-%20William%20MacAskill.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/William%20MacAskill/Doing%20Good%20Better_%20How%20Effective%20Altruism%20Can%20Help%20You%20Make%20a%20Difference%20%288%29/Doing%20Good%20Better_%20How%20Effective%20Altruism%20-%20William%20MacAskill.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/William%20MacAskill/Doing%20Good%20Better_%20How%20Effective%20Altruism%20Can%20Help%20You%20Make%20a%20Difference%20%288%29/Doing%20Good%20Better_%20How%20Effective%20Altruism%20-%20William%20MacAskill.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>William MacAskill</name>
+      <uri>../author_0/author_8_Page_1.xml</uri>
+    </author>
+    <published>2015-07-27T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_8.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Don Quixote</title>
+    <id>calibre:book:533</id>
+    <updated>2019-12-07T00:47:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Miguel%20de%20Cervantes/Don%20Quixote%20%28533%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Miguel%20de%20Cervantes/Don%20Quixote%20%28533%29/Don%20Quixote%20-%20Miguel%20de%20Cervantes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Miguel de Cervantes</name>
+      <uri>../author_0/author_283_Page_1.xml</uri>
+    </author>
+    <published>2003-06-09T06:30:00Z</published>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <link href="../book_0/book_533.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Doomsday prepping for less crazy folk</title>
+    <id>calibre:book:783</id>
+    <updated>2020-04-14T03:23:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Unknown/Doomsday%20prepping%20for%20less%20crazy%20folk%20%28783%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Unknown/Doomsday%20prepping%20for%20less%20crazy%20folk%20%28783%29/Doomsday%20prepping%20for%20less%20crazy%20folk%20-%20Unknown.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Unknown</name>
+      <uri>../author_0/author_278_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_783.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist</title>
+    <id>calibre:book:467</id>
+    <updated>2020-03-28T07:44:04Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Raworth%2C%20Kate/Doughnut%20Economics_%20Seven%20Ways%20to%20Think%20Like%20a%2021st-Century%20Economist%20%28467%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Raworth%2C%20Kate/Doughnut%20Economics_%20Seven%20Ways%20to%20Think%20Like%20a%2021st-Century%20Economist%20%28467%29/Doughnut%20Economics_%20Seven%20Ways%20to%20Think%20Li%20-%20Raworth%2C%20Kate.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Raworth%2C%20Kate/Doughnut%20Economics_%20Seven%20Ways%20to%20Think%20Like%20a%2021st-Century%20Economist%20%28467%29/Doughnut%20Economics_%20Seven%20Ways%20to%20Think%20Li%20-%20Raworth%2C%20Kate.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Raworth%2C%20Kate/Doughnut%20Economics_%20Seven%20Ways%20to%20Think%20Like%20a%2021st-Century%20Economist%20%28467%29/Doughnut%20Economics_%20Seven%20Ways%20to%20Think%20Li%20-%20Raworth%2C%20Kate.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Raworth, Kate</name>
+      <uri>../author_0/author_193_Page_1.xml</uri>
+    </author>
+    <published>2017-04-05T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_467.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Dreamland_ An Autobiography</title>
+    <id>calibre:book:874</id>
+    <updated>2020-07-26T07:21:42Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Bob%20Lazar/Dreamland_%20An%20Autobiography%20%28874%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Bob%20Lazar/Dreamland_%20An%20Autobiography%20%28874%29/Dreamland_%20An%20Autobiography%20-%20Bob%20Lazar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Bob%20Lazar/Dreamland_%20An%20Autobiography%20%28874%29/Dreamland_%20An%20Autobiography%20-%20Bob%20Lazar.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Bob Lazar</name>
+      <uri>../author_0/author_670_Page_1.xml</uri>
+    </author>
+    <published>2019-10-14T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Interstellar</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_874.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Dynamic Hedging: Managing Vanilla and Exotic Options</title>
+    <id>calibre:book:702</id>
+    <updated>2020-03-28T08:01:38Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Nassim%20Nicholas%20Taleb/Dynamic%20Hedging_%20Managing%20Vanilla%20and%20Exotic%20Options%20%28702%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Nassim%20Nicholas%20Taleb/Dynamic%20Hedging_%20Managing%20Vanilla%20and%20Exotic%20Options%20%28702%29/Dynamic%20Hedging_%20Managing%20Vanilla%20and%20Exot%20-%20Nassim%20Nicholas%20Taleb.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Nassim%20Nicholas%20Taleb/Dynamic%20Hedging_%20Managing%20Vanilla%20and%20Exotic%20Options%20%28702%29/Dynamic%20Hedging_%20Managing%20Vanilla%20and%20Exot%20-%20Nassim%20Nicholas%20Taleb.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Nassim Nicholas Taleb</name>
+      <uri>../author_0/author_19_Page_1.xml</uri>
+    </author>
+    <published>2007-10-06T10:54:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <link href="../book_0/book_702.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1235</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f7ef6e36-fd45-40cd-8d03-9a0aa35cc839</dc:identifier>
+        <dc:title>Chaos Monkeys</dc:title>
+        <dc:creator opf:file-as="Martinez, Antonio Garcia" opf:role="aut">Antonio Garcia Martinez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-05-14T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Liar's Poker meets The Social Network in an irreverent expos&amp;#233; of life inside the tech bubble, from industry provocateur Antonio Garc&amp;#237;a Mart&amp;#237;nez, a former Twitter advisor, Facebook product manager and startup founder/CEO.&lt;/p&gt;&lt;p&gt;The reality is, Silicon Valley capitalism is very simple:&lt;/p&gt;&lt;p&gt;Investors are people with more money than time.Employees are people with more time than money.&lt;/p&gt;&lt;p&gt;Entrepreneurs are the seductive go-between.&lt;/p&gt;&lt;p&gt;Marketing is like sex: only losers pay for it. &lt;/p&gt;&lt;p&gt;Imagine a chimpanzee rampaging through a datacenter powering everything from Google to Facebook. Infrastructure engineers use a software version of this "chaos monkey" to test online services' robustness&amp;#8212;their ability to survive random failure and correct mistakes before they actually occur. Tech entrepreneurs are society's chaos monkeys, disruptors testing and transforming every aspect of our lives, from transportation (Uber) and lodging (AirBnB) to television (Netflix)...</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Antonio Garcia Martinez&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-05-26T15:19:35+00:00"/>
+        <meta name="calibre:title_sort" content="Chaos Monkeys"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

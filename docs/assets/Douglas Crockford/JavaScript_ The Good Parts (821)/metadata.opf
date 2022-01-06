@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">821</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5d19a481-46ca-449c-9cc9-debaf25b492a</dc:identifier>
+        <dc:title>JavaScript: The Good Parts</dc:title>
+        <dc:creator opf:file-as="Douglas Crockford" opf:role="aut">Douglas Crockford</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-16T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Most programming languages contain good and bad parts, but JavaScript has more than its share of the bad, having been developed and released in a hurry before it could be refined. This authoritative book scrapes away these bad features to reveal a subset of JavaScript that's more reliable, readable, and maintainable than the language as a whole-a subset you can use to create truly extensible and efficient code.&lt;/p&gt;</dc:description>
+        <dc:publisher>Yahoo Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780596158736</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>COMPUTERS / Programming Languages / JavaScript</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Douglas Crockford&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-06-19T17:27:57+00:00"/>
+        <meta name="calibre:title_sort" content="JavaScript: The Good Parts"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

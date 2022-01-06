@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">554</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3f2a42a6-acd6-4639-833c-02ce547dacd8</dc:identifier>
+        <dc:title>Short-Cut Math</dc:title>
+        <dc:creator opf:file-as="Kelly, Gerard W." opf:role="aut">Gerard W. Kelly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-11-17T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Can you multiply 362 x .5 quickly in your head? Could you readily calculate the square of 41? How much is 635 divided by 2½? Can 727,648 be evenly divided by 8? &lt;br&gt;If any of these questions took you more than a few seconds to solve, you need this book. &lt;em&gt;Short-Cut Math&lt;/em&gt; is a concise, remarkably clear compendium of about 150 math short-cuts — timesaving tricks that provide faster, easier ways to add, subtract, multiply, and divide.&lt;br&gt;By using the simple foolproof methods in this volume, you can double or triple your calculation speed — even if you always hated math in school. Here's a sampling of the amazingly effective techniques you will learn in minutes: Adding by 10 Groups; No-Carry Addition; Subtraction Without Borrowing; Multiplying by Aliquot Parts; Test for Divisibility by Odd and Even Numbers; Simplifying Dividends and Divisors; Fastest Way to Add or Subtract Any Pair of Fractions; Multiplying and Dividing with Mixed Numbers, and more.&lt;br&gt;The short-cuts in this book require no special math ability. If you can do ordinary arithmetic, you will have no trouble with these methods. There are no complicated formulas or unfamiliar jargon — no long drills or exercises. For each problem, the author provides an explanation of the method and a step-by-step solution. Then the short-cut is applied, with a proof and an explanation of why it works.&lt;br&gt;Students, teachers, businesspeople, accountants, bank tellers, check-out clerks — anyone who uses numbers and wishes to increase his or her speed and arithmetical agility, can benefit from the clear, easy-to-follow techniques given here. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Courier Corporation</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0486246116</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">EF52yiRdJyAC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780486131528</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Arithmetic</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gerard W. Kelly&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2019-02-07T11:06:54+00:00"/>
+        <meta name="calibre:title_sort" content="Short-Cut Math"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

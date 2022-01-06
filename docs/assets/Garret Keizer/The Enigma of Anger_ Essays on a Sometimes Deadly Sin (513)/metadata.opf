@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">513</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">527eef48-e76f-496d-8f4f-d226f4278fa4</dc:identifier>
+        <dc:title>The Enigma of Anger: Essays on a Sometimes Deadly Sin</dc:title>
+        <dc:creator opf:file-as="Keizer, Garret" opf:role="aut">Garret Keizer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-07-31T18:30:00+00:00</dc:date>
+        <dc:description>0787957283</dc:description>
+        <dc:identifier opf:scheme="ISBN">0787957283</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Garret Keizer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2018-08-28T19:06:40+00:00"/>
+        <meta name="calibre:title_sort" content="Enigma of Anger: Essays on a Sometimes Deadly Sin, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

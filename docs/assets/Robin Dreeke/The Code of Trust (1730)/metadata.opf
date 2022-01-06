@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1730</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c6c96e91-8071-4c2a-90b8-2e0b51e1e93a</dc:identifier>
+        <dc:title>The Code of Trust</dc:title>
+        <dc:creator opf:file-as="Dreeke, Robin" opf:role="aut">Robin Dreeke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Robin Dreeke is a 28-year veteran of federal service, including the United States Naval Academy, United States Marine Corps. He served most recently as a senior agent in the FBI, with 20 years of experience. He was, until recently, the head of the Counterintelligence Behavioral Analysis Program, where his primary mission was to thwart the efforts of foreign spies, and to recruit American spies. His core approach in this mission was to inspire reasonable, well-founded trust among people who could provide valuable information.&lt;/p&gt;&lt;p&gt;&lt;i&gt;The Code of Trust&lt;/i&gt; is based on the system Dreeke devised, tested, and implemented during years of field work at the highest levels of national security. Applying his system first to himself, he rose up through federal law enforcement, and then taught his system to law enforcement and military officials throughout the country, and later to private sector clients. &lt;i&gt;The Code of Trust &lt;/i&gt;has since elevated executives to leadership, and changed...</dc:description>
+        <dc:publisher>St. Martin's Press</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Robin Dreeke&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-09-08T15:53:44+00:00"/>
+        <meta name="calibre:title_sort" content="Code of Trust, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

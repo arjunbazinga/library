@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">457</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c8c7f330-1876-4775-b24c-b7cc60a62e43</dc:identifier>
+        <dc:title>The Death of Expertise: The Campaign Against Established Knowledge and Why It Matters</dc:title>
+        <dc:creator opf:file-as="Nichols, Tom" opf:role="aut">Tom Nichols</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-31T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Technology and increasing levels of education have exposed people to more information than ever before. These societal gains, however, have also helped fuel a surge in narcissistic and misguided intellectual egalitarianism that has crippled informed debates on any number of issues. Today, everyone knows everything: with only a quick trip through WebMD or Wikipedia, average citizens believe themselves to be on an equal intellectual footing with doctors and diplomats. All voices, even the most ridiculous, demand to be taken with equal seriousness, and any claim to the contrary is dismissed as undemocratic elitism. Tom Nichols' The Death of Expertise shows how this rejection of experts has occurred: the openness of the internet, the emergence of a customer satisfaction model in higher education, and the transformation of the news industry into a 24-hour entertainment machine, among other reasons. Paradoxically, the increasingly democratic dissemination of information, rather than producing an educated public, has instead created an army of ill-informed and angry citizens who denounce intellectual achievement. When ordinary citizens believe that no one knows more than anyone else, democratic institutions themselves are in danger of falling either to populism or to technocracy or, in the worst case, a combination of both. An update to the 2017breakout hit, the paperback edition of The Death of Expertise provides a new foreword to cover the alarming exacerbation of these trends in the aftermath of Donald Trump's election. Judging from events on the ground since it first published, The Death of Expertise issues a warning about the stability and survival of modern democracy in the Information Age that is even more important today.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Oxford University Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">-KP_DQAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01MYCDVHH</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780190469429</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Political Ideologies</dc:subject>
+        <dc:subject>Democracy</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Media Studies</dc:subject>
+        <dc:subject>Sociology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Tom Nichols&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2018-08-02T11:59:09+00:00"/>
+        <meta name="calibre:title_sort" content="Death of Expertise: The Campaign Against Established Knowledge and Why It Matters, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">408</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e1b1bcc5-985b-4a94-985a-ae69c93d280a</dc:identifier>
+        <dc:title>Tale of Genji</dc:title>
+        <dc:creator opf:file-as="Shikibu, Murasaki" opf:role="aut">Murasaki Shikibu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-19T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;"What Waley did create is literary art of extraordinary beauty that brings to life in English the world Murasaki Shikibu imagined. The beauty of his art has not dimmed, but like the original text itself retains the power to move and enlighten."—Dennis Washburn, from his foreword Centuries before Shakespeare, Murasaki Shikibu's The Tale of Genji was already acknowledged as a classic of Japanese literature. Over the past century, this book has gained worldwide acceptance as not only the world's first novel but as one of the greatest works of literature of all time.The hero of the tale, Prince Genji, is a shining example of the Heian-era ideal man—accomplished in poetry, dance, music, painting, and, not least of all to the novel's many plots, romance. The Tale of Genji and the characters and world it depicts have influenced Japanese culture to its very core. This celebrated translation by Arthur Waley gives Western readers a very genuine feel for the tone of this beloved classic.This edition contains the complete Waley translation of all six books of The Tale of Genji and also contains a new foreword by Dennis Washburn with key insights into both the book and the importance of this translation for modern readers.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Tuttle Publishing</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00ZDGUYIE</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781462902910</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">LSzRAgAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Literary Collections</dc:subject>
+        <dc:subject>Asian</dc:subject>
+        <dc:subject>Japanese</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>War &amp; Military</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Epic</dc:subject>
+        <dc:subject>Action &amp; Adventure</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Murasaki Shikibu&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2018-08-01T03:37:20+00:00"/>
+        <meta name="calibre:title_sort" content="Tale of Genji"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

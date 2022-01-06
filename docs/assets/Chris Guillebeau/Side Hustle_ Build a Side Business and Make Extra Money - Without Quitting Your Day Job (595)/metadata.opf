@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">595</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">893bef14-027b-4899-8bab-8ac5667e940c</dc:identifier>
+        <dc:title>Side Hustle: Build a Side Business and Make Extra Money – Without Quitting Your Day Job</dc:title>
+        <dc:creator opf:file-as="Guillebeau, Chris" opf:role="aut">Chris Guillebeau</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-20T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;From the New York Times bestselling author of $100 Startup comes this accessible guide to building a side business from scratch – without having to give up your day job.Side Hustle is about much more than just making some extra cash; it’s about freedom and job security in today’s unstable business environment. That’s because when you receive income from multiple different sources, you are no longer dependent on the whims of a single employer. It affords you choices and options.In the style of $100 Startup, full of practical exercises and peppered with inspiring stories, Chris Guillebeau's Side Hustle shows readers how to brainstorm, choose, implement, launch and refine their side business in just 27 days – with little to no budget and without having to quit their current job.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Pan Macmillan</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">3mc8DgAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781509859061</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>New Business Enterprises</dc:subject>
+        <dc:subject>Entrepreneurship</dc:subject>
+        <dc:subject>Home-Based Businesses</dc:subject>
+        <dc:subject>Personal Success</dc:subject>
+        <dc:subject>Small Business</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Chris Guillebeau&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2019-12-10T11:33:16+00:00"/>
+        <meta name="calibre:title_sort" content="Side Hustle: Build a Side Business and Make Extra Money – Without Quitting Your Day Job"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">953</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d78ea1b-6914-4f47-a707-b94ea8db4a72</dc:identifier>
+        <dc:title>Deep Learning for Coders With Fastai and PyTorch</dc:title>
+        <dc:creator opf:file-as="Howard, Jeremy &amp; Gugger, Sylvain" opf:role="aut">Jeremy Howard</dc:creator>
+        <dc:creator opf:file-as="Howard, Jeremy &amp; Gugger, Sylvain" opf:role="aut">Sylvain Gugger</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-28T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Deep learning is often viewed as the exclusive domain of math PhDs and big tech companies. But as this hands-on guide demonstrates, programmers comfortable with Python can achieve impressive results in deep learning with little math background, small amounts of data, and minimal code. How? With fastai, the first library to provide a consistent interface to the most frequently used deep learning applications. Authors Jeremy Howard and Sylvain Gugger, the creators of fastai, show you how to train a model on a wide range of tasks using fastai and PyTorch. You’ll also dive progressively further into deep learning theory to gain a complete understanding of the algorithms behind the scenes. * Train models in computer vision, natural language processing, tabular data, and collaborative filtering * Learn the latest deep learning techniques that matter most in practice * Improve accuracy, speed, and reliability by understanding how deep learning models work * Discover how to turn your models into web applications * Implement deep learning algorithms from scratch * Consider the ethical implications of your work * Gain insight from the foreword by PyTorch cofounder, Soumith Chintala&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781492045496</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B08C2KM7NR</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">yATuDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Image Processing</dc:subject>
+        <dc:subject>Computer Science</dc:subject>
+        <dc:subject>Machine Theory</dc:subject>
+        <dc:subject>Neural Networks</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Data Visualization</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jeremy Howard&quot;: &quot;&quot;, &quot;Sylvain Gugger&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-08-25T21:50:44+00:00"/>
+        <meta name="calibre:title_sort" content="Deep Learning for Coders With Fastai and PyTorch"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

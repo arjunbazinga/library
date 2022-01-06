@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">487</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ae6c9150-62ac-435e-a76b-4378779d2075</dc:identifier>
+        <dc:title>A History of Private Life: Passions of the Renaissance</dc:title>
+        <dc:creator opf:file-as="Phillippe Aries, Georges Duby, Arthur Goldhammer" opf:role="aut">Phillippe Aries, Georges Duby, Arthur Goldhammer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1989-08-27T18:30:00+00:00</dc:date>
+        <dc:publisher>Belknap Press of Harvard University Press</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Phillippe Aries, Georges Duby, Arthur Goldhammer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="A History of Private Life"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2018-08-28T13:23:59+00:00"/>
+        <meta name="calibre:title_sort" content="History of Private Life: Passions of the Renaissance, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

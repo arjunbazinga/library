@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">993</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e3d7f648-0be9-4cdc-951f-2edda9ef7030</dc:identifier>
+        <dc:title>Modern C</dc:title>
+        <dc:creator opf:file-as="Gustedt, Jens" opf:role="aut">Jens Gustedt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-10T08:27:16+00:00</dc:date>
+        <dc:description>introduction and reference for modern C</dc:description>
+        <dc:language>eng</dc:language>
+        <dc:subject>C</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>C11</dc:subject>
+        <dc:subject>C17</dc:subject>
+        <dc:subject>ISO</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jens Gustedt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-09-05T04:59:15+00:00"/>
+        <meta name="calibre:title_sort" content="Modern C"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1232</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e6656c7f-4202-4011-8219-b968533c240c</dc:identifier>
+        <dc:title>Rethinking Productivity in Software Engineering</dc:title>
+        <dc:creator opf:file-as="Sadowski, Caitlin &amp; Zimmermann, Thomas" opf:role="aut">Caitlin Sadowski</dc:creator>
+        <dc:creator opf:file-as="Sadowski, Caitlin &amp; Zimmermann, Thomas" opf:role="aut">Thomas Zimmermann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-08T11:26:53+00:00</dc:date>
+        <dc:description>Get the most out of this foundational reference and improve the productivity of your software teams. This open access book collects the wisdom of the 2017 "Dagstuhl" seminar on productivity in software engineering, a meeting of community leaders, who came together with the goal of rethinking traditional definitions and measures of productivity.The results of their work, Rethinking Productivity in Software Engineering, includes chapters covering definitions and core concepts related to productivity, guidelines for measuring productivity in specific contexts, best practices and pitfalls, and theories and open questions on productivity. You'll benefit from the many short chapters, each offering a focused discussion on one aspect of productivity in software engineering.Readers in many fields and industries will benefit from their collected work. Developers wanting to improve their personal productivity, will learn effective strategies for overcoming common issues that interfere with progress. Organizations thinking about building internal programs for measuring productivity of programmers and teams will learn best practices from industry and researchers in measuring productivity. And researchers can leverage the conceptual frameworks and rich body of literature in the book to effectively pursue new research directions.What You'll LearnReview the definitions and dimensions of software productivitySee how time management is having the opposite of the intended effectDevelop valuable dashboardsUnderstand the impact of sensors on productivityAvoid software development wasteWork with human-centered methods to measure productivityLook at the intersection of neuroscience and productivityManage interruptions and context-switchingWho Book Is ForIndustry developers and those responsible for seminar-style courses that include a segment on software developer productivity. Chapters are written for a generalist audience, without excessive use of technical terminology.</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">AIAPvAEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1484242203</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781484242209</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Business &amp; Productivity Software</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Business Mathematics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Caitlin Sadowski&quot;: &quot;&quot;, &quot;Thomas Zimmermann&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-05-26T15:19:35+00:00"/>
+        <meta name="calibre:title_sort" content="Rethinking Productivity in Software Engineering"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

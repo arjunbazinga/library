@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1063</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ca2b1830-a502-4491-8b2b-a405bb2c9f7b</dc:identifier>
+        <dc:title>Abduction: Human Encounters With Aliens</dc:title>
+        <dc:creator opf:file-as="Mack, John E." opf:role="aut">John E. Mack</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1995-10-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Having been sceptical at first, after investigating more than one hundred cases of alien abduction and conducting thousands of hours of interviews and treatment, Dr Mack is convinced that these men and women are not making up their stories. Here he presents the many accounts of alien implications of their experiences on his understanding of human psychology and on our identity as a species on this planet.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Simon &amp; Schuster</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0030AF5D4</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1416575804</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">X8BAAQAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780671851941</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;John E. Mack&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-10-30T14:00:41+00:00"/>
+        <meta name="calibre:title_sort" content="Abduction: Human Encounters With Aliens"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">613</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a5b05c61-8aec-4d4c-91b8-c3dea1a959cb</dc:identifier>
+        <dc:title>The Essays of Ralph Waldo Emerson</dc:title>
+        <dc:creator opf:file-as="Emerson, Ralph Waldo" opf:role="aut">Ralph Waldo Emerson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1987-04-01T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Ralph Waldo Emerson, Alfred Kazin observes in his Introduction, “was a great writer who turned the essay into a form all his own.” His celebrated essays―the twelve published in &lt;em&gt;Essays: First Series&lt;/em&gt; (1841) and eight in &lt;em&gt;Essays: Second Series&lt;/em&gt; (1844)―are here presented for the first time in an authoritative one-volume edition, which incorporates all the changes and corrections Emerson made after their initial publication. The text is reproduced from the second and third volumes of &lt;em&gt;The Collected Works of Ralph Waldo Emerson&lt;/em&gt; , a critical edition which draws on the vast body of Emerson scholarship of the last half century. Alfred R. Ferguson was founding editor of the edition, followed by Joseph Slater (until 1996). **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Belknap Press: An Imprint of Harvard University Press</dc:publisher>
+        <dc:identifier opf:scheme="URI">16643</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0674267206</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780674267206</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Ralph Waldo Emerson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:28+00:00"/>
+        <meta name="calibre:title_sort" content="Essays of Ralph Waldo Emerson, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">102</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ecbfe086-ae19-4992-b562-5aa61689579e</dc:identifier>
+        <dc:title>The Art of Seduction</dc:title>
+        <dc:creator opf:file-as="Greene, Robert" opf:role="aut">Robert Greene</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-10-06T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Which sort of seducer could you be? Siren? Rake? Cold Coquette? Star? Comedian? Charismatic? Or Saint? This book will show you which. Charm, persuasion, the ability to create illusions: these are some of the many dazzling gifts of the Seducer, the compelling figure who is able to manipulate, mislead and give pleasure all at once. When raised to the level of art, seduction, an indirect and subtle form of power, has toppled empires, won elections and enslaved great minds. In this beautiful, sensually designed book, Greene unearths the two sides of seduction: the characters and the process. Discover who you, or your pursuer, most resembles. Learn, too, the pitfalls of the anti-Seducer. Immerse yourself in the twenty-four manoeuvres and strategies of the seductive process, the ritual by which a seducer gains mastery over their target. Understand how to 'Choose the Right Victim', 'Appear to Be an Object of Desire' and 'Confuse Desire and Reality'. In addition, Greene provides instruction on how to identify victims by type. Each fascinating character and each cunning tactic demonstrates a fundamental truth about who we are, and the targets we've become - or hope to win over. The Art of Seduction is an indispensable primer on the essence of one of history's greatest weapons and the ultimate power trip.From the internationally bestselling author of The 48 Laws of Power, Mastery, and The 33 Strategies Of War.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Books</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0142001198</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">b730f3a6-af52-4da9-a12c-a6cab7e7c38f</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">3pcQosflgoQC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781847651402</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Family &amp; Relationships</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Greene&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2018-07-02T08:15:38+00:00"/>
+        <meta name="calibre:title_sort" content="Art of Seduction, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

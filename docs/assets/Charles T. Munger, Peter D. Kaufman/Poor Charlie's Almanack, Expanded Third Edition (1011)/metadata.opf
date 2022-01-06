@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1011</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">543cce0b-27df-4229-8577-97193e0ef2dc</dc:identifier>
+        <dc:title>Poor Charlie's Almanack, Expanded Third Edition</dc:title>
+        <dc:creator opf:file-as="Charles T. Munger, Peter D. Kaufman" opf:role="aut">Charles T. Munger, Peter D. Kaufman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-06T18:12:50+00:00</dc:date>
+        <dc:description>Investments, Decision Making</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Investments</dc:subject>
+        <dc:subject>Decision Making</dc:subject>
+        <meta content="{&quot;Charles T. Munger, Peter D. Kaufman&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-09-24T05:32:01.226382+00:00" name="calibre:timestamp"/>
+        <meta content="Poor Charlie's Almanack, Expanded Third Edition" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

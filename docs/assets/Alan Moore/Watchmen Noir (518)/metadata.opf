@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">518</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">29f166b3-a865-4bda-904b-f6d277931a36</dc:identifier>
+        <dc:title>Watchmen Noir</dc:title>
+        <dc:creator opf:file-as="Moore, Alan" opf:role="aut">Alan Moore</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-02-15T12:38:02+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;This groundbreaking series from ALAN MOORE, the award-winning writer of V FOR VENDETTA and BATMAN: THE KILLING JOKE, presents a world where the mere presence of American superheroes changed history, the U.S. won the Vietnam War, Nixon is still president, and the Cold War is in full effect. WATCHMEN begins as a murder mystery but soon unfolds into a planet-altering conspiracy. As the resolution comes to a head, the unlikely group of reunited heroes—Rorschach, Nite Owl, Silk Spectre, Dr. Manhattan and Ozymandias—must test the limits of their convictions and ask themselves where the true line is between good and evil. &lt;/p&gt;
+&lt;p&gt;WATCHMEN NOIR presents the most celebrated graphic novel of all time in gritty black-and-white pencils and inks, highlighting illustrator DAVE GIBBONS’ masterful artwork. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="AMAZON">B01LXRUCDM</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alan Moore&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Watchmen"/>
+        <meta name="calibre:series_index" content="8"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2018-08-28T19:06:49+00:00"/>
+        <meta name="calibre:title_sort" content="Watchmen Noir"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

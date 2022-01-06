@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">59</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4de60bed-a08d-4ad0-8b15-00e6e33eb9f5</dc:identifier>
+        <dc:title>A Culture of Growth: The Origins of the Modern Economy</dc:title>
+        <dc:creator opf:file-as="Mokyr, Joel" opf:role="aut">Joel Mokyr</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-10-24T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Why Enlightenment culture sparked the Industrial Revolution&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;During the late eighteenth century, innovations in Europe triggered the Industrial Revolution and the sustained economic progress that spread across the globe. While much has been made of the details of the Industrial Revolution, what remains a mystery is why it took place at all. Why did this revolution begin in the West and not elsewhere, and why did it continue, leading to today's unprecedented prosperity? In this groundbreaking book, celebrated economic historian Joel Mokyr argues that a culture of growth specific to early modern Europe and the European Enlightenment laid the foundations for the scientific advances and pioneering inventions that would instigate explosive technological and economic development. Bringing together economics, the history of science and technology, and models of cultural evolution, Mokyr demonstrates that culture―the beliefs, values, and preferences in society that are capable of changing behavior―was a deciding factor in societal transformations. &lt;/p&gt;
+&lt;p&gt;Mokyr looks at the period 1500–1700 to show that a politically fragmented Europe fostered a competitive "market for ideas" and a willingness to investigate the secrets of nature. At the same time, a transnational community of brilliant thinkers known as the “Republic of Letters” freely circulated and distributed ideas and writings. This political fragmentation and the supportive intellectual environment explain how the Industrial Revolution happened in Europe but not China, despite similar levels of technology and intellectual activity. In Europe, heterodox and creative thinkers could find sanctuary in other countries and spread their thinking across borders. In contrast, China’s version of the Enlightenment remained controlled by the ruling elite. &lt;/p&gt;
+&lt;p&gt;Combining ideas from economics and cultural evolution, &lt;em&gt;A Culture of Growth&lt;/em&gt; provides startling reasons for why the foundations of our modern economy were laid in the mere two centuries between Columbus and Newton. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Princeton University Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">AOf-CwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0691168881</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781400882915</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Economic History</dc:subject>
+        <dc:subject>Development</dc:subject>
+        <dc:subject>Economic Development</dc:subject>
+        <dc:subject>Economic Conditions</dc:subject>
+        <dc:subject>Economics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joel Mokyr&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2018-06-01T08:27:42+00:00"/>
+        <meta name="calibre:title_sort" content="Culture of Growth: The Origins of the Modern Economy, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

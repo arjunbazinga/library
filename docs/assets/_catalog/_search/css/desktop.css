@@ -1,0 +1,89 @@
+#searchbox, #tag_cloud {
+    width : 80%;
+    margin : auto;
+}
+
+#search .level1Tag {
+    font-size : 80%;
+    color : grey90;
+}
+
+#search .level2Tag {
+    font-size : 100%;
+    color : grey80;
+}
+
+#search .level3Tag {
+    font-size : 120%;
+    color : grey70;
+}
+
+#search .level4Tag {
+    font-size : 140%;
+    color : grey60;
+}
+
+#search .level5Tag {
+    font-size : 160%;
+    color : grey50;
+}
+
+#search .level6Tag {
+    font-size : 180%;
+    color : grey40;
+}
+
+#search .level7Tag {
+    font-size : 200%;
+    color : grey30;
+}
+
+#search .level8Tag {
+    font-size : 220%;
+    color : grey20;
+}
+
+#search .level9Tag {
+    font-size : 240%;
+    color : grey10;
+}
+
+#search .level10Tag {
+    font-size : 260%;
+    color : black;
+}
+
+#search #searchbox {
+    /*width : 200px;*/
+    text-align : left;
+}
+
+#tag_cloud a {
+    text-decoration : none;
+}
+
+#tag_cloud {
+    font-family : Lucida-sans, Helvetica, "Liberation Sans", FreeSans, sans-serif;
+    width : 80%;
+    margin : auto;
+    border : 2px inset black;
+}
+
+#tag_cloud a:hover {
+    color : red;
+}
+
+#results {
+    margin-top : 30px;
+    margin-bottom : 30px;
+}
+
+#searchResult {
+    width : 80%;
+    margin : auto;
+}
+
+#searchResult a {
+    color : white;
+    text-decoration : none;
+}

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1054</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb0d07eb-1794-466f-b29a-9b45374a3794</dc:identifier>
+        <dc:title>Kubernetes in Action</dc:title>
+        <dc:creator opf:file-as="Luksa, Marko" opf:role="aut">Marko Luksa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-27T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Kubernetes in Action&lt;/em&gt; is a comprehensive guide to effectively developing and running applications in a Kubernetes environment. Before diving into Kubernetes, the book gives an overview of container technologies like Docker, including how to build containers, so that even readers who haven't used these technologies before can get up and running. &lt;/p&gt;
+&lt;p&gt;Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the Technology&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;Kubernetes is Greek for "helmsman," your guide through unknown waters. The Kubernetes container orchestration system safely manages the structure and flow of a distributed application, organizing containers and services for maximum efficiency. Kubernetes serves as an operating system for your clusters, eliminating the need to factor the underlying network and server infrastructure into your designs. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the Book&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Kubernetes in Action&lt;/em&gt; teaches you to use Kubernetes to deploy container-based distributed applications. You'll start with an overview of Docker and Kubernetes before building your first Kubernetes cluster. You'll gradually expand your initial application, adding features and deepening your knowledge of Kubernetes architecture and operation. As you navigate this comprehensive guide, you'll explore high-value topics like monitoring, tuning, and scaling. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What's Inside&lt;/strong&gt; &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Kubernetes' internals&lt;/li&gt;
+&lt;li&gt;Deploying containers across a cluster&lt;/li&gt;
+&lt;li&gt;Securing clusters&lt;/li&gt;
+&lt;li&gt;Updating applications with zero downtime&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;About the Reader&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;Written for intermediate software developers with little or no familiarity with Docker or container orchestration systems. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the Author&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Marko Luksa&lt;/strong&gt; is an engineer at Red Hat working on Kubernetes and OpenShift. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt; &lt;/p&gt;
+&lt;h4 style="font-size: medium"&gt;PART 1 - OVERVIEW&lt;/h4&gt;
+&lt;ol&gt;&lt;li&gt;Introducing Kubernetes&lt;/li&gt;
+&lt;li&gt;First steps with Docker and Kubernetes&lt;/li&gt;&lt;/ol&gt;
+&lt;h4 style="font-size: medium"&gt;PART 2 - CORE CONCEPTS&lt;/h4&gt;
+&lt;ol&gt;&lt;li&gt;Pods: running containers in Kubernetes&lt;/li&gt;
+&lt;li&gt;Replication and other controllers: deploying managed pods &lt;/li&gt;
+&lt;li&gt;Services: enabling clients to discover and talk to pods &lt;/li&gt;
+&lt;li&gt;Volumes: attaching disk storage to containers &lt;/li&gt;
+&lt;li&gt;ConfigMaps and Secrets: configuring applications &lt;/li&gt;
+&lt;li&gt;Accessing pod metadata and other resources from applications &lt;/li&gt;
+&lt;li&gt;Deployments: updating applications declaratively &lt;/li&gt;
+&lt;li&gt;StatefulSets: deploying replicated stateful applications&lt;/li&gt;&lt;/ol&gt;
+&lt;h4 style="font-size: medium"&gt;PART 3 - BEYOND THE BASICS&lt;/h4&gt;
+&lt;ol&gt;&lt;li&gt;Understanding Kubernetes internals &lt;/li&gt;
+&lt;li&gt;Securing the Kubernetes API server &lt;/li&gt;
+&lt;li&gt;Securing cluster nodes and the network &lt;/li&gt;
+&lt;li&gt;Managing pods' computational resources &lt;/li&gt;
+&lt;li&gt;Automatic scaling of pods and cluster nodes &lt;/li&gt;
+&lt;li&gt;Advanced scheduling &lt;/li&gt;
+&lt;li&gt;Best practices for developing apps &lt;/li&gt;
+&lt;li&gt;Extending Kubernetes&lt;/li&gt;&lt;/ol&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Manning Publications</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1617293725</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Marko Luksa&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-10-18T12:06:43+00:00"/>
+        <meta name="calibre:title_sort" content="Kubernetes in Action"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">787</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5ae293cf-e5a9-43cf-b88d-5771497905ba</dc:identifier>
+        <dc:title>The School of Life: An Emotional Education</dc:title>
+        <dc:creator opf:file-as="Botton, Alain de &amp; Life, The School Of" opf:role="aut">Alain de Botton</dc:creator>
+        <dc:creator opf:file-as="Botton, Alain de &amp; Life, The School Of" opf:role="aut">The School Of Life</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-04T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;THE SUNDAY TIMES BESTSELLER The essential guide to how to live wisely and well in the twenty-first century - from Alain de Botton, the bestselling author of The Consolations of Philosophy, The Art of Travel and The Course of LoveAs heard on Elizabeth Day's How to Fail podcastThis is a book about everything you were never taught at school. It's about how to understand your emotions, find and sustain love, succeed in your career, fail well and overcome shame and guilt. It's also about letting go of the myth of a perfect life in order to achieve genuine emotional maturity. Written in a hugely accessible, warm and humane style, The School of Life is the ultimate guide to the emotionally fulfilled lives we all long for - and deserve. This book brings together ten years of essential and transformative research on emotional intelligence, with practical topics including: - how to understand yourself- how to master the dilemmas of relationships- how to become more effective at work - how to endure failure- how to grow more serene and resilient Praise for Alain de Botton:'What he has managed to do is remarkable: to help us think better so that we may live better lives' Irish Times'A serious and optimistic set of practical ideas that could improve and alter the way we live' Jeanette Winterson, The Times'Alain de Botton likes to take big, complex subjects and write about them with thoughtful and deceptive innocence' Observer&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin UK</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">vYSCDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780241985854</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">78bf062f-c90a-4ce2-80f8-2fba682c8223</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Happiness</dc:subject>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Emotions</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Mind &amp; Body</dc:subject>
+        <dc:subject>Individual Philosophers</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Self-Esteem</dc:subject>
+        <dc:subject>Movements</dc:subject>
+        <dc:subject>Humanistic</dc:subject>
+        <dc:subject>Psychotherapy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alain de Botton&quot;: &quot;&quot;, &quot;The School Of Life&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-04-23T12:12:59+00:00"/>
+        <meta name="calibre:title_sort" content="School of Life: An Emotional Education, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

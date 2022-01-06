@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with P</title>
+  <id>Calibre2opds:allbooks:P</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with P" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>PIHKAL: A Chemical Love Story</title>
+    <id>calibre:book:943</id>
+    <updated>2020-08-21T01:49:06Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Shulgin/PIHKAL_%20A%20Chemical%20Love%20Story%20%28943%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Shulgin/PIHKAL_%20A%20Chemical%20Love%20Story%20%28943%29/PIHKAL_%20A%20Chemical%20Love%20Story%20-%20Shulgin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Shulgin/PIHKAL_%20A%20Chemical%20Love%20Story%20%28943%29/PIHKAL_%20A%20Chemical%20Love%20Story%20-%20Shulgin.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Shulgin</name>
+      <uri>../author_0/author_754_Page_1.xml</uri>
+    </author>
+    <published>2002-12-26T07:58:24Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <summary>Anthology containing:
+PIHKAL Book IPIHKAL Book II</summary>
+    <link href="../book_0/book_943.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Parallel Computing - IITI</title>
+    <id>calibre:book:526</id>
+    <updated>2020-03-29T01:39:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Dr.%20Surya%20Prakash/Parallel%20Computing%20-%20IITI%20%28526%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Dr.%20Surya%20Prakash/Parallel%20Computing%20-%20IITI%20%28526%29/Parallel%20Computing%20-%20IITI%20-%20Dr.%20Surya%20Prakash.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Dr.%20Surya%20Prakash/Parallel%20Computing%20-%20IITI%20%28526%29/Parallel%20Computing%20-%20IITI%20-%20Dr.%20Surya%20Prakash.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Dr. Surya Prakash</name>
+      <uri>../author_0/author_517_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_526.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A Pattern Language : Towns, Buildings, Construction</title>
+    <id>calibre:book:517</id>
+    <updated>2019-12-07T00:47:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Christopher%20Alexander%2C%20Murray%20Silverstein%2C%20Sara%20Ishikawa/A%20Pattern%20Language%20_%20Towns%2C%20Buildings%2C%20Construction%20%28517%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Christopher%20Alexander%2C%20Murray%20Silverstein%2C%20Sara%20Ishikawa/A%20Pattern%20Language%20_%20Towns%2C%20Buildings%2C%20Construction%20%28517%29/A%20Pattern%20Language%20_%20Towns%2C%20Buildings%2C%20Con%20-%20Christopher%20Alexander%2C%20Murray%20Silverstein%2C.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Christopher%20Alexander%2C%20Murray%20Silverstein%2C%20Sara%20Ishikawa/A%20Pattern%20Language%20_%20Towns%2C%20Buildings%2C%20Construction%20%28517%29/A%20Pattern%20Language%20_%20Towns%2C%20Buildings%2C%20Con%20-%20Christopher%20Alexander%2C%20Murray%20Silverstein%2C.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Christopher Alexander, Murray Silverstein, Sara Ishikawa</name>
+      <uri>../author_0/author_270_Page_1.xml</uri>
+    </author>
+    <published>1977-04-01T07:04:32Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <link href="../book_0/book_517.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The People Vs Tech</title>
+    <id>calibre:book:399</id>
+    <updated>2020-03-28T07:01:28Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Jamie%20Bartlett/The%20People%20Vs%20Tech%20%28399%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Jamie%20Bartlett/The%20People%20Vs%20Tech%20%28399%29/The%20People%20Vs%20Tech%20-%20Jamie%20Bartlett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Jamie%20Bartlett/The%20People%20Vs%20Tech%20%28399%29/The%20People%20Vs%20Tech%20-%20Jamie%20Bartlett.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Jamie%20Bartlett/The%20People%20Vs%20Tech%20%28399%29/The%20People%20Vs%20Tech%20-%20Jamie%20Bartlett.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Jamie Bartlett</name>
+      <uri>../author_0/author_146_Page_1.xml</uri>
+    </author>
+    <published>2018-04-05T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>In the ongoing waves of the Facebook scandal, this is the book that explains all the dangers of the digital revolution, and how our mountains of personal cyberdata are being mined by everyone from our own governments and political parties to big busi...</summary>
+    <link href="../book_0/book_399.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A People's History of the United States ****</title>
+    <id>calibre:book:648</id>
+    <updated>2020-03-28T06:56:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Howard%20Zinn/A%20People%27s%20History%20of%20the%20United%20States%20%28648%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Howard%20Zinn/A%20People%27s%20History%20of%20the%20United%20States%20%28648%29/A%20People%27s%20History%20of%20the%20United%20States%20-%20Howard%20Zinn.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Howard%20Zinn/A%20People%27s%20History%20of%20the%20United%20States%20%28648%29/A%20People%27s%20History%20of%20the%20United%20States%20-%20Howard%20Zinn.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Howard Zinn</name>
+      <uri>../author_0/author_399_Page_1.xml</uri>
+    </author>
+    <published>2010-01-26T10:20:52Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="History" />
+    <category term="General" />
+    <category term="United States" />
+    <category term="Political Science" />
+    <category term="Political Ideologies" />
+    <category term="Democracy" />
+    <category term="Lang:en" />
+    <summary>Since its original landmark publication in 1980, A People's History of the United States has been chronicling American history from the bottom up, throwing out the official version of history taught in schools–with its emphasis on great men in high p...</summary>
+    <link href="../book_0/book_648.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A People's History of the World: From the Stone Age to the New Millennium</title>
+    <id>calibre:book:730</id>
+    <updated>2020-03-28T07:23:58Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Harman%2C%20Chris/A%20People%27s%20History%20of%20the%20World_%20From%20the%20Stone%20Age%20to%20the%20New%20Millennium%20%28730%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Harman%2C%20Chris/A%20People%27s%20History%20of%20the%20World_%20From%20the%20Stone%20Age%20to%20the%20New%20Millennium%20%28730%29/A%20People%27s%20History%20of%20the%20World_%20From%20the%20-%20Harman%2C%20Chris.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Harman%2C%20Chris/A%20People%27s%20History%20of%20the%20World_%20From%20the%20Stone%20Age%20to%20the%20New%20Millennium%20%28730%29/A%20People%27s%20History%20of%20the%20World_%20From%20the%20-%20Harman%2C%20Chris.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Harman, Chris</name>
+      <uri>../author_0/author_456_Page_1.xml</uri>
+    </author>
+    <published>2008-04-16T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Verso Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_730.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A Peoples History of the World</title>
+    <id>calibre:book:721</id>
+    <updated>2020-03-28T11:32:42Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Chris%20Harman/A%20Peoples%20History%20of%20the%20World%20%28721%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Chris%20Harman/A%20Peoples%20History%20of%20the%20World%20%28721%29/A%20Peoples%20History%20of%20the%20World%20-%20Chris%20Harman.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Chris Harman</name>
+      <uri>../author_0/author_458_Page_1.xml</uri>
+    </author>
+    <published>2008-06-06T11:55:33Z</published>
+    <link href="../book_0/book_721.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A People’s History of the World</title>
+    <id>calibre:book:732</id>
+    <updated>2020-03-28T07:23:58Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Chris%20Harman/A%20People%27s%20History%20of%20the%20World%20%28732%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Chris%20Harman/A%20People%27s%20History%20of%20the%20World%20%28732%29/A%20People%27s%20History%20of%20the%20World%20-%20Chris%20Harman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Chris%20Harman/A%20People%27s%20History%20of%20the%20World%20%28732%29/A%20People%27s%20History%20of%20the%20World%20-%20Chris%20Harman.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Chris Harman</name>
+      <uri>../author_0/author_458_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Verso</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_732.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Periodic Table</title>
+    <id>calibre:book:751</id>
+    <updated>2020-04-04T03:11:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Primo%20Levi/The%20Periodic%20Table%20%28751%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Primo%20Levi/The%20Periodic%20Table%20%28751%29/The%20Periodic%20Table%20-%20Primo%20Levi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Primo%20Levi/The%20Periodic%20Table%20%28751%29/The%20Periodic%20Table%20-%20Primo%20Levi.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Primo Levi</name>
+      <uri>../author_0/author_530_Page_1.xml</uri>
+    </author>
+    <published>1983-12-31T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Schocken</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_751.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Permanent Record</title>
+    <id>calibre:book:627</id>
+    <updated>2020-03-28T07:51:02Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Edward%20Snowden/Permanent%20Record%20%28627%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Edward%20Snowden/Permanent%20Record%20%28627%29/Permanent%20Record%20-%20Edward%20Snowden.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Edward%20Snowden/Permanent%20Record%20%28627%29/Permanent%20Record%20-%20Edward%20Snowden.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Edward Snowden</name>
+      <uri>../author_0/author_489_Page_1.xml</uri>
+    </author>
+    <published>2019-09-17T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Pan Macmillan</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_627.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Peter Thiel's Religion</title>
+    <id>calibre:book:808</id>
+    <updated>2020-05-09T00:36:06Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/David%20Perell/Peter%20Thiel%27s%20Religion%20%28808%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/David%20Perell/Peter%20Thiel%27s%20Religion%20%28808%29/Peter%20Thiel%27s%20Religion%20-%20David%20Perell.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>David Perell</name>
+      <uri>../author_0/author_778_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <link href="../book_0/book_808.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Pharmacotheon Entheogenic Drugs, Their Plant Sources &amp; History</title>
+    <id>calibre:book:944</id>
+    <updated>2020-08-21T01:46:09Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Jonathan%20Ott/Pharmacotheon%20Entheogenic%20Drugs%2C%20Their%20Plant%20Sources%20%26%20History%20%28944%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Jonathan%20Ott/Pharmacotheon%20Entheogenic%20Drugs%2C%20Their%20Plant%20Sources%20%26%20History%20%28944%29/Pharmacotheon%20Entheogenic%20Drugs%2C%20Their%20Pla%20-%20Jonathan%20Ott.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Jonathan Ott</name>
+      <uri>../author_0/author_762_Page_1.xml</uri>
+    </author>
+    <published>1993-08-05T06:30:00Z</published>
+    <link href="../book_0/book_944.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A Philosophy of Software Design</title>
+    <id>calibre:book:656</id>
+    <updated>2020-03-28T07:39:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/John%20Ousterhout/A%20Philosophy%20of%20Software%20Design%20%28656%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/John%20Ousterhout/A%20Philosophy%20of%20Software%20Design%20%28656%29/A%20Philosophy%20of%20Software%20Design%20-%20John%20Ousterhout.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/John%20Ousterhout/A%20Philosophy%20of%20Software%20Design%20%28656%29/A%20Philosophy%20of%20Software%20Design%20-%20John%20Ousterhout.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>John Ousterhout</name>
+      <uri>../author_0/author_405_Page_1.xml</uri>
+    </author>
+    <published>2019-01-22T08:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Yaknyam Press, Palo Alto, CA</dcterms:publisher>
+    <category term="software complexity" />
+    <category term="Computer Programming" />
+    <category term="interface vs. implementation" />
+    <category term="modular decomposition" />
+    <category term="abstraction" />
+    <category term="software design" />
+    <category term="Lang:en" />
+    <summary>This book addresses the topic of software design: how to decompose complex software systems into modules (such as classes and methods) that can be implemented relatively independently. The book first introduces the fundamental problem in software des...</summary>
+    <link href="../book_0/book_656.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Phishing for Phools</title>
+    <id>calibre:book:21</id>
+    <updated>2019-12-07T00:47:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20J.%20Shiller/Phishing%20for%20Phools%20%2821%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20J.%20Shiller/Phishing%20for%20Phools%20%2821%29/Phishing%20for%20Phools%20-%20Robert%20J.%20Shiller.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20J.%20Shiller/Phishing%20for%20Phools%20%2821%29/Phishing%20for%20Phools%20-%20Robert%20J.%20Shiller.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20J.%20Shiller/Phishing%20for%20Phools%20%2821%29/Phishing%20for%20Phools%20-%20Robert%20J.%20Shiller.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Robert J. Shiller</name>
+      <uri>../author_0/author_210_Page_1.xml</uri>
+    </author>
+    <published>2015-06-19T05:24:46Z</published>
+    <link href="../book_0/book_21.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Pillow Book</title>
+    <id>calibre:book:410</id>
+    <updated>2020-03-28T07:48:58Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Sei%20Shonagon/The%20Pillow%20Book%20%28410%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Sei%20Shonagon/The%20Pillow%20Book%20%28410%29/The%20Pillow%20Book%20-%20Sei%20Shonagon.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Sei%20Shonagon/The%20Pillow%20Book%20%28410%29/The%20Pillow%20Book%20-%20Sei%20Shonagon.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Sei%20Shonagon/The%20Pillow%20Book%20%28410%29/The%20Pillow%20Book%20-%20Sei%20Shonagon.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Sei Shonagon</name>
+      <uri>../author_0/author_487_Page_1.xml</uri>
+    </author>
+    <published>2006-11-29T11:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Books Ltd</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_410.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Pimp: The Story of My Life *****</title>
+    <id>calibre:book:607</id>
+    <updated>2020-03-28T07:50:44Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Iceberg%20Slim/Pimp_%20The%20Story%20of%20My%20Life%20%28607%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Iceberg%20Slim/Pimp_%20The%20Story%20of%20My%20Life%20%28607%29/Pimp_%20The%20Story%20of%20My%20Life%20-%20Iceberg%20Slim.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Iceberg%20Slim/Pimp_%20The%20Story%20of%20My%20Life%20%28607%29/Pimp_%20The%20Story%20of%20My%20Life%20-%20Iceberg%20Slim.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Iceberg Slim</name>
+      <uri>../author_0/author_804_Page_1.xml</uri>
+    </author>
+    <published>2011-05-09T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Cash Money Content</dcterms:publisher>
+    <category term="Biography &amp; Autobiography" />
+    <category term="Criminals &amp; Outlaws" />
+    <category term="Philosophy" />
+    <category term="Good &amp; Evil" />
+    <category term="Social Science" />
+    <category term="Ethnic Studies" />
+    <category term="African American Studies" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>“[In Pimp ], Iceberg Slim breaks down some of the coldest, capitalist concepts I’ve ever heard in my life.” —Dave Chappelle, from his Netflix special *The Bird Revelation* 
+An immersive experience unlike anything before it, Pimp is the classic hustl...</summary>
+    <link href="../book_0/book_607.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Plague</title>
+    <id>calibre:book:761</id>
+    <updated>2020-04-04T03:11:38Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Albert%20Camus/The%20Plague%20%28761%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Albert%20Camus/The%20Plague%20%28761%29/The%20Plague%20-%20Albert%20Camus.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Albert%20Camus/The%20Plague%20%28761%29/The%20Plague%20-%20Albert%20Camus.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Albert Camus</name>
+      <uri>../author_0/author_323_Page_1.xml</uri>
+    </author>
+    <published>2012-08-07T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Knopf Doubleday Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_761.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Player Piano</title>
+    <id>calibre:book:667</id>
+    <updated>2020-03-28T08:04:04Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Kurt%20Vonnegut/Player%20Piano%20%28667%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Kurt%20Vonnegut/Player%20Piano%20%28667%29/Player%20Piano%20-%20Kurt%20Vonnegut.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Kurt%20Vonnegut/Player%20Piano%20%28667%29/Player%20Piano%20-%20Kurt%20Vonnegut.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Kurt Vonnegut</name>
+      <uri>../author_0/author_317_Page_1.xml</uri>
+    </author>
+    <published>1979-12-31T06:30:00Z</published>
+    <dcterms:publisher>Random House Publishing Group</dcterms:publisher>
+    <category term="Fiction" />
+    <link href="../book_0/book_667.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Poor Charlie's Almanack, Expanded Third Edition</title>
+    <id>calibre:book:42</id>
+    <updated>1970-01-01T05:30:00Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Charles%20T.%20Munger%2C%20Peter%20D.%20Kaufman/Poor%20Charlie%27s%20Almanack%2C%20Expanded%20Third%20Edition%20%2842%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Charles%20T.%20Munger%2C%20Peter%20D.%20Kaufman/Poor%20Charlie%27s%20Almanack%2C%20Expanded%20Third%20Edition%20%2842%29/Poor%20Charlie%27s%20Almanack%2C%20Expanded%20Third%20Ed%20-%20Charles%20T.%20Munger%2C%20Peter%20D.%20Kaufman.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Charles%20T.%20Munger%2C%20Peter%20D.%20Kaufman/Poor%20Charlie%27s%20Almanack%2C%20Expanded%20Third%20Edition%20%2842%29/Poor%20Charlie%27s%20Almanack%2C%20Expanded%20Third%20Ed%20-%20Charles%20T.%20Munger%2C%20Peter%20D.%20Kaufman.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Charles T. Munger, Peter D. Kaufman</name>
+      <uri>../author_0/author_38_Page_1.xml</uri>
+    </author>
+    <published>2012-02-06T06:12:50Z</published>
+    <category term="Investments" />
+    <category term="Decision Making" />
+    <summary>Investments, Decision Making</summary>
+    <link href="../book_0/book_42.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Portrait of the Artist as a Young Man and Dubliners (Barnes &amp; Noble Classics Series)</title>
+    <id>calibre:book:735</id>
+    <updated>2020-03-28T07:26:58Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/James%20Joyce/Portrait%20of%20the%20Artist%20as%20a%20Young%20Man%20and%20Dubliners%20%28Barnes%20%26%20Noble%20Classics%20Series%29%20%28735%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/James%20Joyce/Portrait%20of%20the%20Artist%20as%20a%20Young%20Man%20and%20Dubliners%20%28Barnes%20%26%20Noble%20Classics%20Series%29%20%28735%29/Portrait%20of%20the%20Artist%20as%20a%20Young%20Man%20and%20-%20James%20Joyce.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/James%20Joyce/Portrait%20of%20the%20Artist%20as%20a%20Young%20Man%20and%20Dubliners%20%28Barnes%20%26%20Noble%20Classics%20Series%29%20%28735%29/Portrait%20of%20the%20Artist%20as%20a%20Young%20Man%20and%20-%20James%20Joyce.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>James Joyce</name>
+      <uri>../author_0/author_460_Page_1.xml</uri>
+    </author>
+    <published>2010-08-18T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Barnes &amp; Noble</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_735.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Power of Market Fundamentalism</title>
+    <id>calibre:book:649</id>
+    <updated>2020-03-28T07:02:40Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Fred%20Block/The%20Power%20of%20Market%20Fundamentalism%20%28649%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Fred%20Block/The%20Power%20of%20Market%20Fundamentalism%20%28649%29/The%20Power%20of%20Market%20Fundamentalism%20-%20Fred%20Block.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Fred%20Block/The%20Power%20of%20Market%20Fundamentalism%20%28649%29/The%20Power%20of%20Market%20Fundamentalism%20-%20Fred%20Block.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Fred Block</name>
+      <uri>../author_0/author_400_Page_1.xml</uri>
+    </author>
+    <published>2014-01-10T07:52:28Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <link href="../book_0/book_649.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Power of Your Subconscious Mind</title>
+    <id>calibre:book:680</id>
+    <updated>2020-03-28T07:36:32Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Murphy%2C%20Joseph/The%20Power%20of%20Your%20Subconscious%20Mind%20%28680%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Murphy%2C%20Joseph/The%20Power%20of%20Your%20Subconscious%20Mind%20%28680%29/The%20Power%20of%20Your%20Subconscious%20Mind%20-%20Murphy%2C%20Joseph.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Murphy%2C%20Joseph/The%20Power%20of%20Your%20Subconscious%20Mind%20%28680%29/The%20Power%20of%20Your%20Subconscious%20Mind%20-%20Murphy%2C%20Joseph.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Murphy, Joseph</name>
+      <uri>../author_0/author_429_Page_1.xml</uri>
+    </author>
+    <published>2010-03-20T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Wilder Publications</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_680.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Power</title>
+    <id>calibre:book:24</id>
+    <updated>2020-03-28T06:58:00Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Naomi%20Alderman/The%20Power%20%2824%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Naomi%20Alderman/The%20Power%20%2824%29/The%20Power%20-%20Naomi%20Alderman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Naomi%20Alderman/The%20Power%20%2824%29/The%20Power%20-%20Naomi%20Alderman.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Naomi%20Alderman/The%20Power%20%2824%29/The%20Power%20-%20Naomi%20Alderman.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Naomi Alderman</name>
+      <uri>../author_0/author_21_Page_1.xml</uri>
+    </author>
+    <published>2016-10-27T11:36:12Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin UK</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_24.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Practical Google Analytics &amp; Google Tag Manager for Developers</title>
+    <id>calibre:book:909</id>
+    <updated>2020-08-09T00:59:06Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Jonathan%20Weber/Practical%20Google%20Analytics%20%26%20Google%20Tag%20Manager%20for%20Developers%20%28909%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Jonathan%20Weber/Practical%20Google%20Analytics%20%26%20Google%20Tag%20Manager%20for%20Developers%20%28909%29/Practical%20Google%20Analytics%20%26%20Google%20Tag%20Ma%20-%20Jonathan%20Weber.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Jonathan Weber</name>
+      <uri>../author_0/author_721_Page_1.xml</uri>
+    </author>
+    <published>2015-10-24T06:24:47Z</published>
+    <dcterms:publisher>Apress®</dcterms:publisher>
+    <link href="../book_0/book_909.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Practice of Programming</title>
+    <id>calibre:book:926</id>
+    <updated>2020-08-13T00:51:27Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Brian%20W.Kerninghan/The%20Practice%20of%20Programming%20%28926%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Brian%20W.Kerninghan/The%20Practice%20of%20Programming%20%28926%29/The%20Practice%20of%20Programming%20-%20Brian%20W.Kerninghan.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Brian W.Kerninghan</name>
+      <uri>../author_0/author_735_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_926.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Pride and Prejudice *****</title>
+    <id>calibre:book:614</id>
+    <updated>2020-03-28T07:00:14Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Jane%20Austen/Pride%20and%20Prejudice%20%28614%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Jane%20Austen/Pride%20and%20Prejudice%20%28614%29/Pride%20and%20Prejudice%20-%20Jane%20Austen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Jane%20Austen/Pride%20and%20Prejudice%20%28614%29/Pride%20and%20Prejudice%20-%20Jane%20Austen.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Jane Austen</name>
+      <uri>../author_0/author_374_Page_1.xml</uri>
+    </author>
+    <published>2008-08-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Ignatius Press</dcterms:publisher>
+    <category term="Literary Criticism" />
+    <category term="Women Authors" />
+    <category term="Fiction" />
+    <category term="Classics" />
+    <category term="England -- Fiction" />
+    <category term="Young women -- Fiction" />
+    <category term="Love stories" />
+    <category term="Sisters -- Fiction" />
+    <category term="Domestic fiction" />
+    <category term="Courtship -- Fiction" />
+    <category term="Social classes -- Fiction" />
+    <category term="Lang:en" />
+    <summary>Pride and Prejudice is a novel of manners by Jane Austen, first published in 1813. The story follows the main character, Elizabeth Bennet, as she deals with issues of manners, upbringing, morality, education, and marriage in the society of the lande...</summary>
+    <link href="../book_0/book_614.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Prime of Miss Jean Brodie *****</title>
+    <id>calibre:book:759</id>
+    <updated>2020-04-04T03:11:42Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Muriel%20Spark/The%20Prime%20of%20Miss%20Jean%20Brodie%20%28759%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Muriel%20Spark/The%20Prime%20of%20Miss%20Jean%20Brodie%20%28759%29/The%20Prime%20of%20Miss%20Jean%20Brodie%20-%20Muriel%20Spark.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Muriel%20Spark/The%20Prime%20of%20Miss%20Jean%20Brodie%20%28759%29/The%20Prime%20of%20Miss%20Jean%20Brodie%20-%20Muriel%20Spark.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Muriel Spark</name>
+      <uri>../author_0/author_549_Page_1.xml</uri>
+    </author>
+    <published>2011-04-17T10:00:00Z</published>
+    <dcterms:publisher>219</dcterms:publisher>
+    <category term="goldenlist" />
+    <category term="ENGL" />
+    <category term="novela" />
+    <category term="PDF_file" />
+    <summary>Review
+"A gloriously witty and polished vignette." -- -- Times Literary Supplement
+
+"A perfect book." -- -- Chicago Tribune
+
+"Admirably written, beautifully constructed, extremely amusing, and deeply serious." -- -- Saturday Review
+
+"A gloriously wit...</summary>
+    <link href="../book_0/book_759.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A Primer OfLibertarian Education</title>
+    <id>calibre:book:426</id>
+    <updated>2020-03-28T07:52:56Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Joel%20Spring/A%20Primer%20OfLibertarian%20Education%20%28426%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Joel%20Spring/A%20Primer%20OfLibertarian%20Education%20%28426%29/A%20Primer%20OfLibertarian%20Education%20-%20Joel%20Spring.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Joel%20Spring/A%20Primer%20OfLibertarian%20Education%20%28426%29/A%20Primer%20OfLibertarian%20Education%20-%20Joel%20Spring.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Joel%20Spring/A%20Primer%20OfLibertarian%20Education%20%28426%29/A%20Primer%20OfLibertarian%20Education%20-%20Joel%20Spring.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Joel Spring</name>
+      <uri>../author_0/author_172_Page_1.xml</uri>
+    </author>
+    <published>1975-07-31T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="A PRIMER OF LIBERTARIAN EDUCATION" />
+    <category term="Lang:en" />
+    <summary>A PRIMER OF LIBERTARIAN EDUCATION</summary>
+    <link href="../book_0/book_426.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Prince</title>
+    <id>calibre:book:112</id>
+    <updated>2019-12-07T00:47:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Nicolo%20Machiavelli/The%20Prince%20%28112%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Nicolo%20Machiavelli/The%20Prince%20%28112%29/The%20Prince%20-%20Nicolo%20Machiavelli.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Nicolo%20Machiavelli/The%20Prince%20%28112%29/The%20Prince%20-%20Nicolo%20Machiavelli.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Nicolo%20Machiavelli/The%20Prince%20%28112%29/The%20Prince%20-%20Nicolo%20Machiavelli.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Nicolo Machiavelli</name>
+      <uri>../author_0/author_89_Page_1.xml</uri>
+    </author>
+    <published>1532-08-27T06:30:00Z</published>
+    <summary>Download classic literature as completely free eBooks from Planet eBook.</summary>
+    <link href="../book_0/book_112.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Principal-agent problem</title>
+    <id>calibre:book:807</id>
+    <updated>2020-05-09T00:36:04Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Wikipedia/Principal-agent%20problem%20%28807%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Wikipedia/Principal-agent%20problem%20%28807%29/Principal-agent%20problem%20-%20Wikipedia.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Wikipedia</name>
+      <uri>../author_0/author_498_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <link href="../book_0/book_807.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Principles: Life and Work</title>
+    <id>calibre:book:71</id>
+    <updated>2020-03-28T07:10:02Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Ray%20Dalio/Principles_%20Life%20and%20Work%20%2871%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Ray%20Dalio/Principles_%20Life%20and%20Work%20%2871%29/Principles_%20Life%20and%20Work%20-%20Ray%20Dalio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Ray%20Dalio/Principles_%20Life%20and%20Work%20%2871%29/Principles_%20Life%20and%20Work%20-%20Ray%20Dalio.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Ray%20Dalio/Principles_%20Life%20and%20Work%20%2871%29/Principles_%20Life%20and%20Work%20-%20Ray%20Dalio.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Ray Dalio</name>
+      <uri>../author_0/author_60_Page_1.xml</uri>
+    </author>
+    <published>2017-09-18T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Simon &amp; Schuster</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_71.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Prinicples of Programming Lanugages</title>
+    <id>calibre:book:837</id>
+    <updated>2020-07-09T01:07:28Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Graham%20Hutton/Prinicples%20of%20Programming%20Lanugages%20%28837%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Graham%20Hutton/Prinicples%20of%20Programming%20Lanugages%20%28837%29/Prinicples%20of%20Programming%20Lanugages%20-%20Graham%20Hutton.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Graham Hutton</name>
+      <uri>../author_0/author_641_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_837.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Probability Concepts in Engineering Emphasis on Civil and Enviromental Engineering</title>
+    <id>calibre:book:855</id>
+    <updated>2020-07-09T01:57:46Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Alfredo%20H-S.Ang%2C%20Wilson%20H.%20Tang/Probability%20Concepts%20in%20Engineering%20Emphasis%20on%20Civil%20and%20Enviromental%20Engineering%20%28855%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Alfredo%20H-S.Ang%2C%20Wilson%20H.%20Tang/Probability%20Concepts%20in%20Engineering%20Emphasis%20on%20Civil%20and%20Enviromental%20Engineering%20%28855%29/Probability%20Concepts%20in%20Engineering%20Emphas%20-%20Alfredo%20H-S.Ang%2C%20Wilson%20H.%20Tang.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Alfredo H-S.Ang, Wilson H. Tang</name>
+      <uri>../author_0/author_647_Page_1.xml</uri>
+    </author>
+    <published>2020-07-03T03:21:35Z</published>
+    <summary>Probability Concepts in Engineering Emphasis on Civil and Enviromental Engineering</summary>
+    <link href="../book_0/book_855.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Product Manager Interview: 164 Actual Questions and Answers ****</title>
+    <id>calibre:book:906</id>
+    <updated>2020-08-09T00:59:06Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Lewis%20C.%20Lin/The%20Product%20Manager%20Interview_%20164%20Actual%20Questions%20and%20Answers%20%28906%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Lewis%20C.%20Lin/The%20Product%20Manager%20Interview_%20164%20Actual%20Questions%20and%20Answers%20%28906%29/The%20Product%20Manager%20Interview_%20164%20Actual%20-%20Lewis%20C.%20Lin.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Lewis C. Lin</name>
+      <uri>../author_0/author_718_Page_1.xml</uri>
+    </author>
+    <published>2017-11-05T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Impact Interview</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>NEW EDITION AVAILABLE. * This is the OLDER 3rd edition. The NEWER 4th edition is available: amzn.to/2X56Q8O *BEWARE OF COUNTERFEIT BOOKS. Readers have reported that Amazon's 3rd-party sellers are selling counterfeit versions; the counterfeit pages h...</summary>
+    <link href="../book_0/book_906.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Productive Thinking</title>
+    <id>calibre:book:908</id>
+    <updated>2020-08-09T00:59:06Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Max%20Wertheimer/Productive%20Thinking%20%28908%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Max%20Wertheimer/Productive%20Thinking%20%28908%29/Productive%20Thinking%20-%20Max%20Wertheimer.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Max Wertheimer</name>
+      <uri>../author_0/author_720_Page_1.xml</uri>
+    </author>
+    <published>2020-03-29T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Springer Nature</dcterms:publisher>
+    <category term="Science" />
+    <category term="History" />
+    <category term="Psychology" />
+    <category term="Cognitive Psychology &amp; Cognition" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>Max Wertheimer (1880-1943), a pioneer of 20th-century psychology, had a major influence on the development of cognitive psychology, especially the psychology of perception and of productive thinking. His work "Productive Thinking" (1945), written in...</summary>
+    <link href="../book_0/book_908.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Profiles of the Future</title>
+    <id>calibre:book:571</id>
+    <updated>2020-03-28T07:07:14Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Arthur%20C.%20Clarke/Profiles%20of%20the%20Future%20%28571%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Arthur%20C.%20Clarke/Profiles%20of%20the%20Future%20%28571%29/Profiles%20of%20the%20Future%20-%20Arthur%20C.%20Clarke.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Arthur%20C.%20Clarke/Profiles%20of%20the%20Future%20%28571%29/Profiles%20of%20the%20Future%20-%20Arthur%20C.%20Clarke.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Arthur C. Clarke</name>
+      <uri>../author_0/author_328_Page_1.xml</uri>
+    </author>
+    <published>2011-09-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Orion Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_571.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Programming for the Puzzled</title>
+    <id>calibre:book:524</id>
+    <updated>2020-03-28T07:12:00Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Srini%20Devadas/Programming%20for%20the%20Puzzled%20%28524%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Srini%20Devadas/Programming%20for%20the%20Puzzled%20%28524%29/Programming%20for%20the%20Puzzled%20-%20Srini%20Devadas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Srini%20Devadas/Programming%20for%20the%20Puzzled%20%28524%29/Programming%20for%20the%20Puzzled%20-%20Srini%20Devadas.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Srini Devadas</name>
+      <uri>../author_0/author_276_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>The MIT Press</dcterms:publisher>
+    <category term="computer science; programming languages; problems; algorithms; Python; coding; data structures; optimization; software engineering; recursion; Divide and Conquer; greedy algorithm; exhaustive search; backtracking; case analysis; information; encoding information; decoding information; functions; control flow; hashing; hash tables; radix representation; conflict detection; implication; binary search; bisection search; independent set; set covering; Decrease-by-One search; pivoting; in-place algorithm; Object-oriented programming; breadth-first search; depth-first search; graph; graph traversal; Binary Search Trees" />
+    <category term="Lang:en" />
+    <summary>Learning programming with one of “the coolest applications around“: algorithmic puzzles ranging from scheduling selfie time to verifying the six degrees of separation hypothesis.</summary>
+    <link href="../book_0/book_524.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Prolog: Clause and Effect</title>
+    <id>calibre:book:547</id>
+    <updated>2020-03-29T01:14:28Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Dr.%20William%20F.%20Clocksin/Prolog_%20Clause%20and%20Effect%20%28547%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Dr.%20William%20F.%20Clocksin/Prolog_%20Clause%20and%20Effect%20%28547%29/Prolog_%20Clause%20and%20Effect%20-%20Dr.%20William%20F.%20Clocksin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Dr.%20William%20F.%20Clocksin/Prolog_%20Clause%20and%20Effect%20%28547%29/Prolog_%20Clause%20and%20Effect%20-%20Dr.%20William%20F.%20Clocksin.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Dr. William F. Clocksin</name>
+      <uri>../author_0/author_496_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_547.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Propaganda</title>
+    <id>calibre:book:512</id>
+    <updated>2020-03-28T07:02:16Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Edward%20Bernays/Propaganda%20%28512%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Edward%20Bernays/Propaganda%20%28512%29/Propaganda%20-%20Edward%20Bernays.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Edward%20Bernays/Propaganda%20%28512%29/Propaganda%20-%20Edward%20Bernays.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Edward%20Bernays/Propaganda%20%28512%29/Propaganda%20-%20Edward%20Bernays.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Edward Bernays</name>
+      <uri>../author_0/author_262_Page_1.xml</uri>
+    </author>
+    <published>2010-07-11T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>IG Publishing</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_512.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Propaganda: The Formation of Men's Attitudes</title>
+    <id>calibre:book:842</id>
+    <updated>2020-07-09T01:08:02Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Jacques%20Ellul/Propaganda_%20The%20Formation%20of%20Men%27s%20Attitudes%20%28842%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Jacques%20Ellul/Propaganda_%20The%20Formation%20of%20Men%27s%20Attitudes%20%28842%29/Propaganda_%20The%20Formation%20of%20Men%27s%20Attitud%20-%20Jacques%20Ellul.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Jacques%20Ellul/Propaganda_%20The%20Formation%20of%20Men%27s%20Attitudes%20%28842%29/Propaganda_%20The%20Formation%20of%20Men%27s%20Attitud%20-%20Jacques%20Ellul.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Jacques Ellul</name>
+      <uri>../author_0/author_623_Page_1.xml</uri>
+    </author>
+    <published>1973-01-11T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Vintage Books</dcterms:publisher>
+    <category term="propaganda" />
+    <category term="language" />
+    <category term="nonfiction" />
+    <category term="Psychology" />
+    <category term="Sociology" />
+    <category term="mass media" />
+    <category term="brainwashing" />
+    <category term="persuasion" />
+    <category term="Lang:en" />
+    <summary>From one of the greatest French philosophers of the 20th century, comes a seminal study and critique of propaganda. Taking not only a psychological approach, but a sociological approach as well, Ellul’s book outlines the taxonomy for propaganda, and ...</summary>
+    <link href="../book_0/book_842.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Psilocybin, Magic Mushroom Grower's Guide A Handbook for Psilocybin Enthusiasts-And Or Press ()</title>
+    <id>calibre:book:636</id>
+    <updated>2020-03-28T11:32:32Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/O.%20T%20Oss%2C%20O%20N%20Oeric%2C%20Kat%2C%20Irimias%20the%20Obscure/Psilocybin%2C%20Magic%20Mushroom%20Grower%27s%20Guide%20A%20Handbook%20for%20Psilocybin%20Enthusiasts-And%20Or%20Press%20%28%29%20%28636%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/O.%20T%20Oss%2C%20O%20N%20Oeric%2C%20Kat%2C%20Irimias%20the%20Obscure/Psilocybin%2C%20Magic%20Mushroom%20Grower%27s%20Guide%20A%20Handbook%20for%20Psilocybin%20Enthusiasts-And%20Or%20Press%20%28%29%20%28636%29/Psilocybin%2C%20Magic%20Mushroom%20Grower%27s%20Guide%20-%20O.%20T%20Oss%2C%20O%20N%20Oeric%2C%20Kat%2C%20Irimias%20the%20Obsc.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>O. T Oss, O N Oeric, Kat, Irimias the Obscure</name>
+      <uri>../author_0/author_470_Page_1.xml</uri>
+    </author>
+    <published>1976-09-20T04:54:40Z</published>
+    <link href="../book_0/book_636.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Psychedelic Experience: A Manual Based on the Tibetan Book of the Dead (1964)</title>
+    <id>calibre:book:65</id>
+    <updated>2020-03-28T07:29:06Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Timothy%20Leary/The%20Psychedelic%20Experience_%20A%20Manual%20Based%20on%20the%20Tibetan%20Book%20of%20the%20Dead%20%281964%29%20%2865%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Timothy%20Leary/The%20Psychedelic%20Experience_%20A%20Manual%20Based%20on%20the%20Tibetan%20Book%20of%20the%20Dead%20%281964%29%20%2865%29/The%20Psychedelic%20Experience_%20A%20Manual%20Based%20-%20Timothy%20Leary.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Timothy%20Leary/The%20Psychedelic%20Experience_%20A%20Manual%20Based%20on%20the%20Tibetan%20Book%20of%20the%20Dead%20%281964%29%20%2865%29/The%20Psychedelic%20Experience_%20A%20Manual%20Based%20-%20Timothy%20Leary.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Timothy%20Leary/The%20Psychedelic%20Experience_%20A%20Manual%20Based%20on%20the%20Tibetan%20Book%20of%20the%20Dead%20%281964%29%20%2865%29/The%20Psychedelic%20Experience_%20A%20Manual%20Based%20-%20Timothy%20Leary.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Timothy Leary</name>
+      <uri>../author_0/author_55_Page_1.xml</uri>
+    </author>
+    <published>2015-05-13T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Progressive Press</dcterms:publisher>
+    <category term="Timothy Leary" />
+    <category term="Lang:en" />
+    <summary>Timothy Leary The Psychedelic Experience</summary>
+    <link href="../book_0/book_65.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Psychological Warfare Against Nazi Germany : The Sykewar Campaign, D-Day to VE-Day</title>
+    <id>calibre:book:852</id>
+    <updated>2020-07-09T01:07:32Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Daniel%20Lerner/Psychological%20Warfare%20Against%20Nazi%20Germany%20_%20The%20Sykewar%20Campaign%2C%20D-Day%20to%20VE-Day%20%28852%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Daniel%20Lerner/Psychological%20Warfare%20Against%20Nazi%20Germany%20_%20The%20Sykewar%20Campaign%2C%20D-Day%20to%20VE-Day%20%28852%29/Psychological%20Warfare%20Against%20Nazi%20Germany%20-%20Daniel%20Lerner.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Daniel Lerner</name>
+      <uri>../author_0/author_633_Page_1.xml</uri>
+    </author>
+    <published>1971-11-17T06:50:33Z</published>
+    <dcterms:publisher>MIT Press</dcterms:publisher>
+    <link href="../book_0/book_852.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Psychology of Money</title>
+    <id>calibre:book:920</id>
+    <updated>2020-08-09T04:40:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Collaborative%20Fund/The%20Psychology%20of%20Money%20%28920%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Collaborative%20Fund/The%20Psychology%20of%20Money%20%28920%29/The%20Psychology%20of%20Money%20-%20Collaborative%20Fund.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Collaborative Fund</name>
+      <uri>../author_0/author_729_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_920.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Public to Private quity in the US:  a long- term look</title>
+    <id>calibre:book:917</id>
+    <updated>2020-08-09T00:59:07Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/The%20Consilient%20observer/Public%20to%20Private%20quity%20in%20the%20US_%20%20a%20long-%20term%20look%20%28917%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/The%20Consilient%20observer/Public%20to%20Private%20quity%20in%20the%20US_%20%20a%20long-%20term%20look%20%28917%29/Public%20to%20Private%20quity%20in%20the%20US_%20%20a%20long%20-%20The%20Consilient%20observer.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>The Consilient observer</name>
+      <uri>../author_0/author_724_Page_1.xml</uri>
+    </author>
+    <published>2020-08-03T05:04:19Z</published>
+    <link href="../book_0/book_917.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

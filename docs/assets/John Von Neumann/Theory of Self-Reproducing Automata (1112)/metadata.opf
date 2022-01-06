@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1112</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0c1c1398-450c-4b5a-859f-3226b5273361</dc:identifier>
+        <dc:title>Theory of Self-Reproducing Automata</dc:title>
+        <dc:creator opf:file-as="Neumann, John von" opf:role="aut">John von Neumann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1966-12-14T18:30:00+00:00</dc:date>
+        <dc:publisher>University of Illinois Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">36zlwAEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;John von Neumann&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-06T11:34:17+00:00"/>
+        <meta name="calibre:title_sort" content="Theory of Self-Reproducing Automata"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

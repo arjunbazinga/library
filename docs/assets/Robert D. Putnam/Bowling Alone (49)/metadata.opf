@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5a0523ab-8859-4f71-92b0-fd672432f635</dc:identifier>
+        <dc:title>Bowling Alone</dc:title>
+        <dc:creator opf:file-as="Putnam, Robert D." opf:role="aut">Robert D. Putnam</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-07-31T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Once we bowled in leagues, usually after work -- but no longer. This seemingly small phenomenon symbolizes a significant social change that Robert Putnam has identified in this brilliant volume, &lt;em&gt;Bowling Alone&lt;/em&gt; &lt;em&gt;,&lt;/em&gt; which &lt;em&gt;The Economist&lt;/em&gt; hailed as "a prodigious achievement." &lt;/p&gt;
+&lt;p&gt;Drawing on vast new data that reveal Americans' changing behavior, Putnam shows how we have become increasingly disconnected from one another and how social structures -- whether they be PTA, church, or political parties -- have disintegrated. Until the publication of this groundbreaking work, no one had so deftly diagnosed the harm that these broken bonds have wreaked on our physical and civic health, nor had anyone exalted their fundamental power in creating a society that is happy, healthy, and safe. &lt;/p&gt;
+&lt;p&gt;Like defining works from the past, such as &lt;em&gt;The Lonely Crowd&lt;/em&gt; and &lt;em&gt;The Affluent Society&lt;/em&gt; &lt;em&gt;,&lt;/em&gt; and like the works of C. Wright Mills and Betty Friedan, Putnam's &lt;em&gt;Bowling Alone&lt;/em&gt; has identified a central crisis at the heart of our society and suggests what we can do.&lt;br&gt;  **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Simon &amp; Schuster</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">cettawwJwxsC</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B003DYGOO6</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780743219037</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Social History</dc:subject>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>Public Policy</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>United States</dc:subject>
+        <dc:subject>20th Century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert D. Putnam&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2018-06-01T08:27:16+00:00"/>
+        <meta name="calibre:title_sort" content="Bowling Alone"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

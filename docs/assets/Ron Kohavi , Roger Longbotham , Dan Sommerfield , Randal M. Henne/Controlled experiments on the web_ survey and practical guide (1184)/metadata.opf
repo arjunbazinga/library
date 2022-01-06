@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1184</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">76860221-7b6f-4748-a8f5-ca1437d62712</dc:identifier>
+        <dc:title>Controlled experiments on the web: survey and practical guide</dc:title>
+        <dc:creator opf:file-as="Ron Kohavi , Roger Longbotham , Dan Sommerfield , Randal M. Henne" opf:role="aut">Ron Kohavi , Roger Longbotham , Dan Sommerfield , Randal M. Henne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Ron Kohavi , Roger Longbotham , Dan Sommerfield , Randal M. Henne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-01-16T14:42:38+00:00"/>
+        <meta name="calibre:title_sort" content="Controlled experiments on the web: survey and practical guide"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

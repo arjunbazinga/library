@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1741</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fb1cbbd9-248d-4f89-b5ff-763e2a006a0a</dc:identifier>
+        <dc:title>Handbook of Markov Chain Monte Carlo</dc:title>
+        <dc:creator opf:file-as="Steve Brooks, Andrew Gelman, Galin L. Jones, Xiao-Li Meng" opf:role="aut">Steve Brooks, Andrew Gelman, Galin L. Jones, Xiao-Li Meng</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-14T23:15:45+00:00</dc:date>
+        <dc:publisher>Chapman &amp; Hall CRC</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Steve Brooks, Andrew Gelman, Galin L. Jones, Xiao-Li Meng&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Handbooks of Modern Statistical Methods"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2021-09-26T15:50:20+00:00"/>
+        <meta name="calibre:title_sort" content="Handbook of Markov Chain Monte Carlo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

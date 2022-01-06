@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1711</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">df8f5a29-a664-4a64-8c6f-e9006f5e2a45</dc:identifier>
+        <dc:title>Romancing the Balance Sheet: For Anyone Who Owns, Runs or Manages a Business</dc:title>
+        <dc:creator opf:file-as="Lamba, Anil" opf:role="aut">Anil Lamba</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-08-16T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;There is no such thing as a non-finance person. It is an error to think that finance management is limited to the Finance Department alone. In fact, it is happening right through the organization-for every action you take impacts the bottom line of your company. Read this book to understand what Profit really means and how Inventory and Sales impact it. Learn to read Balance Sheets and deploy Funds intelligently. Make the most efficient use of your Working Capital and discover the simple secrets of Marginal Costing, Leverage and Funds Flow. Written in a simple conversational style, Romancing the Balance Sheet will teach you all the intelligent ways of Good Financial Management.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins Publishers India</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">gQxZvgAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789350294314</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anil Lamba&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-07-14T04:48:52+00:00"/>
+        <meta name="calibre:title_sort" content="Romancing the Balance Sheet: For Anyone Who Owns, Runs or Manages a Business"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

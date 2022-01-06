@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1234</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a379833f-fe64-4a0f-9bfb-3cb6d25eb3f8</dc:identifier>
+        <dc:title>Data Pipelines With Apache Airflow</dc:title>
+        <dc:creator opf:file-as="Bas P. Harenslak , Julian Rutger de Ruiter" opf:role="aut">Bas P. Harenslak , Julian Rutger de Ruiter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-26T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;em&gt;Data Pipelines with Apache Airflow&lt;/em&gt; teaches you how to build and maintain effective data pipelines. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;br&gt;A successful pipeline moves data efficiently, minimizing pauses and blockages between tasks, keeping every process along the way operational. Apache Airflow provides a single customizable environment for building and managing data pipelines, eliminating the need for a hodgepodge collection of tools, snowflake code, and homegrown processes. Using real-world scenarios and examples, &lt;em&gt;Data Pipelines with Apache Airflow&lt;/em&gt; teaches you how to simplify and automate data pipelines, reduce operational overhead, and smoothly integrate all the technologies in your stack. &lt;/p&gt;
+&lt;p&gt;Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the technology&lt;/strong&gt;&lt;br&gt;Data pipelines manage the flow of data from initial collection through consolidation, cleaning, analysis, visualization, and more. Apache Airflow provides a single platform you can use to design, implement, monitor, and maintain your pipelines. Its easy-to-use UI, plug-and-play options, and flexible Python scripting make Airflow perfect for any data management task. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the book&lt;/strong&gt;&lt;br&gt;&lt;em&gt;Data Pipelines with Apache Airflow&lt;/em&gt; teaches you how to build and maintain effective data pipelines. You’ll explore the most common usage patterns, including aggregating multiple data sources, connecting to and from data lakes, and cloud deployment. Part reference and part tutorial, this practical guide covers every aspect of the directed acyclic graphs (DAGs) that power Airflow, and how to customize them for your pipeline’s needs. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What's inside&lt;/strong&gt;&lt;br&gt;Build, test, and deploy Airflow pipelines as DAGs&lt;br&gt;Automate moving and transforming data&lt;br&gt;Analyze historical datasets using backfilling&lt;br&gt;Develop custom components&lt;br&gt;Set up Airflow in production environments &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the reader&lt;/strong&gt;&lt;br&gt;For DevOps, data engineers, machine learning engineers, and sysadmins with intermediate Python skills. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the author&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;Bas Harenslak&lt;/strong&gt; and &lt;strong&gt;Julian de Ruiter&lt;/strong&gt; are data engineers with extensive experience using Airflow to develop pipelines for major companies. Bas is also an Airflow committer. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;PART 1 - GETTING STARTED &lt;/p&gt;
+&lt;p&gt;1 Meet Apache Airflow&lt;br&gt;2 Anatomy of an Airflow DAG&lt;br&gt;3 Scheduling in Airflow&lt;br&gt;4 Templating tasks using the Airflow context&lt;br&gt;5 Defining dependencies between tasks &lt;/p&gt;
+&lt;p&gt;PART 2 - BEYOND THE BASICS &lt;/p&gt;
+&lt;p&gt;6 Triggering workflows&lt;br&gt;7 Communicating with external systems&lt;br&gt;8 Building custom components&lt;br&gt;9 Testing&lt;br&gt;10 Running tasks in containers &lt;/p&gt;
+&lt;p&gt;PART 3 - AIRFLOW IN PRACTICE &lt;/p&gt;
+&lt;p&gt;11 Best practices&lt;br&gt;12 Operating Airflow in production&lt;br&gt;13 Securing Airflow&lt;br&gt;14 Project: Finding the fastest way to get around NYC &lt;/p&gt;
+&lt;p&gt;PART 4 - IN THE CLOUDS &lt;/p&gt;
+&lt;p&gt;15 Airflow in the clouds&lt;br&gt;16 Airflow on AWS&lt;br&gt;17 Airflow on Azure&lt;br&gt;18 Airflow in GCP **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781617296901</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1617296902</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">8EwnEAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Languages</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Data Science</dc:subject>
+        <dc:subject>Data Visualization</dc:subject>
+        <dc:subject>Distributed Systems</dc:subject>
+        <dc:subject>Cloud Computing</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bas P. Harenslak , Julian Rutger de Ruiter&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-05-26T15:19:35+00:00"/>
+        <meta name="calibre:title_sort" content="Data Pipelines With Apache Airflow"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

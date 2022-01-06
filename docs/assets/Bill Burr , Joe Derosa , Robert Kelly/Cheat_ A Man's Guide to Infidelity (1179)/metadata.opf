@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1179</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c648d70c-c052-4763-997b-13f90b70e6eb</dc:identifier>
+        <dc:title>Cheat: A Man's Guide to Infidelity</dc:title>
+        <dc:creator opf:file-as="Bill Burr , Joe Derosa , Robert Kelly" opf:role="aut">Bill Burr , Joe Derosa , Robert Kelly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-08T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;MONOGAMY HAS MET ITS MATCH When it comes to scoring on the side, this book is your best friend. Comedians Bill Burr, Joe DeRosa, and Robert Kelly have experienced the rich pleasures and unspeakable risks of romantic infidelity, and survived to tell their tales. Now, they impart all the wisdom, advice, and humor they picked up along the way, including how to: * Wipe away your shame and guilt—and get smart before you get hard * Conduct your filth with the right chick, in the right place, at the right time * Take an hour to shower and scour—and fight your worst enemy: glitter * Explain a strange scrunchy, hair extension, or pair of earrings to your girl * Navigate strip clubs, massage parlors, and women of the night * Lie like a woman—and call it quits without getting caught Featuring ten true stories from men who’ve lived the life and a link to watch Burr, DeRosa, and Kelly’s hilarious short film of the same name, Cheat is a wickedly smart field guide to philandering that will revolutionize your game.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">14b4d1cc-e734-4012-a405-fa4f02c2215c</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">N3XHe_Je24MC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781451645682</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Humor</dc:subject>
+        <dc:subject>Topic</dc:subject>
+        <dc:subject>Marriage &amp; Family</dc:subject>
+        <dc:subject>Men; Women &amp; Relationships</dc:subject>
+        <dc:subject>Literary Criticism</dc:subject>
+        <dc:subject>American</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bill Burr , Joe Derosa , Robert Kelly&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-01-13T09:52:58+00:00"/>
+        <meta name="calibre:title_sort" content="Cheat: A Man's Guide to Infidelity"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

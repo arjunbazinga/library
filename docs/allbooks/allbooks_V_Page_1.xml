@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with V</title>
+  <id>Calibre2opds:allbooks:V</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with V" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>Vanity Fair ****</title>
+    <id>calibre:book:748</id>
+    <updated>2020-04-04T01:39:36Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/William%20Makepeace%20Thackeray/Vanity%20Fair%20%28748%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/William%20Makepeace%20Thackeray/Vanity%20Fair%20%28748%29/Vanity%20Fair%20-%20William%20Makepeace%20Thackeray.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>William Makepeace Thackeray</name>
+      <uri>../author_0/author_527_Page_1.xml</uri>
+    </author>
+    <published>2016-10-25T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>CreateSpace Independent Publishing Platform</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Vanity Fair is an English novel by William Makepeace Thackeray which follows the lives of Becky Sharp and Emmy Sedley amid their friends and families during and after the Napoleonic Wars. It was first published as a 19-volume monthly serial from 184...</summary>
+    <link href="../book_0/book_748.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Visual Display of Quantitative Information *****</title>
+    <id>calibre:book:616</id>
+    <updated>2020-03-28T11:32:28Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Edward%20R.%20Tufte/The%20Visual%20Display%20of%20Quantitative%20Information%20%28616%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Edward%20R.%20Tufte/The%20Visual%20Display%20of%20Quantitative%20Information%20%28616%29/The%20Visual%20Display%20of%20Quantitative%20Informa%20-%20Edward%20R.%20Tufte.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Edward R. Tufte</name>
+      <uri>../author_0/author_474_Page_1.xml</uri>
+    </author>
+    <published>2001-05-01T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Graphics Press</dcterms:publisher>
+    <category term="Data Visualization" />
+    <category term="Story-telling" />
+    <category term="Lang:en" />
+    <summary>This book deals with the theory and practice in the design of data graphics and makes the point that the most effective way to describe, explore, and summarize a set of numbers is to look at pictures of those numbers, through the use of statistical ...</summary>
+    <link href="../book_0/book_616.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

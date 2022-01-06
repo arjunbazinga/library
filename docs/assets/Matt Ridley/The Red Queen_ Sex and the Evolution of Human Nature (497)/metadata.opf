@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">497</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ecf67a70-c142-48b8-9811-8ae829a1bb2c</dc:identifier>
+        <dc:title>The Red Queen: Sex and the Evolution of Human Nature</dc:title>
+        <dc:creator opf:file-as="Ridley, Matt" opf:role="aut">Matt Ridley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1994-10-05T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Sex is as fascinating to scientists as it is to the rest of us. A vast pool of knowledge, therefore, has been gleaned from research into the nature of sex, from the contentious problem of why the wasteful reproductive process exists at all, to how individuals choose their mates and what traits they find attractive. This fascinating book explores those findings, and their implications for the sexual behaviour of our own species. It uses the Red Queen from ‘Alice in Wonderland’ – who has to run at full speed to stay where she is – as a metaphor for a whole range of sexual behaviours. The book was shortlisted for the 1994 Rhone-Poulenc Prize for Science Books.‘Animals and plants evolved sex to fend off parasitic infection. Now look where it has got us. Men want BMWs, power and money in order to pair-bond with women who are blonde, youthful and narrow-waisted ... a brilliant examination of the scientific debates on the hows and whys of sex and evolution’ Independent.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin UK</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0060556579</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">CWza0RyG_MwC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780141965451</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Human Sexuality</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Life Sciences</dc:subject>
+        <dc:subject>Evolution</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Sociology</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Matt Ridley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2018-08-28T19:05:47+00:00"/>
+        <meta name="calibre:title_sort" content="Red Queen: Sex and the Evolution of Human Nature, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

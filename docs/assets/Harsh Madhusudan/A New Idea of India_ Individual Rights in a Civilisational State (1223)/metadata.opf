@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1223</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cfcdfaf8-072e-4ad2-b86b-5f06d6ee7bb8</dc:identifier>
+        <dc:title>A New Idea of India: Individual Rights in a Civilisational State</dc:title>
+        <dc:creator opf:file-as="Madhusudan, Harsh &amp; Mantri, Rajeev" opf:role="aut">Harsh Madhusudan</dc:creator>
+        <dc:creator opf:file-as="Madhusudan, Harsh &amp; Mantri, Rajeev" opf:role="aut">Rajeev Mantri</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Foreword by Sanjeev Sanyal*&lt;/strong&gt;&lt;span style="font-weight: 600; font-style: italic"&gt; ‘A clear look into India’s political, social and economic history unobstructed by decades of agenda-driven narratives that sought to muddy the waters of our civilisational truths.’ Nirmala Sitharaman, Minister of Finance and Corporate Affairs, Government of India ‘India suffers from political scientists who slavishly recommend that India follow in the footsteps of their counterparts in the United States, and frame its policies around ethnic groups rather than around individuals and their fundamental rights. Rajeev and Harsh, two brilliant young authors, confront these political scientists head on with a fabulous book.’ Jagdish Bhagwati, University Professor, Columbia University ‘It has become fashionable to suggest that the Indian right has no intellectuals. Rajeev and Harsh set about disproving this in their well-researched and fluently written book. Though there is much I disagree with in both their premises and their conclusions, it is a pleasure to engage with their ideas and find much common ground in the defence of free speech, economic freedom, government reform and individual liberty.’ Shashi Tharoor, MP and author ‘We need our own understanding to build a new idea of India. An idea of India that is actually connected to the real India. An idea of India that works. A good first step to build that is to read this wonderful book by these two young intellectuals.’ Amish Tripathi, Director, The Nehru Centre and author ‘One troubling part about “the idea of India” floated by modern-day Nehruvians is not so much the “idea” part, but their insistence on the “the” part, write Rajeev and Harsh ... It is a valuable and instructive book for anyone who wishes to understand the new Indian zeitgeist with an open mind.’ *Shekhar Gupta, Founder and Editor-in-Chief, ThePrint&lt;/span&gt; For the better part of seven decades after independence, the Nehruvian idea of India held sway in India's polity, even if it was not always in consonance with the views of Jawaharlal Nehru himself. Three key features constituted the crux of the Nehruvian way: socialism, which in practice devolved to corruption and stagnation; secularism, which boxed citizens into group membership and diluted individual identity; and non-alignment, which effectively placed India in the Communist camp. In the early nineties, India started a gradual withdrawal from this path. But it was only in 2019, with Narendra Modi’s second successive win in the general elections, that this philosophy is finally being replaced by a worldview that acknowledges India as an ancient civilisation, even if a young republic, and that sees citizens as equal for developmental and other purposes. &lt;em&gt;A New Idea of India&lt;/em&gt; constructs and expounds on a new framework beyond the rough and tumble of partisan politics. Lucid in its laying out of ideas and policies while taking a novel position, this book is illuminated by years of research and the authors’ first-hand experiences, as citizens, entrepreneurs and investors, of the vagaries and challenges of India. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Westland</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">9QUIzgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789389648584</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B08FJ55GFG</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Harsh Madhusudan&quot;: &quot;&quot;, &quot;Rajeev Mantri&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-04-25T07:11:26+00:00"/>
+        <meta name="calibre:title_sort" content="New Idea of India: Individual Rights in a Civilisational State, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

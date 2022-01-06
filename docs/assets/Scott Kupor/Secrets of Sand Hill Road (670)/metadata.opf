@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">670</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4a155a11-e83a-4379-b8ec-6b66505772a5</dc:identifier>
+        <dc:title>Secrets of Sand Hill Road</dc:title>
+        <dc:creator opf:file-as="Kupor, Scott" opf:role="aut">Scott Kupor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-04T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;What are venture capitalists saying about your startup behind closed doors? And what can you do to influence that conversation?&lt;/b&gt;&lt;br&gt;If Silicon Valley is the greatest wealth-generating machine in the world, Sand Hill Road is its humming engine. That's where you'll find the biggest names in venture capital, including famed VC firm Andreessen Horowitz, where lawyer-turned-entrepreneur-turned-VC Scott Kupor serves as managing partner.&lt;br&gt;Whether you're trying to get a new company off the ground or scale an existing business to the next level, you need to understand how VCs think. In &lt;i&gt;Secrets of Sand Hill Road&lt;/i&gt;, Kupor explains exactly how VCs decide where and how much to invest, and how entrepreneurs can get the best possible deal and make the most of their relationships with VCs. Kupor explains, for instance:&lt;br&gt; &lt;b&gt;*&lt;/b&gt; Why most VCs typically invest in only one startup in a given business category.&lt;br&gt; &lt;b&gt;*&lt;/b&gt; Why the skill you need most when raising venture capital is...</dc:description>
+        <dc:publisher>Penguin Publishing Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Scott Kupor&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-03-28T06:02:36.380069+00:00" name="calibre:timestamp"/>
+        <meta content="Secrets of Sand Hill Road" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

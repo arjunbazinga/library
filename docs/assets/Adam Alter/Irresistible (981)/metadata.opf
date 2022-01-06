@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">981</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6224af23-d3ba-49ee-959d-881ba9406fc6</dc:identifier>
+        <dc:title>Irresistible</dc:title>
+        <dc:creator opf:file-as="Alter, Adam" opf:role="aut">Adam Alter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-04-26T09:48:10+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong style="color: #000000"&gt;“One of the most mesmerizing and important books I’ve read in quite some time. Alter brilliantly illuminates the new obsessions that are controlling our lives and offers the tools we need to rescue our businesses, our families, and our sanity.”&lt;/strong&gt;&lt;span style="color: #000000"&gt; — &lt;/span&gt;&lt;strong style="color: #000000"&gt;Adam Grant, &lt;/strong&gt;&lt;span style="font-weight: 600; font-style: italic; color: #000000"&gt;New York Times&lt;/span&gt;&lt;strong style="color: #000000"&gt; bestselling author of  &lt;/strong&gt;&lt;span style="font-weight: 600; font-style: italic; color: #000000"&gt;Originals&lt;/span&gt;&lt;strong style="color: #000000"&gt;  and  *Give and Take&lt;/strong&gt;&lt;span style="color: #000000"&gt;* &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000"&gt;Welcome to the age of behavioral addiction—an age in which half of the American population is addicted to at least one behavior. We obsess over our emails, Instagram likes, and Facebook feeds; we binge on TV episodes and YouTube videos; we work longer hours each year; and we spend an average of three hours each day using our smartphones. Half of us would rather suffer a broken bone than a broken phone, and Millennial kids spend so much time in front of screens that they struggle to interact with real, live humans.&lt;br&gt;&lt;br&gt;In this revolutionary book, Adam Alter, a professor of psychology and marketing at NYU, tracks the rise of behavioral addiction, and explains why so many of today's products are irresistible. Though these miraculous products melt the miles that separate people across the globe, their extraordinary and sometimes damaging magnetism is no accident. The companies that design these products tweak them over time until they become almost impossible to resist.&lt;br&gt;&lt;br&gt;By reverse engineering behavioral addiction, Alter explains how we can harness addictive products for the good—to improve how we communicate with each other, spend and save our money, and set boundaries between work and play—and how we can mitigate their most damaging effects on our well-being, and the health and happiness of our children. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong style="color: #000000"&gt;Adam Alter's previous book, &lt;/strong&gt;&lt;span style="font-weight: 600; font-style: italic; color: #000000"&gt;Drunk Tank Pink: And Other Unexpected Forces that Shape How We Think, Feel, and Behave&lt;/span&gt;&lt;strong style="color: #000000"&gt;  is available in paperback from Penguin.&lt;/strong&gt;&lt;span style="color: #000000"&gt; ** &lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Publishing Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Psychopathology</dc:subject>
+        <dc:subject>Compulsive Behavior</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Popular Culture</dc:subject>
+        <dc:subject>Addiction</dc:subject>
+        <dc:subject>Technology &amp; Engineering</dc:subject>
+        <dc:subject>Social Aspects</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Philosophy &amp; Social Aspects</dc:subject>
+        <dc:subject>Disease &amp; Health Issues</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Adam Alter&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-09-02T06:27:38+00:00"/>
+        <meta name="calibre:title_sort" content="Irresistible"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

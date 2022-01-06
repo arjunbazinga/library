@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>More than one year</title>
+  <id>Calibre2opds:recent:MORE</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./recent_MORE_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="More than one year" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
+  <link href="../recent/recent_MORE_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 of 6)" />
+  <entry>
+    <title>The People Vs Tech [July 29, 2018]</title>
+    <id>calibre:book:399</id>
+    <updated>2020-03-28T07:01:28Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Jamie%20Bartlett/The%20People%20Vs%20Tech%20%28399%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Jamie%20Bartlett/The%20People%20Vs%20Tech%20%28399%29/The%20People%20Vs%20Tech%20-%20Jamie%20Bartlett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Jamie%20Bartlett/The%20People%20Vs%20Tech%20%28399%29/The%20People%20Vs%20Tech%20-%20Jamie%20Bartlett.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Jamie%20Bartlett/The%20People%20Vs%20Tech%20%28399%29/The%20People%20Vs%20Tech%20-%20Jamie%20Bartlett.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Jamie Bartlett</name>
+      <uri>../author_0/author_146_Page_1.xml</uri>
+    </author>
+    <published>2018-04-05T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>In the ongoing waves of the Facebook scandal, this is the book that explains all the dangers of the digital revolution, and how our mountains of personal cyberdata are being mined by everyone from our own governments and political parties to big busi...</summary>
+    <link href="../book_0/book_399.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Bad Blood [July 29, 2018]</title>
+    <id>calibre:book:398</id>
+    <updated>2020-03-28T07:05:58Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/John%20Carreyrou/Bad%20Blood%20%28398%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/John%20Carreyrou/Bad%20Blood%20%28398%29/Bad%20Blood%20-%20John%20Carreyrou.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/John%20Carreyrou/Bad%20Blood%20%28398%29/Bad%20Blood%20-%20John%20Carreyrou.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/John%20Carreyrou/Bad%20Blood%20%28398%29/Bad%20Blood%20-%20John%20Carreyrou.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>John Carreyrou</name>
+      <uri>../author_0/author_145_Page_1.xml</uri>
+    </author>
+    <published>2018-05-21T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Knopf Doubleday Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>The full inside story of the breathtaking rise and shocking collapse of Theranos, the multibillion-dollar biotech startup, by the prize-winning journalist who first broke the story and pursued it to the end, despite pressure from its charismatic CEO ...</summary>
+    <link href="../book_0/book_398.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Flow: The Psychology of Optimal Experience [July 25, 2018]</title>
+    <id>calibre:book:397</id>
+    <updated>2020-03-28T07:09:14Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Mihaly%20Csikszentmihalyi/Flow_%20The%20Psychology%20of%20Optimal%20Experience%20%28397%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Mihaly%20Csikszentmihalyi/Flow_%20The%20Psychology%20of%20Optimal%20Experience%20%28397%29/Flow_%20The%20Psychology%20of%20Optimal%20Experience%20-%20Mihaly%20Csikszentmihalyi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Mihaly%20Csikszentmihalyi/Flow_%20The%20Psychology%20of%20Optimal%20Experience%20%28397%29/Flow_%20The%20Psychology%20of%20Optimal%20Experience%20-%20Mihaly%20Csikszentmihalyi.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Mihaly%20Csikszentmihalyi/Flow_%20The%20Psychology%20of%20Optimal%20Experience%20%28397%29/Flow_%20The%20Psychology%20of%20Optimal%20Experience%20-%20Mihaly%20Csikszentmihalyi.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Mihaly Csikszentmihalyi</name>
+      <uri>../author_0/author_144_Page_1.xml</uri>
+    </author>
+    <published>2009-10-12T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Harper Collins</dcterms:publisher>
+    <category term="Psychology" />
+    <category term="General" />
+    <category term="Creative Ability" />
+    <category term="Applied Psychology" />
+    <category term="Lang:en" />
+    <summary>THE BESTSELLING CLASSIC ON 'FLOW' – THE KEY TO UNLOCKING MEANING, CREATIVITY, PEAK PERFORMANCE, AND TRUE HAPPINESSLegendary psychologist Mihaly Csikszentmihalyi's famous investigations of "optimal experience" have revealed that what makes an experien...</summary>
+    <link href="../book_0/book_397.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Birth of Tragedy [July 25, 2018]</title>
+    <id>calibre:book:396</id>
+    <updated>2019-12-07T00:47:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Friedrich%20Nietzsche/The%20Birth%20of%20Tragedy%20%28396%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Friedrich%20Nietzsche/The%20Birth%20of%20Tragedy%20%28396%29/The%20Birth%20of%20Tragedy%20-%20Friedrich%20Nietzsche.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Friedrich%20Nietzsche/The%20Birth%20of%20Tragedy%20%28396%29/The%20Birth%20of%20Tragedy%20-%20Friedrich%20Nietzsche.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Friedrich%20Nietzsche/The%20Birth%20of%20Tragedy%20%28396%29/The%20Birth%20of%20Tragedy%20-%20Friedrich%20Nietzsche.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Friedrich Nietzsche</name>
+      <uri>../author_0/author_142_Page_1.xml</uri>
+    </author>
+    <published>1872-08-27T06:30:00Z</published>
+    <link href="../book_0/book_396.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Accidental Universe [July 25, 2018]</title>
+    <id>calibre:book:395</id>
+    <updated>2020-03-28T07:29:52Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20Lightman/The%20Accidental%20Universe%20%28395%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20Lightman/The%20Accidental%20Universe%20%28395%29/The%20Accidental%20Universe%20-%20Alan%20Lightman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20Lightman/The%20Accidental%20Universe%20%28395%29/The%20Accidental%20Universe%20-%20Alan%20Lightman.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20Lightman/The%20Accidental%20Universe%20%28395%29/The%20Accidental%20Universe%20-%20Alan%20Lightman.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Alan Lightman</name>
+      <uri>../author_0/author_143_Page_1.xml</uri>
+    </author>
+    <published>2014-01-13T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House Inc.</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_395.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Einstein's Dreams [July 25, 2018]</title>
+    <id>calibre:book:394</id>
+    <updated>2020-03-28T07:30:04Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20Lightman/Einstein%27s%20Dreams%20%28394%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20Lightman/Einstein%27s%20Dreams%20%28394%29/Einstein%27s%20Dreams%20-%20Alan%20Lightman.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20Lightman/Einstein%27s%20Dreams%20%28394%29/Einstein%27s%20Dreams%20-%20Alan%20Lightman.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20Lightman/Einstein%27s%20Dreams%20%28394%29/Einstein%27s%20Dreams%20-%20Alan%20Lightman.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Alan Lightman</name>
+      <uri>../author_0/author_143_Page_1.xml</uri>
+    </author>
+    <published>2011-03-01T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Knopf Doubleday Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Now available:  New signed, boxed edition!An imaginary re-creation of Einstein's discovery of the nature of time, this novel takes us through the young patent clerk's many dreams depicting compelling conceptions of time.From the Hardcover edition.</summary>
+    <link href="../book_0/book_394.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Nietzsche: The Birth of Tragedy and Other Writings (Cambridge Texts in the History of Philosophy) [July 25, 2018]</title>
+    <id>calibre:book:392</id>
+    <updated>2019-12-07T00:47:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Friedrich%20Nietzsche/Nietzsche_%20The%20Birth%20of%20Tragedy%20and%20Other%20Writings%20%28Cambridge%20Texts%20in%20the%20History%20of%20Philosoph%20%28392%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Friedrich%20Nietzsche/Nietzsche_%20The%20Birth%20of%20Tragedy%20and%20Other%20Writings%20%28Cambridge%20Texts%20in%20the%20History%20of%20Philosoph%20%28392%29/Nietzsche_%20The%20Birth%20of%20Tragedy%20and%20Other%20-%20Friedrich%20Nietzsche.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Friedrich%20Nietzsche/Nietzsche_%20The%20Birth%20of%20Tragedy%20and%20Other%20Writings%20%28Cambridge%20Texts%20in%20the%20History%20of%20Philosoph%20%28392%29/Nietzsche_%20The%20Birth%20of%20Tragedy%20and%20Other%20-%20Friedrich%20Nietzsche.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Friedrich Nietzsche</name>
+      <uri>../author_0/author_142_Page_1.xml</uri>
+    </author>
+    <published>2010-09-15T11:16:27Z</published>
+    <category term="9780521630160" />
+    <category term="9780521639873" />
+    <category term="0521630169" />
+    <category term="0521639875" />
+    <summary>Cambridge University Press</summary>
+    <link href="../book_0/book_392.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Thinking in Bets [July 25, 2018]</title>
+    <id>calibre:book:391</id>
+    <updated>2020-03-28T07:13:40Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Annie%20Duke/Thinking%20in%20Bets%20%28391%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Annie%20Duke/Thinking%20in%20Bets%20%28391%29/Thinking%20in%20Bets%20-%20Annie%20Duke.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Annie%20Duke/Thinking%20in%20Bets%20%28391%29/Thinking%20in%20Bets%20-%20Annie%20Duke.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Annie%20Duke/Thinking%20in%20Bets%20%28391%29/Thinking%20in%20Bets%20-%20Annie%20Duke.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Annie Duke</name>
+      <uri>../author_0/author_141_Page_1.xml</uri>
+    </author>
+    <published>2018-02-06T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Poker champion turned business consultant Annie Duke teaches you how to get comfortable with uncertainty and make better decisions as a result.In Super Bowl XLIX, Seahawks coach Pete Carroll made one of the most controversial calls in football histor...</summary>
+    <link href="../book_0/book_391.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Of Mice and Men [July 12, 2018]</title>
+    <id>calibre:book:390</id>
+    <updated>2019-12-07T00:47:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/John%20Steinbeck/Of%20Mice%20and%20Men%20%28390%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/John%20Steinbeck/Of%20Mice%20and%20Men%20%28390%29/Of%20Mice%20and%20Men%20-%20John%20Steinbeck.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/John%20Steinbeck/Of%20Mice%20and%20Men%20%28390%29/Of%20Mice%20and%20Men%20-%20John%20Steinbeck.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/John%20Steinbeck/Of%20Mice%20and%20Men%20%28390%29/Of%20Mice%20and%20Men%20-%20John%20Steinbeck.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>John Steinbeck</name>
+      <uri>../author_0/author_221_Page_1.xml</uri>
+    </author>
+    <published>1937-11-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Thinking Ink Limited</dcterms:publisher>
+    <category term="Drama" />
+    <category term="American" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>They are an unlikely pair: George is "small and quick and dark of face"; Lennie, a man of tremendous size, has the mind of a young child. Yet they have formed a "family," clinging together in the face of loneliness and alienation. Laborers in Califor...</summary>
+    <link href="../book_0/book_390.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Canterville Ghost [July 12, 2018]</title>
+    <id>calibre:book:388</id>
+    <updated>2020-03-28T08:04:46Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Oscar%20Wilde/The%20Canterville%20Ghost%20%28388%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Oscar%20Wilde/The%20Canterville%20Ghost%20%28388%29/The%20Canterville%20Ghost%20-%20Oscar%20Wilde.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Oscar%20Wilde/The%20Canterville%20Ghost%20%28388%29/The%20Canterville%20Ghost%20-%20Oscar%20Wilde.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Oscar%20Wilde/The%20Canterville%20Ghost%20%28388%29/The%20Canterville%20Ghost%20-%20Oscar%20Wilde.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Oscar Wilde</name>
+      <uri>../author_0/author_138_Page_1.xml</uri>
+    </author>
+    <published>1887-07-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Feedbooks</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Occult &amp; Supernatural" />
+    <category term="Supernatural Creatures" />
+    <category term="Ghost" />
+    <category term="Humorous" />
+    <category term="Short Stories" />
+    <category term="Lang:en" />
+    <summary>The Canterville Ghost is a popular 1887 novella by Oscar Wilde, widely adapted for the screen and stage.
+“The Canterville Ghost” is a parody featuring a dramatic spirit named Sir Simon and the United States minister (ambassador) to the Court of St. J...</summary>
+    <link href="../book_0/book_388.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Let It Snow: Three Holiday Stories [July 12, 2018]</title>
+    <id>calibre:book:369</id>
+    <updated>2020-03-28T07:36:46Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/John%20Green/Let%20It%20Snow_%20Three%20Holiday%20Stories%20%28369%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/John%20Green/Let%20It%20Snow_%20Three%20Holiday%20Stories%20%28369%29/Let%20It%20Snow_%20Three%20Holiday%20Stories%20-%20John%20Green.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/John%20Green/Let%20It%20Snow_%20Three%20Holiday%20Stories%20%28369%29/Let%20It%20Snow_%20Three%20Holiday%20Stories%20-%20John%20Green.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/John%20Green/Let%20It%20Snow_%20Three%20Holiday%20Stories%20%28369%29/Let%20It%20Snow_%20Three%20Holiday%20Stories%20-%20John%20Green.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>John Green</name>
+      <uri>../author_0/author_133_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Lauren Myracle</name>
+      <uri>../author_0/author_794_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Maureen Johnson</name>
+      <uri>../author_0/author_795_Page_1.xml</uri>
+    </author>
+    <published>2014-09-28T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Speak</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Three interconnected stories from three bestselling authors: John Green ( Paper Towns, The Fault in our Stars ), Maureen Johnson ( The Name of the Star ), and Lauren Myracle (The Internet Girls series.) 
+Major motion picture in the works! 
+A Christm...</summary>
+    <link href="../book_0/book_369.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Looking for Alaska [July 12, 2018]</title>
+    <id>calibre:book:362</id>
+    <updated>2020-03-28T07:21:44Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/John%20Green/Looking%20for%20Alaska%20%28362%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/John%20Green/Looking%20for%20Alaska%20%28362%29/Looking%20for%20Alaska%20-%20John%20Green.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/John%20Green/Looking%20for%20Alaska%20%28362%29/Looking%20for%20Alaska%20-%20John%20Green.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/John%20Green/Looking%20for%20Alaska%20%28362%29/Looking%20for%20Alaska%20-%20John%20Green.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>John Green</name>
+      <uri>../author_0/author_133_Page_1.xml</uri>
+    </author>
+    <published>2005-01-02T08:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Speak</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Winner of the Michael L. Printz AwardAn ALA Best Book for Young AdultsAn ALA Quick PickA Los Angeles Times 2005 Book Prize FinalistA New York Public Library Book for the Teen AgeA 2005 Booklist Editor’s ChoiceA 2005 School Library Journal Best Book o...</summary>
+    <link href="../book_0/book_362.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Godfather [July 12, 2018]</title>
+    <id>calibre:book:359</id>
+    <updated>2020-03-28T07:42:34Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Mario%20Puzo/The%20Godfather%20%28359%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Mario%20Puzo/The%20Godfather%20%28359%29/The%20Godfather%20-%20Mario%20Puzo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Mario%20Puzo/The%20Godfather%20%28359%29/The%20Godfather%20-%20Mario%20Puzo.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Mario%20Puzo/The%20Godfather%20%28359%29/The%20Godfather%20-%20Mario%20Puzo.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Mario Puzo</name>
+      <uri>../author_0/author_132_Page_1.xml</uri>
+    </author>
+    <published>2012-07-28T06:59:02Z</published>
+    <dcterms:language>ru</dcterms:language>
+    <category term="Lang:ru" />
+    <link href="../book_0/book_359.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Nazi Literature in the Americas [July 12, 2018]</title>
+    <id>calibre:book:356</id>
+    <updated>2020-03-28T07:02:58Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Bolano%2C%20Roberto/Nazi%20Literature%20in%20the%20Americas%20%28356%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Bolano%2C%20Roberto/Nazi%20Literature%20in%20the%20Americas%20%28356%29/Nazi%20Literature%20in%20the%20Americas%20-%20Bolano%2C%20Roberto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Bolano%2C%20Roberto/Nazi%20Literature%20in%20the%20Americas%20%28356%29/Nazi%20Literature%20in%20the%20Americas%20-%20Bolano%2C%20Roberto.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Bolano%2C%20Roberto/Nazi%20Literature%20in%20the%20Americas%20%28356%29/Nazi%20Literature%20in%20the%20Americas%20-%20Bolano%2C%20Roberto.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Bolaño, Roberto</name>
+      <uri>../author_0/author_127_Page_1.xml</uri>
+    </author>
+    <published>2009-05-29T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>New Directions</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_356.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Between Parentheses: Essays, Articles and Speeches, 1998-2003 [July 12, 2018]</title>
+    <id>calibre:book:341</id>
+    <updated>2020-03-28T07:03:06Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Bolano%2C%20Roberto/Between%20Parentheses_%20Essays%2C%20Articles%20and%20Speeches%2C%201998-2003%20%28341%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Bolano%2C%20Roberto/Between%20Parentheses_%20Essays%2C%20Articles%20and%20Speeches%2C%201998-2003%20%28341%29/Between%20Parentheses_%20Essays%2C%20Articles%20and%20-%20Bolano%2C%20Roberto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Bolano%2C%20Roberto/Between%20Parentheses_%20Essays%2C%20Articles%20and%20Speeches%2C%201998-2003%20%28341%29/Between%20Parentheses_%20Essays%2C%20Articles%20and%20-%20Bolano%2C%20Roberto.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Bolano%2C%20Roberto/Between%20Parentheses_%20Essays%2C%20Articles%20and%20Speeches%2C%201998-2003%20%28341%29/Between%20Parentheses_%20Essays%2C%20Articles%20and%20-%20Bolano%2C%20Roberto.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Bolaño, Roberto</name>
+      <uri>../author_0/author_127_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Echevarria, Ignacio</name>
+      <uri>../author_0/author_128_Page_1.xml</uri>
+    </author>
+    <published>2012-06-01T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Norton</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_341.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Hacker's Delight [July 12, 2018]</title>
+    <id>calibre:book:328</id>
+    <updated>2020-03-28T08:06:12Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Henry%20S.%20Warren/Hacker%27s%20Delight%20%28328%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Henry%20S.%20Warren/Hacker%27s%20Delight%20%28328%29/Hacker%27s%20Delight%20-%20Henry%20S.%20Warren.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Henry%20S.%20Warren/Hacker%27s%20Delight%20%28328%29/Hacker%27s%20Delight%20-%20Henry%20S.%20Warren.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Henry S. Warren</name>
+      <uri>../author_0/author_123_Page_1.xml</uri>
+    </author>
+    <published>2003-01-02T08:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Addison-Wesley Professional</dcterms:publisher>
+    <category term="Personal Computers" />
+    <category term="Computer Hackers" />
+    <category term="Electronic Books" />
+    <category term="Computers" />
+    <category term="Programming" />
+    <category term="General" />
+    <category term="Hardware" />
+    <category term="Computer Programming" />
+    <category term="Computer Science" />
+    <category term="Algorithms" />
+    <category term="Security" />
+    <category term="Lang:en" />
+    <summary>-- At long last, proven short-cuts to mastering difficult aspects of computer programming.-- Learn to program at a more advanced level than is generally taught in schools and training courses, and much more advanced than can be learned through indivi...</summary>
+    <link href="../book_0/book_328.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Algorithms Unlocked [July 12, 2018]</title>
+    <id>calibre:book:313</id>
+    <updated>2020-03-28T07:09:44Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Thomas%20H.%20Cormen/Algorithms%20Unlocked%20%28313%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Thomas%20H.%20Cormen/Algorithms%20Unlocked%20%28313%29/Algorithms%20Unlocked%20-%20Thomas%20H.%20Cormen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Thomas%20H.%20Cormen/Algorithms%20Unlocked%20%28313%29/Algorithms%20Unlocked%20-%20Thomas%20H.%20Cormen.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Thomas%20H.%20Cormen/Algorithms%20Unlocked%20%28313%29/Algorithms%20Unlocked%20-%20Thomas%20H.%20Cormen.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Thomas H. Cormen</name>
+      <uri>../author_0/author_117_Page_1.xml</uri>
+    </author>
+    <published>2013-03-02T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>MIT Press</dcterms:publisher>
+    <category term="Algorithms" />
+    <category term="Computers" />
+    <category term="Programming" />
+    <category term="Lang:en" />
+    <summary>Have you ever wondered how your GPS can find the fastest way to your destination, selecting one route from seemingly countless possibilities in mere seconds? How your credit card account number is protected when you make a purchase over the Internet?...</summary>
+    <link href="../book_0/book_313.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A Thousand Splendid Suns [July 12, 2018]</title>
+    <id>calibre:book:309</id>
+    <updated>2019-12-07T00:47:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Khaled%20Hosseini/A%20Thousand%20Splendid%20Suns%20%28309%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Khaled%20Hosseini/A%20Thousand%20Splendid%20Suns%20%28309%29/A%20Thousand%20Splendid%20Suns%20-%20Khaled%20Hosseini.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <author>
+      <name>Khaled Hosseini</name>
+      <uri>../author_0/author_116_Page_1.xml</uri>
+    </author>
+    <published>2008-09-17T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>A&amp;C Black</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>'A Thousand Splendid Suns' is a chronicle of Afghan history, and a deeply moving story of family, friendship, and the salvation to be found in love.</summary>
+    <link href="../book_0/book_309.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The kite runner [July 12, 2018]</title>
+    <id>calibre:book:307</id>
+    <updated>2020-03-28T07:31:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Khaled%20Hosseini/The%20kite%20runner%20%28307%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Khaled%20Hosseini/The%20kite%20runner%20%28307%29/The%20kite%20runner%20-%20Khaled%20Hosseini.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Khaled%20Hosseini/The%20kite%20runner%20%28307%29/The%20kite%20runner%20-%20Khaled%20Hosseini.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Khaled Hosseini</name>
+      <uri>../author_0/author_116_Page_1.xml</uri>
+    </author>
+    <published>2004-03-15T07:00:00Z</published>
+    <dcterms:publisher>Riverhead Books</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Fiction - General" />
+    <category term="Social classes" />
+    <category term="Suspense" />
+    <category term="Mystery" />
+    <category term="Coming of age" />
+    <category term="Male friendship" />
+    <category term="Boys" />
+    <category term="Afghanistan" />
+    <category term="Kabul (Afghanistan)" />
+    <category term="Betrayal" />
+    <category term="Kābol (Afghanistan)" />
+    <summary>An epic tale of fathers and sons, of friendship and betrayal, that takes us from Afghanistan in the final days of the monarchy to the atrocities of the present. The unforgettable, heartbreaking story of the unlikely friendship between a wealthy boy a...</summary>
+    <link href="../book_0/book_307.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>And the Mountains Echoed [July 12, 2018]</title>
+    <id>calibre:book:306</id>
+    <updated>2020-03-28T07:25:28Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Khaled%20Hosseini/And%20the%20Mountains%20Echoed%20%28306%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Khaled%20Hosseini/And%20the%20Mountains%20Echoed%20%28306%29/And%20the%20Mountains%20Echoed%20-%20Khaled%20Hosseini.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Khaled%20Hosseini/And%20the%20Mountains%20Echoed%20%28306%29/And%20the%20Mountains%20Echoed%20-%20Khaled%20Hosseini.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Khaled%20Hosseini/And%20the%20Mountains%20Echoed%20%28306%29/And%20the%20Mountains%20Echoed%20-%20Khaled%20Hosseini.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Khaled Hosseini</name>
+      <uri>../author_0/author_116_Page_1.xml</uri>
+    </author>
+    <published>2013-01-01T08:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Riverhead</dcterms:publisher>
+    <category term="Fiction / Literary" />
+    <category term="Lang:en" />
+    <summary>An unforgettable novel about finding a lost piece of yourself in someone else.Khaled Hosseini, the #1 New York Times–bestselling author of The Kite Runner and A Thousand Splendid Suns, has written a new novel about how we love, how we take care of on...</summary>
+    <link href="../book_0/book_306.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Diary of Anne Frank [July 12, 2018]</title>
+    <id>calibre:book:200</id>
+    <updated>2020-03-28T07:21:48Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Frances%20Goodrich%2C%20Anne%20Frank%2C%20Albert%20Hackett/The%20Diary%20of%20Anne%20Frank%20%28200%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Frances%20Goodrich%2C%20Anne%20Frank%2C%20Albert%20Hackett/The%20Diary%20of%20Anne%20Frank%20%28200%29/The%20Diary%20of%20Anne%20Frank%20-%20Frances%20Goodrich%2C%20Anne%20Frank%2C%20Albert%20Hacke.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Frances%20Goodrich%2C%20Anne%20Frank%2C%20Albert%20Hackett/The%20Diary%20of%20Anne%20Frank%20%28200%29/The%20Diary%20of%20Anne%20Frank%20-%20Frances%20Goodrich%2C%20Anne%20Frank%2C%20Albert%20Hacke.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Frances%20Goodrich%2C%20Anne%20Frank%2C%20Albert%20Hackett/The%20Diary%20of%20Anne%20Frank%20%28200%29/The%20Diary%20of%20Anne%20Frank%20-%20Frances%20Goodrich%2C%20Anne%20Frank%2C%20Albert%20Hacke.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Frances Goodrich, Anne Frank, Albert Hackett</name>
+      <uri>../author_0/author_511_Page_1.xml</uri>
+    </author>
+    <published>1958-08-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Samuel French Limited</dcterms:publisher>
+    <category term="Drama" />
+    <category term="European" />
+    <category term="English; Irish; Scottish; Welsh" />
+    <category term="Lang:en" />
+    <summary>Adapted from Anne Frank: The Diary of a Young Girl, edited by Otto Frank, winner of the 1956 Pulitzer Prize, Tony Award, Critics Circle Award, and virtually every other coveted prize of the theatre. During the Nazi occupation of the Netherlands Anne ...</summary>
+    <link href="../book_0/book_200.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Courage to Be Disliked [July 12, 2018]</title>
+    <id>calibre:book:199</id>
+    <updated>2020-03-28T07:28:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Ichiro%20Kishimi%2C%20Fumitake%20Koga/The%20Courage%20to%20Be%20Disliked%20%28199%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Ichiro%20Kishimi%2C%20Fumitake%20Koga/The%20Courage%20to%20Be%20Disliked%20%28199%29/The%20Courage%20to%20Be%20Disliked%20-%20Ichiro%20Kishimi%2C%20Fumitake%20Koga.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Ichiro%20Kishimi%2C%20Fumitake%20Koga/The%20Courage%20to%20Be%20Disliked%20%28199%29/The%20Courage%20to%20Be%20Disliked%20-%20Ichiro%20Kishimi%2C%20Fumitake%20Koga.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Ichiro%20Kishimi%2C%20Fumitake%20Koga/The%20Courage%20to%20Be%20Disliked%20%28199%29/The%20Courage%20to%20Be%20Disliked%20-%20Ichiro%20Kishimi%2C%20Fumitake%20Koga.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Ichiro Kishimi, Fumitake Koga</name>
+      <uri>../author_0/author_513_Page_1.xml</uri>
+    </author>
+    <published>2018-01-03T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Atria Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>The Courage to Be Disliked, already an enormous bestseller in Asia with more than 3.5 million copies sold, demonstrates how to unlock the power within yourself to be the person you truly want to be.Using the theories of Alfred Adler, one of the three...</summary>
+    <link href="../book_0/book_199.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Leviathan [July 12, 2018]</title>
+    <id>calibre:book:194</id>
+    <updated>2019-12-07T00:47:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Thomas%20Hobbes/Leviathan%20%28194%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Thomas%20Hobbes/Leviathan%20%28194%29/Leviathan%20-%20Thomas%20Hobbes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Thomas%20Hobbes/Leviathan%20%28194%29/Leviathan%20-%20Thomas%20Hobbes.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Thomas%20Hobbes/Leviathan%20%28194%29/Leviathan%20-%20Thomas%20Hobbes.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Thomas Hobbes</name>
+      <uri>../author_0/author_111_Page_1.xml</uri>
+    </author>
+    <published>2006-01-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>A&amp;C Black</dcterms:publisher>
+    <category term="Philosophy" />
+    <category term="Political" />
+    <category term="Political Science" />
+    <category term="History &amp; Theory" />
+    <category term="Lang:en" />
+    <summary>By a deep and careful analysis of the text, enabling a new printing history of Leviathan to be constructed, this edition demonstrates that the traditional picture is substantially wrong. Both the Bear and Ornaments editions contain corrections and ch...</summary>
+    <link href="../book_0/book_194.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The unreasonable effectiveness of mathematics in the natural sciences. [July 12, 2018]</title>
+    <id>calibre:book:189</id>
+    <updated>2020-03-28T08:09:18Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Eugene%20P.%20Wigner/The%20unreasonable%20effectiveness%20of%20mathematics%20in%20the%20natural%20sciences_%20%28189%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Eugene%20P.%20Wigner/The%20unreasonable%20effectiveness%20of%20mathematics%20in%20the%20natural%20sciences_%20%28189%29/The%20unreasonable%20effectiveness%20of%20mathemat%20-%20Eugene%20P.%20Wigner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Eugene%20P.%20Wigner/The%20unreasonable%20effectiveness%20of%20mathematics%20in%20the%20natural%20sciences_%20%28189%29/The%20unreasonable%20effectiveness%20of%20mathemat%20-%20Eugene%20P.%20Wigner.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Eugene%20P.%20Wigner/The%20unreasonable%20effectiveness%20of%20mathematics%20in%20the%20natural%20sciences_%20%28189%29/The%20unreasonable%20effectiveness%20of%20mathemat%20-%20Eugene%20P.%20Wigner.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Eugene P. Wigner</name>
+      <uri>../author_0/author_236_Page_1.xml</uri>
+    </author>
+    <published>1959-05-11T03:44:02Z</published>
+    <dcterms:publisher>New York University, May 11, 1959</dcterms:publisher>
+    <category term="Essays" />
+    <link href="../book_0/book_189.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Maxims And Reflections [July 12, 2018]</title>
+    <id>calibre:book:184</id>
+    <updated>2019-12-07T00:47:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Johan%20Wolfgang%20von%20Goethe/The%20Maxims%20And%20Reflections%20%28184%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Johan%20Wolfgang%20von%20Goethe/The%20Maxims%20And%20Reflections%20%28184%29/The%20Maxims%20And%20Reflections%20-%20Johan%20Wolfgang%20von%20Goethe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Johan%20Wolfgang%20von%20Goethe/The%20Maxims%20And%20Reflections%20%28184%29/The%20Maxims%20And%20Reflections%20-%20Johan%20Wolfgang%20von%20Goethe.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Johan%20Wolfgang%20von%20Goethe/The%20Maxims%20And%20Reflections%20%28184%29/The%20Maxims%20And%20Reflections%20-%20Johan%20Wolfgang%20von%20Goethe.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Johan Wolfgang von Goethe</name>
+      <uri>../author_0/author_245_Page_1.xml</uri>
+    </author>
+    <published>1794-07-31T06:30:00Z</published>
+    <link href="../book_0/book_184.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Reinforcement Learning : An Introduction [July 12, 2018]</title>
+    <id>calibre:book:175</id>
+    <updated>2019-12-07T00:47:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Richard%20S.%20Sutton%20%2C%20Andrew%20G.%20Barto/Reinforcement%20Learning%20_%20An%20Introduction%20%28175%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Richard%20S.%20Sutton%20%2C%20Andrew%20G.%20Barto/Reinforcement%20Learning%20_%20An%20Introduction%20%28175%29/Reinforcement%20Learning%20_%20An%20Introduction%20-%20Richard%20S.%20Sutton%20%2C%20Andrew%20G.%20Barto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Richard%20S.%20Sutton%20%2C%20Andrew%20G.%20Barto/Reinforcement%20Learning%20_%20An%20Introduction%20%28175%29/Reinforcement%20Learning%20_%20An%20Introduction%20-%20Richard%20S.%20Sutton%20%2C%20Andrew%20G.%20Barto.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Richard%20S.%20Sutton%20%2C%20Andrew%20G.%20Barto/Reinforcement%20Learning%20_%20An%20Introduction%20%28175%29/Reinforcement%20Learning%20_%20An%20Introduction%20-%20Richard%20S.%20Sutton%20%2C%20Andrew%20G.%20Barto.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Richard S. Sutton , Andrew G. Barto</name>
+      <uri>../author_0/author_244_Page_1.xml</uri>
+    </author>
+    <published>2018-01-27T06:30:00Z</published>
+    <dcterms:publisher>MIT Press</dcterms:publisher>
+    <link href="../book_0/book_175.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love [July 12, 2018]</title>
+    <id>calibre:book:170</id>
+    <updated>2019-12-07T00:47:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Cal%20Newport/So%20Good%20They%20Can%27t%20Ignore%20You_%20Why%20Skills%20Trump%20Passion%20in%20the%20Quest%20for%20Work%20You%20Love%20%28170%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Cal%20Newport/So%20Good%20They%20Can%27t%20Ignore%20You_%20Why%20Skills%20Trump%20Passion%20in%20the%20Quest%20for%20Work%20You%20Love%20%28170%29/So%20Good%20They%20Can%27t%20Ignore%20You_%20Why%20Skills%20-%20Cal%20Newport.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Cal%20Newport/So%20Good%20They%20Can%27t%20Ignore%20You_%20Why%20Skills%20Trump%20Passion%20in%20the%20Quest%20for%20Work%20You%20Love%20%28170%29/So%20Good%20They%20Can%27t%20Ignore%20You_%20Why%20Skills%20-%20Cal%20Newport.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Cal%20Newport/So%20Good%20They%20Can%27t%20Ignore%20You_%20Why%20Skills%20Trump%20Passion%20in%20the%20Quest%20for%20Work%20You%20Love%20%28170%29/So%20Good%20They%20Can%27t%20Ignore%20You_%20Why%20Skills%20-%20Cal%20Newport.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Cal Newport</name>
+      <uri>../author_0/author_197_Page_1.xml</uri>
+    </author>
+    <published>2012-09-17T06:30:00Z</published>
+    <category term="Business &amp; Economics / Careers - Job Hunting" />
+    <link href="../book_0/book_170.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Modeling Bounded Rationality [July 12, 2018]</title>
+    <id>calibre:book:167</id>
+    <updated>2019-12-07T00:47:18Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Ariel%20Rubinstein/Modeling%20Bounded%20Rationality%20%28167%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Ariel%20Rubinstein/Modeling%20Bounded%20Rationality%20%28167%29/Modeling%20Bounded%20Rationality%20-%20Ariel%20Rubinstein.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Ariel%20Rubinstein/Modeling%20Bounded%20Rationality%20%28167%29/Modeling%20Bounded%20Rationality%20-%20Ariel%20Rubinstein.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Ariel%20Rubinstein/Modeling%20Bounded%20Rationality%20%28167%29/Modeling%20Bounded%20Rationality%20-%20Ariel%20Rubinstein.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Ariel Rubinstein</name>
+      <uri>../author_0/author_225_Page_1.xml</uri>
+    </author>
+    <published>1998-07-31T06:30:00Z</published>
+    <link href="../book_0/book_167.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Why We Sleep: Unlocking the Power of Sleep and Dreams [July 12, 2018]</title>
+    <id>calibre:book:164</id>
+    <updated>2020-03-28T08:04:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Matthew%20Walker/Why%20We%20Sleep_%20Unlocking%20the%20Power%20of%20Sleep%20and%20Dreams%20%28164%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Matthew%20Walker/Why%20We%20Sleep_%20Unlocking%20the%20Power%20of%20Sleep%20and%20Dreams%20%28164%29/Why%20We%20Sleep_%20Unlocking%20the%20Power%20of%20Sleep%20-%20Matthew%20Walker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Matthew%20Walker/Why%20We%20Sleep_%20Unlocking%20the%20Power%20of%20Sleep%20and%20Dreams%20%28164%29/Why%20We%20Sleep_%20Unlocking%20the%20Power%20of%20Sleep%20-%20Matthew%20Walker.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Matthew%20Walker/Why%20We%20Sleep_%20Unlocking%20the%20Power%20of%20Sleep%20and%20Dreams%20%28164%29/Why%20We%20Sleep_%20Unlocking%20the%20Power%20of%20Sleep%20-%20Matthew%20Walker.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Matthew Walker</name>
+      <uri>../author_0/author_102_Page_1.xml</uri>
+    </author>
+    <published>2017-10-03T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Scribner</dcterms:publisher>
+    <category term="Sleep" />
+    <category term="Health" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_164.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Bird by Bird: Some Instructions on Writing and Life [July 12, 2018]</title>
+    <id>calibre:book:161</id>
+    <updated>2019-12-07T00:47:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Anne%20Lamott/Bird%20by%20Bird_%20Some%20Instructions%20on%20Writing%20and%20Life%20%28161%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Anne%20Lamott/Bird%20by%20Bird_%20Some%20Instructions%20on%20Writing%20and%20Life%20%28161%29/Bird%20by%20Bird_%20Some%20Instructions%20on%20Writing%20-%20Anne%20Lamott.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Anne%20Lamott/Bird%20by%20Bird_%20Some%20Instructions%20on%20Writing%20and%20Life%20%28161%29/Bird%20by%20Bird_%20Some%20Instructions%20on%20Writing%20-%20Anne%20Lamott.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Anne Lamott</name>
+      <uri>../author_0/author_785_Page_1.xml</uri>
+    </author>
+    <published>1995-09-01T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Anchor</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>For a quarter century, more than a million readers—scribes and scribblers of all ages and abilities—have been inspired by Anne Lamott’s hilarious, big-hearted, homespun advice. Advice that begins with the simple words of wisdom passed down from Anne...</summary>
+    <link href="../book_0/book_161.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Influence: The Psychology of Persuasion [July 12, 2018]</title>
+    <id>calibre:book:157</id>
+    <updated>2019-12-07T00:47:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20B.%20Cialdini%20Phd/Influence_%20The%20Psychology%20of%20Persuasion%20%28157%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20B.%20Cialdini%20Phd/Influence_%20The%20Psychology%20of%20Persuasion%20%28157%29/Influence_%20The%20Psychology%20of%20Persuasion%20-%20Robert%20B.%20Cialdini%20Phd.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20B.%20Cialdini%20Phd/Influence_%20The%20Psychology%20of%20Persuasion%20%28157%29/Influence_%20The%20Psychology%20of%20Persuasion%20-%20Robert%20B.%20Cialdini%20Phd.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20B.%20Cialdini%20Phd/Influence_%20The%20Psychology%20of%20Persuasion%20%28157%29/Influence_%20The%20Psychology%20of%20Persuasion%20-%20Robert%20B.%20Cialdini%20Phd.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Robert B. Cialdini Phd</name>
+      <uri>../author_0/author_789_Page_1.xml</uri>
+    </author>
+    <published>2009-06-01T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins e-books</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>The widely adopted, now classic book on influence and persuasion—a major national and international bestseller with more than four million copies sold! In this highly acclaimed  New York Times  bestseller, Dr. Robert B. Cialdini—the seminal expert i...</summary>
+    <link href="../book_0/book_157.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Getting Things Done [July 12, 2018]</title>
+    <id>calibre:book:155</id>
+    <updated>2019-12-07T00:47:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/David%20Allen/Getting%20Things%20Done%20%28155%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/David%20Allen/Getting%20Things%20Done%20%28155%29/Getting%20Things%20Done%20-%20David%20Allen.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/David%20Allen/Getting%20Things%20Done%20%28155%29/Getting%20Things%20Done%20-%20David%20Allen.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/David%20Allen/Getting%20Things%20Done%20%28155%29/Getting%20Things%20Done%20-%20David%20Allen.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>David Allen</name>
+      <uri>../author_0/author_97_Page_1.xml</uri>
+    </author>
+    <published>2004-04-06T11:50:48Z</published>
+    <link href="../book_0/book_155.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Elements of Statistical Learning [July 12, 2018]</title>
+    <id>calibre:book:149</id>
+    <updated>2019-12-07T00:47:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Jerome%20H.%20Friedman%2C%20Robert%20Tibshirani/The%20Elements%20of%20Statistical%20Learning%20%28149%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Jerome%20H.%20Friedman%2C%20Robert%20Tibshirani/The%20Elements%20of%20Statistical%20Learning%20%28149%29/The%20Elements%20of%20Statistical%20Learning%20-%20Jerome%20H.%20Friedman%2C%20Robert%20Tibshirani.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Jerome H. Friedman, Robert Tibshirani</name>
+      <uri>../author_0/author_205_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Trevor Hastie</name>
+      <uri>../author_0/author_206_Page_1.xml</uri>
+    </author>
+    <published>2013-01-27T08:05:01Z</published>
+    <link href="../book_0/book_149.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Economics and Language [July 12, 2018]</title>
+    <id>calibre:book:148</id>
+    <updated>2019-12-07T00:47:18Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Ariel%20Rubinstein/Economics%20and%20Language%20%28148%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Ariel%20Rubinstein/Economics%20and%20Language%20%28148%29/Economics%20and%20Language%20-%20Ariel%20Rubinstein.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Ariel%20Rubinstein/Economics%20and%20Language%20%28148%29/Economics%20and%20Language%20-%20Ariel%20Rubinstein.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Ariel%20Rubinstein/Economics%20and%20Language%20%28148%29/Economics%20and%20Language%20-%20Ariel%20Rubinstein.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Ariel Rubinstein</name>
+      <uri>../author_0/author_225_Page_1.xml</uri>
+    </author>
+    <published>2000-09-13T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Cambridge University Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Arising out of the author's lifetime fascination with the links between the formal language of mathematical models and natural language, this short book comprises five essays investigating both the economics of language and the language of economics...</summary>
+    <link href="../book_0/book_148.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Fluent in 3 Months: How Anyone at Any Age Can Learn to Speak Any Language from Anywhere in the World [July 12, 2018]</title>
+    <id>calibre:book:139</id>
+    <updated>2020-03-28T07:29:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Lewis%2C%20Benny/Fluent%20in%203%20Months_%20How%20Anyone%20at%20Any%20Age%20Can%20Learn%20to%20Speak%20Any%20Language%20from%20Anywhere%20in%20the%20%28139%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Lewis%2C%20Benny/Fluent%20in%203%20Months_%20How%20Anyone%20at%20Any%20Age%20Can%20Learn%20to%20Speak%20Any%20Language%20from%20Anywhere%20in%20the%20%28139%29/Fluent%20in%203%20Months_%20How%20Anyone%20at%20Any%20Age%20-%20Lewis%2C%20Benny.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Lewis%2C%20Benny/Fluent%20in%203%20Months_%20How%20Anyone%20at%20Any%20Age%20Can%20Learn%20to%20Speak%20Any%20Language%20from%20Anywhere%20in%20the%20%28139%29/Fluent%20in%203%20Months_%20How%20Anyone%20at%20Any%20Age%20-%20Lewis%2C%20Benny.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Lewis%2C%20Benny/Fluent%20in%203%20Months_%20How%20Anyone%20at%20Any%20Age%20Can%20Learn%20to%20Speak%20Any%20Language%20from%20Anywhere%20in%20the%20%28139%29/Fluent%20in%203%20Months_%20How%20Anyone%20at%20Any%20Age%20-%20Lewis%2C%20Benny.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Lewis, Benny</name>
+      <uri>../author_0/author_93_Page_1.xml</uri>
+    </author>
+    <published>2014-03-11T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_139.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>An Introduction To Statistical Learning with Applications in R (ISLR Sixth Printing) [July 12, 2018]</title>
+    <id>calibre:book:134</id>
+    <updated>2019-12-07T00:47:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Gareth%20James%2C%20Daniela%20Witten%2C%20Trevor%20Hastie%20%2CRobert%20Tibshirani/An%20Introduction%20To%20Statistical%20Learning%20with%20Applications%20in%20R%20%28ISLR%20Sixth%20Printing%29%20%28134%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Gareth%20James%2C%20Daniela%20Witten%2C%20Trevor%20Hastie%20%2CRobert%20Tibshirani/An%20Introduction%20To%20Statistical%20Learning%20with%20Applications%20in%20R%20%28ISLR%20Sixth%20Printing%29%20%28134%29/An%20Introduction%20To%20Statistical%20Learning%20wi%20-%20Gareth%20James%2C%20Daniela%20Witten%2C%20Trevor%20Hasti.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Gareth%20James%2C%20Daniela%20Witten%2C%20Trevor%20Hastie%20%2CRobert%20Tibshirani/An%20Introduction%20To%20Statistical%20Learning%20with%20Applications%20in%20R%20%28ISLR%20Sixth%20Printing%29%20%28134%29/An%20Introduction%20To%20Statistical%20Learning%20wi%20-%20Gareth%20James%2C%20Daniela%20Witten%2C%20Trevor%20Hasti.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Gareth James, Daniela Witten, Trevor Hastie ,Robert Tibshirani</name>
+      <uri>../author_0/author_247_Page_1.xml</uri>
+    </author>
+    <published>2015-10-30T01:55:15Z</published>
+    <link href="../book_0/book_134.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>1984 [July 12, 2018]</title>
+    <id>calibre:book:129</id>
+    <updated>2019-12-07T00:47:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/George%20Orwell/1984%20%28129%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/George%20Orwell/1984%20%28129%29/1984%20-%20George%20Orwell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/George%20Orwell/1984%20%28129%29/1984%20-%20George%20Orwell.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/George%20Orwell/1984%20%28129%29/1984%20-%20George%20Orwell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>George Orwell</name>
+      <uri>../author_0/author_91_Page_1.xml</uri>
+    </author>
+    <published>2012-08-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Oberon Books</dcterms:publisher>
+    <category term="Drama" />
+    <category term="European" />
+    <category term="Fiction" />
+    <category term="Dystopian" />
+    <category term="Lang:en" />
+    <summary>In a world where cheap entertainment keeps the proles ignorant but content, where a war without end is always fought and the government is always watching, can Winston possibly hold onto what he feels inside? Or will he renounce everything, accept th...</summary>
+    <link href="../book_0/book_129.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Prince [July 12, 2018]</title>
+    <id>calibre:book:112</id>
+    <updated>2019-12-07T00:47:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Nicolo%20Machiavelli/The%20Prince%20%28112%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Nicolo%20Machiavelli/The%20Prince%20%28112%29/The%20Prince%20-%20Nicolo%20Machiavelli.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Nicolo%20Machiavelli/The%20Prince%20%28112%29/The%20Prince%20-%20Nicolo%20Machiavelli.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Nicolo%20Machiavelli/The%20Prince%20%28112%29/The%20Prince%20-%20Nicolo%20Machiavelli.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Nicolo Machiavelli</name>
+      <uri>../author_0/author_89_Page_1.xml</uri>
+    </author>
+    <published>1532-08-27T06:30:00Z</published>
+    <summary>Download classic literature as completely free eBooks from Planet eBook.</summary>
+    <link href="../book_0/book_112.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cracking the Coding Interview, 189 Programming Questions and Solutions-CareerCup (2015) [July 12, 2018]</title>
+    <id>calibre:book:105</id>
+    <updated>2019-12-07T00:47:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Gayle%20Laakmann%20McDowell/Cracking%20the%20Coding%20Interview%2C%20189%20Programming%20Questions%20and%20Solutions-CareerCup%20%282015%29%20%28105%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Gayle%20Laakmann%20McDowell/Cracking%20the%20Coding%20Interview%2C%20189%20Programming%20Questions%20and%20Solutions-CareerCup%20%282015%29%20%28105%29/Cracking%20the%20Coding%20Interview%2C%20189%20Program%20-%20Gayle%20Laakmann%20McDowell.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Gayle Laakmann McDowell</name>
+      <uri>../author_0/author_208_Page_1.xml</uri>
+    </author>
+    <published>2016-06-08T09:46:13Z</published>
+    <link href="../book_0/book_105.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Future of Machine Intelligence [July 12, 2018]</title>
+    <id>calibre:book:104</id>
+    <updated>2019-12-07T00:47:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/David%20Beyer/The%20Future%20of%20Machine%20Intelligence%20%28104%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/David%20Beyer/The%20Future%20of%20Machine%20Intelligence%20%28104%29/The%20Future%20of%20Machine%20Intelligence%20-%20David%20Beyer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/David%20Beyer/The%20Future%20of%20Machine%20Intelligence%20%28104%29/The%20Future%20of%20Machine%20Intelligence%20-%20David%20Beyer.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/David%20Beyer/The%20Future%20of%20Machine%20Intelligence%20%28104%29/The%20Future%20of%20Machine%20Intelligence%20-%20David%20Beyer.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>David Beyer</name>
+      <uri>../author_0/author_88_Page_1.xml</uri>
+    </author>
+    <published>2016-02-29T06:17:15Z</published>
+    <link href="../book_0/book_104.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Art of Seduction [July 2, 2018]</title>
+    <id>calibre:book:102</id>
+    <updated>2020-03-28T07:22:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20Greene/The%20Art%20of%20Seduction%20%28102%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20Greene/The%20Art%20of%20Seduction%20%28102%29/The%20Art%20of%20Seduction%20-%20Robert%20Greene.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20Greene/The%20Art%20of%20Seduction%20%28102%29/The%20Art%20of%20Seduction%20-%20Robert%20Greene.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20Greene/The%20Art%20of%20Seduction%20%28102%29/The%20Art%20of%20Seduction%20-%20Robert%20Greene.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Robert Greene</name>
+      <uri>../author_0/author_87_Page_1.xml</uri>
+    </author>
+    <published>2003-10-06T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Books</dcterms:publisher>
+    <category term="Family &amp; Relationships" />
+    <category term="General" />
+    <category term="Self-Help" />
+    <category term="Personal Growth" />
+    <category term="Lang:en" />
+    <summary>Which sort of seducer could you be? Siren? Rake? Cold Coquette? Star? Comedian? Charismatic? Or Saint? This book will show you which. Charm, persuasion, the ability to create illusions: these are some of the many dazzling gifts of the Seducer, the c...</summary>
+    <link href="../book_0/book_102.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The 48 Laws of Power [June 30, 2018]</title>
+    <id>calibre:book:101</id>
+    <updated>2020-03-28T07:14:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20Greene%3B%20Joost%20Elffers/The%2048%20Laws%20of%20Power%20%28101%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20Greene%3B%20Joost%20Elffers/The%2048%20Laws%20of%20Power%20%28101%29/The%2048%20Laws%20of%20Power%20-%20Robert%20Greene%3B%20Joost%20Elffers.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20Greene%3B%20Joost%20Elffers/The%2048%20Laws%20of%20Power%20%28101%29/The%2048%20Laws%20of%20Power%20-%20Robert%20Greene%3B%20Joost%20Elffers.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20Greene%3B%20Joost%20Elffers/The%2048%20Laws%20of%20Power%20%28101%29/The%2048%20Laws%20of%20Power%20-%20Robert%20Greene%3B%20Joost%20Elffers.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Robert Greene; Joost Elffers</name>
+      <uri>../author_0/author_86_Page_1.xml</uri>
+    </author>
+    <published>2000-09-07T06:04:58Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Group</dcterms:publisher>
+    <category term="Self-Help" />
+    <category term="Lang:en" />
+    <summary>THE BESTSELLING BOOK FOR THOSE WHO WANT POWER, WATCH POWER, OR WANT TO ARM THEMSELVES AGAINST POWER . . .A moral, cunning, ruthless, and instructive, this piercing work distills three thousand years of the history of power into forty-eight well-expli...</summary>
+    <link href="../book_0/book_101.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Age of Comfort [June 26, 2018]</title>
+    <id>calibre:book:99</id>
+    <updated>2020-03-28T07:10:32Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Joan%20DeJean/The%20Age%20of%20Comfort%20%2899%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Joan%20DeJean/The%20Age%20of%20Comfort%20%2899%29/The%20Age%20of%20Comfort%20-%20Joan%20DeJean.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Joan%20DeJean/The%20Age%20of%20Comfort%20%2899%29/The%20Age%20of%20Comfort%20-%20Joan%20DeJean.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Joan%20DeJean/The%20Age%20of%20Comfort%20%2899%29/The%20Age%20of%20Comfort%20-%20Joan%20DeJean.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Joan DeJean</name>
+      <uri>../author_0/author_84_Page_1.xml</uri>
+    </author>
+    <published>2009-11-02T09:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Bloomsbury Publishing Plc</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_99.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Decision Checklist [June 26, 2018]</title>
+    <id>calibre:book:98</id>
+    <updated>2020-03-28T07:29:00Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Kyle%2C%20Sam/Decision%20Checklist%20%2898%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Kyle%2C%20Sam/Decision%20Checklist%20%2898%29/Decision%20Checklist%20-%20Kyle%2C%20Sam.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Kyle%2C%20Sam/Decision%20Checklist%20%2898%29/Decision%20Checklist%20-%20Kyle%2C%20Sam.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Kyle%2C%20Sam/Decision%20Checklist%20%2898%29/Decision%20Checklist%20-%20Kyle%2C%20Sam.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Kyle, Sam</name>
+      <uri>../author_0/author_83_Page_1.xml</uri>
+    </author>
+    <published>2018-06-11T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <summary>Timeless steps to help you make meaningful decisions that will improve your career and your life</summary>
+    <link href="../book_0/book_98.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Competitive Programming [June 26, 2018]</title>
+    <id>calibre:book:75</id>
+    <updated>2019-12-07T00:47:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Steven%20Halim%2C%20Felix%20Halim/Competitive%20Programming%20%2875%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Steven%20Halim%2C%20Felix%20Halim/Competitive%20Programming%20%2875%29/Competitive%20Programming%20-%20Steven%20Halim%2C%20Felix%20Halim.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Steven%20Halim%2C%20Felix%20Halim/Competitive%20Programming%20%2875%29/Competitive%20Programming%20-%20Steven%20Halim%2C%20Felix%20Halim.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Steven%20Halim%2C%20Felix%20Halim/Competitive%20Programming%20%2875%29/Competitive%20Programming%20-%20Steven%20Halim%2C%20Felix%20Halim.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Steven Halim, Felix Halim</name>
+      <uri>../author_0/author_224_Page_1.xml</uri>
+    </author>
+    <published>2010-08-09T00:45:31Z</published>
+    <link href="../book_0/book_75.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Principles: Life and Work [June 26, 2018]</title>
+    <id>calibre:book:71</id>
+    <updated>2020-03-28T07:10:02Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Ray%20Dalio/Principles_%20Life%20and%20Work%20%2871%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Ray%20Dalio/Principles_%20Life%20and%20Work%20%2871%29/Principles_%20Life%20and%20Work%20-%20Ray%20Dalio.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Ray%20Dalio/Principles_%20Life%20and%20Work%20%2871%29/Principles_%20Life%20and%20Work%20-%20Ray%20Dalio.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Ray%20Dalio/Principles_%20Life%20and%20Work%20%2871%29/Principles_%20Life%20and%20Work%20-%20Ray%20Dalio.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Ray Dalio</name>
+      <uri>../author_0/author_60_Page_1.xml</uri>
+    </author>
+    <published>2017-09-18T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Simon &amp; Schuster</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_71.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Conspiracy [June 2, 2018]</title>
+    <id>calibre:book:68</id>
+    <updated>2020-03-28T07:24:40Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Ryan%20Holiday/Conspiracy%20%2868%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Ryan%20Holiday/Conspiracy%20%2868%29/Conspiracy%20-%20Ryan%20Holiday.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Ryan%20Holiday/Conspiracy%20%2868%29/Conspiracy%20-%20Ryan%20Holiday.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Ryan%20Holiday/Conspiracy%20%2868%29/Conspiracy%20-%20Ryan%20Holiday.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Ryan Holiday</name>
+      <uri>../author_0/author_57_Page_1.xml</uri>
+    </author>
+    <published>2018-02-27T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>In the tradition of Janet Malcolm's THE JOURNALIST AND THE MURDERER and Robert Greene's THE 48 LAWS OF POWER, author Ryan Holiday examines the case that rocked the media world&amp;#8212;and the billionaire mastermind behind itIn 2007, a short blogpost on...</summary>
+    <link href="../book_0/book_68.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>How to Change Your Mind [June 1, 2018]</title>
+    <id>calibre:book:67</id>
+    <updated>2020-03-28T07:42:30Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Michael%20Pollan/How%20to%20Change%20Your%20Mind%20%2867%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Michael%20Pollan/How%20to%20Change%20Your%20Mind%20%2867%29/How%20to%20Change%20Your%20Mind%20-%20Michael%20Pollan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Michael%20Pollan/How%20to%20Change%20Your%20Mind%20%2867%29/How%20to%20Change%20Your%20Mind%20-%20Michael%20Pollan.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Michael%20Pollan/How%20to%20Change%20Your%20Mind%20%2867%29/How%20to%20Change%20Your%20Mind%20-%20Michael%20Pollan.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Michael Pollan</name>
+      <uri>../author_0/author_56_Page_1.xml</uri>
+    </author>
+    <published>2018-05-15T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>A brilliant and brave investigation by Michael Pollan, author of five New York Times best sellers, into the medical and scientific revolution taking place around psychedelic drugs&amp;#8212;and the spellbinding story of his own life-changing psychedelic ...</summary>
+    <link href="../book_0/book_67.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Psychedelic Experience: A Manual Based on the Tibetan Book of the Dead (1964) [June 1, 2018]</title>
+    <id>calibre:book:65</id>
+    <updated>2020-03-28T07:29:06Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Timothy%20Leary/The%20Psychedelic%20Experience_%20A%20Manual%20Based%20on%20the%20Tibetan%20Book%20of%20the%20Dead%20%281964%29%20%2865%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Timothy%20Leary/The%20Psychedelic%20Experience_%20A%20Manual%20Based%20on%20the%20Tibetan%20Book%20of%20the%20Dead%20%281964%29%20%2865%29/The%20Psychedelic%20Experience_%20A%20Manual%20Based%20-%20Timothy%20Leary.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Timothy%20Leary/The%20Psychedelic%20Experience_%20A%20Manual%20Based%20on%20the%20Tibetan%20Book%20of%20the%20Dead%20%281964%29%20%2865%29/The%20Psychedelic%20Experience_%20A%20Manual%20Based%20-%20Timothy%20Leary.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Timothy%20Leary/The%20Psychedelic%20Experience_%20A%20Manual%20Based%20on%20the%20Tibetan%20Book%20of%20the%20Dead%20%281964%29%20%2865%29/The%20Psychedelic%20Experience_%20A%20Manual%20Based%20-%20Timothy%20Leary.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Timothy Leary</name>
+      <uri>../author_0/author_55_Page_1.xml</uri>
+    </author>
+    <published>2015-05-13T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Progressive Press</dcterms:publisher>
+    <category term="Timothy Leary" />
+    <category term="Lang:en" />
+    <summary>Timothy Leary The Psychedelic Experience</summary>
+    <link href="../book_0/book_65.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Trip [June 1, 2018]</title>
+    <id>calibre:book:64</id>
+    <updated>2020-03-28T07:30:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Tao%20Lin/Trip%20%2864%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Tao%20Lin/Trip%20%2864%29/Trip%20-%20Tao%20Lin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Tao%20Lin/Trip%20%2864%29/Trip%20-%20Tao%20Lin.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Tao%20Lin/Trip%20%2864%29/Trip%20-%20Tao%20Lin.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Tao Lin</name>
+      <uri>../author_0/author_54_Page_1.xml</uri>
+    </author>
+    <published>2018-05-02T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Knopf Doubleday Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Part memoir, part history, part journalistic expos&amp;eacute;, Trip is a look at psychedelic drugs, literature, and alienation from one of the twenty-first century's most innovative novelists&amp;#8212;The Electric Kool-Aid Acid Test for a new generation. A...</summary>
+    <link href="../book_0/book_64.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../recent/recent_MORE_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (3 of 6)" />
+  <link href="../recent/recent_MORE_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 6)" />
+  <link href="../recent/recent_MORE_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (6 of 6)" />
+</feed>

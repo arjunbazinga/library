@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1057</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f96ba821-9a41-446e-b760-b1833120626f</dc:identifier>
+        <dc:title>The Little Typer</dc:title>
+        <dc:creator opf:file-as="Daniel P. Friedman , David Thrane Christiansen" opf:role="aut">Daniel P. Friedman , David Thrane Christiansen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-12-21T19:30:39+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;An introduction to dependent types, demonstrating the most beautiful aspects, one step at a time.&lt;/strong&gt; A program's type describes its behavior. Dependent types are a first-class part of a language, and are much more powerful than other kinds of types; using just one language for types and programs allows program descriptions to be as powerful as the programs they describe. &lt;em&gt;The Little Typer&lt;/em&gt; explains dependent types, beginning with a very small language that looks very much like Scheme and extending it to cover both programming with dependent types and using dependent types for mathematical reasoning. Readers should be familiar with the basics of a Lisp-like programming language, as presented in the first four chapters of &lt;em&gt;The Little Schemer&lt;/em&gt;. The first five chapters of &lt;em&gt;The Little Typer&lt;/em&gt; provide the needed tools to understand dependent types; the remaining chapters use these tools to build a bridge between mathematics and programming. Readers will learn that tools they know from programming—pairs, lists, functions, and recursion—can also capture patterns of reasoning. &lt;em&gt;The Little Typer&lt;/em&gt; does not attempt to teach either practical programming skills or a fully rigorous approach to types. Instead, it demonstrates the most beautiful aspects as simply as possible, one step at a time. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="AMAZON">0262536439</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computer Science</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Daniel P. Friedman , David Thrane Christiansen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-10-24T18:21:35+00:00"/>
+        <meta name="calibre:title_sort" content="Little Typer, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

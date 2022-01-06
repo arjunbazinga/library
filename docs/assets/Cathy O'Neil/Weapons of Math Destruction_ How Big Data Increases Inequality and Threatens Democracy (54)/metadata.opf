@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a6ce791a-1094-49dd-983c-a82f2c630286</dc:identifier>
+        <dc:title>Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy</dc:title>
+        <dc:creator opf:file-as="O'Neil, Cathy" opf:role="aut">Cathy O'Neil</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-09-05T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;em&gt;Longlisted for the National Book Award | New York Times&lt;/em&gt; Bestseller &lt;/p&gt;
+&lt;p&gt;A former Wall Street quant sounds an alarm on the mathematical models that pervade modern life and threaten to rip apart our social fabric.** &lt;/p&gt;
+&lt;p&gt;We live in the age of the algorithm. Increasingly, the decisions that affect our lives—where we go to school, whether we get a car loan, how much we pay for health insurance—are being made not by humans, but by mathematical models. In theory, this should lead to greater fairness: Everyone is judged according to the same rules, and bias is eliminated. &lt;/p&gt;
+&lt;p&gt;But as Cathy O’Neil reveals in this urgent and necessary book, the opposite is true. The models being used today are opaque, unregulated, and uncontestable, even when they’re wrong. Most troubling, they reinforce discrimination: If a poor student can’t get a loan because a lending model deems him too risky (by virtue of his zip code), he’s then cut off from the kind of education that could pull him out of poverty, and a vicious spiral ensues. Models are propping up the lucky and punishing the downtrodden, creating a “toxic cocktail for democracy.” Welcome to the dark side of Big Data. &lt;/p&gt;
+&lt;p&gt;Tracing the arc of a person’s life, O’Neil exposes the black box models that shape our future, both as individuals and as a society. These “weapons of math destruction” score teachers and students, sort résumés, grant (or deny) loans, evaluate workers, target voters, set parole, and monitor our health. &lt;/p&gt;
+&lt;p&gt;O’Neil calls on modelers to take more responsibility for their algorithms and on policy makers to regulate their use. But in the end, it’s up to us to become more savvy about the models that govern our lives. This important book empowers us to ask the tough questions, uncover the truth, and demand change. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin UK</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780141985428</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0553418815</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">60n0DAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Technology</dc:subject>
+        <dc:subject>Engineering</dc:subject>
+        <dc:subject>Social Aspects</dc:subject>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>Political Ideologies</dc:subject>
+        <dc:subject>Democracy</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Algorithms</dc:subject>
+        <dc:subject>Business</dc:subject>
+        <dc:subject>Economics</dc:subject>
+        <dc:subject>Statistics</dc:subject>
+        <dc:subject>Intelligence (AI) &amp; Semantics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Mathematics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Cathy O'Neil&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2018-06-01T08:27:29+00:00"/>
+        <meta name="calibre:title_sort" content="Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

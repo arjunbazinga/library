@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">980</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">988b648d-ecef-4a05-ab44-968069d39a35</dc:identifier>
+        <dc:title>How to Be Miserable</dc:title>
+        <dc:creator opf:file-as="Paterson, Randy J." opf:role="aut">Randy J. Paterson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Want to be miserable? It isn't as difficult as it sounds, and chances are, you're already doing it! Studies show that repeating specific behaviors can actually increase feelings of dissatisfaction, foster a lack of motivation, and detract from your quality of life. In How to Be Miserable, psychologist Randy Paterson outlines 40 specific behaviors and habits, which&amp;#8212;if followed&amp;#8212;are sure to lead to a lifetime of unhappiness. On the other hand, if you do the opposite, you may yet join the ranks of happy people everywhere.</dc:description>
+        <dc:publisher>New Harbinger Publications</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Happiness</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Randy J. Paterson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-08-29T13:53:01+00:00"/>
+        <meta name="calibre:title_sort" content="How to Be Miserable"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

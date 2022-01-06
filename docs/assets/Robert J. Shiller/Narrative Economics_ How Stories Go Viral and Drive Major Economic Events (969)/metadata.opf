@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">969</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">64ba6a6b-1090-42a7-9d5d-8de590c5d7e9</dc:identifier>
+        <dc:title>Narrative Economics: How Stories Go Viral and Drive Major Economic Events</dc:title>
+        <dc:creator opf:file-as="Shiller, Robert J." opf:role="aut">Robert J. Shiller</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;From Nobel Prize–winning economist and &lt;/strong&gt;&lt;span style="font-weight: 600; font-style: italic"&gt;New York Times&lt;/span&gt;&lt;strong&gt; bestselling author Robert Shiller, a groundbreaking account of how stories help drive economic events―and why financial panics can spread like epidemic viruses&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;In a world in which internet troll farms attempt to influence foreign elections, can we afford to ignore the power of viral stories to affect economies? In this groundbreaking book, Nobel Prize–winning economist and &lt;em&gt;New York Times&lt;/em&gt; bestselling author Robert Shiller offers a new way to think about the economy and economic change. Using a rich array of historical examples and data, Shiller argues that studying popular stories that affect individual and collective economic behavior―what he calls "narrative economics"―has the potential to vastly improve our ability to predict, prepare for, and lessen the damage of financial crises, recessions, depressions, and other major economic events. &lt;/p&gt;
+&lt;p&gt;Spread through the public in the form of popular stories, ideas can go viral and move markets―whether it's the belief that tech stocks can only go up, that housing prices never fall, or that some firms are too big to fail. Whether true or false, stories like these―transmitted by word of mouth, by the news media, and increasingly by social media―drive the economy by driving our decisions about how and where to invest, how much to spend and save, and more. But despite the obvious importance of such stories, most economists have paid little attention to them. &lt;em&gt;Narrative Economics&lt;/em&gt; sets out to change that by laying the foundation for a way of understanding how stories help propel economic events that have had led to war, mass unemployment, and increased inequality. &lt;/p&gt;
+&lt;p&gt;The stories people tell―about economic confidence or panic, housing booms, the American dream, or Bitcoin―affect economic outcomes. &lt;em&gt;Narrative Economics&lt;/em&gt; explains how we can begin to take these stories seriously. It may be Robert Shiller's most important book to date. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Princeton University Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">HciXDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780691182292</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0691182299</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Consumer Behavior</dc:subject>
+        <dc:subject>Finance</dc:subject>
+        <dc:subject>Economics</dc:subject>
+        <dc:subject>Macroeconomics</dc:subject>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Social Psychology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert J. Shiller&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-08-26T15:57:21+00:00"/>
+        <meta name="calibre:title_sort" content="Narrative Economics: How Stories Go Viral and Drive Major Economic Events"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

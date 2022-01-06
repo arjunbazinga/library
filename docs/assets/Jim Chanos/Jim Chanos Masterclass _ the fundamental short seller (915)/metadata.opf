@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">915</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">979e4ed2-69ba-47fa-a905-c1d13d75fe0b</dc:identifier>
+        <dc:title>Jim Chanos Masterclass : the fundamental short seller</dc:title>
+        <dc:creator opf:file-as="Chanos, Jim" opf:role="aut">Jim Chanos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-12-01T04:50:59+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Jim Chanos&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-08-09T07:29:07+00:00"/>
+        <meta name="calibre:title_sort" content="Jim Chanos Masterclass : the fundamental short seller"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

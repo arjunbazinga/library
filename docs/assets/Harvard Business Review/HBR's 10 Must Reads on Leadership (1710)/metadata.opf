@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1710</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d9f26e5-397f-45b2-8728-4baf81b1659c</dc:identifier>
+        <dc:title>HBR's 10 Must Reads on Leadership</dc:title>
+        <dc:creator opf:file-as="Review, Harvard Business" opf:role="aut">Harvard Business Review</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-15T04:51:15+00:00</dc:date>
+        <dc:description>Go from being a good manager to an extraordinary leader. If you read nothing else on leadership, read these 10 articles (featuring "What Makes an Effective Executive," by Peter F. Drucker). We've combed through hundreds of Harvard Business Review articles on leadership and selected the most important ones to help you maximize your own and your organization's performance. HBR's 10 Must Reads On Leadership will inspire you to:  Motivate others to excel Build your team's self-confidence in others Provoke positive change Set direction Encourage smart risk-taking Manage with tough empathy Credit others for your success Increase self-awareness Draw strength from adversity  This collection of best-selling articles includes: featured article "What Makes an Effective Executive" by Peter F. Drucker, "What Makes a Leader?" "What Leaders Really Do," "The Work of Leadership," "Why Should Anyone Be Led by You?" "Crucibles of Leadership," "Level 5 Leadership: The Triumph of Humility and Fierce Resolve," "Seven Transformations of Leadership," "Discovering Your Authentic Leadership," and "In Praise of the Incomplete Leader."</dc:description>
+        <dc:publisher>Harvard Business Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781422157978</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">ieQ3j5QHVcgC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Leadership</dc:subject>
+        <dc:subject>Personal &amp; Professional Development</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harvard Business Review&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-07-14T04:48:52+00:00"/>
+        <meta name="calibre:title_sort" content="HBR's 10 Must Reads on Leadership"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

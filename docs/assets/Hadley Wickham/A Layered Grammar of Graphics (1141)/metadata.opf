@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1141</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">912fd01c-82f5-48f9-a667-73ca376cbc68</dc:identifier>
+        <dc:title>A Layered Grammar of Graphics</dc:title>
+        <dc:creator opf:file-as="Wickham, Hadley" opf:role="aut">Hadley Wickham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-01T09:30:38+00:00</dc:date>
+        <dc:description>Journal of Computational and Graphical Statistics, 2010, Volume19, Number1, 3-28</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Journal of Computational and Graphical Statistics</dc:subject>
+        <dc:subject>2010</dc:subject>
+        <dc:subject>Volume19</dc:subject>
+        <dc:subject>Number1</dc:subject>
+        <dc:subject>3-28</dc:subject>
+        <dc:subject>Grammar of graphics</dc:subject>
+        <dc:subject>Statistical graphics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hadley Wickham&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-14T05:39:37+00:00"/>
+        <meta name="calibre:title_sort" content="Layered Grammar of Graphics, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

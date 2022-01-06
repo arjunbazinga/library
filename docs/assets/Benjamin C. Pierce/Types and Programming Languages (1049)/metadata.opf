@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1049</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a718465f-17e4-41c2-876d-8f627094e6fc</dc:identifier>
+        <dc:title>Types and Programming Languages</dc:title>
+        <dc:creator opf:file-as="Pierce, Benjamin C. &amp; C., Benjamin" opf:role="aut">Benjamin C. Pierce</dc:creator>
+        <dc:creator opf:file-as="Pierce, Benjamin C. &amp; C., Benjamin" opf:role="aut">Benjamin C. (professor Pierce, University Of Pennsylvania)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-10-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A comprehensive introduction to type systems and programming languages. A type system is a syntactic method for automatically checking the absence of certain erroneous behaviors by classifying program phrases according to the kinds of values they compute. The study of type systems--and of programming languages from a type-theoretic perspective--has important applications in software engineering, language design, high-performance compilers, and security. This text provides a comprehensive introduction both to type systems in computer science and to the basic theory of programming languages. The approach is pragmatic and operational; each new concept is motivated by programming examples and the more theoretical sections are driven by the needs of implementations. Each chapter is accompanied by numerous exercises and solutions, as well as a running implementation, available via the Web. Dependencies between chapters are explicitly identified, allowing readers to choose a variety of paths through the material. The core topics include the untyped lambda-calculus, simple type systems, type reconstruction, universal and existential polymorphism, subtyping, bounded quantification, recursive types, kinds, and type operators. Extended case studies develop a variety of approaches to modeling the features of object-oriented languages.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>MIT Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780262162098</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">ti6zoAC9Ph8C</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Software Development &amp; Engineering</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Benjamin C. Pierce&quot;: &quot;&quot;, &quot;Benjamin C. (professor Pierce, University Of Pennsylvania)&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-18T12:06:32+00:00"/>
+        <meta name="calibre:title_sort" content="Types and Programming Languages"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

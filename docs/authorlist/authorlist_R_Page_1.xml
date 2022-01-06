@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Authors starting with R</title>
+  <id>Calibre2opds:authorlist:R</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Authors starting with R" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>Ross J. Anderson</title>
+    <id>Calibre2opds:author:696</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_696_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Ray Bradbury</title>
+    <id>Calibre2opds:author:233</id>
+    <content type="text">Fahrenheit 451</content>
+    <link href="../author_0/author_233_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Reuben Gregg Brewer</title>
+    <id>Calibre2opds:author:501</id>
+    <content type="text">Gold : as an investment</content>
+    <link href="../author_0/author_501_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Ron Chernow</title>
+    <id>Calibre2opds:author:314</id>
+    <content type="text">Titan</content>
+    <link href="../author_0/author_314_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Robert B. Cialdini Phd</title>
+    <id>Calibre2opds:author:789</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_789_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Ray Dalio</title>
+    <id>Calibre2opds:author:60</id>
+    <content type="text">Principles: Life and Work</content>
+    <link href="../author_0/author_60_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Richard Dawkins</title>
+    <id>Calibre2opds:author:34</id>
+    <content type="text">2 books</content>
+    <link href="../author_0/author_34_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Rolf Dobelli</title>
+    <id>Calibre2opds:author:390</id>
+    <content type="text">The Art of Thinking Clearly</content>
+    <link href="../author_0/author_390_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Ramani Durvasula</title>
+    <id>Calibre2opds:author:626</id>
+    <content type="text">Should I Stay or Should I Go?</content>
+    <link href="../author_0/author_626_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Robert Greene; Joost Elffers</title>
+    <id>Calibre2opds:author:86</id>
+    <content type="text">The 48 Laws of Power</content>
+    <link href="../author_0/author_86_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Ralph Waldo Emerson</title>
+    <id>Calibre2opds:author:373</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_373_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Roger Fisher</title>
+    <id>Calibre2opds:author:421</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_421_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Robert Greene</title>
+    <id>Calibre2opds:author:87</id>
+    <content type="text">2 books</content>
+    <link href="../author_0/author_87_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Robert Heinlein</title>
+    <id>Calibre2opds:author:339</id>
+    <content type="text">They</content>
+    <link href="../author_0/author_339_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Ryan Holiday</title>
+    <id>Calibre2opds:author:57</id>
+    <content type="text">2 books</content>
+    <link href="../author_0/author_57_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Robert Jay Lifton</title>
+    <id>Calibre2opds:author:620</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_620_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Roger Lowenstein</title>
+    <id>Calibre2opds:author:398</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_398_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Randall Munroe</title>
+    <id>Calibre2opds:author:441</id>
+    <content type="text">How To</content>
+    <link href="../author_0/author_441_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Robert M. Pirsig</title>
+    <id>Calibre2opds:author:459</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_459_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Robert D. Putnam</title>
+    <id>Calibre2opds:author:42</id>
+    <content type="text">Bowling Alone</content>
+    <link href="../author_0/author_42_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Raghuram G Rajan, Luigi Zingales</title>
+    <id>Calibre2opds:author:482</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_482_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Raghuram G. Rajan</title>
+    <id>Calibre2opds:author:254</id>
+    <content type="text">2 books</content>
+    <link href="../author_0/author_254_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Randall A. Lewis, Justin M. Rao</title>
+    <id>Calibre2opds:author:757</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_757_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Raworth, Kate</title>
+    <id>Calibre2opds:author:193</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_193_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Richard Rhodes</title>
+    <id>Calibre2opds:author:281</id>
+    <content type="text">Making of the Atomic Bomb</content>
+    <link href="../author_0/author_281_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Richard S. Sutton , Andrew G. Barto</title>
+    <id>Calibre2opds:author:244</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_244_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Robert J. Shiller, George A. Akerlof</title>
+    <id>Calibre2opds:author:504</id>
+    <content type="text">Animal Spirits</content>
+    <link href="../author_0/author_504_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Roy F. Baumeister, Ph.d.</title>
+    <id>Calibre2opds:author:564</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_564_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Richard Rutter</title>
+    <id>Calibre2opds:author:389</id>
+    <content type="text">Web Typography</content>
+    <link href="../author_0/author_389_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Robert M. Sapolsky</title>
+    <id>Calibre2opds:author:180</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_180_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Ravi Sethi</title>
+    <id>Calibre2opds:author:770</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_770_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Robert J. Shiller</title>
+    <id>Calibre2opds:author:210</id>
+    <content type="text">2 books</content>
+    <link href="../author_0/author_210_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+</feed>

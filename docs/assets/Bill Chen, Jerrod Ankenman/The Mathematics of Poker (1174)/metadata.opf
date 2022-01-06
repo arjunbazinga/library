@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1174</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aa97c362-a60a-4d7e-8470-6ac38124534d</dc:identifier>
+        <dc:title>The Mathematics of Poker</dc:title>
+        <dc:creator opf:file-as="Bill Chen, Jerrod Ankenman" opf:role="aut">Bill Chen, Jerrod Ankenman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-01-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;In the late 1970s and early 1980s, the bond an option markets were dominated by traders who had learned their craft by experience. They believed that there experience and intuition for trading were a renewable edge; this is, that they could make money just as they always had by continuing to trade as they always had. By the mid-1990s, a revolution in trading had occurred; the old school grizzled traders had been replaced by a new breed of quantitative analysts, applying mathematics to the "art" of trading and making of it a science. Similarly in poker, for decades, the highest level of pokers have been dominated by players who have learned the game by playing it, "road gamblers" who have cultivated intuition for the game and are adept at reading other players' hands from betting patterns and physical tells. Over the last five to ten years, a whole new breed has risen to prominence within the poker community. Applying the tools of computer science and mathematics to poker and sharing the information across the Internet, these players have challenged many of the assumptions that underlie traditional approaches to the game. One of the most important features of this new approach is a reliance on quantitative analysis and the application of mathematics to the game. The intent of this book is to provide an introduction to quantitative techniques as applied to poker and to a branch of mathematics that is particularly applicable to poker, game theory. There are mathematical techniques that can be applied for poker that are difficult and complex. But most of the mathematics of poker is really not terribly difficult, and the authors have sought to make seemingly difficult topics accessible to players without a very strong mathematical background. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>ConJelCo LLC</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">bgNGPQAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1886070253</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781886070257</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Games &amp; Activities</dc:subject>
+        <dc:subject>Card Games</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Poker</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bill Chen, Jerrod Ankenman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-01-05T19:09:50+00:00"/>
+        <meta name="calibre:title_sort" content="Mathematics of Poker, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

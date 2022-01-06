@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">590</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">23a8cffc-467a-4dad-8bce-8b1398538984</dc:identifier>
+        <dc:title>The Search for the "Manchurian Candidate": The CIA and Mind Control</dc:title>
+        <dc:creator opf:file-as="Marks, John D." opf:role="aut">John D. Marks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1988-07-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;From 16,000 pages of CIA documents, interviews and behavioral science studies, the author uncovers the shocking truth about the CIA's experiments with drug-testing and mind control. He shows the tragic consequences for freedom when a government agency has a secret license to kill.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Dell Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780440201373</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0393307948</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">_PlpPgAACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>Intelligence &amp; Espionage</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John D. Marks&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2019-06-17T06:49:35+00:00"/>
+        <meta name="calibre:title_sort" content="Search for the &quot;Manchurian Candidate&quot;: The CIA and Mind Control, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

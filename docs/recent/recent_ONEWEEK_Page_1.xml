@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Previous week</title>
+  <id>Calibre2opds:recent:ONEWEEK</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./recent_ONEWEEK_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Previous week" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
+  <entry>
+    <title>Get Together: How to build a community with your people [August 22, 2020]</title>
+    <id>calibre:book:950</id>
+    <updated>2020-08-23T01:12:44Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Bailey%20Richardson/Get%20Together_%20How%20to%20build%20a%20community%20with%20your%20people%20%28950%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Bailey%20Richardson/Get%20Together_%20How%20to%20build%20a%20community%20with%20your%20people%20%28950%29/Get%20Together_%20How%20to%20build%20a%20community%20wit%20-%20Bailey%20Richardson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Bailey%20Richardson/Get%20Together_%20How%20to%20build%20a%20community%20with%20your%20people%20%28950%29/Get%20Together_%20How%20to%20build%20a%20community%20wit%20-%20Bailey%20Richardson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Bailey%20Richardson/Get%20Together_%20How%20to%20build%20a%20community%20with%20your%20people%20%28950%29/Get%20Together_%20How%20to%20build%20a%20community%20wit%20-%20Bailey%20Richardson.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Bailey Richardson</name>
+      <uri>../author_0/author_801_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Kevin Huynh</name>
+      <uri>../author_0/author_802_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Kai Elmer Sotto</name>
+      <uri>../author_0/author_803_Page_1.xml</uri>
+    </author>
+    <published>2019-08-19T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Stripe Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_950.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ghost-ads-a-revolution-in-measuring-ad-effectiveness [August 21, 2020]</title>
+    <id>calibre:book:949</id>
+    <updated>2020-08-21T01:46:10Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Unknown/ghost-ads-a-revolution-in-measuring-ad-effectiveness%20%28949%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Unknown/ghost-ads-a-revolution-in-measuring-ad-effectiveness%20%28949%29/ghost-ads-a-revolution-in-measuring-ad-eff%20-%20Unknown.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Unknown</name>
+      <uri>../author_0/author_278_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_949.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Pharmacotheon Entheogenic Drugs, Their Plant Sources &amp; History [August 21, 2020]</title>
+    <id>calibre:book:944</id>
+    <updated>2020-08-21T01:46:09Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Jonathan%20Ott/Pharmacotheon%20Entheogenic%20Drugs%2C%20Their%20Plant%20Sources%20%26%20History%20%28944%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Jonathan%20Ott/Pharmacotheon%20Entheogenic%20Drugs%2C%20Their%20Plant%20Sources%20%26%20History%20%28944%29/Pharmacotheon%20Entheogenic%20Drugs%2C%20Their%20Pla%20-%20Jonathan%20Ott.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Jonathan Ott</name>
+      <uri>../author_0/author_762_Page_1.xml</uri>
+    </author>
+    <published>1993-08-05T06:30:00Z</published>
+    <link href="../book_0/book_944.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Unfavorable Economics of Measuring the Returns to Advertising [August 21, 2020]</title>
+    <id>calibre:book:945</id>
+    <updated>2020-08-21T01:46:09Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Randall%20A.%20Lewis%2C%20Justin%20M.%20Rao/The%20Unfavorable%20Economics%20of%20Measuring%20the%20Returns%20to%20Advertising%20%28945%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Randall%20A.%20Lewis%2C%20Justin%20M.%20Rao/The%20Unfavorable%20Economics%20of%20Measuring%20the%20Returns%20to%20Advertising%20%28945%29/The%20Unfavorable%20Economics%20of%20Measuring%20the%20-%20Randall%20A.%20Lewis%2C%20Justin%20M.%20Rao.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Randall A. Lewis, Justin M. Rao</name>
+      <uri>../author_0/author_757_Page_1.xml</uri>
+    </author>
+    <published>2015-07-05T06:30:00Z</published>
+    <category term="Economics" />
+    <link href="../book_0/book_945.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A Comparison of Approaches to Advertising Measurement: Evidence from Big Field Experiments at Facebook [August 21, 2020]</title>
+    <id>calibre:book:946</id>
+    <updated>2020-08-21T01:46:09Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Bret%20R.%20Gordon/A%20Comparison%20of%20Approaches%20to%20Advertising%20Measurement_%20Evidence%20from%20Big%20Field%20Experiments%20at%20F%20%28946%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Bret%20R.%20Gordon/A%20Comparison%20of%20Approaches%20to%20Advertising%20Measurement_%20Evidence%20from%20Big%20Field%20Experiments%20at%20F%20%28946%29/A%20Comparison%20of%20Approaches%20to%20Advertising%20-%20Bret%20R.%20Gordon.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Bret R. Gordon</name>
+      <uri>../author_0/author_763_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_946.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The new dot com bubble is here it’s called online advertising [August 21, 2020]</title>
+    <id>calibre:book:940</id>
+    <updated>2020-08-21T01:46:08Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/The%20Correspondent/The%20new%20dot%20com%20bubble%20is%20here%20it%27s%20called%20online%20advertising%20%28940%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/The%20Correspondent/The%20new%20dot%20com%20bubble%20is%20here%20it%27s%20called%20online%20advertising%20%28940%29/The%20new%20dot%20com%20bubble%20is%20here%20it%27s%20called%20-%20The%20Correspondent.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>The Correspondent</name>
+      <uri>../author_0/author_751_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_940.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Organic Chemistry As a Second Language: First Semester Topics, 4th Edition [August 21, 2020]</title>
+    <id>calibre:book:942</id>
+    <updated>2020-08-21T01:46:08Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/David%20R.%20Klein/Organic%20Chemistry%20As%20a%20Second%20Language_%20First%20Semester%20Topics%2C%204th%20Edition%20%28942%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/David%20R.%20Klein/Organic%20Chemistry%20As%20a%20Second%20Language_%20First%20Semester%20Topics%2C%204th%20Edition%20%28942%29/Organic%20Chemistry%20As%20a%20Second%20Language_%20Fi%20-%20David%20R.%20Klein.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>David R. Klein</name>
+      <uri>../author_0/author_753_Page_1.xml</uri>
+    </author>
+    <published>2017-06-08T07:43:46Z</published>
+    <link href="../book_0/book_942.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>PIHKAL: A Chemical Love Story [August 21, 2020]</title>
+    <id>calibre:book:943</id>
+    <updated>2020-08-21T01:49:06Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Shulgin/PIHKAL_%20A%20Chemical%20Love%20Story%20%28943%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Shulgin/PIHKAL_%20A%20Chemical%20Love%20Story%20%28943%29/PIHKAL_%20A%20Chemical%20Love%20Story%20-%20Shulgin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Shulgin/PIHKAL_%20A%20Chemical%20Love%20Story%20%28943%29/PIHKAL_%20A%20Chemical%20Love%20Story%20-%20Shulgin.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Shulgin</name>
+      <uri>../author_0/author_754_Page_1.xml</uri>
+    </author>
+    <published>2002-12-26T07:58:24Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <summary>Anthology containing:
+PIHKAL Book IPIHKAL Book II</summary>
+    <link href="../book_0/book_943.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Magic Mushrooms Around The World [August 21, 2020]</title>
+    <id>calibre:book:936</id>
+    <updated>2020-08-21T01:46:07Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Jochen%20Gartz/Magic%20Mushrooms%20Around%20The%20World%20%28936%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Jochen%20Gartz/Magic%20Mushrooms%20Around%20The%20World%20%28936%29/Magic%20Mushrooms%20Around%20The%20World%20-%20Jochen%20Gartz.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Jochen Gartz</name>
+      <uri>../author_0/author_748_Page_1.xml</uri>
+    </author>
+    <published>2002-09-01T06:27:40Z</published>
+    <category term="Magic Mushrooms - A scientific Journey Across Cultures &amp; Time" />
+    <category term="This pdf Was made by: The Hooded Claw" />
+    <summary>Magic Mushrooms - A scientific Journey Across Cultures &amp; Time</summary>
+    <link href="../book_0/book_936.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Using, Understanding and Unraveling the Ocaml Language [August 21, 2020]</title>
+    <id>calibre:book:937</id>
+    <updated>2020-08-21T01:46:07Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Didier%20Remy/Using%2C%20Understanding%20and%20Unraveling%20the%20Ocaml%20Language%20%28937%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Didier%20Remy/Using%2C%20Understanding%20and%20Unraveling%20the%20Ocaml%20Language%20%28937%29/Using%2C%20Understanding%20and%20Unraveling%20the%20Oc%20-%20Didier%20Remy.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Didier Remy</name>
+      <uri>../author_0/author_761_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_937.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Communicating sequential processes [August 21, 2020]</title>
+    <id>calibre:book:938</id>
+    <updated>2020-08-21T01:46:07Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/C.%20A.%20R.%20Hoare/Communicating%20sequential%20processes%20%28938%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/C.%20A.%20R.%20Hoare/Communicating%20sequential%20processes%20%28938%29/Communicating%20sequential%20processes%20-%20C.%20A.%20R.%20Hoare.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>C. A. R. Hoare</name>
+      <uri>../author_0/author_749_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <category term="http://doi.acm.org/10.1145/359576.359585" />
+    <category term="classes" />
+    <category term="concurrency" />
+    <category term="conditional critical regions" />
+    <category term="coroutines" />
+    <category term="data representations" />
+    <category term="guarded commands" />
+    <category term="input" />
+    <category term="iterative arrays" />
+    <category term="monitors" />
+    <category term="multiple entries" />
+    <category term="multiple exits" />
+    <category term="nondeterminacy" />
+    <category term="output" />
+    <category term="parallel programming" />
+    <category term="procedures" />
+    <category term="program structures" />
+    <category term="Programming" />
+    <category term="programming languages" />
+    <category term="programming primitives" />
+    <category term="recursion" />
+    <link href="../book_0/book_938.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Neuropsychedelia: The Revival of Hallucinogen Research Since the Decade of the Brain [August 21, 2020]</title>
+    <id>calibre:book:939</id>
+    <updated>2020-08-21T01:55:49Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Nicolas%20Langlitz/Neuropsychedelia_%20The%20Revival%20of%20Hallucinogen%20Research%20Since%20the%20Decade%20of%20the%20Brain%20%28939%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Nicolas%20Langlitz/Neuropsychedelia_%20The%20Revival%20of%20Hallucinogen%20Research%20Since%20the%20Decade%20of%20the%20Brain%20%28939%29/Neuropsychedelia_%20The%20Revival%20of%20Hallucino%20-%20Nicolas%20Langlitz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Nicolas%20Langlitz/Neuropsychedelia_%20The%20Revival%20of%20Hallucinogen%20Research%20Since%20the%20Decade%20of%20the%20Brain%20%28939%29/Neuropsychedelia_%20The%20Revival%20of%20Hallucino%20-%20Nicolas%20Langlitz.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Nicolas Langlitz</name>
+      <uri>../author_0/author_750_Page_1.xml</uri>
+    </author>
+    <published>2012-11-06T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Univ of California Press</dcterms:publisher>
+    <category term="Social Science" />
+    <category term="Anthropology" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>Neuropsychedelia examines the revival of psychedelic science since the "Decade of the Brain." After the breakdown of this previously prospering area of psychopharmacology, and in the wake of clashes between counterculture and establishment in the la...</summary>
+    <link href="../book_0/book_939.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Buzzed [August 21, 2020]</title>
+    <id>calibre:book:933</id>
+    <updated>2020-08-21T01:47:21Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Cynthia%20Kuhn/Buzzed%20%28933%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Cynthia%20Kuhn/Buzzed%20%28933%29/Buzzed%20-%20Cynthia%20Kuhn.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Cynthia%20Kuhn/Buzzed%20%28933%29/Buzzed%20-%20Cynthia%20Kuhn.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Cynthia Kuhn</name>
+      <uri>../author_0/author_742_Page_1.xml</uri>
+    </author>
+    <published>2019-03-08T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>W. W. Norton &amp; Company</dcterms:publisher>
+    <category term="Epub3" />
+    <category term="Lang:en" />
+    <summary>The essential source for understanding how drugs affect the body and behavior.Fully updated, this matter-of-fact handbook includes the most recent discoveries about drug use, including new information on electronic smoking devices, abuse of prescript...</summary>
+    <link href="../book_0/book_933.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>What makes Jio different [August 21, 2020]</title>
+    <id>calibre:book:934</id>
+    <updated>2020-08-21T01:46:06Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Simplanations/What%20makes%20Jio%20different%20%28934%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Simplanations/What%20makes%20Jio%20different%20%28934%29/What%20makes%20Jio%20different%20-%20Simplanations.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Simplanations</name>
+      <uri>../author_0/author_743_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_934.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The economics of faith: using an apocalyptic prophecy to elicit religious beliefs in the field [August 21, 2020]</title>
+    <id>calibre:book:935</id>
+    <updated>2020-08-21T01:46:07Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Ned%20Augenblick/The%20economics%20of%20faith_%20using%20an%20apocalyptic%20prophecy%20to%20elicit%20religious%20beliefs%20in%20the%20field%20%28935%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Ned%20Augenblick/The%20economics%20of%20faith_%20using%20an%20apocalyptic%20prophecy%20to%20elicit%20religious%20beliefs%20in%20the%20field%20%28935%29/The%20economics%20of%20faith_%20using%20an%20apocalypt%20-%20Ned%20Augenblick.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Ned Augenblick</name>
+      <uri>../author_0/author_744_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Jesse M. Cunha</name>
+      <uri>../author_0/author_745_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Ernesto Dal Bó</name>
+      <uri>../author_0/author_746_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Justin M. Rao</name>
+      <uri>../author_0/author_747_Page_1.xml</uri>
+    </author>
+    <published>2016-07-15T06:55:58Z</published>
+    <dcterms:publisher>Elsevier B.V.</dcterms:publisher>
+    <category term="Economics of faith" />
+    <category term="Religion" />
+    <category term="Faith" />
+    <category term="Time preference" />
+    <category term="Beliefs" />
+    <category term="Field experiments" />
+    <summary>Journal of Public Economics, Accepted manuscript. doi:10.1016/j.jpubeco.2016.07.004</summary>
+    <link href="../book_0/book_935.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

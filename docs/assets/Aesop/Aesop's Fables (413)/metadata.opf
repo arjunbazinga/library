@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">413</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">721a5221-0019-4e83-81e5-a6df7eed48be</dc:identifier>
+        <dc:title>Aesop's Fables</dc:title>
+        <dc:creator opf:file-as="Aesop" opf:role="aut">Aesop</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-09-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;One of the earliest volumes ever printed in English was Aesop’s Fables, and these delightful, instructive little parables have never gone out of style. Though originally meant for all ages, it is generally considered the first real book to have an audience of children. Noted author John Cech--whose Classic Fairy Tale Collection has received wide critical acclaim--retells some of these best-loved stories in his own inimitable way. Martin Jarrie (illustrator of the bestselling ABC USA) enhances the tales as never before with his unique folk-style art, making this anthology one of the most beautiful and necessary volumes for any child’s bookshelf. The beloved fables here include: - The Fox and the Grapes - The Ant and the Grasshopper - The Vain Crow - The Rooster and the Pearl - The City Mouse and the Country Mouse - The Tortoise and the Hare - The Lion and the Mouse - The Boy Who Went Swimming - The Sun and the Wind - The Monkey and the Camel Plus: a note on Aesop&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Sterling Publishing Company, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781402752988</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">B8t5TS560RgC</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0486280209</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Juvenile Fiction</dc:subject>
+        <dc:subject>Fairy Tales &amp; Folklore</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Legends; Myths; Fables</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Aesop&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2018-08-01T12:59:28+00:00"/>
+        <meta name="calibre:title_sort" content="Aesop's Fables"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

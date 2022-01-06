@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">900</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8f70ee3b-27d5-427b-8ba8-a5abd1469717</dc:identifier>
+        <dc:title>Seductive Interaction Design: Creating Playful, Fun, and Effective User Experiences</dc:title>
+        <dc:creator opf:file-as="Anderson, Stephen P." opf:role="aut">Stephen P. Anderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;What happens when you’ve built a great website or app, but no one seems to care? How do you get people to stick around long enough to see how your service might be of value? In Seductive Interaction Design, speaker and author Stephen P. Anderson takes a fresh approach to designing sites and interactions based on the stages of seduction. This beautifully designed book examines what motivates people to act. &lt;/p&gt;
+&lt;p&gt;Topics include: &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;AESTHETICS, BEAUTY, AND BEHAVIOR: Why do striking visuals grab our attention? And how do emotions affect judgment and behavior? &lt;/li&gt;
+&lt;li&gt;PLAYFUL SEDUCTION: How do you create playful engagements during the moment? Why are serendipity, arousal, rewards, and other delights critical to a good experience? &lt;/li&gt;
+&lt;li&gt;THE SUBTLE ART OF SEDUCTION: How do you put people at ease through clear and suggestive language? What are some subtle ways to influence behavior and get people to move from intent to action? &lt;/li&gt;
+&lt;li&gt;THE GAME OF SEDUCTION: How do you continue motivating people long after the first encounter? Are there lessons to be gained from learning theories or game design? &lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Principles from psychology are found throughout the book, along with dozens of examples showing how these techniques have been applied with great success. In addition, each section includes interviews with influential web and interaction designers. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>New Riders</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0321725522</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">KNpeewAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780321725523</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Data Processing</dc:subject>
+        <dc:subject>Software Development &amp; Engineering</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Web</dc:subject>
+        <dc:subject>Design</dc:subject>
+        <dc:subject>User Interfaces</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen P. Anderson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-08-09T07:29:05+00:00"/>
+        <meta name="calibre:title_sort" content="Seductive Interaction Design: Creating Playful, Fun, and Effective User Experiences"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

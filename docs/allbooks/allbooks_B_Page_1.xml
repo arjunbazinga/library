@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with B</title>
+  <id>Calibre2opds:allbooks:B</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with B" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>The Babe Ruth effect : Frequency vs Magnitude</title>
+    <id>calibre:book:914</id>
+    <updated>2020-08-09T00:59:07Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/The%20Consilient%20observer/The%20Babe%20Ruth%20effect%20_%20Frequency%20vs%20Magnitude%20%28914%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/The%20Consilient%20observer/The%20Babe%20Ruth%20effect%20_%20Frequency%20vs%20Magnitude%20%28914%29/The%20Babe%20Ruth%20effect%20_%20Frequency%20vs%20Magnit%20-%20The%20Consilient%20observer.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>The Consilient observer</name>
+      <uri>../author_0/author_724_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_914.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Bad Blood</title>
+    <id>calibre:book:398</id>
+    <updated>2020-03-28T07:05:58Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/John%20Carreyrou/Bad%20Blood%20%28398%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/John%20Carreyrou/Bad%20Blood%20%28398%29/Bad%20Blood%20-%20John%20Carreyrou.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/John%20Carreyrou/Bad%20Blood%20%28398%29/Bad%20Blood%20-%20John%20Carreyrou.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/John%20Carreyrou/Bad%20Blood%20%28398%29/Bad%20Blood%20-%20John%20Carreyrou.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>John Carreyrou</name>
+      <uri>../author_0/author_145_Page_1.xml</uri>
+    </author>
+    <published>2018-05-21T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Knopf Doubleday Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>The full inside story of the breathtaking rise and shocking collapse of Theranos, the multibillion-dollar biotech startup, by the prize-winning journalist who first broke the story and pursued it to the end, despite pressure from its charismatic CEO ...</summary>
+    <link href="../book_0/book_398.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Barbarian Days</title>
+    <id>calibre:book:544</id>
+    <updated>2020-03-28T07:19:50Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/William%20Finnegan/Barbarian%20Days%20%28544%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/William%20Finnegan/Barbarian%20Days%20%28544%29/Barbarian%20Days%20-%20William%20Finnegan.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/William%20Finnegan/Barbarian%20Days%20%28544%29/Barbarian%20Days%20-%20William%20Finnegan.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>William Finnegan</name>
+      <uri>../author_0/author_294_Page_1.xml</uri>
+    </author>
+    <published>2015-06-23T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>A deeply-rendered self-portrait of a life-long surfer.	 Barbarian Days is William Finnegan's memoir of an obsession, of a complex enchantment. Surfing looks like a sport, but that's only to outsiders. To initiates, it is something else entirely: a be...</summary>
+    <link href="../book_0/book_544.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Become What You Are</title>
+    <id>calibre:book:786</id>
+    <updated>2020-04-23T05:43:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20Watts/Become%20What%20You%20Are%20%28786%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20Watts/Become%20What%20You%20Are%20%28786%29/Become%20What%20You%20Are%20-%20Alan%20Watts.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Alan%20Watts/Become%20What%20You%20Are%20%28786%29/Become%20What%20You%20Are%20-%20Alan%20Watts.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Alan Watts</name>
+      <uri>../author_0/author_573_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Shambhala Publications</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>"Life exists only at this very moment, and in this moment it is infinite and eternal. For the present moment is infinitely small; before we can measure it, it has gone, and yet it exists forever. . . . You may believe yourself out of harmony with lif...</summary>
+    <link href="../book_0/book_786.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Becoming a Supple Leopard</title>
+    <id>calibre:book:700</id>
+    <updated>2020-03-28T07:55:00Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Kelly%20Starrett/Becoming%20a%20Supple%20Leopard%20%28700%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Kelly%20Starrett/Becoming%20a%20Supple%20Leopard%20%28700%29/Becoming%20a%20Supple%20Leopard%20-%20Kelly%20Starrett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Kelly%20Starrett/Becoming%20a%20Supple%20Leopard%20%28700%29/Becoming%20a%20Supple%20Leopard%20-%20Kelly%20Starrett.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Kelly Starrett</name>
+      <uri>../author_0/author_444_Page_1.xml</uri>
+    </author>
+    <published>2015-03-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Victory Belt Publishing Inc.</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_700.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Bed of Procrustes</title>
+    <id>calibre:book:681</id>
+    <updated>2020-06-16T06:58:52Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Nassim%20Nicholas%20Taleb/The%20Bed%20of%20Procrustes%20%28681%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Nassim%20Nicholas%20Taleb/The%20Bed%20of%20Procrustes%20%28681%29/The%20Bed%20of%20Procrustes%20-%20Nassim%20Nicholas%20Taleb.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Nassim%20Nicholas%20Taleb/The%20Bed%20of%20Procrustes%20%28681%29/The%20Bed%20of%20Procrustes%20-%20Nassim%20Nicholas%20Taleb.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Nassim%20Nicholas%20Taleb/The%20Bed%20of%20Procrustes%20%28681%29/The%20Bed%20of%20Procrustes%20-%20Nassim%20Nicholas%20Taleb.txt" type="text/plain" rel="http://opds-spec.org/acquisition" title="Download this ebook as TXT" />
+    <author>
+      <name>Nassim Nicholas Taleb</name>
+      <uri>../author_0/author_19_Page_1.xml</uri>
+    </author>
+    <published>2010-11-29T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_681.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Behave: The Biology of Humans at Our Best and Worst</title>
+    <id>calibre:book:436</id>
+    <updated>2020-03-28T07:49:46Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20M.%20Sapolsky/Behave_%20The%20Biology%20of%20Humans%20at%20Our%20Best%20and%20Worst%20%28436%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20M.%20Sapolsky/Behave_%20The%20Biology%20of%20Humans%20at%20Our%20Best%20and%20Worst%20%28436%29/Behave_%20The%20Biology%20of%20Humans%20at%20Our%20Best%20-%20Robert%20M.%20Sapolsky.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20M.%20Sapolsky/Behave_%20The%20Biology%20of%20Humans%20at%20Our%20Best%20and%20Worst%20%28436%29/Behave_%20The%20Biology%20of%20Humans%20at%20Our%20Best%20-%20Robert%20M.%20Sapolsky.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20M.%20Sapolsky/Behave_%20The%20Biology%20of%20Humans%20at%20Our%20Best%20and%20Worst%20%28436%29/Behave_%20The%20Biology%20of%20Humans%20at%20Our%20Best%20-%20Robert%20M.%20Sapolsky.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Robert M. Sapolsky</name>
+      <uri>../author_0/author_180_Page_1.xml</uri>
+    </author>
+    <published>2017-05-02T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_436.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Best Way to Rob a Bank Is to Own One</title>
+    <id>calibre:book:869</id>
+    <updated>2020-07-24T05:54:40Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/William%20K.%20Black/The%20Best%20Way%20to%20Rob%20a%20Bank%20Is%20to%20Own%20One%20%28869%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/William%20K.%20Black/The%20Best%20Way%20to%20Rob%20a%20Bank%20Is%20to%20Own%20One%20%28869%29/The%20Best%20Way%20to%20Rob%20a%20Bank%20Is%20to%20Own%20One%20-%20William%20K.%20Black.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/William%20K.%20Black/The%20Best%20Way%20to%20Rob%20a%20Bank%20Is%20to%20Own%20One%20%28869%29/The%20Best%20Way%20to%20Rob%20a%20Bank%20Is%20to%20Own%20One%20-%20William%20K.%20Black.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>William K. Black</name>
+      <uri>../author_0/author_661_Page_1.xml</uri>
+    </author>
+    <published>2005-07-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>University of Texas Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>An expert insider's account of how financial super predators brought down an industry by massive accounting fraud.</summary>
+    <link href="../book_0/book_869.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Between Parentheses: Essays, Articles and Speeches, 1998-2003</title>
+    <id>calibre:book:341</id>
+    <updated>2020-03-28T07:03:06Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Bolano%2C%20Roberto/Between%20Parentheses_%20Essays%2C%20Articles%20and%20Speeches%2C%201998-2003%20%28341%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Bolano%2C%20Roberto/Between%20Parentheses_%20Essays%2C%20Articles%20and%20Speeches%2C%201998-2003%20%28341%29/Between%20Parentheses_%20Essays%2C%20Articles%20and%20-%20Bolano%2C%20Roberto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Bolano%2C%20Roberto/Between%20Parentheses_%20Essays%2C%20Articles%20and%20Speeches%2C%201998-2003%20%28341%29/Between%20Parentheses_%20Essays%2C%20Articles%20and%20-%20Bolano%2C%20Roberto.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Bolano%2C%20Roberto/Between%20Parentheses_%20Essays%2C%20Articles%20and%20Speeches%2C%201998-2003%20%28341%29/Between%20Parentheses_%20Essays%2C%20Articles%20and%20-%20Bolano%2C%20Roberto.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Bolaño, Roberto</name>
+      <uri>../author_0/author_127_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Echevarria, Ignacio</name>
+      <uri>../author_0/author_128_Page_1.xml</uri>
+    </author>
+    <published>2012-06-01T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Norton</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_341.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Big Short: Inside the Doomsday Machine ***</title>
+    <id>calibre:book:555</id>
+    <updated>2020-03-28T07:29:56Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Michael%20Lewis/The%20Big%20Short_%20Inside%20the%20Doomsday%20Machine%20%28555%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Michael%20Lewis/The%20Big%20Short_%20Inside%20the%20Doomsday%20Machine%20%28555%29/The%20Big%20Short_%20Inside%20the%20Doomsday%20Machine%20-%20Michael%20Lewis.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Michael%20Lewis/The%20Big%20Short_%20Inside%20the%20Doomsday%20Machine%20%28555%29/The%20Big%20Short_%20Inside%20the%20Doomsday%20Machine%20-%20Michael%20Lewis.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Michael Lewis</name>
+      <uri>../author_0/author_312_Page_1.xml</uri>
+    </author>
+    <published>2009-11-02T05:00:00Z</published>
+    <dcterms:publisher>W. W. Norton &amp; Company</dcterms:publisher>
+    <category term="Financial crises" />
+    <category term="Contemporary Economic Situations And Conditions" />
+    <category term="c 2000 to c 2010" />
+    <category term="Economics: Professional &amp; General" />
+    <category term="Finance" />
+    <category term="Financial crises &amp; disasters" />
+    <category term="Economics" />
+    <category term="21st century" />
+    <category term="General" />
+    <category term="United States" />
+    <category term="Economic Conditions" />
+    <category term="Business &amp; Economics" />
+    <category term="Global Financial Crisis; 2008-2009" />
+    <category term="Economic History" />
+    <category term="Business" />
+    <category term="History" />
+    <summary>EDITORIAL REVIEW:
+
+The #1 New York Times bestseller: a brilliant account—character-rich and darkly humorous—of how the U.S. economy was driven over the cliff.  When the crash of the U. S. stock market became public knowledge in the fall of 2008, it w...</summary>
+    <link href="../book_0/book_555.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A Billion Wicked Thoughts: What the World's Largest Experiment Reveals About Human Desire ****</title>
+    <id>calibre:book:823</id>
+    <updated>2020-07-05T01:34:34Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Ogi%20Ogas/A%20Billion%20Wicked%20Thoughts_%20What%20the%20World%27s%20Largest%20Experiment%20Reveals%20About%20Human%20Desire%20%28823%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Ogi%20Ogas/A%20Billion%20Wicked%20Thoughts_%20What%20the%20World%27s%20Largest%20Experiment%20Reveals%20About%20Human%20Desire%20%28823%29/A%20Billion%20Wicked%20Thoughts_%20What%20the%20World%27%20-%20Ogi%20Ogas.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Ogi%20Ogas/A%20Billion%20Wicked%20Thoughts_%20What%20the%20World%27s%20Largest%20Experiment%20Reveals%20About%20Human%20Desire%20%28823%29/A%20Billion%20Wicked%20Thoughts_%20What%20the%20World%27%20-%20Ogi%20Ogas.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Ogi Ogas</name>
+      <uri>../author_0/author_799_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Sai Gaddam</name>
+      <uri>../author_0/author_800_Page_1.xml</uri>
+    </author>
+    <published>2011-05-04T08:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Dutton</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Two maverick neuroscientists use the world's largest psychology experiment-the Internet-to study the private activities of millions of men and women around the world, unveiling a revolutionary and shocking new vision of human desire that overturns c...</summary>
+    <link href="../book_0/book_823.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Bird by Bird: Some Instructions on Writing and Life *****</title>
+    <id>calibre:book:161</id>
+    <updated>2019-12-07T00:47:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Anne%20Lamott/Bird%20by%20Bird_%20Some%20Instructions%20on%20Writing%20and%20Life%20%28161%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Anne%20Lamott/Bird%20by%20Bird_%20Some%20Instructions%20on%20Writing%20and%20Life%20%28161%29/Bird%20by%20Bird_%20Some%20Instructions%20on%20Writing%20-%20Anne%20Lamott.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Anne%20Lamott/Bird%20by%20Bird_%20Some%20Instructions%20on%20Writing%20and%20Life%20%28161%29/Bird%20by%20Bird_%20Some%20Instructions%20on%20Writing%20-%20Anne%20Lamott.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Anne Lamott</name>
+      <uri>../author_0/author_785_Page_1.xml</uri>
+    </author>
+    <published>1995-09-01T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Anchor</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>For a quarter century, more than a million readers—scribes and scribblers of all ages and abilities—have been inspired by Anne Lamott’s hilarious, big-hearted, homespun advice. Advice that begins with the simple words of wisdom passed down from Anne...</summary>
+    <link href="../book_0/book_161.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Birth of Tragedy</title>
+    <id>calibre:book:396</id>
+    <updated>2019-12-07T00:47:20Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Friedrich%20Nietzsche/The%20Birth%20of%20Tragedy%20%28396%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Friedrich%20Nietzsche/The%20Birth%20of%20Tragedy%20%28396%29/The%20Birth%20of%20Tragedy%20-%20Friedrich%20Nietzsche.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Friedrich%20Nietzsche/The%20Birth%20of%20Tragedy%20%28396%29/The%20Birth%20of%20Tragedy%20-%20Friedrich%20Nietzsche.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Friedrich%20Nietzsche/The%20Birth%20of%20Tragedy%20%28396%29/The%20Birth%20of%20Tragedy%20-%20Friedrich%20Nietzsche.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Friedrich Nietzsche</name>
+      <uri>../author_0/author_142_Page_1.xml</uri>
+    </author>
+    <published>1872-08-27T06:30:00Z</published>
+    <link href="../book_0/book_396.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Bitcoin Standard</title>
+    <id>calibre:book:689</id>
+    <updated>2020-03-28T06:59:02Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Saifedean%20Ammous/The%20Bitcoin%20Standard%20%28689%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Saifedean%20Ammous/The%20Bitcoin%20Standard%20%28689%29/The%20Bitcoin%20Standard%20-%20Saifedean%20Ammous.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Saifedean%20Ammous/The%20Bitcoin%20Standard%20%28689%29/The%20Bitcoin%20Standard%20-%20Saifedean%20Ammous.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Saifedean Ammous</name>
+      <uri>../author_0/author_436_Page_1.xml</uri>
+    </author>
+    <published>2018-04-24T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <link href="../book_0/book_689.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Blind Watchmaker</title>
+    <id>calibre:book:660</id>
+    <updated>2020-03-28T07:10:10Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Richard%20Dawkins/The%20Blind%20Watchmaker%20%28660%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Richard%20Dawkins/The%20Blind%20Watchmaker%20%28660%29/The%20Blind%20Watchmaker%20-%20Richard%20Dawkins.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Richard%20Dawkins/The%20Blind%20Watchmaker%20%28660%29/The%20Blind%20Watchmaker%20-%20Richard%20Dawkins.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Richard Dawkins</name>
+      <uri>../author_0/author_34_Page_1.xml</uri>
+    </author>
+    <published>2015-03-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>W. W. Norton &amp; Company</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Richard Dawkins's classic remains the definitive argument for our modern understanding of evolution.The Blind Watchmaker is the seminal text for understanding evolution today. In the eighteenth century, theologian William Paley developed a famous met...</summary>
+    <link href="../book_0/book_660.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Blink</title>
+    <id>calibre:book:28</id>
+    <updated>2020-03-28T07:21:08Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Malcolm%20Gladwell/Blink%20%2828%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Malcolm%20Gladwell/Blink%20%2828%29/Blink%20-%20Malcolm%20Gladwell.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Malcolm%20Gladwell/Blink%20%2828%29/Blink%20-%20Malcolm%20Gladwell.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Malcolm%20Gladwell/Blink%20%2828%29/Blink%20-%20Malcolm%20Gladwell.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Malcolm Gladwell</name>
+      <uri>../author_0/author_9_Page_1.xml</uri>
+    </author>
+    <published>2006-05-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Group UK</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_28.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Blue Ocean Strategy</title>
+    <id>calibre:book:14</id>
+    <updated>2019-12-07T00:47:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/W.%20Chan%20Kim%2C%20Renee%20Mauborgne/Blue%20Ocean%20Strategy%20%2814%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/W.%20Chan%20Kim%2C%20Renee%20Mauborgne/Blue%20Ocean%20Strategy%20%2814%29/Blue%20Ocean%20Strategy%20-%20W.%20Chan%20Kim%2C%20Renee%20Mauborgne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/W.%20Chan%20Kim%2C%20Renee%20Mauborgne/Blue%20Ocean%20Strategy%20%2814%29/Blue%20Ocean%20Strategy%20-%20W.%20Chan%20Kim%2C%20Renee%20Mauborgne.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/W.%20Chan%20Kim%2C%20Renee%20Mauborgne/Blue%20Ocean%20Strategy%20%2814%29/Blue%20Ocean%20Strategy%20-%20W.%20Chan%20Kim%2C%20Renee%20Mauborgne.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>W. Chan Kim, Renée Mauborgne</name>
+      <uri>../author_0/author_14_Page_1.xml</uri>
+    </author>
+    <published>2005-06-26T07:49:59Z</published>
+    <category term="Business" />
+    <category term="Strategy" />
+    <link href="../book_0/book_14.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Body Of Secrets</title>
+    <id>calibre:book:629</id>
+    <updated>2020-03-28T11:32:30Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Chuck%20Darwin/Body%20Of%20Secrets%20%28629%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Chuck%20Darwin/Body%20Of%20Secrets%20%28629%29/Body%20Of%20Secrets%20-%20Chuck%20Darwin.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Chuck Darwin</name>
+      <uri>../author_0/author_386_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_629.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Book of Why</title>
+    <id>calibre:book:39</id>
+    <updated>2020-03-28T07:41:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Judea%20Pearl/The%20Book%20of%20Why%20%2839%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Judea%20Pearl/The%20Book%20of%20Why%20%2839%29/The%20Book%20of%20Why%20-%20Judea%20Pearl.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Judea%20Pearl/The%20Book%20of%20Why%20%2839%29/The%20Book%20of%20Why%20-%20Judea%20Pearl.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Judea%20Pearl/The%20Book%20of%20Why%20%2839%29/The%20Book%20of%20Why%20-%20Judea%20Pearl.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Judea Pearl</name>
+      <uri>../author_0/author_35_Page_1.xml</uri>
+    </author>
+    <published>2018-05-15T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Basic Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>A Turing Prize-winning computer scientist and statistician shows how understanding causality has revolutionized science and will revolutionize artificial intelligence"Correlation is not causation." This mantra, chanted by scientists for more than a c...</summary>
+    <link href="../book_0/book_39.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Born Standing Up</title>
+    <id>calibre:book:868</id>
+    <updated>2020-07-24T05:54:30Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Steve%20Martin/Born%20Standing%20Up%20%28868%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Steve%20Martin/Born%20Standing%20Up%20%28868%29/Born%20Standing%20Up%20-%20Steve%20Martin.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Steve%20Martin/Born%20Standing%20Up%20%28868%29/Born%20Standing%20Up%20-%20Steve%20Martin.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Steve Martin</name>
+      <uri>../author_0/author_660_Page_1.xml</uri>
+    </author>
+    <published>2013-08-21T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Scribner</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>In the midseventies, Steve Martin exploded onto the comedy scene. By 1978 he was the biggest concert draw in the history of stand-up. In 1981 he quit forever. This book is, in his own words, the story of "why I did stand-up and why I walked away." Em...</summary>
+    <link href="../book_0/book_868.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Bowling Alone ****</title>
+    <id>calibre:book:49</id>
+    <updated>2020-03-28T07:43:06Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20D.%20Putnam/Bowling%20Alone%20%2849%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20D.%20Putnam/Bowling%20Alone%20%2849%29/Bowling%20Alone%20-%20Robert%20D.%20Putnam.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20D.%20Putnam/Bowling%20Alone%20%2849%29/Bowling%20Alone%20-%20Robert%20D.%20Putnam.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Robert%20D.%20Putnam/Bowling%20Alone%20%2849%29/Bowling%20Alone%20-%20Robert%20D.%20Putnam.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Robert D. Putnam</name>
+      <uri>../author_0/author_42_Page_1.xml</uri>
+    </author>
+    <published>2001-07-31T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Simon &amp; Schuster</dcterms:publisher>
+    <category term="History" />
+    <category term="Social History" />
+    <category term="Political Science" />
+    <category term="Public Policy" />
+    <category term="General" />
+    <category term="United States" />
+    <category term="20th Century" />
+    <category term="Lang:en" />
+    <summary>Once we bowled in leagues, usually after work -- but no longer. This seemingly small phenomenon symbolizes a significant social change that Robert Putnam has identified in this brilliant volume, Bowling Alone , which The Economist hailed as "a prodi...</summary>
+    <link href="../book_0/book_49.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Brainwashing</title>
+    <id>calibre:book:541</id>
+    <updated>2019-12-07T00:47:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Kathleen%20Taylor/Brainwashing%20%28541%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Kathleen%20Taylor/Brainwashing%20%28541%29/Brainwashing%20-%20Kathleen%20Taylor.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Kathleen%20Taylor/Brainwashing%20%28541%29/Brainwashing%20-%20Kathleen%20Taylor.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Kathleen%20Taylor/Brainwashing%20%28541%29/Brainwashing%20-%20Kathleen%20Taylor.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Kathleen Taylor</name>
+      <uri>../author_0/author_289_Page_1.xml</uri>
+    </author>
+    <published>2017-08-02T01:00:05Z</published>
+    <link href="../book_0/book_541.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Brave New World</title>
+    <id>calibre:book:33</id>
+    <updated>2020-03-28T07:25:38Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Aldous%20Leonard%20Huxley/Brave%20New%20World%20%2833%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Aldous%20Leonard%20Huxley/Brave%20New%20World%20%2833%29/Brave%20New%20World%20-%20Aldous%20Leonard%20Huxley.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Aldous%20Leonard%20Huxley/Brave%20New%20World%20%2833%29/Brave%20New%20World%20-%20Aldous%20Leonard%20Huxley.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Aldous%20Leonard%20Huxley/Brave%20New%20World%20%2833%29/Brave%20New%20World%20-%20Aldous%20Leonard%20Huxley.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Aldous Leonard Huxley</name>
+      <uri>../author_0/author_30_Page_1.xml</uri>
+    </author>
+    <published>2010-08-04T04:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Post Apocalypse" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_33.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Breakdown of will</title>
+    <id>calibre:book:520</id>
+    <updated>2019-12-07T00:47:22Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/George%20Ainslie/Breakdown%20of%20will%20%28520%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/George%20Ainslie/Breakdown%20of%20will%20%28520%29/Breakdown%20of%20will%20-%20George%20Ainslie.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/George%20Ainslie/Breakdown%20of%20will%20%28520%29/Breakdown%20of%20will%20-%20George%20Ainslie.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/George%20Ainslie/Breakdown%20of%20will%20%28520%29/Breakdown%20of%20will%20-%20George%20Ainslie.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>George Ainslie</name>
+      <uri>../author_0/author_272_Page_1.xml</uri>
+    </author>
+    <published>2004-08-04T00:56:51Z</published>
+    <link href="../book_0/book_520.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Breath</title>
+    <id>calibre:book:883</id>
+    <updated>2020-07-28T08:33:50Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/James%20Nestor/Breath%20%28883%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/James%20Nestor/Breath%20%28883%29/Breath%20-%20James%20Nestor.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/James%20Nestor/Breath%20%28883%29/Breath%20-%20James%20Nestor.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>James Nestor</name>
+      <uri>../author_0/author_678_Page_1.xml</uri>
+    </author>
+    <published>2020-05-26T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Random House LLC</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_883.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Broken Ladder</title>
+    <id>calibre:book:559</id>
+    <updated>2020-03-28T07:40:28Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Keith%20Payne/The%20Broken%20Ladder%20%28559%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Keith%20Payne/The%20Broken%20Ladder%20%28559%29/The%20Broken%20Ladder%20-%20Keith%20Payne.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Keith%20Payne/The%20Broken%20Ladder%20%28559%29/The%20Broken%20Ladder%20-%20Keith%20Payne.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Keith%20Payne/The%20Broken%20Ladder%20%28559%29/The%20Broken%20Ladder%20-%20Keith%20Payne.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Keith Payne</name>
+      <uri>../author_0/author_315_Page_1.xml</uri>
+    </author>
+    <published>2017-05-08T05:00:09Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>A timely examination by a leading scientist of the physical, psychological, and moral effects of inequality.  Today's inequality is on a scale that none of us has seen in our lifetimes, yet this disparity between rich and poor has ramifications that ...</summary>
+    <link href="../book_0/book_559.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Building Secure and Reliable Systems</title>
+    <id>calibre:book:772</id>
+    <updated>2020-04-10T00:50:46Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Heather%20Adkins%2C%20Betsy%20Beyer%2C%20Paul%20Blankinship%2C%20Piotr%20Lewandowski%2C%20Ana%20Oprea/Building%20Secure%20and%20Reliable%20Systems%20%28772%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Heather%20Adkins%2C%20Betsy%20Beyer%2C%20Paul%20Blankinship%2C%20Piotr%20Lewandowski%2C%20Ana%20Oprea/Building%20Secure%20and%20Reliable%20Systems%20%28772%29/Building%20Secure%20and%20Reliable%20Systems%20-%20Heather%20Adkins%2C%20Betsy%20Beyer%2C%20Paul%20Blankins.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Heather%20Adkins%2C%20Betsy%20Beyer%2C%20Paul%20Blankinship%2C%20Piotr%20Lewandowski%2C%20Ana%20Oprea/Building%20Secure%20and%20Reliable%20Systems%20%28772%29/Building%20Secure%20and%20Reliable%20Systems%20-%20Heather%20Adkins%2C%20Betsy%20Beyer%2C%20Paul%20Blankins.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea</name>
+      <uri>../author_0/author_565_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Adam Stubblefield</name>
+      <uri>../author_0/author_566_Page_1.xml</uri>
+    </author>
+    <published>2020-04-06T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>O'Reilly Media, Inc.</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Can a system truly be considered reliable if it isn't fundamentally secure? In two previous O'Reilly books--Site Reliability Engineering and The Site Reliability Workbook--experts from Google showed how reliability is fundamental to service design. T...</summary>
+    <link href="../book_0/book_772.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Buzzed</title>
+    <id>calibre:book:933</id>
+    <updated>2020-08-21T01:47:21Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Cynthia%20Kuhn/Buzzed%20%28933%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Cynthia%20Kuhn/Buzzed%20%28933%29/Buzzed%20-%20Cynthia%20Kuhn.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Cynthia%20Kuhn/Buzzed%20%28933%29/Buzzed%20-%20Cynthia%20Kuhn.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Cynthia Kuhn</name>
+      <uri>../author_0/author_742_Page_1.xml</uri>
+    </author>
+    <published>2019-03-08T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>W. W. Norton &amp; Company</dcterms:publisher>
+    <category term="Epub3" />
+    <category term="Lang:en" />
+    <summary>The essential source for understanding how drugs affect the body and behavior.Fully updated, this matter-of-fact handbook includes the most recent discoveries about drug use, including new information on electronic smoking devices, abuse of prescript...</summary>
+    <link href="../book_0/book_933.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Behavioural science support for JTRIG's Effects and Online HUMINT Operations</title>
+    <id>calibre:book:825</id>
+    <updated>2020-07-09T01:07:24Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Mandeep%20K.%20Dhami/Behavioural%20science%20support%20for%20JTRIG%27s%20Effects%20and%20Online%20HUMINT%20Operations%20%28825%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Mandeep%20K.%20Dhami/Behavioural%20science%20support%20for%20JTRIG%27s%20Effects%20and%20Online%20HUMINT%20Operations%20%28825%29/Behavioural%20science%20support%20for%20JTRIG%27s%20Ef%20-%20Mandeep%20K.%20Dhami.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Mandeep K. Dhami</name>
+      <uri>../author_0/author_648_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <summary>Behavioural science support for JTRIG's Effects and Online HUMINT Operations</summary>
+    <link href="../book_0/book_825.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A bend in the river ****</title>
+    <id>calibre:book:753</id>
+    <updated>2020-04-04T03:11:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/V.%20S.%20Naipaul/A%20bend%20in%20the%20river%20%28753%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/V.%20S.%20Naipaul/A%20bend%20in%20the%20river%20%28753%29/A%20bend%20in%20the%20river%20-%20V.%20S.%20Naipaul.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/V.%20S.%20Naipaul/A%20bend%20in%20the%20river%20%28753%29/A%20bend%20in%20the%20river%20-%20V.%20S.%20Naipaul.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>V. S. Naipaul</name>
+      <uri>../author_0/author_533_Page_1.xml</uri>
+    </author>
+    <published>1999-07-14T10:00:00Z</published>
+    <dcterms:publisher>G.K. Hall</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Unread" />
+    <summary>EDITORIAL REVIEW:
+
+'Brilliant and terrifying' - "Observer". I had to be the man who was doing well and more than well, the man whose drab shop concealed some bigger operation that made millions. I had to be the man who had planned it all, who had com...</summary>
+    <link href="../book_0/book_753.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

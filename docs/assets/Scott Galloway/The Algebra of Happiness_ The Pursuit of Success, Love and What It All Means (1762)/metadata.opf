@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1762</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6caec4cd-71f4-4572-8e26-d5362c2b135e</dc:identifier>
+        <dc:title>The Algebra of Happiness: The Pursuit of Success, Love and What It All Means</dc:title>
+        <dc:creator opf:file-as="Galloway, Scott" opf:role="aut">Scott Galloway</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-15T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;From the New York Times bestselling author, a provocative book of hard-won wisdom for achieving a fulfilling career and life. - How can you have a meaningful career, not just a lucrative one?- Is a work/life balance really possible?- What does it take to make a long-term relationship succeed?- What can you do now so there are no regrets aged 40, 50 or 80? As Scott Galloway puts it, by the time you hit your mid twenties sh*t gets real. Life become stressful. Even the smart, the hard working and the elite can feel lost in a chaotic, noisy and unpredictable world. As a professor at New York University's Stern School of Business, the debate in Galloway's MBA class often veers away from business strategy to the challenging issue of life strategies. Which is why Galloway, in his signature, take-no-prisoners style, has developed a dynamic formula for a life well lived. In The Algebra of Happiness Galloway tells you how life can be navigated and negotiated better to maximise happiness and minimise the inevitable stress. Delivering practical advice and hard-won wisdom on everything from when to own property to how hard to work, this is self-help for anyone struggling with life's big questions. Through simple equations that measure the relationship between success, resilience and failure or the correlation between happiness and money, Galloway attempts to convert intangible advice to tangible equations.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Random House</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781473570689</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">0s59DwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Education</dc:subject>
+        <dc:subject>Counseling</dc:subject>
+        <dc:subject>Career Development</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Motivational &amp; Inspirational</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Entrepreneurship</dc:subject>
+        <dc:subject>Consumer Behavior</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Success</dc:subject>
+        <dc:subject>Self-Esteem</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Scott Galloway&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-11-05T10:57:40+00:00"/>
+        <meta name="calibre:title_sort" content="Algebra of Happiness: The Pursuit of Success, Love and What It All Means, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

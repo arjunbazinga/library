@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1728</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">196d58d4-c2b4-4be3-8718-aacc91db2d3c</dc:identifier>
+        <dc:title>Handbook of Polytomous Item Response Theory Models</dc:title>
+        <dc:creator opf:file-as="Michael L. Nering , Remo Ostini" opf:role="aut">Michael L. Nering , Remo Ostini</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-05T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;This comprehensive &lt;em&gt;Handbook&lt;/em&gt; focuses on the most used polytomous item response theory (IRT) models. These models help us understand the interaction between examinees and test questions where the questions have various response categories. The book reviews all of the major models and includes discussions about how and where the models originated, conceptually and in practical terms. Diverse perspectives on how these models can best be evaluated are also provided. Practical applications provide a realistic account of the issues practitioners face using these models. Disparate elements of the book are linked through editorial sidebars that connect common ideas across chapters, compare and reconcile differences in terminology, and explain variations in mathematical notation. These sidebars help to demonstrate the commonalities that exist across the field. By assembling this critical information, the editors hope to inspire others to use polytomous IRT models in their own research so they too can achieve the type of improved measurement that such models can provide. Part 1 examines the most commonly used polytomous IRT models, major issues that cut across these models, and a common notation for calculating functions for each model. An introduction to IRT software is also provided. Part 2 features distinct approaches to evaluating the effectiveness of polytomous IRT models in various measurement contexts. These chapters appraise evaluation procedures and fit tests and demonstrate how to implement these procedures using IRT software. The final section features groundbreaking applications. Here the goal is to provide solutions to technical problems to allow for the most effective use of these models in measuring educational, psychological, and social science abilities and traits. This section also addresses the major issues encountered when using polytomous IRT models in computerized adaptive testing. Equating test scores across different testing contexts is the focus of the last chapter. The various contexts include personality research, motor performance, health and quality of life indicators, attitudes, and educational achievement. Featuring contributions from the leading authorities, this handbook will appeal to measurement researchers, practitioners, and students who want to apply polytomous IRT models to their own research. It will be of particular interest to education and psychology assessment specialists who develop and use tests and measures in their work, especially researchers in clinical, educational, personality, social, and health psychology. This book also serves as a supplementary text in graduate courses on educational measurement, psychometrics, or item response theory. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Routledge</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780805859928</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0805859926</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Behavioral Sciences</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Michael L. Nering , Remo Ostini&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-09-08T15:53:44+00:00"/>
+        <meta name="calibre:title_sort" content="Handbook of Polytomous Item Response Theory Models"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

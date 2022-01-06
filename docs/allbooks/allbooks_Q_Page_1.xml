@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with Q</title>
+  <id>Calibre2opds:allbooks:Q</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_Q_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with Q" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>Quantum Theory From Five Reasonable Axioms</title>
+    <id>calibre:book:630</id>
+    <updated>2020-03-28T11:32:30Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Lucien%20Hardy/Quantum%20Theory%20From%20Five%20Reasonable%20Axioms%20%28630%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Lucien%20Hardy/Quantum%20Theory%20From%20Five%20Reasonable%20Axioms%20%28630%29/Quantum%20Theory%20From%20Five%20Reasonable%20Axioms%20-%20Lucien%20Hardy.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Lucien Hardy</name>
+      <uri>../author_0/author_472_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_630.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Quiet: The Power of Introverts in a World That Can't Stop Talking ****</title>
+    <id>calibre:book:508</id>
+    <updated>2020-03-28T07:04:46Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Susan%20Cain/Quiet_%20The%20Power%20of%20Introverts%20in%20a%20World%20That%20Can%27t%20Stop%20Talking%20%28508%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Susan%20Cain/Quiet_%20The%20Power%20of%20Introverts%20in%20a%20World%20That%20Can%27t%20Stop%20Talking%20%28508%29/Quiet_%20The%20Power%20of%20Introverts%20in%20a%20World%20-%20Susan%20Cain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Susan%20Cain/Quiet_%20The%20Power%20of%20Introverts%20in%20a%20World%20That%20Can%27t%20Stop%20Talking%20%28508%29/Quiet_%20The%20Power%20of%20Introverts%20in%20a%20World%20-%20Susan%20Cain.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Susan%20Cain/Quiet_%20The%20Power%20of%20Introverts%20in%20a%20World%20That%20Can%27t%20Stop%20Talking%20%28508%29/Quiet_%20The%20Power%20of%20Introverts%20in%20a%20World%20-%20Susan%20Cain.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Susan Cain</name>
+      <uri>../author_0/author_258_Page_1.xml</uri>
+    </author>
+    <published>2012-01-24T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Broadway</dcterms:publisher>
+    <category term="Psychology" />
+    <category term="Self-Help" />
+    <category term="Personal Growth" />
+    <category term="Creative Ability" />
+    <category term="Success" />
+    <category term="Personality" />
+    <category term="Lang:en" />
+    <summary>At least one-third of the people we know are introverts. They are the ones who prefer listening to speaking, reading to partying; who innovate and create but dislike self-promotion; who favor working on their own over brainstorming in teams. Although...</summary>
+    <link href="../book_0/book_508.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The quark and the jaguar: Adventures in the simple and the complex</title>
+    <id>calibre:book:430</id>
+    <updated>2020-03-28T07:20:28Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Murray%20Gell-Mann/The%20quark%20and%20the%20jaguar_%20Adventures%20in%20the%20simple%20and%20the%20complex%20%28430%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Murray%20Gell-Mann/The%20quark%20and%20the%20jaguar_%20Adventures%20in%20the%20simple%20and%20the%20complex%20%28430%29/The%20quark%20and%20the%20jaguar_%20Adventures%20in%20th%20-%20Murray%20Gell-Mann.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Murray%20Gell-Mann/The%20quark%20and%20the%20jaguar_%20Adventures%20in%20the%20simple%20and%20the%20complex%20%28430%29/The%20quark%20and%20the%20jaguar_%20Adventures%20in%20th%20-%20Murray%20Gell-Mann.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Murray%20Gell-Mann/The%20quark%20and%20the%20jaguar_%20Adventures%20in%20the%20simple%20and%20the%20complex%20%28430%29/The%20quark%20and%20the%20jaguar_%20Adventures%20in%20th%20-%20Murray%20Gell-Mann.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Murray Gell-Mann</name>
+      <uri>../author_0/author_213_Page_1.xml</uri>
+    </author>
+    <published>1994-07-31T06:30:00Z</published>
+    <link href="../book_0/book_430.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

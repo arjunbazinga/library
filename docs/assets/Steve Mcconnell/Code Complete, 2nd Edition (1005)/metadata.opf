@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1005</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5d5971c6-3ad8-49c2-a5d2-16542847e022</dc:identifier>
+        <dc:title>Code Complete, 2nd Edition</dc:title>
+        <dc:creator opf:file-as="Mcconnell, Steve" opf:role="aut">Steve Mcconnell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-12-24T12:28:53+00:00</dc:date>
+        <dc:description>Widely considered one of the best practical guides to programming, Steve McConnell s original CODE COMPLETE has been helping developers write better software for more than a decade. Now this classic book has been fully updated and revised with leading-edge practices-and hundreds of new code samples-illustrating the art and science of software construction. Capturing the body of knowledge available from research, academia, and everyday commercial practice, McConnell synthesizes the most effective techniques and must-know principles into clear, pragmatic guidance. No matter what your experience level, development environment, or project size, this book will inform and stimulate your thinking-and help you build the highest quality code.
+
+&lt;div xmlns="http://www.w3.org/1999/xhtml"&gt;&lt;p&gt;Take a strategic approach to software construction\u2014and produce superior products\u2014with this fully updated edition of Steve McConnell\u2019s critically praised and award-winning guide to software development best practices.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Wiley India Pvt. Limited</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">tGQrqAAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789350041246</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>COMPUTERS / Software Development &amp; Engineering / General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Steve Mcconnell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-09-23T07:46:52+00:00"/>
+        <meta name="calibre:title_sort" content="Code Complete, 2nd Edition"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

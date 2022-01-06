@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1185</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0251001b-bb32-45f3-8e6d-835ef1bee95b</dc:identifier>
+        <dc:title>Viral Loop</dc:title>
+        <dc:creator opf:file-as="Penenberg, Adam L." opf:role="aut">Adam L. Penenberg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;Here's something you may not know about today's Internet. Simply by designing your product the right way, you can build a flourishing business from scratch. No advertising or marketing budget, no need for a sales force, and venture capitalists will flock to throw money at you.&lt;/strong&gt;&lt;/br&gt; Many of the most successful Web 2.0 companies, including MySpace, YouTube, eBay, and rising stars like Twitter and Flickr, are prime examples of what journalist Adam L. Penenberg calls a "viral loop"&amp;#8212;to use it, you have to spread it. After all, what's the sense of being on Facebook if none of your friends are The result: Never before has there been the potential to create wealth this fast, on this scale, and starting with so little.&lt;/br&gt; In this game-changing must-read, Penenberg tells the fascinating story of the entrepreneurs who first harnessed the unprecedented potential of viral loops to create the successful online businesses&amp;#8212;some worth billions of...</dc:description>
+        <dc:publisher>Hachette Books</dc:publisher>
+        <dc:identifier opf:scheme="9781401394936">9781401394936</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Adam L. Penenberg&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-01-16T14:42:38+00:00"/>
+        <meta name="calibre:title_sort" content="Viral Loop"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

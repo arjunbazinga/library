@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">63</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bdb2c9cd-085a-4a34-abf2-0effd9ab9d6c</dc:identifier>
+        <dc:title>Atlas Shrugged</dc:title>
+        <dc:creator opf:file-as="Rand, Ayn" opf:role="aut">Ayn Rand</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-04-20T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Peopled by larger-than-life heroes and villains, charged with towering questions of good and evil, &lt;/strong&gt;&lt;span style="font-style: italic; font-weight: 600"&gt;Atlas Shrugged&lt;/span&gt;&lt;strong&gt; is Ayn Rand’s magnum opus: a philosophical revolution told in the form of an action thriller—n &lt;/strong&gt;ominated as one of America’s best-loved novels by PBS’s &lt;em&gt;The Great American Read&lt;/em&gt;.**** &lt;/p&gt;
+&lt;p&gt;Who is John Galt? When he says that he will stop the motor of the world, is he a destroyer or a liberator? Why does he have to fight his battles not against his enemies but against those who need him most? Why does he fight his hardest battle against the woman he loves? &lt;/p&gt;
+&lt;p&gt;You will know the answer to these questions when you discover the reason behind the baffling events that play havoc with the lives of the amazing men and women in this book. You will discover why a productive genius becomes a worthless playboy...why a great steel industrialist is working for his own destruction...why a composer gives up his career on the night of his triumph...why a beautiful woman who runs a transcontinental railroad falls in love with the man she has sworn to kill. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Atlas Shrugged&lt;/em&gt; , a modern classic and Rand’s most extensive statement of Objectivism—her groundbreaking philosophy—offers the reader the spectacle of human greatness, depicted with all the poetry and power of one of the twentieth century’s leading artists. &lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">bVyCd7da8OcC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781101137192</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0451191145</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Political</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ayn Rand&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2018-06-01T08:27:48+00:00"/>
+        <meta name="calibre:title_sort" content="Atlas Shrugged"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

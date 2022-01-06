@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">729</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7a7e7eea-9fbe-48ca-8ba7-9324ec84136f</dc:identifier>
+        <dc:title>Think and Grow Rich</dc:title>
+        <dc:creator opf:file-as="Hill, Napoleon" opf:role="aut">Napoleon Hill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1983-01-01T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;This book contains money-making secrets that can change your life.&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Think and Grow Rich,&lt;/em&gt; based on the author’s famed &lt;em&gt;Law of Success,&lt;/em&gt; represents the distilled wisdom of distinguished men of great wealth and achievement.  &lt;/p&gt;
+&lt;p&gt;Andrew Carnegie’s magic formula for success was the direct inspiration for this book. Carnegie demonstrated its soundness when his coaching brought fortunes to those young men to whom he had disclosed his secret. &lt;/p&gt;
+&lt;p&gt;This book will teach you that secret—and the secrets of other great men like him. It will show you not only &lt;em&gt;what to do&lt;/em&gt;  but also &lt;em&gt;how to do it.&lt;/em&gt; If you learn and apply the simple basic techniques revealed here, you will have mastered the secret of true and lasting success—and you may have whatever you want in life! **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Hachette UK</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0449214923</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781596597952</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">pNOdDQAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Personal Finance</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Investing</dc:subject>
+        <dc:subject>motivation</dc:subject>
+        <dc:subject>law of attraction</dc:subject>
+        <dc:subject>positive mental attitude</dc:subject>
+        <dc:subject>get rich</dc:subject>
+        <dc:subject>personality development</dc:subject>
+        <dc:subject>positive thinking</dc:subject>
+        <dc:subject>earn</dc:subject>
+        <dc:subject>napoleon hill</dc:subject>
+        <dc:subject>the secret</dc:subject>
+        <dc:subject>become rich</dc:subject>
+        <dc:subject>Self Help</dc:subject>
+        <dc:subject>power of positive thinking</dc:subject>
+        <dc:subject>rich</dc:subject>
+        <dc:subject>grow rich</dc:subject>
+        <dc:subject>think and grow rich</dc:subject>
+        <dc:subject>the science of getting rich</dc:subject>
+        <dc:subject>self improvement</dc:subject>
+        <dc:subject>and grow rich</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Napoleon Hill&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:44+00:00"/>
+        <meta name="calibre:title_sort" content="Think and Grow Rich"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

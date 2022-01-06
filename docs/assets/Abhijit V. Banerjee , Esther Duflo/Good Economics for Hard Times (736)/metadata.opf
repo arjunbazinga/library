@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">736</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">38919b83-c922-43bb-9973-19280f582668</dc:identifier>
+        <dc:title>Good Economics for Hard Times</dc:title>
+        <dc:creator opf:file-as="Abhijit V. Banerjee , Esther Duflo" opf:role="aut">Abhijit V. Banerjee , Esther Duflo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-10T11:34:15+00:00</dc:date>
+        <dc:description>The winners of the Nobel Prize show how economics, when done right, can help us solve the thorniest social and political problems of our day.  Figuring out how to deal with today's critical economic problems is perhaps the great challenge of our time. Much greater than space travel or perhaps even the next revolutionary medical breakthrough, what is at stake is the whole idea of the good life as we have known it.  Immigration and inequality, globalization and technological disruption, slowing growth and accelerating climate change--these are sources of great anxiety across the world, from New Delhi and Dakar to Paris and Washington, DC. The resources to address these challenges are there--what we lack are ideas that will help us jump the wall of disagreement and distrust that divides us. If we succeed, history will remember our era with gratitude; if we fail, the potential losses are incalculable.  In this revolutionary book, renowned MIT economists Abhijit V. Banerjee and Esther Duflo take on this challenge, building on cutting-edge research in economics explained with lucidity and grace. Original, provocative, and urgent, Good Economics for Hard Times makes a persuasive case for an intelligent interventionism and a society built on compassion and respect. It is an extraordinary achievement, one that shines a light to help us appreciate and understand our precariously balanced world.  In this ambitious, provocative book Abhijit V. Banerjee and Esther Duflo show how traditional western-centric thinking has failed to explain what is happening to people in a newly globalized world: in short Good Economics has been done badly. This precise but accessible book covers many of the most essential issues of our day--including migration, unemployment, growth, free trade, political polarization, and welfare. Banerjee and Duflo will confound and clarify the presumptions of our times, such as:   Why migration doesn't follow the law of supply and demand Why trade liberalization can drive unemployment up and wages down Why macroeconomists like to bend the data to fit the model Why nobody can really explain why and when growth happens Why economists' assumption that people don't change their minds has made has made polarization worse Why quite often it doesn't take a village, especially if the villagers aren't that nice   In doing so, they seek to reclaim this essential terrain, and to offer readers an economist's view of the great issues of the day--one that is candid about the complexities, the zones of ignorance, and the areas of genuine disagreement.</dc:description>
+        <dc:publisher>PublicAffairs</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">VQHdzQEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781541788947</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Economics</dc:subject>
+        <dc:subject>Macroeconomics</dc:subject>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>Public Policy</dc:subject>
+        <dc:subject>Economic Policy</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Social Classes &amp; Economic Disparity</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Abhijit V. Banerjee , Esther Duflo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:45+00:00"/>
+        <meta name="calibre:title_sort" content="Good Economics for Hard Times"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

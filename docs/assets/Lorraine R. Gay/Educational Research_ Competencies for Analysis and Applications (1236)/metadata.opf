@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1236</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4411a757-76b3-4f83-933a-20c5a4221f5b</dc:identifier>
+        <dc:title>Educational Research: Competencies for Analysis and Applications</dc:title>
+        <dc:creator opf:file-as="Gay, Lorraine R. &amp; Mills, Geoffrey E. &amp; Airasian, Peter W." opf:role="aut">Lorraine R. Gay</dc:creator>
+        <dc:creator opf:file-as="Gay, Lorraine R. &amp; Mills, Geoffrey E. &amp; Airasian, Peter W." opf:role="aut">Geoffrey E. Mills</dc:creator>
+        <dc:creator opf:file-as="Gay, Lorraine R. &amp; Mills, Geoffrey E. &amp; Airasian, Peter W." opf:role="aut">Peter W. Airasian</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;ALERT: Before you purchase, check with your instructor or review your course syllabus to ensure that youselect the correct ISBN. Several versions of Pearson's MyLab &amp;amp; Mastering products exist for each title, including customized versions for individual schools, and registrations are not transferable. In addition,you may need a CourseID, provided by your instructor, to register for and use Pearson's MyLab &amp;amp; Mastering products.Packages Access codes for Pearson's MyLab &amp;amp; Mastering products may not be included when purchasing or renting from companies other than Pearson; check with the seller before completing your purchase.Used or rental books If you rent or purchase a used book with an access code, the access code may have been redeemed previously and you may have to purchase a new access code.Access codes Access codes that are purchased from sellers other than Pearson carry a higher risk of being either the wrong ISBN or a previously redeemed code. Check with the seller prior to purchase.--Students often fear the educational research course. Don't worry. This book is famous for its lack of jargon, for its clear and concrete explanations, and its light (often funny) tone.As you read the book, you will build skills that you need to read educational research and produce your own. The book will help guide you through each step in creating your own research report. You can compare your work with the example published research articles in every methods chapter. In addition, the new Digital Research Tools for the 21st Centuryfeature introduces novel tools and methods you can use to make the process of doing research easier or more efficient like using speech recognition programs to save time transcribing interviews (Chapter 15), using flip cameras and Skype to collect qualitative data (Chapter 14), and using management programs to organize citations (Chapter 21).&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Pearson College Division</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">NjGCMAEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780133018011</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Educational Psychology</dc:subject>
+        <dc:subject>Education</dc:subject>
+        <dc:subject>Research</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lorraine R. Gay&quot;: &quot;&quot;, &quot;Geoffrey E. Mills&quot;: &quot;&quot;, &quot;Peter W. Airasian&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-05-26T15:19:35+00:00"/>
+        <meta name="calibre:title_sort" content="Educational Research: Competencies for Analysis and Applications"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

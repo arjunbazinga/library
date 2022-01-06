@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">690</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bc9455f0-63f4-4c81-b5b7-db48e6dd42c2</dc:identifier>
+        <dc:title>The Age of Surveillance Capitalism</dc:title>
+        <dc:creator opf:file-as="Zuboff, Shoshana" opf:role="aut">Shoshana Zuboff</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-15T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;The challenges to humanity posed by the digital future, the first detailed examination of the unprecedented form of power called "surveillance capitalism," and the quest by powerful corporations to predict and control our behavior.&lt;/strong&gt;&lt;br&gt;Shoshana Zuboff's interdisciplinary breadth and depth enable her to come to grips with the social, political, business, and technological meaning of the changes taking place in our time. We are at a critical juncture in the confrontation between the vast power of giant high-tech companies and government, the hidden economic logic of surveillance capitalism, and the propaganda of machine supremacy that threaten to shape and control human life. Will the brazen new methods of social engineering and behavior modification threaten individual autonomy and democratic rights and introduce extreme new forms of social inequality? Or will the promise of the digital age be one of individual empowerment and democratization?&lt;br&gt;Master or Slave?...</dc:description>
+        <dc:publisher>PublicAffairs</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">9d4693dd-8ec6-4641-b9eb-ff81a7ffb051</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Capitalism</dc:subject>
+        <dc:subject>Technology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Shoshana Zuboff&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:38+00:00"/>
+        <meta name="calibre:title_sort" content="Age of Surveillance Capitalism, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

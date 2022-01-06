@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1060</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4c57b992-0e98-47f8-98b0-befe98b73a80</dc:identifier>
+        <dc:title>The New Right</dc:title>
+        <dc:creator opf:file-as="Malice, Michael" opf:role="aut">Michael Malice</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;The definitive firsthand account of the movement that permanently broke the American political consensus.&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;br&gt;What do internet trolls, economic populists, white nationalists, techno-anarchists and Alex Jones have in common? &lt;i&gt;Nothing&lt;/i&gt;, except for an unremitting hatred of evangelical progressivism and the so-called "Cathedral" from whence it pours forth.&lt;/p&gt;&lt;p&gt;Contrary to the dissembling explanations from the corporate press, this movement did not emerge overnight&amp;#8212;nor are its varied subgroups in any sense interchangeable with one another. As united by their opposition as they are divided by their goals, the members of the New Right are willfully suspicious of those in the mainstream who would seek to tell their story. Fortunately, author Michael Malice was there from the very inception, and in &lt;i&gt;The New Right&lt;/i&gt; recounts their tale from the beginning.&lt;/p&gt;&lt;p&gt;Malice provides an authoritative and unbiased portrait of the New Right as a movement of...</dc:description>
+        <dc:publisher>St. Martin's Press</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Michael Malice&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-30T14:00:41+00:00"/>
+        <meta name="calibre:title_sort" content="New Right, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

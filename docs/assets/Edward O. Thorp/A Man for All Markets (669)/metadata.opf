@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">669</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f7054fb1-097f-47db-8283-db789c2ce533</dc:identifier>
+        <dc:title>A Man for All Markets</dc:title>
+        <dc:creator opf:file-as="Thorp, Edward O." opf:role="aut">Edward O. Thorp</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-24T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;The incredible true story of the card-counting mathematics professor who taught the world how to beat the dealer and, as the first of the great quantitative investors, ushered in a revolution on Wall Street.&lt;/b&gt;&lt;br&gt; A child of the Great Depression, legendary mathematician Edward O. Thorp invented card counting, proving the seemingly impossible: that you could beat the dealer at the blackjack table. As a result he launched a gambling renaissance. His remarkable success&amp;#8212;and mathematically unassailable method&amp;#8212;caused such an uproar that casinos altered the rules of the game to thwart him and the legions he inspired. They barred him from their premises, even put his life in jeopardy. Nonetheless, gambling was forever changed.&lt;br&gt; Thereafter, Thorp shifted his sights to "the biggest casino in the world": Wall Street. Devising and then deploying mathematical formulas to beat the market, Thorp ushered in the era of quantitative finance we live in today. Along the way, the...</dc:description>
+        <dc:publisher>Random House Publishing Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Finance</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward O. Thorp&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:36+00:00"/>
+        <meta name="calibre:title_sort" content="Man for All Markets, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

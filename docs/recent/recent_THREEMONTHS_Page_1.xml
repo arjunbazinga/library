@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Previous three months</title>
+  <id>Calibre2opds:recent:THREEMONTHS</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./recent_THREEMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Previous three months" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
+  <entry>
+    <title>JavaScript: The Good Parts [June 19, 2020]</title>
+    <id>calibre:book:821</id>
+    <updated>2020-06-19T11:03:00Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Douglas%20Crockford/JavaScript_%20The%20Good%20Parts%20%28821%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Douglas%20Crockford/JavaScript_%20The%20Good%20Parts%20%28821%29/JavaScript_%20The%20Good%20Parts%20-%20Douglas%20Crockford.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Douglas%20Crockford/JavaScript_%20The%20Good%20Parts%20%28821%29/JavaScript_%20The%20Good%20Parts%20-%20Douglas%20Crockford.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Douglas Crockford</name>
+      <uri>../author_0/author_608_Page_1.xml</uri>
+    </author>
+    <published>2008-12-16T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Yahoo Press</dcterms:publisher>
+    <category term="COMPUTERS / Programming Languages / JavaScript" />
+    <category term="Lang:en" />
+    <summary>Most programming languages contain good and bad parts, but JavaScript has more than its share of the bad, having been developed and released in a hurry before it could be refined. This authoritative book scrapes away these bad features to reveal a su...</summary>
+    <link href="../book_0/book_821.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Counterinsurgency Manual [June 14, 2020]</title>
+    <id>calibre:book:819</id>
+    <updated>2020-06-14T06:39:56Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/US%20ARMY/Counterinsurgency%20Manual%20%28819%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/US%20ARMY/Counterinsurgency%20Manual%20%28819%29/Counterinsurgency%20Manual%20-%20US%20ARMY.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>US ARMY</name>
+      <uri>../author_0/author_602_Page_1.xml</uri>
+    </author>
+    <published>2006-12-13T10:27:53Z</published>
+    <link href="../book_0/book_819.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Group Theory and Physics [June 14, 2020]</title>
+    <id>calibre:book:817</id>
+    <updated>2020-06-14T06:39:54Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/S.%20Sternberg/Group%20Theory%20and%20Physics%20%28817%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/S.%20Sternberg/Group%20Theory%20and%20Physics%20%28817%29/Group%20Theory%20and%20Physics%20-%20S.%20Sternberg.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>S. Sternberg</name>
+      <uri>../author_0/author_603_Page_1.xml</uri>
+    </author>
+    <published>1995-09-06T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Cambridge University Press</dcterms:publisher>
+    <category term="Mathematics" />
+    <category term="Algebra" />
+    <category term="General" />
+    <category term="Group Theory" />
+    <category term="Science" />
+    <category term="Physics" />
+    <category term="Lang:en" />
+    <summary>This book is an introduction to group theory and its application to physics. The author considers the physical applications and develops mathematical theory in a presentation that is unusually cohesive and well-motivated. The book discusses many mod...</summary>
+    <link href="../book_0/book_817.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Introduction to Statistical Inference [June 14, 2020]</title>
+    <id>calibre:book:814</id>
+    <updated>2020-06-14T06:39:52Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Jack%20C.%20Kiefer/Introduction%20to%20Statistical%20Inference%20%28814%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Jack%20C.%20Kiefer/Introduction%20to%20Statistical%20Inference%20%28814%29/Introduction%20to%20Statistical%20Inference%20-%20Jack%20C.%20Kiefer.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Jack C. Kiefer</name>
+      <uri>../author_0/author_779_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Gary Lorden</name>
+      <uri>../author_0/author_780_Page_1.xml</uri>
+    </author>
+    <published>2011-12-15T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Springer</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Springer Texts in Statistics" />
+    <summary>Springer Texts in Statistics [1]: 
+This book is based upon lecture notes developed by Jack Kiefer for a course in statistical inference he taught at Cornell University. The notes were distributed to the class in lieu of a textbook, and the problems w...</summary>
+    <link href="../book_0/book_814.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Counterinsurgency Field Manual [June 14, 2020]</title>
+    <id>calibre:book:815</id>
+    <updated>2020-06-14T06:39:52Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/The%20U.S.%20Army%20Marine%20Corps/Counterinsurgency%20Field%20Manual%20%28815%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/The%20U.S.%20Army%20Marine%20Corps/Counterinsurgency%20Field%20Manual%20%28815%29/Counterinsurgency%20Field%20Manual%20-%20The%20U.S.%20Army%20Marine%20Corps.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>The U.S. Army Marine Corps</name>
+      <uri>../author_0/author_605_Page_1.xml</uri>
+    </author>
+    <published>2007-04-05T11:41:57Z</published>
+    <category term="aVe4EvA" />
+    <link href="../book_0/book_815.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Invisible Hook The Hidden Economics of Pirates [June 14, 2020]</title>
+    <id>calibre:book:816</id>
+    <updated>2020-06-14T06:39:52Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Peter%20T.%20Leeson/The%20Invisible%20Hook%20The%20Hidden%20Economics%20of%20Pirates%20%28816%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Peter%20T.%20Leeson/The%20Invisible%20Hook%20The%20Hidden%20Economics%20of%20Pirates%20%28816%29/The%20Invisible%20Hook%20The%20Hidden%20Economics%20of%20-%20Peter%20T.%20Leeson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Peter T. Leeson</name>
+      <uri>../author_0/author_604_Page_1.xml</uri>
+    </author>
+    <published>2009-04-02T06:38:36Z</published>
+    <dcterms:publisher>Princeton University Press</dcterms:publisher>
+    <link href="../book_0/book_816.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>We Need a New Science of Progress [June 14, 2020]</title>
+    <id>calibre:book:812</id>
+    <updated>2020-06-14T06:39:52Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/The%20Atlantic/We%20Need%20a%20New%20Science%20of%20Progress%20%28812%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/The%20Atlantic/We%20Need%20a%20New%20Science%20of%20Progress%20%28812%29/We%20Need%20a%20New%20Science%20of%20Progress%20-%20The%20Atlantic.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>The Atlantic</name>
+      <uri>../author_0/author_592_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_812.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Improv Handbook [June 14, 2020]</title>
+    <id>calibre:book:813</id>
+    <updated>2020-06-14T06:39:52Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Tom%20Salinsky%2C%20Deborah%20Frances-White/The%20Improv%20Handbook%20%28813%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Tom%20Salinsky%2C%20Deborah%20Frances-White/The%20Improv%20Handbook%20%28813%29/The%20Improv%20Handbook%20-%20Tom%20Salinsky%2C%20Deborah%20Frances-White.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Tom Salinsky, Deborah Frances-White</name>
+      <uri>../author_0/author_607_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_813.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>7 Powers: The Foundations of Business Strategy [June 14, 2020]</title>
+    <id>calibre:book:811</id>
+    <updated>2020-06-14T06:40:16Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Helmer%2C%20Hamilton/7%20Powers_%20The%20Foundations%20of%20Business%20Strategy%20%28811%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Helmer%2C%20Hamilton/7%20Powers_%20The%20Foundations%20of%20Business%20Strategy%20%28811%29/7%20Powers_%20The%20Foundations%20of%20Business%20Stra%20-%20Helmer%2C%20Hamilton.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Helmer%2C%20Hamilton/7%20Powers_%20The%20Foundations%20of%20Business%20Strategy%20%28811%29/7%20Powers_%20The%20Foundations%20of%20Business%20Stra%20-%20Helmer%2C%20Hamilton.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Helmer, Hamilton</name>
+      <uri>../author_0/author_591_Page_1.xml</uri>
+    </author>
+    <published>2016-11-15T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Deep Strategy LLC</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_811.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Chaos : Charles Manson, the CIA, and the Secret History of the Sixties (9780316529211) [June 6, 2020]</title>
+    <id>calibre:book:810</id>
+    <updated>2020-06-06T03:44:14Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/O%27Neill%2C%20Tom%3B%20Piepenbring%2C%20Dan%20%28CON%29/Chaos%20_%20Charles%20Manson%2C%20the%20CIA%2C%20and%20the%20Secret%20History%20of%20the%20Sixties%20%289780316529211%29%20%28810%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/O%27Neill%2C%20Tom%3B%20Piepenbring%2C%20Dan%20%28CON%29/Chaos%20_%20Charles%20Manson%2C%20the%20CIA%2C%20and%20the%20Secret%20History%20of%20the%20Sixties%20%289780316529211%29%20%28810%29/Chaos%20_%20Charles%20Manson%2C%20the%20CIA%2C%20and%20the%20S%20-%20O%27Neill%2C%20Tom%3B%20Piepenbring%2C%20Dan%20%28CON%29.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/O%27Neill%2C%20Tom%3B%20Piepenbring%2C%20Dan%20%28CON%29/Chaos%20_%20Charles%20Manson%2C%20the%20CIA%2C%20and%20the%20Secret%20History%20of%20the%20Sixties%20%289780316529211%29%20%28810%29/Chaos%20_%20Charles%20Manson%2C%20the%20CIA%2C%20and%20the%20S%20-%20O%27Neill%2C%20Tom%3B%20Piepenbring%2C%20Dan%20%28CON%29.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>O'Neill, Tom; Piepenbring, Dan (CON)</name>
+      <uri>../author_0/author_589_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Dan Piepenbring</name>
+      <uri>../author_0/author_590_Page_1.xml</uri>
+    </author>
+    <published>2019-06-25T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Hachette Book Group USA</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_810.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Graphic Design [June 2, 2020]</title>
+    <id>calibre:book:809</id>
+    <updated>2020-06-02T04:57:40Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Ellen%20Lupton/Graphic%20Design%20%28809%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Ellen%20Lupton/Graphic%20Design%20%28809%29/Graphic%20Design%20-%20Ellen%20Lupton.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Ellen%20Lupton/Graphic%20Design%20%28809%29/Graphic%20Design%20-%20Ellen%20Lupton.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Ellen Lupton</name>
+      <uri>../author_0/author_588_Page_1.xml</uri>
+    </author>
+    <published>2015-06-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Princeton Architectural Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Our bestselling introduction to graphic design is now available in a revised and updated edition. In Graphic Design: The New Basics, bestselling author Ellen Lupton (Thinking with Type, Type on Screen) and design educator Jennifer Cole Phillips expla...</summary>
+    <link href="../book_0/book_809.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

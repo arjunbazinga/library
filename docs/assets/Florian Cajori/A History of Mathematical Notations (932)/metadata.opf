@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">932</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">38b0fd92-faad-40c9-ba72-9833d70a9219</dc:identifier>
+        <dc:title>A History of Mathematical Notations</dc:title>
+        <dc:creator opf:file-as="Cajori, Florian" opf:role="aut">Florian Cajori</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-08-14T18:30:00+00:00</dc:date>
+        <dc:publisher>Dover Publications, Inc.</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Florian Cajori&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-08-17T14:36:35+00:00"/>
+        <meta name="calibre:title_sort" content="History of Mathematical Notations, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

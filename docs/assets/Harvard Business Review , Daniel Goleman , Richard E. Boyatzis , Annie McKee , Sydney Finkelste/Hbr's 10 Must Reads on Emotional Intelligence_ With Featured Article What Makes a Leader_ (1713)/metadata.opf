@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1713</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">35b4c9e5-8374-4c69-b23a-0a73f87747fb</dc:identifier>
+        <dc:title>Hbr's 10 Must Reads on Emotional Intelligence: With Featured Article What Makes a Leader?</dc:title>
+        <dc:creator opf:file-as="Harvard Business Review , Daniel Goleman , Richard E. Boyatzis , Annie McKee , Sydney Finkelstein" opf:role="aut">Harvard Business Review , Daniel Goleman , Richard E. Boyatzis , Annie McKee , Sydney Finkelstein</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-07-15T04:51:04+00:00</dc:date>
+        <dc:description>In his defining work on emotional intelligence, bestselling author Daniel Goleman found that it is twice as important as other competencies in determining outstanding leadership. If you read nothing else on emotional intelligence, read these 10 articles by experts in the field. We've combed through hundreds of articles in the Harvard Business Review archive and selected the most important ones to help you boost your emotional skills--and your professional success. This book will inspire you to:  Monitor and channel your moods and emotions Make smart, empathetic people decisions Manage conflict and regulate emotions within your team React to tough situations with resilience Better understand your strengths, weaknesses, needs, values, and goals Develop emotional agility  This collection of articles includes: "What Makes a Leader" by Daniel Goleman, "Primal Leadership: The Hidden Driver of Great Performance" by Daniel Goleman, Richard Boyatzis, and Annie McKee, "Why It's So Hard to Be Fair" by Joel Brockner, "Why Good Leaders Make Bad Decisions" by Andrew Campbell, Jo Whitehead, and Sydney Finkelstein, "Building the Emotional Intelligence of Groups" by Vanessa Urch Druskat and Steve B. Wolff, "The Price of Incivility: Lack of Respect Hurts Morale--and the Bottom Line" by Christine Porath and Christine Pearson, "How Resilience Works" by Diane Coutu, "Emotional Agility: How Effective Leaders Manage Their Negative Thoughts and Feelings" by Susan David and Christina Congleton, "Fear of Feedback" by Jay M. Jackman and Myra H. Strober, and "The Young and the Clueless" by Kerry A. Bunker, Kathy E. Kram, and Sharon Ting.</dc:description>
+        <dc:publisher>Harvard Business Review Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">J-ngoQEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781633690196</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00O92Q6GM</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Management</dc:subject>
+        <dc:subject>Leadership</dc:subject>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Personality</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harvard Business Review , Daniel Goleman , Richard E. Boyatzis , Annie McKee , Sydney Finkelstein&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-07-14T04:48:53+00:00"/>
+        <meta name="calibre:title_sort" content="Hbr's 10 Must Reads on Emotional Intelligence: With Featured Article What Makes a Leader?"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Springer Texts in Statistics</title>
+  <id>Calibre2opds::serieslistseries:14</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./series_14_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Springer Texts in Statistics" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="../serieslist/serieslist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Series" />
+  <entry>
+    <title>1 - Introduction to Statistical Inference</title>
+    <id>calibre:book:814</id>
+    <updated>2020-06-14T06:39:52Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Jack%20C.%20Kiefer/Introduction%20to%20Statistical%20Inference%20%28814%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Jack%20C.%20Kiefer/Introduction%20to%20Statistical%20Inference%20%28814%29/Introduction%20to%20Statistical%20Inference%20-%20Jack%20C.%20Kiefer.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Jack C. Kiefer</name>
+      <uri>../author_0/author_779_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Gary Lorden</name>
+      <uri>../author_0/author_780_Page_1.xml</uri>
+    </author>
+    <published>2011-12-15T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Springer</dcterms:publisher>
+    <category term="Lang:en" />
+    <category term="Springer Texts in Statistics" />
+    <summary>Springer Texts in Statistics [1]: 
+This book is based upon lecture notes developed by Jack Kiefer for a course in statistical inference he taught at Cornell University. The notes were distributed to the class in lieu of a textbook, and the problems w...</summary>
+    <link href="../book_0/book_814.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

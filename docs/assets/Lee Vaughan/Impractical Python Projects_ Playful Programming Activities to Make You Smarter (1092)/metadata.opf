@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1092</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2787b17f-c10a-4a9e-8337-c5886f0090bd</dc:identifier>
+        <dc:title>Impractical Python Projects: Playful Programming Activities to Make You Smarter</dc:title>
+        <dc:creator opf:file-as="Vaughan, Lee" opf:role="aut">Lee Vaughan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-11-26T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Impractical Python Projects is a collection of fun and educational projects designed to entertain programmers while enhancing their Python skills. It picks up where the complete beginner books leave off, expanding on existing concepts and introducing new tools that you'll use every day. And to keep things interesting, each project includes a zany twist featuring historical incidents, pop culture references, and literary allusions.You'll flex your problem-solving skills and employ Python's many useful libraries to do things like:- Help James Bond crack a high-tech safe with a hill-climbing algorithm - Write haiku poems using Markov Chain Analysis- Use genetic algorithms to breed a race of gigantic rats- Crack the world's most successful military cipher using cryptanalysis- Derive the anagram, "I am Lord Voldemort" using linguistical sieves - Plan your parents' secure retirement with Monte Carlo simulation- Save the sorceress Zatanna from a stabby death using palingrams- Model the Milky Way and calculate our odds of detecting alien civilizations- Help the world's smartest woman win the Monty Hall problem argument- Reveal Jupiter's Great Red Spot using optical stacking- Save the head of Mary, Queen of Scots with steganography- Foil corporate security with invisible electronic inkSimulate volcanoes, map Mars, and more, all while gaining valuable experience using free modules like Tkinter, matplotlib, Cprofile, Pylint, Pygame, Pillow, and Python-Docx.Whether you're looking to pick up some new Python skills or just need a pick-me-up, you'll find endless educational, geeky fun with Impractical Python Projects.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>No Starch Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">kURBDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781593278915</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Object Oriented</dc:subject>
+        <dc:subject>Open Source</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lee Vaughan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-11-25T08:44:07+00:00"/>
+        <meta name="calibre:title_sort" content="Impractical Python Projects: Playful Programming Activities to Make You Smarter"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

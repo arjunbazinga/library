@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with R</title>
+  <id>Calibre2opds:allbooks:R</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with R" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>Radical Markets: Uprooting Capitalism and Democracy for a Just Society</title>
+    <id>calibre:book:608</id>
+    <updated>2020-03-28T07:15:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Eric%20Posner%2C%20E.%20Weyl/Radical%20Markets_%20Uprooting%20Capitalism%20and%20Democracy%20for%20a%20Just%20Society%20%28608%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Eric%20Posner%2C%20E.%20Weyl/Radical%20Markets_%20Uprooting%20Capitalism%20and%20Democracy%20for%20a%20Just%20Society%20%28608%29/Radical%20Markets_%20Uprooting%20Capitalism%20and%20-%20Eric%20Posner%2C%20E.%20Weyl.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Eric%20Posner%2C%20E.%20Weyl/Radical%20Markets_%20Uprooting%20Capitalism%20and%20Democracy%20for%20a%20Just%20Society%20%28608%29/Radical%20Markets_%20Uprooting%20Capitalism%20and%20-%20Eric%20Posner%2C%20E.%20Weyl.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Eric Posner, E. Weyl</name>
+      <uri>../author_0/author_481_Page_1.xml</uri>
+    </author>
+    <published>2018-05-14T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Princeton University Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_608.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Radicals Chasing Utopia</title>
+    <id>calibre:book:402</id>
+    <updated>2020-03-28T07:01:18Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Jamie%20Bartlett/Radicals%20Chasing%20Utopia%20%28402%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Jamie%20Bartlett/Radicals%20Chasing%20Utopia%20%28402%29/Radicals%20Chasing%20Utopia%20-%20Jamie%20Bartlett.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Jamie%20Bartlett/Radicals%20Chasing%20Utopia%20%28402%29/Radicals%20Chasing%20Utopia%20-%20Jamie%20Bartlett.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Jamie%20Bartlett/Radicals%20Chasing%20Utopia%20%28402%29/Radicals%20Chasing%20Utopia%20-%20Jamie%20Bartlett.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Jamie Bartlett</name>
+      <uri>../author_0/author_146_Page_1.xml</uri>
+    </author>
+    <published>2017-06-13T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>PublicAffairs</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>&amp;#147;The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man." &amp;#8212;George Bernard ShawWithin each society are sub-cultures&amp;#821...</summary>
+    <link href="../book_0/book_402.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Range</title>
+    <id>calibre:book:587</id>
+    <updated>2020-03-28T07:14:58Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/David%20Epstein/Range%20%28587%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/David%20Epstein/Range%20%28587%29/Range%20-%20David%20Epstein.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/David%20Epstein/Range%20%28587%29/Range%20-%20David%20Epstein.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>David Epstein</name>
+      <uri>../author_0/author_347_Page_1.xml</uri>
+    </author>
+    <published>2019-05-28T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>"Urgent and important. . . an essential read for bosses, parents, coaches, and anyone who cares about improving performance." &amp;#8212;Daniel H. Pink  "So much crucial and revelatory information about performance, success, and education." &amp;#8212;Susan ...</summary>
+    <link href="../book_0/book_587.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Rational Optimist</title>
+    <id>calibre:book:498</id>
+    <updated>2020-03-28T07:45:00Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Matt%20Ridley/The%20Rational%20Optimist%20%28498%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Matt%20Ridley/The%20Rational%20Optimist%20%28498%29/The%20Rational%20Optimist%20-%20Matt%20Ridley.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Matt%20Ridley/The%20Rational%20Optimist%20%28498%29/The%20Rational%20Optimist%20-%20Matt%20Ridley.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Matt%20Ridley/The%20Rational%20Optimist%20%28498%29/The%20Rational%20Optimist%20-%20Matt%20Ridley.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Matt Ridley</name>
+      <uri>../author_0/author_249_Page_1.xml</uri>
+    </author>
+    <published>2010-06-15T06:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins e-books</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_498.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Rationality: From AI to Zombies</title>
+    <id>calibre:book:6</id>
+    <updated>2020-03-28T06:59:40Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Eliezer%20Yudkowsky/Rationality_%20From%20AI%20to%20Zombies%20%286%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Eliezer%20Yudkowsky/Rationality_%20From%20AI%20to%20Zombies%20%286%29/Rationality_%20From%20AI%20to%20Zombies%20-%20Eliezer%20Yudkowsky.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Eliezer%20Yudkowsky/Rationality_%20From%20AI%20to%20Zombies%20%286%29/Rationality_%20From%20AI%20to%20Zombies%20-%20Eliezer%20Yudkowsky.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Eliezer%20Yudkowsky/Rationality_%20From%20AI%20to%20Zombies%20%286%29/Rationality_%20From%20AI%20to%20Zombies%20-%20Eliezer%20Yudkowsky.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Eliezer Yudkowsky</name>
+      <uri>../author_0/author_6_Page_1.xml</uri>
+    </author>
+    <published>2015-03-15T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Machine Intelligence Research Institute</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_6.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Red Queen: Sex and the Evolution of Human Nature ****</title>
+    <id>calibre:book:497</id>
+    <updated>2020-03-28T07:45:30Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Matt%20Ridley/The%20Red%20Queen_%20Sex%20and%20the%20Evolution%20of%20Human%20Nature%20%28497%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Matt%20Ridley/The%20Red%20Queen_%20Sex%20and%20the%20Evolution%20of%20Human%20Nature%20%28497%29/The%20Red%20Queen_%20Sex%20and%20the%20Evolution%20of%20Hu%20-%20Matt%20Ridley.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Matt%20Ridley/The%20Red%20Queen_%20Sex%20and%20the%20Evolution%20of%20Human%20Nature%20%28497%29/The%20Red%20Queen_%20Sex%20and%20the%20Evolution%20of%20Hu%20-%20Matt%20Ridley.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Matt%20Ridley/The%20Red%20Queen_%20Sex%20and%20the%20Evolution%20of%20Human%20Nature%20%28497%29/The%20Red%20Queen_%20Sex%20and%20the%20Evolution%20of%20Hu%20-%20Matt%20Ridley.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Matt Ridley</name>
+      <uri>../author_0/author_249_Page_1.xml</uri>
+    </author>
+    <published>1994-10-05T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin UK</dcterms:publisher>
+    <category term="Psychology" />
+    <category term="Human Sexuality" />
+    <category term="Science" />
+    <category term="Life Sciences" />
+    <category term="Evolution" />
+    <category term="Social Science" />
+    <category term="Sociology" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>Sex is as fascinating to scientists as it is to the rest of us. A vast pool of knowledge, therefore, has been gleaned from research into the nature of sex, from the contentious problem of why the wasteful reproductive process exists at all, to how i...</summary>
+    <link href="../book_0/book_497.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Redis in Action</title>
+    <id>calibre:book:824</id>
+    <updated>2020-07-08T01:10:28Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Josiah%20L.%20Carlson/Redis%20in%20Action%20%28824%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Josiah%20L.%20Carlson/Redis%20in%20Action%20%28824%29/Redis%20in%20Action%20-%20Josiah%20L.%20Carlson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Josiah%20L.%20Carlson/Redis%20in%20Action%20%28824%29/Redis%20in%20Action%20-%20Josiah%20L.%20Carlson.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Josiah L. Carlson</name>
+      <uri>../author_0/author_611_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Manning Publications</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Summary</summary>
+    <link href="../book_0/book_824.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Reinforcement Learning : An Introduction</title>
+    <id>calibre:book:175</id>
+    <updated>2019-12-07T00:47:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Richard%20S.%20Sutton%20%2C%20Andrew%20G.%20Barto/Reinforcement%20Learning%20_%20An%20Introduction%20%28175%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Richard%20S.%20Sutton%20%2C%20Andrew%20G.%20Barto/Reinforcement%20Learning%20_%20An%20Introduction%20%28175%29/Reinforcement%20Learning%20_%20An%20Introduction%20-%20Richard%20S.%20Sutton%20%2C%20Andrew%20G.%20Barto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Richard%20S.%20Sutton%20%2C%20Andrew%20G.%20Barto/Reinforcement%20Learning%20_%20An%20Introduction%20%28175%29/Reinforcement%20Learning%20_%20An%20Introduction%20-%20Richard%20S.%20Sutton%20%2C%20Andrew%20G.%20Barto.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <link href="https://www.arjunsriva.com/library/assets/Richard%20S.%20Sutton%20%2C%20Andrew%20G.%20Barto/Reinforcement%20Learning%20_%20An%20Introduction%20%28175%29/Reinforcement%20Learning%20_%20An%20Introduction%20-%20Richard%20S.%20Sutton%20%2C%20Andrew%20G.%20Barto.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="Download this ebook as MOBI" />
+    <author>
+      <name>Richard S. Sutton , Andrew G. Barto</name>
+      <uri>../author_0/author_244_Page_1.xml</uri>
+    </author>
+    <published>2018-01-27T06:30:00Z</published>
+    <dcterms:publisher>MIT Press</dcterms:publisher>
+    <link href="../book_0/book_175.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Reinventing Explanation</title>
+    <id>calibre:book:745</id>
+    <updated>2020-03-29T06:57:52Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Unknown/Reinventing%20Explanation%20%28745%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Unknown/Reinventing%20Explanation%20%28745%29/Reinventing%20Explanation%20-%20Unknown.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Unknown</name>
+      <uri>../author_0/author_278_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_745.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ridiculous Math Problems</title>
+    <id>calibre:book:850</id>
+    <updated>2020-07-09T01:08:00Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/David%20Mumford/Ridiculous%20Math%20Problems%20%28850%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/David%20Mumford/Ridiculous%20Math%20Problems%20%28850%29/Ridiculous%20Math%20Problems%20-%20David%20Mumford.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>David Mumford</name>
+      <uri>../author_0/author_635_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <link href="../book_0/book_850.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ringside : A History of Professional Wrestling in America</title>
+    <id>calibre:book:749</id>
+    <updated>2020-04-04T01:39:36Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Scott.%20Beekman/Ringside%20_%20A%20History%20of%20Professional%20Wrestling%20in%20America%20%28749%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Scott.%20Beekman/Ringside%20_%20A%20History%20of%20Professional%20Wrestling%20in%20America%20%28749%29/Ringside%20_%20A%20History%20of%20Professional%20Wrest%20-%20Scott.%20Beekman.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Scott. Beekman</name>
+      <uri>../author_0/author_556_Page_1.xml</uri>
+    </author>
+    <published>2009-03-04T07:18:13Z</published>
+    <link href="../book_0/book_749.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Road to Serfdom *****</title>
+    <id>calibre:book:834</id>
+    <updated>2020-07-09T01:07:26Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Friedrich%20A%20von%20Hayek/The%20Road%20to%20Serfdom%20%28834%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Friedrich%20A%20von%20Hayek/The%20Road%20to%20Serfdom%20%28834%29/The%20Road%20to%20Serfdom%20-%20Friedrich%20A%20von%20Hayek.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Friedrich A von Hayek</name>
+      <uri>../author_0/author_798_Page_1.xml</uri>
+    </author>
+    <published>1944-08-14T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>University of Chicago Press</dcterms:publisher>
+    <category term="Business &amp; Economics" />
+    <category term="Economic History" />
+    <category term="Development" />
+    <category term="Economic Development" />
+    <category term="Economics" />
+    <category term="Theory" />
+    <category term="Philosophy" />
+    <category term="Political" />
+    <category term="Political Science" />
+    <category term="General" />
+    <category term="History &amp; Theory" />
+    <category term="Public Policy" />
+    <category term="Economic Policy" />
+    <category term="Political Ideologies" />
+    <category term="Fascism &amp; Totalitarianism" />
+    <category term="Social Science" />
+    <category term="Lang:en" />
+    <category term="Routledge Classics" />
+    <summary>Routledge Classics [1]: 
+A classic work in political philosophy, intellectual and cultural history, and economics, The Road to Serfdom has inspired and infuriated politicians, scholars, and general readers for half a century. Originally published in ...</summary>
+    <link href="../book_0/book_834.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Robust Text-to-SQL Generation with Execution-Guided Decoding</title>
+    <id>calibre:book:635</id>
+    <updated>2020-03-28T11:32:32Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Chenglong%20Wang%2C%20Kedar%20Tatwawadi%2C%20Marc%20Brockschmidt%2C%20Po-Sen%20Huang%2C%20Yi%20Mao%2C%20Oleksandr%20Polozov%2C%20Ri/Robust%20Text-to-SQL%20Generation%20with%20Execution-Guided%20Decoding%20%28635%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Chenglong%20Wang%2C%20Kedar%20Tatwawadi%2C%20Marc%20Brockschmidt%2C%20Po-Sen%20Huang%2C%20Yi%20Mao%2C%20Oleksandr%20Polozov%2C%20Ri/Robust%20Text-to-SQL%20Generation%20with%20Execution-Guided%20Decoding%20%28635%29/Robust%20Text-to-SQL%20Generation%20with%20Executi%20-%20Chenglong%20Wang%2C%20Kedar%20Tatwawadi%2C%20Marc%20Broc.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Chenglong Wang, Kedar Tatwawadi, Marc Brockschmidt, Po-Sen Huang, Yi Mao, Oleksandr Polozov, Rishabh Singh</name>
+      <uri>../author_0/author_387_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_635.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

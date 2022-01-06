@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">997</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6083ba07-522e-4a11-977c-c15e0259afa3</dc:identifier>
+        <dc:title>Go in Action</dc:title>
+        <dc:creator opf:file-as="Kennedy, William &amp; Martin, Brian Ketelsen Erik St." opf:role="aut">William Kennedy</dc:creator>
+        <dc:creator opf:file-as="Kennedy, William &amp; Martin, Brian Ketelsen Erik St." opf:role="aut">Brian Ketelsen Erik St. Martin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Summary</dc:description>
+        <dc:publisher>Manning Publications</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;William Kennedy&quot;: &quot;&quot;, &quot;Brian Ketelsen Erik St. Martin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-09-22T11:32:12.680454+00:00" name="calibre:timestamp"/>
+        <meta content="Go in Action" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1754</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3181ccef-a316-4595-9319-8c6803f8e50f</dc:identifier>
+        <dc:title>HBR Guide to Leading Teams (HBR Guide Series)</dc:title>
+        <dc:creator opf:file-as="Shapiro, Mary" opf:role="aut">Mary Shapiro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-06-16T11:10:32+00:00</dc:date>
+        <dc:description>Great teams don’t just happen.How often have you sat in team meetings complaining to yourself, “Why does it take forever for this group to make a simple decision? What are we even trying to achieve?” As a team leader, you have the power to improve things. It’s up to you to get people to work well together and produce results.Written by team expert Mary Shapiro, the HBR Guide to Leading Teams will help you avoid the pitfalls you’ve experienced in the past by focusing on the often-neglected people side of teams. With practical exercises, guidelines for structured team conversations, and step-by-step advice, this guide will help you:Pick the right team membersSet clear, smart goalsFoster camaraderie and cooperationHold people accountableAddress and correct bad behaviorKeep your team focused and motivated</dc:description>
+        <dc:publisher>Harvard Business Review Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781633690424</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Dam4BgAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Organizational Behavior</dc:subject>
+        <dc:subject>Organizational Development</dc:subject>
+        <dc:subject>Management</dc:subject>
+        <dc:subject>Leadership</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary Shapiro&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-11-05T10:57:37+00:00"/>
+        <meta name="calibre:title_sort" content="HBR Guide to Leading Teams (HBR Guide Series)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

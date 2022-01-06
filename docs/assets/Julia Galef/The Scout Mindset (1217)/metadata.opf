@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1217</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">15bc88f9-d572-4281-a07b-5f6f2e98b356</dc:identifier>
+        <dc:title>The Scout Mindset</dc:title>
+        <dc:creator opf:file-as="Galef, Julia" opf:role="aut">Julia Galef</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-13T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;&lt;b&gt;A better way to combat knee-jerk biases and make smarter decisions, from Julia Galef, the acclaimed expert on rational decision-making.&lt;/b&gt;&lt;/b&gt;&lt;br&gt;When it comes to what we believe, humans see what they want to see. In other words, we have what Julia Galef calls a "soldier" mindset. From tribalism and wishful thinking, to rationalizing in our personal lives and everything in between, we are driven to defend the ideas we most want to believe&amp;#8212;and shoot down those we don't. &lt;br&gt;But if we want to get things right more often, argues Galef, we should train ourselves to have a "scout" mindset. Unlike the soldier, a scout's goal isn't to defend one side over the other. It's to go out, survey the territory, and come back with as accurate a map as possible. Regardless of what they hope to be the case, above all, the scout wants to know what's actually true.&lt;br&gt;In &lt;i&gt;The Scout Mindset&lt;/i&gt;, Galef shows that what makes scouts better at getting things right isn't that they're smarter...</dc:description>
+        <dc:publisher>Penguin Publishing Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Julia Galef&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-04-25T06:55:53+00:00"/>
+        <meta name="calibre:title_sort" content="Scout Mindset, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

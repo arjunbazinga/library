@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">909</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c96b0877-b1ba-482a-9503-07821d9bafca</dc:identifier>
+        <dc:title>Practical Google Analytics and Google Tag Manager for Developers</dc:title>
+        <dc:creator opf:file-as="Weber, Jonathan" opf:role="aut">Jonathan Weber</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-11-05T11:27:35+00:00</dc:date>
+        <dc:description>Whether you’re a marketer with development skills or a full-on web developer/analyst, Practical Google Analytics and Google Tag Manager for Developers shows you how to implement Google Analytics using Google Tag Manager to jumpstart your web analytics measurement.There’s a reason that so many organizations use Google Analytics. Effective collection of data with Google Analytics can reduce customer acquisition costs, provide priceless feedback on new product initiatives, and offer insights that will grow a customer or client base. So where does Google Tag Manager fit in?Google Tag Manager allows for unprecedented collaboration between marketing and technical teams, lightning fast updates to your site, and standardization of the most common tags for on-site tracking and marketing efforts. To achieve the rich data you're really after to better serve your users’ needs, you'll need the tools Google Tag Manager provides for a best-in-class implementation of Google Analytics measurement on your site.Written by data evangelist and Google Analytics expert Jonathan Weber and the team at LunaMetrics, this book offers foundational knowledge, a collection of practical Google Tag Manager recipes, well-tested best practices, and troubleshooting tips to get your implementation in tip-top condition. It covers topics including:• Google Analytics implementation via Google Tag Manager• How to customize Google Analytics for your unique situation• Using Google Tag Manager to track and analyze interactions across multiple devices and touch points• How to extract data from Google Analytics and use Google BigQuery to analyze Big Data questionsWhat You'll LearnImplementation approaches for Google Analytics, including common pitfalls and troubleshooting strategies.How to use tools like Google Tag Manager and jQuery to jumpstart your Google Analytics implementation.How to track metrics beyond page views to other critical user interactions, such as clicks on outbound links or downloads, scrolling and page engagement, usage of AJAX forms, and much more.How to incorporate additional, customized data into Google Analytics to track individual users or enrich data about their behavior. Who This Book Is ForWeb developers, data analysts, and marketers with a basic familiarity with Google Analytics from an end-user perspective, as well as some knowledge of HTML and JavaScript.</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">YszjCgAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781484202654</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Internet</dc:subject>
+        <dc:subject>Web Programming</dc:subject>
+        <dc:subject>Software Development &amp; Engineering</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Information Technology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jonathan Weber&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-08-09T07:29:06+00:00"/>
+        <meta name="calibre:title_sort" content="Practical Google Analytics and Google Tag Manager for Developers"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

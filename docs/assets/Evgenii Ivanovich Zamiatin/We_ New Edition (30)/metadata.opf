@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0b29914e-a9ff-4273-906d-72342f7ae008</dc:identifier>
+        <dc:title>We: New Edition</dc:title>
+        <dc:creator opf:file-as="Zami︠a︡tin, Evgeniĭ Ivanovich" opf:role="aut">Evgeniĭ Ivanovich Zami︠a︡tin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1993-09-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A superb new translation of the classic dystopian novel Set in the twenty-sixth century AD, Zamyatin's masterpiece describes life under the regimented totalitarian society of OneState, ruled over by the all-powerful 'Benefactor'. Recognized as the inspiration for George Orwell's 1984, We is the archetype of the modern dystopia, or anti-Utopia: a great prose poem detailing the fate that might befall us all if we surrender our individual selves to some collective dream of technology and fail in the vigilance that is the price of freedom. Clarence Brown's brilliant translation is based on the corrected text of the novel, first published in Russia in 1988 after more than sixty years' suppression.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Books</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B002CIY8QA</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780140185850</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0140185852</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">P5RBDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Evgeniĭ Ivanovich Zami︠a︡tin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2018-05-13T14:31:48+00:00"/>
+        <meta name="calibre:title_sort" content="We: New Edition"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

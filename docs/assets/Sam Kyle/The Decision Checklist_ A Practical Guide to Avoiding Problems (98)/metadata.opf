@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">98</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">74a2912b-3785-40a7-b9d0-6a92ee5f72b7</dc:identifier>
+        <dc:title>The Decision Checklist: A Practical Guide to Avoiding Problems</dc:title>
+        <dc:creator opf:file-as="Kyle, Sam" opf:role="aut">Sam Kyle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-06-08T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Some are big. Some are small. But nothing determines our happiness and success in life more than the decisions we make. If you don’t like where you are in life, that can be a hard pill to swallow. The good news is, that no matter where you are today, you can choose to be in a better place tomorrow. That’s where The Decision Checklist comes in. &lt;/p&gt;
+&lt;p&gt;The framework outlined in The Decision Checklist has helped hundreds of people find better jobs, start new businesses, make more money, and seize bigger opportunities. It can do the same for you. You’ll also learn how to avoid making stupid mistakes that chew up your valuable time and stall your progress. &lt;/p&gt;
+&lt;p&gt;“The checklists at the end of each chapter and the resources in the back of the book alone are worth the price of the book times ten. This book has the potential to impact every area of your life. Read it. Then read it again.” &lt;br&gt;— Ethan Roberts, Executive Recruiter, IHC &lt;/p&gt;
+&lt;p&gt;“I read this book in one sitting and am blown away by how much is packed into every page. Super practical and easy to follow. Loved it.” &lt;br&gt;— Tim Perkins, True North Solutions, CEO &lt;/p&gt;
+&lt;p&gt;“This is required reading for all my employees.” &lt;br&gt;— Ashley Farrell, Entrepreneur &lt;/p&gt;
+&lt;p&gt;Inside The Decision Checklist, you’ll learn:&lt;br&gt;&lt;em&gt;How to make better decisions more quickly (yes, it’s a learned skill)&lt;br&gt;&lt;/em&gt;How to curb procrastination forever so you can take massive action each and every day&lt;br&gt;&lt;em&gt;How to choose the best options&lt;br&gt;&lt;/em&gt;How mental models can power your process&lt;br&gt;* The simple formula you can use to identify your strengths and your blind spots when making important decisions &lt;/p&gt;
+&lt;p&gt;And a whole lot more. Each chapter concludes with a short list of prescribed action steps so you always know what to do in order to see progress fast. &lt;/p&gt;
+&lt;p&gt;The Decision Checklist is an essential tool for anyone who wants to reclaim their time, their goals, and what they’d really like to do with their life. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Independently Published</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">v1ZpygEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B07CS68KPZ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781983017032</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Sam Kyle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2018-06-26T08:49:04+00:00"/>
+        <meta name="calibre:title_sort" content="Decision Checklist: A Practical Guide to Avoiding Problems, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

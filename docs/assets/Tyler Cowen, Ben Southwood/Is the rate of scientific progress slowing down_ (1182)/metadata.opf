@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1182</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">71c7cc5c-74c3-4fb1-89d7-d6e3a9c4c325</dc:identifier>
+        <dc:title>Is the rate of scientific progress slowing down?</dc:title>
+        <dc:creator opf:file-as="Tyler Cowen, Ben Southwood" opf:role="aut">Tyler Cowen, Ben Southwood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-04T18:30:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>Economics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Tyler Cowen, Ben Southwood&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-01-13T09:52:59+00:00"/>
+        <meta name="calibre:title_sort" content="Is the rate of scientific progress slowing down?"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

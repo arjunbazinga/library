@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">859</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6e9bd50f-5129-4b0b-bddf-a14269c29b16</dc:identifier>
+        <dc:title>Common Stock Volatilities In Option Formulas</dc:title>
+        <dc:creator opf:file-as="Thorp, Edward O." opf:role="aut">Edward O. Thorp</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-25T16:15:44+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>Finance</dc:subject>
+        <dc:subject>Mathematics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward O. Thorp&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="finance"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2020-07-22T17:14:21+00:00"/>
+        <meta name="calibre:title_sort" content="Common Stock Volatilities In Option Formulas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

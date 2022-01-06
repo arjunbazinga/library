@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Authors starting with G</title>
+  <id>Calibre2opds:authorlist:G</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Authors starting with G" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>George Ainslie</title>
+    <id>Calibre2opds:author:272</id>
+    <content type="text">Breakdown of will</content>
+    <link href="../author_0/author_272_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Gary Chapman</title>
+    <id>Calibre2opds:author:425</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_425_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Georges Duby</title>
+    <id>Calibre2opds:author:775</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_775_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>George Dyson</title>
+    <id>Calibre2opds:author:187</id>
+    <content type="text">Turing's Cathedral</content>
+    <link href="../author_0/author_187_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Gabriel García Márquez ,Gregory Rabassa</title>
+    <id>Calibre2opds:author:551</id>
+    <content type="text">One Hundred Years of Solitude</content>
+    <link href="../author_0/author_551_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Gareth James, Daniela Witten, Trevor Hastie ,Robert Tibshirani</title>
+    <id>Calibre2opds:author:247</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_247_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Geoffrey C. Bowker, Susan Leigh Star</title>
+    <id>Calibre2opds:author:307</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_307_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Greene, Robert</title>
+    <id>Calibre2opds:author:185</id>
+    <content type="text">Mastery</content>
+    <link href="../author_0/author_185_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Greenwald, Glenn</title>
+    <id>Calibre2opds:author:572</id>
+    <content type="text">No Place to Hide</content>
+    <link href="../author_0/author_572_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>George Grossmith</title>
+    <id>Calibre2opds:author:791</id>
+    <content type="text">Diary of a Nobody</content>
+    <link href="../author_0/author_791_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Guido Chari, Javier Pimás, Jan Vitek</title>
+    <id>Calibre2opds:author:697</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_697_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Gwen</title>
+    <id>Calibre2opds:author:497</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_497_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Garrett Hardin</title>
+    <id>Calibre2opds:author:473</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_473_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Graham Hutton</title>
+    <id>Calibre2opds:author:641</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_641_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Garret Keizer</title>
+    <id>Calibre2opds:author:263</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_263_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Gerard W. Kelly</title>
+    <id>Calibre2opds:author:311</id>
+    <content type="text">Short-Cut Math</content>
+    <link href="../author_0/author_311_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>George Leonard</title>
+    <id>Calibre2opds:author:259</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_259_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Gary Lorden</title>
+    <id>Calibre2opds:author:780</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_780_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Gary Marcus</title>
+    <id>Calibre2opds:author:5</id>
+    <content type="text">Kluge</content>
+    <link href="../author_0/author_5_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Gayle Laakmann McDowell</title>
+    <id>Calibre2opds:author:208</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_208_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>George Orwell</title>
+    <id>Calibre2opds:author:91</id>
+    <content type="text">1984</content>
+    <link href="../author_0/author_91_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Graham Robb</title>
+    <id>Calibre2opds:author:167</id>
+    <content type="text">The Discovery of France</content>
+    <link href="../author_0/author_167_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Gian-Carlo Rota</title>
+    <id>Calibre2opds:author:634</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_634_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Gwen Shapira</title>
+    <id>Calibre2opds:author:668</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_668_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Gilbert Sorrentino</title>
+    <id>Calibre2opds:author:438</id>
+    <content type="text">Mulligan Stew</content>
+    <link href="../author_0/author_438_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Gary Vaynerchuk</title>
+    <id>Calibre2opds:author:396</id>
+    <content type="text">Crushing It! EPB</content>
+    <link href="../author_0/author_396_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Gino Wickman</title>
+    <id>Calibre2opds:author:581</id>
+    <content type="text">Traction</content>
+    <link href="../author_0/author_581_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Glenn greenwald</title>
+    <id>Calibre2opds:author:638</id>
+    <content type="text">No Place To Hide - Documents</content>
+    <link href="../author_0/author_638_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+</feed>

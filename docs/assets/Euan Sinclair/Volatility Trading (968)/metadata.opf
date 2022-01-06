@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">968</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e37c8d0f-2fe4-4295-bbec-4868553e6d9c</dc:identifier>
+        <dc:title>Volatility Trading</dc:title>
+        <dc:creator opf:file-as="Sinclair, Euan" opf:role="aut">Euan Sinclair</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-06-22T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;In &lt;em&gt;Volatility Trading&lt;/em&gt; , Sinclair offers you a quantitative model for measuring volatility in order to gain an edge in your everyday option trading endeavors. With an accessible, straightforward approach. He guides traders through the basics of option pricing, volatility measurement, hedging, money management, and trade evaluation. In addition, Sinclair explains the often-overlooked psychological aspects of trading, revealing both how behavioral psychology can create market conditions traders can take advantage of-and how it can lead them astray. Psychological biases, he asserts, are probably the drivers behind most sources of edge available to a volatility trader. &lt;/p&gt;
+&lt;p&gt;Your goal, Sinclair explains, must be clearly defined and easily expressed-if you cannot explain it in one sentence, you probably aren't completely clear about what it is. The same applies to your statistical edge. If you do not know exactly what your edge is, you shouldn't trade. He shows how, in addition to the numerical evaluation of a potential trade, you should be able to identify and evaluate the reason why implied volatility is priced where it is, that is, why an edge exists. This means it is also necessary to be on top of recent news stories, sector trends, and behavioral psychology. Finally, Sinclair underscores why trades need to be sized correctly, which means that each trade is evaluated according to its projected return and risk in the overall context of your goals. &lt;/p&gt;
+&lt;p&gt;As the author concludes, while we also need to pay attention to seemingly mundane things like having good execution software, a comfortable office, and getting enough sleep, it is knowledge that is the ultimate source of edge. So, all else being equal, the trader with the greater knowledge will be the more successful.  **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0470181990</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780470181997</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business</dc:subject>
+        <dc:subject>Economics</dc:subject>
+        <dc:subject>Finance</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Euan Sinclair&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-08-26T15:57:21+00:00"/>
+        <meta name="calibre:title_sort" content="Volatility Trading"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

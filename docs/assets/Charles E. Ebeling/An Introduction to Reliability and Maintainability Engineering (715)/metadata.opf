@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">715</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5aa3243d-11f7-49b9-924c-f288c7eca2de</dc:identifier>
+        <dc:title>An Introduction to Reliability and Maintainability Engineering</dc:title>
+        <dc:creator opf:file-as="Ebeling, Charles E." opf:role="aut">Charles E. Ebeling</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-07T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Many textbooks on reliability focus on either modeling or statistical analysis and require an extensive background in probability and statistics on the part of the reader. Continuing its tradition as an introductory text for readers with limited formal education in the subject, this classroom-tested text introduces the necessary concepts in probability and statistics within the context of their application to reliability. The second edition s increased breadth of coverage includes new reliability models and updated information on failure mode and effect analysis (FMEA) to reflect its more recent implementation. Many additional exercises and mini-cases have also been added. Moreover, the accompanying CD provides both software that follows the methodology of the text and several Excel templates, saving students from performing numerous tedious calculations and allowing them to focus on reliability concepts. Ebeling has created an exceptional text that enables readers to learn how to analyze failure, repair data, and derive appropriate models for reliability and maintainability as well as apply those models to all levels of design. Not-for-sale instructor resource material available to college and university faculty only; contact publisher directly. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Waveland Pr Inc</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1577666259</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781577666257</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Charles E. Ebeling&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-03-28T06:02:40+00:00"/>
+        <meta name="calibre:title_sort" content="Introduction to Reliability and Maintainability Engineering, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

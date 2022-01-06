@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">970</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">38917356-51a3-4f7c-b75b-4c350527e5cf</dc:identifier>
+        <dc:title>Systematic Trading: A unique new method for designing trading and investing systems</dc:title>
+        <dc:creator opf:file-as="Carver, Robert" opf:role="aut">Robert Carver</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-13T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;This is not just another book with yet another trading system. This is a complete guide to developing your own systems to help you make and execute trading and investing decisions. It is intended for everyone who wishes to systematise their financial decision making, either completely or to some degree. Author Robert Carver draws on financial theory, his experience managing systematic hedge fund strategies and his own in-depth research to explain why systematic trading makes sense and demonstrates how it can be done safely and profitably. Every aspect, from creating trading rules to position sizing, is thoroughly explained. The framework described here can be used with all assets, including equities, bonds, forex and commodities. There is no magic formula that will guarantee success, but cutting out simple mistakes will improve your performance. You'll learn how to avoid common pitfalls such as over-complicating your strategy, being too optimistic about likely returns, taking excessive risks and trading too frequently. Important features include: - The theory behind systematic trading: why and when it works, and when it doesn't. - Simple and effective ways to design effective strategies. - A complete position management framework which can be adapted for your needs. - How fully systematic traders can create or adapt trading rules to forecast prices. - Making discretionary trading decisions within a systematic framework for position management. - Why traditional long only investors should use systems to ensure proper diversification, and avoid costly and unnecessary portfolio churn. - Adapting strategies depending on the cost of trading and how much capital is being used. - Practical examples from UK, US and international markets showing how the framework can be used. Systematic Trading is detailed, comprehensive and full of practical advice. It provides a unique new approach to system development and a must for anyone considering using systems to make some, or all, of their investment decisions. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Harriman House</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">y3dxCgAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0857194453</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780857194459</dc:identifier>
+        <dc:language>ara</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Investments &amp; Securities</dc:subject>
+        <dc:subject>Analysis &amp; Trading Strategies</dc:subject>
+        <dc:subject>Systematic Trading</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Carver&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-08-26T15:57:21+00:00"/>
+        <meta name="calibre:title_sort" content="Systematic Trading: A unique new method for designing trading and investing systems"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

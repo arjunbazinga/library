@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">466</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d38b4a50-e2c4-4eba-a386-8c762de0b138</dc:identifier>
+        <dc:title>Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers</dc:title>
+        <dc:creator opf:file-as="Ferriss, Timothy" opf:role="aut">Timothy Ferriss</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;The latest groundbreaking tome from Tim Ferriss, the #1&lt;/strong&gt; * &lt;strong&gt;New York Times&lt;/strong&gt;&lt;span style="font-style: italic; font-weight: 600"&gt; &lt;/span&gt;&lt;strong&gt;*best-selling author of * &lt;/strong&gt;The 4-Hour Workweek&lt;span style="font-style: italic; font-weight: 600"&gt; &lt;/span&gt;&lt;strong&gt;*.&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;From the author:&lt;/strong&gt;&lt;br&gt;&lt;br&gt;“For the last two years, I’ve interviewed more than 200 world-class performers for my podcast, &lt;em&gt;The Tim Ferriss Show.&lt;/em&gt; The guests range from super celebs (Jamie Foxx, Arnold Schwarzenegger, etc.) and athletes (icons of powerlifting, gymnastics, surfing, etc.) to legendary Special Operations commanders and black-market biochemists. For most of my guests, it’s the first time they’ve agreed to a two-to-three-hour interview. This unusual depth has helped make &lt;em&gt;The Tim Ferriss Show&lt;/em&gt; the first business/interview podcast to pass 100 million downloads.&lt;br&gt;&lt;br&gt;“This book contains the distilled tools, tactics, and ‘inside baseball’ you won’t find anywhere else. It also includes new tips from past guests, and life lessons from new ‘guests’ you haven’t met.&lt;br&gt;&lt;br&gt;“What makes the show different is a relentless focus on actionable details. This is reflected in the questions. For example: What do these people do in the first sixty minutes of each morning? What do their workout routines look like, and why? What books have they gifted most to other people? What are the biggest wastes of time for novices in their field? What supplements do they take on a daily basis?&lt;br&gt;&lt;br&gt;“I don’t view myself as an interviewer. I view myself as an experimenter. If I can’t test something and replicate results in the messy reality of everyday life, I’m not interested.&lt;br&gt;&lt;br&gt;“Everything within these pages has been vetted, explored, and applied to my own life in some fashion. I’ve used dozens of the tactics and philosophies in high-stakes negotiations, high-risk environments, or large business dealings. The lessons have made me millions of dollars and saved me years of wasted effort and frustration.&lt;br&gt;&lt;br&gt;“I created this book, my ultimate notebook of high-leverage tools, for myself. It’s changed my life, and I hope the same for you.” **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Houghton Mifflin Harcourt</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781328683786</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1328683788</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">M77RDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business</dc:subject>
+        <dc:subject>Economics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Success</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Timothy Ferriss&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2018-08-16T20:56:53+00:00"/>
+        <meta name="calibre:title_sort" content="Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

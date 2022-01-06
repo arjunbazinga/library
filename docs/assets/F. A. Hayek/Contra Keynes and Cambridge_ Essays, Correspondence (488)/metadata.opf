@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">488</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d4c35302-0ec6-48bf-82ba-ed0f2ff493ce</dc:identifier>
+        <dc:title>Contra Keynes and Cambridge: Essays, Correspondence</dc:title>
+        <dc:creator opf:file-as="Hayek, F. A. &amp; Caldwell, Bruce" opf:role="aut">F. A. Hayek</dc:creator>
+        <dc:creator opf:file-as="Hayek, F. A. &amp; Caldwell, Bruce" opf:role="aut">Bruce Caldwell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-09-20T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;In 1931, when the young F. A. Hayek challenged the economic theories of John Maynard Keynes, sixteen years his senior, and one of the world's leading economists, he sparked a spirited debate that would influence economic policy in democratic countries for decades. Their extensive exchange lasted until Keynes's death in 1946, and is reprinted in its entirety in this latest volume of &lt;em&gt;The Collected Works of F. A. Hayek&lt;/em&gt;. &lt;/p&gt;
+&lt;p&gt;When the journal &lt;em&gt;Economica&lt;/em&gt; published a review of Keynes's &lt;em&gt;Treatise on Money&lt;/em&gt; by Hayek in 1931, Keynes's response consisted principlally of an attack on Hayek's own work on monetary theory, &lt;em&gt;Prices and Production.&lt;/em&gt; Conducted almost entirely in economics journals, the battle that followed revealed two very different responses to a world in economic crisis. Keynes sought a revision of the liberal political order—arguing for greater government intervention in the hope of protecting against the painful fluctuations of the business cycle. Hayek instead warned that state involvement would cause irreparable damage to the economy. &lt;/p&gt;
+&lt;p&gt;This volume begins with Hayek's 1963 reminiscence "The Economics of the 1930s as Seen from London," which has never been published before. The articles, letters, and reviews from journals published in the 1930s are followed by Hayek's later reflections on Keynes's work and influence. The Introduction by Bruce Caldwell puts the debate in context, providing detailed information about the economists in Keynes's circle at Cambridge, their role in the acceptance of his ideas, and the ways in which theory affected policy during the interwar period. &lt;/p&gt;
+&lt;p&gt;Caldwell calls the debate between Hayek and Keynes "a battle for the minds of the rising generation of British-trained economists." There is no doubt that Keynes won the battle during his lifetime. Now, when many of Hayek's ideas have been vindicated by the collapse of collectivist economies and the revival of the free market around the world, this book clarifies Hayek's work on monetary theory—formed in heated opposition to Keynes—and illuminates his efforts to fight protectionism in an age of economic crisis. &lt;/p&gt;
+&lt;p&gt;F. A. Hayek (1899-1992), recipient of the Medal of Freedom in 1991 and co-winner of the Nobel Memorial Prize in Economics in 1974, was a pioneer in monetary theory and the principal proponent of classical liberal thought in the twentieth century. He taught at the University of London, the University of Chicago, and the University of Freiburg. &lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>University of Chicago Press</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B009GJQIRK</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;F. A. Hayek&quot;: &quot;&quot;, &quot;Bruce Caldwell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="The Collected Works of F.A. Hayek"/>
+        <meta name="calibre:series_index" content="9"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2018-08-28T13:24:01+00:00"/>
+        <meta name="calibre:title_sort" content="Contra Keynes and Cambridge: Essays, Correspondence"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

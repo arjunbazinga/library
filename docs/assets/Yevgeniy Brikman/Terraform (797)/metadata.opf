@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">797</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d928108b-293e-404d-bcad-e7d85e4f83f0</dc:identifier>
+        <dc:title>Terraform</dc:title>
+        <dc:creator opf:file-as="Brikman, Yevgeniy" opf:role="aut">Yevgeniy Brikman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-30T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Terraform has become a key player in the DevOps world for defining, launching, and managing infrastructure as code (IaC) across a variety of cloud and virtualization platforms, including AWS, Google Cloud, Azure, and more. This hands-on second edition, expanded and thoroughly updated for Terraform version 0.12 and beyond, shows you the fastest way to get up and running.&lt;/p&gt;&lt;p&gt;Gruntwork cofounder Yevgeniy (Jim) Brikman walks you through code examples that demonstrate Terraform's simple, declarative programming language for deploying and managing infrastructure with a few commands. Veteran sysadmins, DevOps engineers, and novice developers will quickly go from Terraform basics to running a full stack that can support a massive amount of traffic and a large team of developers.&lt;/p&gt;&lt;li&gt;Explore changes from Terraform 0.9 through 0.12, including backends, workspaces, and first-class expressions&lt;/li&gt;&lt;li&gt;Learn how to write production-grade Terraform modules&lt;/li&gt;&lt;li&gt;Dive into manual and...</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Yevgeniy Brikman&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-05-09T07:04:34.238807+00:00" name="calibre:timestamp"/>
+        <meta content="Terraform" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

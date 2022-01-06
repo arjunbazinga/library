@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">959</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">124df25f-3865-4689-8212-bbca2bf165a7</dc:identifier>
+        <dc:title>Money Makers: Inside the New World of Finance and Business</dc:title>
+        <dc:creator opf:file-as="David Snider, Dr. Chris Howard" opf:role="aut">David Snider, Dr. Chris Howard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-15T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Money Makers illuminates the often secretive industries of the private sector that drive the modern economy. David Snider and Chris Howard draw on their interviews with top executives- such as Jamie Dimon, CEO of JPMorgan Chase; David Rubenstein, Cofounder of the Carlyle Group; and Shona Brown, Senior Vice President of Business Operations at Google- to reveal the histories, mechanics, operations and challenges of investment banking, venture capital, private equity, hedge funds, management consulting, and the management of Fortune 500 companies. Money Makers is an indispensable on-the-ground guide that puts today€™s financial landscape into perspective.With a Foreword by Robert K. Steel, Former CEO of Wachovia and Under Secretary of Domestic Finance for the US Treasury. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Palgrave Macmillan</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0230614019</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780230614017</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">85SlJ9LrA6IC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Finance</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>0230614019</dc:subject>
+        <dc:subject>9780230614017</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;David Snider, Dr. Chris Howard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-08-26T15:57:19+00:00"/>
+        <meta name="calibre:title_sort" content="Money Makers: Inside the New World of Finance and Business"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

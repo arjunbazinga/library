@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3aed1fc1-504b-4ea6-8fb3-a63527357dbd</dc:identifier>
+        <dc:title>The Power: WINNER OF THE WOMEN'S PRIZE FOR FICTION</dc:title>
+        <dc:creator opf:file-as="Alderman, Naomi" opf:role="aut">Naomi Alderman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-10-27T11:21:46+00:00</dc:date>
+        <dc:description>WINNER OF THE WOMEN'S PRIZE FOR FICTION'Electrifying' Margaret Atwood'A big, page-turning, thought-provoking thriller' Guardian----------------------------------All over the world women are discovering they have the power.With a flick of the fingers they can inflict terrible pain - even death.Suddenly, every man on the planet finds they've lost control.The Day of the Girls has arrived - but where will it end?----------------------------------'The Hunger Games crossed with The Handmaid's Tale' Cosmopolitan'I loved it; it was visceral, provocative and curiously pertinent . . . The story has stayed with me since' Stylist, The Decade's 15 Best Books by Remarkable Women'Superb. Insightful, thrilling, funny. Well-crafted, compelling, serious-minded' Daily Telegraph'Fascinating, ingenious, rattles with a furious pace. Deserves to be read by every woman (and, for that matter, every man)' The Times'Irresistible. Holds a mirror up to the here and now' Mail on Sunday'Chilling, thrilling, a blast' Financial Times</dc:description>
+        <dc:publisher>Penguin UK</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780670919970</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">CLoPDAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Women</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Political</dc:subject>
+        <dc:subject>Thrillers</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Dystopian</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Humorous</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Naomi Alderman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2018-05-06T10:58:18+00:00"/>
+        <meta name="calibre:title_sort" content="Power: WINNER OF THE WOMEN'S PRIZE FOR FICTION, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

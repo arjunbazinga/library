@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Authors starting with H</title>
+  <id>Calibre2opds:authorlist:H</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Authors starting with H" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>Harman, Chris</title>
+    <id>Calibre2opds:author:456</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_456_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Harris, Dan</title>
+    <id>Calibre2opds:author:282</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_282_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Henry Hazlitt</title>
+    <id>Calibre2opds:author:433</id>
+    <content type="text">Economics in One Lesson</content>
+    <link href="../author_0/author_433_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea</title>
+    <id>Calibre2opds:author:565</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_565_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Helen Pluckrose,James A. Lindsay</title>
+    <id>Calibre2opds:author:728</id>
+    <content type="text">Cynical Theories</content>
+    <link href="../author_0/author_728_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Helmer, Hamilton</title>
+    <id>Calibre2opds:author:591</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_591_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Homer</title>
+    <id>Calibre2opds:author:189</id>
+    <content type="text">The Odyssey</content>
+    <link href="../author_0/author_189_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Howard Marks, Paul Johnson</title>
+    <id>Calibre2opds:author:514</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_514_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Howard Marks</title>
+    <id>Calibre2opds:author:715</id>
+    <content type="text">Time For Thinking</content>
+    <link href="../author_0/author_715_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Herman Melville</title>
+    <id>Calibre2opds:author:156</id>
+    <content type="text">Moby Dick</content>
+    <link href="../author_0/author_156_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Hugo Mercier</title>
+    <id>Calibre2opds:author:562</id>
+    <content type="text">Not Born Yesterday</content>
+    <link href="../author_0/author_562_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Haruki Murakami</title>
+    <id>Calibre2opds:author:543</id>
+    <content type="text">Men Without Women: Stories</content>
+    <link href="../author_0/author_543_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Herbert A. Simon</title>
+    <id>Calibre2opds:author:772</id>
+    <content type="text">Models of My Life</content>
+    <link href="../author_0/author_772_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Henry Sticker</title>
+    <id>Calibre2opds:author:285</id>
+    <content type="text">How to Calculate Quickly</content>
+    <link href="../author_0/author_285_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Henry S. Warren</title>
+    <id>Calibre2opds:author:123</id>
+    <content type="text">Hacker's Delight</content>
+    <link href="../author_0/author_123_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Howard Zinn</title>
+    <id>Calibre2opds:author:399</id>
+    <content type="text">1 book</content>
+    <link href="../author_0/author_399_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>hofstadter</title>
+    <id>Calibre2opds:author:640</id>
+    <content type="text">On Number Numbness</content>
+    <link href="../author_0/author_640_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+</feed>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">424</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d07beba-67f5-4f34-933b-f562e78e78b5</dc:identifier>
+        <dc:title>The Evolution of Nuclear Strategy: New, Updated and Completely Revised</dc:title>
+        <dc:creator opf:file-as="Freedman, Lawrence &amp; Michaels, Jeffrey" opf:role="aut">Lawrence Freedman</dc:creator>
+        <dc:creator opf:file-as="Freedman, Lawrence &amp; Michaels, Jeffrey" opf:role="aut">Jeffrey Michaels</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-30T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;“The Evolution of Nuclear Strategy quickly established itself as a classic when it first appeared in 1981. This edition makes it even better, incorporating as it does new material about the Cold War and up-dating to include subsequent developments. Filled with insights and penetrating analysis, this volume is truly indispensable.”—Robert Jervis, Author of How Statesmen Think"Freedman and Michaels have written a thorough and thought-provoking guide to nuclear strategy. The authors analyze the causes of both wise and unwise strategic decisions in the past and thereby shine a bright light on dilemmas we face in our common nuclear future."—Scott Sagan, Stanford University, USA “With its comprehensive coverage, clear and direct language, and judicious summaries of a vast literature, this new and wholly revised edition of The Evolution of Nuclear Strategy will be essential reading for any student of nuclear history, strategic studies, or contemporary international relations.”—Matthew Jones, London School of Economics and Political Science, UK“Sir Lawrence Freedman’s The Evolution of Nuclear Strategy has been the first port of call for three generations of academics and policy-makers wanting to familiarize themselves with the subject matter. The success of this book could have led Professor Freedman to satisfy himself with regular updates or afterwords. But the tireless author is now gracing us with an entirely revised edition of his masterpiece nearly forty years after its initial publication, taking into account findings from archives and declassified documents. At the same time, The Evolution of Nuclear Strategy remains true to its original purpose and spirit: an easy to read manual, light with footnotes, focusing on policy rather than on theory, and thus the best possible introduction to an arcane subject. In an era when nuclear strategy issues seem to be becoming relevant again, its historical scope and breadth will make its reading or re-reading even more useful – if only because knowing about the absurdity of the Cold war arms race is a prerequisite if one does not want to repeat its mistakes.”—Bruno Tertrais, Deputy Director, Fondation pour la Recherche Stratégique, France“This updated and improved edition of the classic text on the evolution of nuclear strategy is a must read for anyone attempting to understand the nuclear predicament and where it is heading. Impressive in every respect!”—T.V. Paul, James McGill Professor of International Relations, McGill University, Canada, and the author of The Traditon of Non-Use of Nuclear Weapons“After the end of the Cold War, we hoped for a world in which nuclear weapons would have ‘low salience’, or might even disappear into virtual, non-assembled arsenals. Alas, they are coming to the fore again. With changes in political context and technology, it is thus pressing that ‘the Bible’ on the Evolution of Nuclear Strategy should be updated. Lawrence Freedman’s great classic has been admirably updated with the help of Jeff Michaels. The work, just as its previous editions, thus remains the definitive and authoritative point of reference on nuclear strategy in the twenty-first century.”—Beatrice Heuser, Chair of International Relations, University of Glasgow, ScotlandFirst published in 1981, Lawrence Freedman's The Evolution of Nuclear Strategy was immediately acclaimed as the standard work on the history of attempts to cope militarily and politically with the terrible destructive power of nuclear weapons. It has now been completely rewritten, drawing on a wide range of new research, and updated to take account of the period following the end of the cold war, and covering all nuclear powers.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Springer</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">HbOmDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781137573506</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>Security (National &amp; International)</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Peace</dc:subject>
+        <dc:subject>International Relations</dc:subject>
+        <dc:subject>Technology &amp; Engineering</dc:subject>
+        <dc:subject>Military Science</dc:subject>
+        <dc:subject>Intergovernmental Organizations</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lawrence Freedman&quot;: &quot;&quot;, &quot;Jeffrey Michaels&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2018-08-01T13:00:03+00:00"/>
+        <meta name="calibre:title_sort" content="Evolution of Nuclear Strategy: New, Updated and Completely Revised, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

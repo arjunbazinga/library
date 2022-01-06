@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">905</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">04fc31fc-a923-464e-afc9-8fcb3d6566c0</dc:identifier>
+        <dc:title>Our Final Hour: A Scientist's Warning</dc:title>
+        <dc:creator opf:file-as="Rees, Martin" opf:role="aut">Martin Rees</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-04-13T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A scientist known for unraveling the complexities of the universe over millions of years, Sir Martin Rees now warns that humankind is potentially the maker of its own demise -- and that of the cosmos. Though the twenty-first century could be the critical era in which life on Earth spreads beyond our solar system, it is just as likely that we have endangered the future of the entire universe. With clarity and precision, Rees maps out the ways technology could destroy our species and thereby foreclose the potential of a living universe whose evolution has just begun. Rees boldly forecasts the startling risks that stem from our accelerating rate of technological advances. We could be wiped out by lethal "engineered" airborne viruses, or by rogue nano-machines that replicate catastrophically. Experiments that crash together atomic nuclei could start a chain reaction that erodes all atoms of Earth, or could even tear the fabric of space itself. Through malign intent or by mistake, a single event could trigger global disaster. Though we can never completely safeguard our future, increased regulation and inspection can help us to prevent catastrophe. Rees's vision of the infinite future that we have put at risk -- a cosmos more vast and diverse than any of us has ever imagined -- is both a work of stunning scientific originality and a humanistic clarion call on behalf of the future of life. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Basic Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780465068630</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0465068634</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Martin Rees&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-08-09T07:29:05+00:00"/>
+        <meta name="calibre:title_sort" content="Our Final Hour: A Scientist's Warning"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1024</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d6e5e6d5-327b-427b-83d8-436452caa2e0</dc:identifier>
+        <dc:title>The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail</dc:title>
+        <dc:creator opf:file-as="Christensen, Clayton M." opf:role="aut">Clayton M. Christensen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-10-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The" Innovator's Dilemma" demonstrates why outstanding companies that had their competitive antennae up, listened astutely to customers, and invested aggressively in new technologies still lost their market dominance. Drawing on patterns of innovation in a variety of industries, the author argues that good business practices can, nevertheless, weaken a great firm. He shows how truly important, breakthrough innovations are often initially rejected by customers that cannot currently use them, leading firms to allow their most important innovations to languish. Many companies now face the innovator's dilemma. Keeping close to customers is critical for current success. But long-term growth and profits depend upon a very different managerial formula. This book will help managers see the changes that may be coming their way and will show them how to respond for success. The Management of Innovation and Change Series. Dual Winner, The Best Business Book of 1997 and The Best Business "How-To" Book of 1997--The Financial Times/Booz-Allen &amp;amp; Hamilton Global Business Book Awards "This book addresses a tough problem that most successful companies will face eventually. It's lucid, analytical-and scary."-- Dr. Andrew S. Grove, Chairman, Intel Corporation "The "Innovator's Dilemma" is absolutely brilliant." Clayton Christensen provides an insightful analysis of changing technology and its importance to a company's future success. I highly recommend this book for anyone interested in business or entrepreneurship."--Michael R. Bloomberg, CEO and Founder, Bloomberg Financial Markets "Managers reading Professor Christensen's book may come away with a heightened sense of paranoia. They will benone the worse for that. The idea of the disruptive technology is a simple and powerful one. There may be one lurking near you."-- "Financial Times" -- "Christensen marshals so much data and analysis in support of his position that he makes a powerful case."--Context&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Harvard Business School Press</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1565114159</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">SIexi_qgq2gC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780875845852</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00E257S86</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Decision-Making &amp; Problem Solving</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Clayton M. Christensen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-10-04T17:56:55+00:00"/>
+        <meta name="calibre:title_sort" content="Innovator's Dilemma: When New Technologies Cause Great Firms to Fail, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

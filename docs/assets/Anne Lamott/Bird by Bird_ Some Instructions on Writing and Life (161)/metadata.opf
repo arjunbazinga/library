@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">161</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">03b30493-e801-4c61-a832-c4fbd02c55fc</dc:identifier>
+        <dc:title>Bird by Bird: Some Instructions on Writing and Life</dc:title>
+        <dc:creator opf:file-as="Lamott, Anne" opf:role="aut">Anne Lamott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1995-09-01T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;For a quarter century, more than a million readers—scribes and scribblers of all ages and abilities—have been inspired by Anne Lamott’s hilarious, big-hearted, homespun advice. Advice that begins with the simple words of wisdom passed down from Anne’s father—also a writer—in the iconic passage that gives the book its title:&lt;br&gt;&lt;br&gt;&lt;em&gt;“Thirty years ago my older brother, who was ten years old at the time, was trying to get a report on birds written that he’d had three months to write. It was due the next day. We were out at our family cabin in Bolinas, and he was at the kitchen table close to tears, surrounded by binder paper and pencils and unopened books on birds, immobilized by the hugeness of the task ahead. Then my father sat down beside him, put his arm around my brother’s shoulder, and said, ‘Bird by bird, buddy. Just take it bird by bird.’”&lt;/em&gt;&lt;br&gt;&lt;br&gt;An essential volume for generations of writers young and old, &lt;em&gt;Bird by Bird&lt;/em&gt; is a modern classic. This twenty-fifth anniversary edition will continue to spark creative minds for years to come. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Anchor</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0385480016</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">rz-PxqmdFkAC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780385480017</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Language Arts &amp; Disciplines</dc:subject>
+        <dc:subject>Composition &amp; Creative Writing</dc:subject>
+        <dc:subject>Journalism</dc:subject>
+        <dc:subject>Reference</dc:subject>
+        <dc:subject>Writing Skills</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anne Lamott&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2018-07-12T09:23:00+00:00"/>
+        <meta name="calibre:title_sort" content="Bird by Bird: Some Instructions on Writing and Life"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

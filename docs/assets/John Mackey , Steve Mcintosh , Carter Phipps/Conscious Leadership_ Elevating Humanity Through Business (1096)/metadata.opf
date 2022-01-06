@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1096</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">496aad27-f462-45fe-83fe-b7a1eb093300</dc:identifier>
+        <dc:title>Conscious Leadership: Elevating Humanity Through Business</dc:title>
+        <dc:creator opf:file-as="John Mackey , Steve Mcintosh , Carter Phipps" opf:role="aut">John Mackey , Steve Mcintosh , Carter Phipps</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A WALL STREET JOURNAL BESTSELLER!From Whole Foods CEO John Mackey and his coauthors, a follow-up to groundbreaking bestseller Conscious Capitalism—revealing what it takes to lead a purpose-driven, sustainable business.John Mackey started a movement when he founded Whole Foods, bringing natural, organic food to the masses and not only changing the market, but breaking the mold. Now, for the first time, Conscious Leadership closely explores the vision, virtues, and mindset that have informed Mackey’s own leadership journey, providing a roadmap for innovative, value-based leadership—in business and in society.  Conscious Leadership demystifies strategies that have helped Mackey shepherd Whole Foods through four decades of incredible growth and innovation, including its recent sale to Amazon. Each chapter will challenge you to rethink conventional business wisdom through anecdotes, case studies, profiles of conscious leaders, and innovative techniques for self-development, culminating in an empowering call to action for entrepreneurs and trailblazers—to step up as leaders who see beyond the bottom line.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780593083635</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">b_zKDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Leadership</dc:subject>
+        <dc:subject>Business Ethics</dc:subject>
+        <dc:subject>Workplace Culture</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Mackey , Steve Mcintosh , Carter Phipps&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-11-25T08:44:08+00:00"/>
+        <meta name="calibre:title_sort" content="Conscious Leadership: Elevating Humanity Through Business"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

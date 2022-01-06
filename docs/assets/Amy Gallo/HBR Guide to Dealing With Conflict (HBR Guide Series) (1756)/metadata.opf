@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1756</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7dd1798e-4d37-44f2-95e0-ec2daf0a07cc</dc:identifier>
+        <dc:title>HBR Guide to Dealing With Conflict (HBR Guide Series)</dc:title>
+        <dc:creator opf:file-as="Gallo, Amy" opf:role="aut">Amy Gallo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-03-14T11:10:24+00:00</dc:date>
+        <dc:description>Learn to assess the situation, manage your emotions, and move on.While some of us enjoy a lively debate with colleagues and others prefer to suppress our feelings over disagreements, we all struggle with conflict at work. Every day we navigate an office full of competing interests, clashing personalities, limited time and resources, and fragile egos. Sure, we share the same overarching goals as our colleagues, but we don't always agree on how to achieve them. We work differently. We rub each other the wrong way. We jockey for position.How can you deal with conflict at work in a way that is both professional and productive--where it improves both your work and your relationships? You start by understanding whether you generally seek or avoid conflict, identifying the most frequent reasons for disagreement, and knowing what approaches work for what scenarios. Then, if you decide to address a particular conflict, you use that information to plan and conduct a productive conversation. The HBR Guide to Dealing with Conflict will give you the advice you need to:Understand the most common sources of conflictExplore your options for addressing a disagreementRecognize whether you--and your counterpart--typically seek or avoid conflictPrepare for and engage in a difficult conversationManage your and your counterpart's emotionsDevelop a resolution togetherKnow when to walk awayArm yourself with the advice you need to succeed on the job, with the most trusted brand in business. Packed with how-to essentials from leading experts, the HBR Guides provide smart answers to your most pressing work challenges.</dc:description>
+        <dc:publisher>Harvard Business Review Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781633692169</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">jyAmDQAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Conflict Resolution &amp; Mediation</dc:subject>
+        <dc:subject>Management</dc:subject>
+        <dc:subject>Human Resources &amp; Personnel Management</dc:subject>
+        <dc:subject>Business Communication</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Amy Gallo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-11-05T10:57:38+00:00"/>
+        <meta name="calibre:title_sort" content="HBR Guide to Dealing With Conflict (HBR Guide Series)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

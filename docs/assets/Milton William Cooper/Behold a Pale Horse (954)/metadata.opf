@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">954</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2cbb80f9-be5d-4562-9650-c11885f93b8a</dc:identifier>
+        <dc:title>Behold a Pale Horse</dc:title>
+        <dc:creator opf:file-as="Cooper, Milton William" opf:role="aut">Milton William Cooper</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1991-12-01T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Bill Cooper, former United States Naval Intelligence Briefing Team member, reveals information that remains hidden from the public eye. This information has been kept in topsecret government files since the 1940s. His audiences hear the truth unfold as he writes about the assassination of John F. Kennedy, the war on drugs, the secret government, and UFOs. Bill is a lucid, rational, and powerful speaker whose intent is to inform and to empower his audience. Standing room only is normal. His presentation and information transcend partisan affiliations as he clearly addresses issues in a way that has a striking impact on listeners of all backgrounds and interests. He has spoken to many groups throughout the United States and has appeared regularly on many radio talk shows and on television. In 1988 Bill decided to "talk" due to events then taking place worldwide, events that he had seen plans for back in the early 1970s. Bill correctly predicted the lowering of the Iron Curtain, the fall of the Berlin Wall, and the invasion of Panama. All Bill's predictions were on record well before the events occurred. Bill is not a psychic. His information comes from top secret documents that he read while with the Intelligence Briefing Team and from over seventeen years of research. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Light Technology Publishing</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0929385225</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780929385228</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Body; Mind &amp; Spirit</dc:subject>
+        <dc:subject>Parapsychology</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>UFOs &amp; Extraterrestrials</dc:subject>
+        <dc:subject>Ancient Mysteries &amp; Controversial Knowledge</dc:subject>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>Political Ideologies</dc:subject>
+        <dc:subject>Radicalism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Milton William Cooper&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Behold"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-08-25T21:50:45+00:00"/>
+        <meta name="calibre:title_sort" content="Behold a Pale Horse"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

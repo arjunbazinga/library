@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1113</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">664155e1-24c2-488b-844a-9235a1e96a5b</dc:identifier>
+        <dc:title>Working: People Talk About What They Do All Day and How They Feel About What They Do</dc:title>
+        <dc:creator opf:file-as="Terkel, Studs" opf:role="aut">Studs Terkel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-25T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A Pulitzer Prize winner interviews workers, from policemen to piano tuners: “Magnificent . . . To read it is to hear America talking.” —The Boston Globe  A National Book Award Finalist and New York Times bestseller   Studs Terkel’s classic oral history Working is a compelling look at jobs and the people who do them. Consisting of over one hundred interviews with everyone from a gravedigger to a studio head, this book provides a “brilliant” and enduring portrait of people’s feelings about their working lives. This edition includes a new foreword by New York Times journalist Adam Cohen (Forbes).   “Splendid . . . Important . . . Rich and fascinating . . . The people we meet are not digits in a poll but real people with real names who share their anecdotes, adventures, and aspirations with us.” —Business Week   “The talk in Working is good talk—earthy, passionate, honest, sometimes tender, sometimes crisp, juicy as reality, seasoned with experience.” —The Washington Post&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>The New Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">7M6dLngSY2gC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781595587664</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Anthropology</dc:subject>
+        <dc:subject>Cultural &amp; Social</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Social History</dc:subject>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>Labor &amp; Industrial Relations</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Labor</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Studs Terkel&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-12-06T11:34:17+00:00"/>
+        <meta name="calibre:title_sort" content="Working: People Talk About What They Do All Day and How They Feel About What They Do"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

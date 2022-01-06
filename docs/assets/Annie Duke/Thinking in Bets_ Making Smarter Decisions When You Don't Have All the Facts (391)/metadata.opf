@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">391</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d666f9f8-2cfc-4434-80a9-e4d075f983b5</dc:identifier>
+        <dc:title>Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts</dc:title>
+        <dc:creator opf:file-as="Duke, Annie" opf:role="aut">Annie Duke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-05T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Poker champion turned business consultant Annie Duke teaches you how to get comfortable with uncertainty and make better decisions as a result.&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;In Super Bowl XLIX, Seahawks coach Pete Carroll made one of the most controversial calls in football history: With 26 seconds remaining, and trailing by four at the Patriots' one-yard line, he called for a pass instead of a hand off to his star running back. The pass was intercepted and the Seahawks lost. Critics called it the dumbest play in history. But was the call really that bad? Or did Carroll actually make a great move that was ruined by bad luck? &lt;/p&gt;
+&lt;p&gt;Even the best decision doesn't yield the best outcome every time. There's always an element of luck that you can't control, and there is always information that is hidden from view. So the key to long-term success (and avoiding worrying yourself to death) is to think in bets: How sure am I? What are the possible ways things could turn out? What decision has the highest odds of success? Did I land in the unlucky 10% on the strategy that works 90% of the time? Or is my success attributable to dumb luck rather than great decision making? &lt;/p&gt;
+&lt;p&gt;Annie Duke, a former World Series of Poker champion turned business consultant, draws on examples from business, sports, politics, and (of course) poker to share tools anyone can use to embrace uncertainty and make better decisions. For most people, it's difficult to say "I'm not sure" in a world that values and, even, rewards the appearance of certainty. But professional poker players are comfortable with the fact that great decisions don't always lead to great outcomes and bad decisions don't always lead to bad outcomes. &lt;/p&gt;
+&lt;p&gt;By shifting your thinking from a need for certainty to a goal of accurately assessing what you know and what you don't, you'll be less vulnerable to reactive emotions, knee-jerk biases, and destructive habits in your decision making. You'll become more confident, calm, compassionate and successful in the long run. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">VcouDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780735216365</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B074DG9LQF</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Decision-Making &amp; Problem Solving</dc:subject>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Cognitive Psychology &amp; Cognition</dc:subject>
+        <dc:subject>Strategic Planning</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Annie Duke&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2018-07-25T12:52:11+00:00"/>
+        <meta name="calibre:title_sort" content="Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

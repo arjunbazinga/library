@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with 2</title>
+  <id>Calibre2opds:allbooks:2</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_2_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with 2" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Arjun Srivastava's Library " />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Arjun Srivastava's Library " />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>The 22 Immutable Laws of Marketing: Exposed and Explained by the World's Two</title>
+    <id>calibre:book:545</id>
+    <updated>2019-12-07T00:47:18Z</updated>
+    <link href="https://www.arjunsriva.com/library/assets/Al%20Ries%2C%20Jack%20Trout/The%2022%20Immutable%20Laws%20of%20Marketing_%20Exposed%20and%20Explained%20by%20the%20World%27s%20Two%20%28545%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="https://www.arjunsriva.com/library/assets/Al%20Ries%2C%20Jack%20Trout/The%2022%20Immutable%20Laws%20of%20Marketing_%20Exposed%20and%20Explained%20by%20the%20World%27s%20Two%20%28545%29/The%2022%20Immutable%20Laws%20of%20Marketing_%20Expose%20-%20Al%20Ries%2C%20Jack%20Trout.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" />
+    <link href="https://www.arjunsriva.com/library/assets/Al%20Ries%2C%20Jack%20Trout/The%2022%20Immutable%20Laws%20of%20Marketing_%20Exposed%20and%20Explained%20by%20the%20World%27s%20Two%20%28545%29/The%2022%20Immutable%20Laws%20of%20Marketing_%20Expose%20-%20Al%20Ries%2C%20Jack%20Trout.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" />
+    <author>
+      <name>Al Ries, Jack Trout</name>
+      <uri>../author_0/author_484_Page_1.xml</uri>
+    </author>
+    <published>2009-10-12T06:30:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Harper Collins</dcterms:publisher>
+    <category term="Business &amp; Economics" />
+    <category term="Marketing" />
+    <category term="General" />
+    <category term="Industrial" />
+    <category term="International" />
+    <category term="Lang:en" />
+    <summary>Two world-renowned marketing consultants and bestselling authors present the definitive rules of marketing.</summary>
+    <link href="../book_0/book_545.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

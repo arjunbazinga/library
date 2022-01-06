@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1027</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f101e971-e8e8-4824-8a83-ef921320a665</dc:identifier>
+        <dc:title>Sam Walton, Made in America: My Story</dc:title>
+        <dc:creator opf:file-as="Walton, Sam &amp; Huey, John" opf:role="aut">Sam Walton</dc:creator>
+        <dc:creator opf:file-as="Walton, Sam &amp; Huey, John" opf:role="aut">John Huey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1993-10-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Meet a genuine American folk hero cut from the homespun cloth of America's heartland: Sam Walton, who parlayed a single dime store in a hardscrabble cotton town into Wal-Mart, the largest retailer in the world.  The undisputed merchant king of the late twentieth century, Sam never lost the common touch.  Here, finally, inimitable words.  Genuinely modest, but always sure if his ambitions and achievements.  Sam shares his thinking in a candid, straight-from-the-shoulder style. In a story rich with anecdotes and the "rules of the road" of both Main Street and Wall Street, Sam Walton chronicles the inspiration, heart, and optimism that propelled him to lasso the American Dream.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Bantam Books</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0553562835</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780553562835</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">5ym_S0pa_L0C</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">845cdc7d-f644-4484-a9e1-dad30ab65e61</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Biography &amp; Autobiography</dc:subject>
+        <dc:subject>Business</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Industries</dc:subject>
+        <dc:subject>Retailing</dc:subject>
+        <dc:subject>Corporate &amp; Business History</dc:subject>
+        <dc:subject>Remainders/Promotional</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sam Walton&quot;: &quot;&quot;, &quot;John Huey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-10-04T17:56:57+00:00"/>
+        <meta name="calibre:title_sort" content="Sam Walton, Made in America: My Story"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

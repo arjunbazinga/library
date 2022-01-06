@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">788</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a6c94fc6-98e0-4732-89b4-f488ead7e8f9</dc:identifier>
+        <dc:title>The Joyous Cosmology: Adventures in the Chemistry of Consciousness</dc:title>
+        <dc:creator opf:file-as="Watts, Alan W. &amp; Pinchbeck, Daniel" opf:role="aut">Alan W. Watts</dc:creator>
+        <dc:creator opf:file-as="Watts, Alan W. &amp; Pinchbeck, Daniel" opf:role="aut">Daniel Pinchbeck</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-11-15T11:27:41+00:00</dc:date>
+        <dc:description>A classic account of the psychedelic experience  The Joyous Cosmology is Alan Watts's exploration of the insight that the consciousness-changing drugs LSD, mescaline, and psilocybin can facilitate "when accompanied with sustained philosophical reflection by a person who is in search, not of kicks, but of understanding." More than an artifact, it is both a riveting memoir of Watts's personal experiments and a profound meditation on our perennial questions about the nature of existence and the existence of the sacred.  Includes Watts's article "Psychedelics and Religious Experience"</dc:description>
+        <dc:publisher>Vintage Books</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B000I37BB0</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781608682041</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">pv-HcsBkQHIC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Body; Mind &amp; Spirit</dc:subject>
+        <dc:subject>Mysticism</dc:subject>
+        <dc:subject>Entheogens &amp; Visionary Substances</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Eastern</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alan W. Watts&quot;: &quot;&quot;, &quot;Daniel Pinchbeck&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-04-23T12:13:03+00:00"/>
+        <meta name="calibre:title_sort" content="Joyous Cosmology: Adventures in the Chemistry of Consciousness, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

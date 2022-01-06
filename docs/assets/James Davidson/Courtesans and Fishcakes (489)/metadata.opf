@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">489</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d68141d7-cf16-4158-9215-1676bd3d8f6b</dc:identifier>
+        <dc:title>Courtesans and Fishcakes</dc:title>
+        <dc:creator opf:file-as="Davidson, James" opf:role="aut">James Davidson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-05-24T09:27:34+00:00</dc:date>
+        <dc:publisher>Fontana Press</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;James Davidson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="The Consuming Passions of Classical Athens"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2018-08-28T13:24:02+00:00"/>
+        <meta name="calibre:title_sort" content="Courtesans and Fishcakes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

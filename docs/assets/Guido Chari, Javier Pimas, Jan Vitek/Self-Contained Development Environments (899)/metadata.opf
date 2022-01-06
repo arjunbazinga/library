@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">899</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a5dacc27-1518-42e1-8f8e-bc28f90c0296</dc:identifier>
+        <dc:title>Self-Contained Development Environments</dc:title>
+        <dc:creator opf:file-as="Guido Chari, Javier Pimás, Jan Vitek &amp; Flückiger, Olivier" opf:role="aut">Guido Chari, Javier Pimás, Jan Vitek</dc:creator>
+        <dc:creator opf:file-as="Guido Chari, Javier Pimás, Jan Vitek &amp; Flückiger, Olivier" opf:role="aut">Olivier Flückiger</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>- Software and its engineering -&gt; Operating systems; Virtual machines;</dc:subject>
+        <dc:subject>Managed Languages</dc:subject>
+        <dc:subject>High-Level System Programming</dc:subject>
+        <dc:subject>Operating Systems</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Guido Chari, Javier Pimás, Jan Vitek&quot;: &quot;&quot;, &quot;Olivier Flückiger&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-08-09T07:29:05+00:00"/>
+        <meta name="calibre:title_sort" content="Self-Contained Development Environments"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

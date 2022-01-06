@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1718</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f3b33fb-5204-4826-9c42-cf00000d71cf</dc:identifier>
+        <dc:title>Buyout: The Insider's Guide to Buying Your Own Company</dc:title>
+        <dc:creator opf:file-as="Rickertsen, Rick &amp; Gunther, Robert E." opf:role="aut">Rick Rickertsen</dc:creator>
+        <dc:creator opf:file-as="Rickertsen, Rick &amp; Gunther, Robert E." opf:role="aut">Robert E. Gunther</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-04-06T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Successful management buyouts (MBOs) are the pinnacle of business success today and a great way to earn an ever-increasing stake in the American dream. Buyout provides managers and executives with the necessary tools and strategies for leading a company or division buyout. It explores the details of the entire buyout process and empowers managers to seize their destiny and take charge. Managers learn how to: * Find a company to purchase * Develop a business plan * Negotiate with the seller * Win the ""ground war"" of due diligence * Find equity partners and negotiate the management deal with investors * Run the company after the MBO. Buyout offers real-life stories of people who actually pulled off out-of-this-world deals and became rich beyond their wildest expectations.
+**&lt;/p&gt;</dc:description>
+        <dc:publisher>AMACOM</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0814431712</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">mwdupwAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">031769c4-baf9-4d31-a7bb-9e4b1ed91309</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780814431719</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Small Business</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rick Rickertsen&quot;: &quot;&quot;, &quot;Robert E. Gunther&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-07-14T04:48:53+00:00"/>
+        <meta name="calibre:title_sort" content="Buyout: The Insider's Guide to Buying Your Own Company"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

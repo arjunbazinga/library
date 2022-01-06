@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">788</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a6c94fc6-98e0-4732-89b4-f488ead7e8f9</dc:identifier>
+        <dc:title>The Joyous Cosmology: Adventures in the Chemistry of Consciousness</dc:title>
+        <dc:creator opf:file-as="Watts, Alan" opf:role="aut">Alan Watts</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1962-08-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Medical, legal, and religious experts have recently been confronted with the problem of the so-called "mystic drugs," that seem to produce, without any apparent physical harm, changes in consciousness comparable to the highest forms of aesthetic and religious experience. This book, by one of the world's leading investigators of the psychology of religion, is an evaluation of these drugs both objectively and from the vantage of the author's own personal experiments. LSD-25 is a modern drug: derivatives have been used for centuries during the religious ceremonies of certain primitive peoples. These drugs are not, however, as Mr. Watts emphasizes, just "bottled mysticism." Their correct use requires skill, experience, and a certain quality of mind. He compares them to the microscope which, fascinating as it may be to the layman, is of maximum benefit only to the well-prepared student . The author's record of his owns experiments is a vivid, lyrical account of valuable transformations that can occur in the human mind. The heightening of consciousness ranged all the way from aesthetic insights into nature to a philosophical view of existence as a comedy as once diabolic and divine, resolving itself into "a cosmology not only unified but also joyous." Timothy Leary and Richard Alpert, formerly of the psychology department at Harvard University, have written the Foreword. The book is enhanced by photographs of natural forms, which in themselves stand as an abstract expression of the intriguing text. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Vintage Books</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B000I37BB0</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Alan Watts&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="10" name="calibre:rating"/>
+        <meta content="2020-04-23T12:13:03+00:00" name="calibre:timestamp"/>
+        <meta content="Joyous Cosmology: Adventures in the Chemistry of Consciousness, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">573</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e02dab3a-7ebb-47f1-9513-1486b7fe98d0</dc:identifier>
+        <dc:title>The Lottery</dc:title>
+        <dc:creator opf:file-as="Jackson, Shirley" opf:role="aut">Shirley Jackson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-09-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;In a small American town, the local residents are abuzz with excitement and nervousness when they wake on the morning of the twenty-seventh of June. Everything has been prepared for the town’s annual tradition—a lottery in which every family must participate, and no one wants to win. “The Lottery” stands out as one of the most famous short stories in American literary history. Originally published in &lt;em&gt;The New Yorker&lt;/em&gt; , the author immediately began receiving letters from readers who demanded an explanation of the story’s meaning. “The Lottery” has been adapted for stage, television, radio and film. HarperPerennial Classics brings great works of literature to life in digital format, upholding the highest standards in ebook production and celebrating reading in all its forms. Look for more titles in the HarperPerennial Classics collection to build your digital library. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>The Creative Company</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B0191GR218</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781583415849</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">9sJ3GaAn0ToC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Juvenile Nonfiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Literary Criticism &amp; Collections</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Shirley Jackson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2019-06-02T04:21:44+00:00"/>
+        <meta name="calibre:title_sort" content="Lottery, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

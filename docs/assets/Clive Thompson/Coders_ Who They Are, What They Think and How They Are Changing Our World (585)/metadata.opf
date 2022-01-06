@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">585</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">117cf187-6264-46e9-a609-dfa4e9a4d03f</dc:identifier>
+        <dc:title>Coders: Who They Are, What They Think and How They Are Changing Our World</dc:title>
+        <dc:creator opf:file-as="Thompson, Clive" opf:role="aut">Clive Thompson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-03T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;'Masterful . . . [Thompson] illuminates both the fascinating coders and the bewildering technological forces that are transforming the world in which we live.' - David Grann, author of The Lost City of Z.Facebook’s algorithms shaping the news. Uber’s cars flocking the streets. Revolution on Twitter and romance on Tinder. We live in a world constructed of computer code. Coders – software programmers – are the people who built it for us. And yet their worlds and minds are little known to outsiders. In Coders, Wired columnist Clive Thompson presents a brilliantly original anthropological reckoning with the most influential tribe in today’s world, interrogating who they are, how they think, what they value, what qualifies as greatness in their world, and what should give us pause.One of the most prominent journalists writing on technology today, Clive Thompson takes us into the minds of coders, the most quietly influential people on the planet, in a journey into the heart of the machine – and the men and women who made it.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Pan Macmillan</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781529019018</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">5Gt-DwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Industries</dc:subject>
+        <dc:subject>Computers &amp; Information Technology</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Web</dc:subject>
+        <dc:subject>Web Programming</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Software Development &amp; Engineering</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Security</dc:subject>
+        <dc:subject>Social Aspects</dc:subject>
+        <dc:subject>Language Arts &amp; Disciplines</dc:subject>
+        <dc:subject>Library &amp; Information Science</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Clive Thompson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2019-06-02T04:21:59+00:00"/>
+        <meta name="calibre:title_sort" content="Coders: Who They Are, What They Think and How They Are Changing Our World"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

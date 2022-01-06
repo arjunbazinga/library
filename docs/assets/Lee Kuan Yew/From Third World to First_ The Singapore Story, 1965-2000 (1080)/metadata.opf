@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1080</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d1a12021-983d-4ee0-9911-ae4ddcbc93eb</dc:identifier>
+        <dc:title>From Third World to First: The Singapore Story, 1965-2000</dc:title>
+        <dc:creator opf:file-as="Yew, Lee Kuan" opf:role="aut">Lee Kuan Yew</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-09-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Few gave tiny Singapore much chance of survival when independence was thrust upon it in 1965. Today the former British trading post is a thriving Asian metropolis with one of the world’s highest per capita income. The story of that transformation is told here by Singapore’s charismatic, controversial founding father Lee Kuan Yew. From Third World To First continues where the best-selling first volume, The Singapore Story, left off, and brings up to date the story of Singapore’s dramatic rise. It was first published in 2000. Delving deep into his own meticulous notes and previously unpublished papers and cabinet records, Lee details the extraordinary efforts it took for an island city-state in Southeast Asia to survive, with just “a razor’s edge” to manoeuvre in, as Albert Winsemius, Singapore’s economic advisor in the 1960s, put it.We read how a young man of 42 and his cabinet colleagues finished off the communist threat to the fledging state’s security, and began the long, hard work of building a nation: creating an army from scratch, stamping out corruption, providing mass public housing, and masterminding a national airline and airport. Lee writes frankly about his trenchant approach to political opponents and his often unorthodox views on human rights, democracy and inherited intelligence, aiming always “to be correct, not politically correct”. Nothing about Singapore escaped his watchful eye: whether choosing shrubs for roadsides, restoring the romance of historic Raffles Hotel of persuading young men to marry women as well-educated as themselves. Today’s safe, tidy Singapore certainly bears his stamp, but as he writes, “If this is a nanny state, I am proud to have fostered one.”&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Marshall Cavendish Editions</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">_HBPBAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789814561778</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>Political Process</dc:subject>
+        <dc:subject>Leadership</dc:subject>
+        <dc:subject>Biography &amp; Autobiography</dc:subject>
+        <dc:subject>Historical</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Asia</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lee Kuan Yew&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-11-19T07:29:34+00:00"/>
+        <meta name="calibre:title_sort" content="From Third World to First: The Singapore Story, 1965-2000"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

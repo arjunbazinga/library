@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1709</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6d468db2-4f74-48c4-8fbc-96715be06d4b</dc:identifier>
+        <dc:title>Fault Lines: How Hidden Fractures Still Threaten the World Economy</dc:title>
+        <dc:creator opf:file-as="Rajan, Raghuram G." opf:role="aut">Raghuram G. Rajan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-08T04:51:23+00:00</dc:date>
+        <dc:description>From an economist who warned of the global financial crisis, a new warning about the continuing peril to the world economyRaghuram Rajan was one of the few economists who warned of the global financial crisis before it hit. Now, as the world struggles to recover, it's tempting to blame what happened on just a few greedy bankers who took irrational risks and left the rest of us to foot the bill. In Fault Lines, Rajan argues that serious flaws in the economy are also to blame, and warns that a potentially more devastating crisis awaits us if they aren't fixed.Rajan shows how the individual choices that collectively brought about the economic meltdown—made by bankers, government officials, and ordinary homeowners—were rational responses to a flawed global financial order in which the incentives to take on risk are incredibly out of step with the dangers those risks pose. He traces the deepening fault lines in a world overly dependent on the indebted American consumer to power global economic growth and stave off global downturns. He exposes a system where America's growing inequality and thin social safety net create tremendous political pressure to encourage easy credit and keep job creation robust, no matter what the consequences to the economy's long-term health; and where the U.S. financial sector, with its skewed incentives, is the critical but unstable link between an overstimulated America and an underconsuming world.In Fault Lines, Rajan demonstrates how unequal access to education and health care in the United States puts us all in deeper financial peril, even as the economic choices of countries like Germany, Japan, and China place an undue burden on America to get its policies right. He outlines the hard choices we need to make to ensure a more stable world economy and restore lasting prosperity.</dc:description>
+        <dc:publisher>Princeton University Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781400839803</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">HY1V19yWOJUC</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">4fb6753c-b129-4a34-9112-e391356bc096</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>Public Policy</dc:subject>
+        <dc:subject>Economic Policy</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Economics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>International Relations</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Raghuram G. Rajan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-07-14T04:48:52+00:00"/>
+        <meta name="calibre:title_sort" content="Fault Lines: How Hidden Fractures Still Threaten the World Economy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

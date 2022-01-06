@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">766</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">707ad238-4b77-4125-ae92-0f7bf160fa42</dc:identifier>
+        <dc:title>The Namesake: A Novel</dc:title>
+        <dc:creator opf:file-as="Lahiri, Jhumpa" opf:role="aut">Jhumpa Lahiri</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-09-01T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Jhumpa Lahiri's &lt;em&gt;Interpreter of Maladies&lt;/em&gt; established this young writer as one the most brilliant of her generation. Her stories are one of the very few debut works -- and only a handful of collections -- to have won the Pulitzer Prize for fiction. Among the many other awards and honors it received were the New Yorker Debut of the Year award, the PEN/Hemingway Award, and the highest critical praise for its grace, acuity, and compassion in detailing lives transported from India to America. In &lt;em&gt;The Namesake&lt;/em&gt; , Lahiri enriches the themes that made her collection an international bestseller: the immigrant experience, the clash of cultures, the conflicts of assimilation, and, most poignantly, the tangled ties between generations. Here again Lahiri displays her deft touch for the perfect detail -- the fleeting moment, the turn of phrase -- that opens whole worlds of emotion. &lt;em&gt;The Namesake&lt;/em&gt; takes the Ganguli family from their tradition-bound life in Calcutta through their fraught transformation into Americans. On the heels of their arranged wedding, Ashoke and Ashima Ganguli settle together in Cambridge, Massachusetts. An engineer by training, Ashoke adapts far less warily than his wife, who resists all things American and pines for her family. When their son is born, the task of naming him betrays the vexed results of bringing old ways to the new world. Named for a Russian writer by his Indian parents in memory of a catastrophe years before, Gogol Ganguli knows only that he suffers the burden of his heritage as well as his odd, antic name. Lahiri brings great empathy to Gogol as he stumbles along the first-generation path, strewn with conflicting loyalties, comic detours, and wrenching love affairs. With penetrating insight, she reveals not only the defining power of the names and expectations bestowed upon us by our parents, but also the means by which we slowly, sometimes painfully, come to define ourselves. &lt;em&gt;The New York Times&lt;/em&gt; has praised Lahiri as "a writer of uncommon elegance and poise." &lt;em&gt;The Namesake&lt;/em&gt; is a fine-tuned, intimate, and deeply felt novel of identity. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Mariner Books</dc:publisher>
+        <dc:identifier opf:scheme="URNUUID0618733965">0618733965</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B003KGAUUQ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Jhumpa Lahiri&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-04-04T09:55:56+00:00"/>
+        <meta name="calibre:title_sort" content="Namesake: A Novel, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

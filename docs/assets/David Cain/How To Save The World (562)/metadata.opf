@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">562</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da3d7951-4b70-4865-9eca-13f7c6ad6729</dc:identifier>
+        <dc:title>How To Save The World</dc:title>
+        <dc:creator opf:file-as="Cain, David" opf:role="aut">David Cain</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;David Cain&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2019-04-19T16:25:08+00:00"/>
+        <meta name="calibre:title_sort" content="How To Save The World"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

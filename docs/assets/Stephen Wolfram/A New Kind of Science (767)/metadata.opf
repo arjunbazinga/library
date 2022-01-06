@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">767</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1a8514eb-b0c5-47f4-a5ba-b4abba8f1871</dc:identifier>
+        <dc:title>A New Kind of Science</dc:title>
+        <dc:creator opf:file-as="Wolfram, Stephen" opf:role="aut">Stephen Wolfram</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-11-29T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;This long-awaited work from one of the world's most respected scientists presents a series of dramatic discoveries never before made public. Starting from a collection of simple computer experiments--illustrated in the book by striking computer graphics--Stephen Wolfram shows us how their unexpected results force a whole new way of looking at the operation of our universe. Wolfram uses his approach to tackle a remarkable array of fundamental problems in science, from the origins of apparent randomness in physical systems, to the development of complexity in biology, the ultimate scope and limitations of mathematics, the possibility of a truly fundamental theory of physics, the interplay between free will and determinism and the character of intelligence in the universe. Written with exceptional clarity, and illustrated by nearly a thousand original pictures, this seminal book allows scientists and non-scientists alike to participate in what promises to be a major intellectual revolution. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Wolfram Media, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B01N1I83V8</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781579550257</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">W0GjvgEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Computer Science</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>System Theory</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen Wolfram&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2002-04-04T11:04:18+00:00"/>
+        <meta name="calibre:title_sort" content="New Kind of Science, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

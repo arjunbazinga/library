@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">927</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a8aa3c2b-9184-4da4-95f6-1f4fa055873e</dc:identifier>
+        <dc:title>Types as axioms, or playing god with static types</dc:title>
+        <dc:creator opf:file-as="Blog" opf:role="aut">Blog</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>blog</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Blog&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-08-17T14:36:33+00:00"/>
+        <meta name="calibre:title_sort" content="Types as axioms, or playing god with static types"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

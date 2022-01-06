@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">432</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e2275f48-aa31-4eed-a87c-9f7ae3e7b41a</dc:identifier>
+        <dc:title>Future Shock</dc:title>
+        <dc:creator opf:file-as="Toffler, Alvin" opf:role="aut">Alvin Toffler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1970-08-14T18:30:00+00:00</dc:date>
+        <dc:identifier opf:scheme="GOOGLE">sgQySAq1A0YC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Technology</dc:subject>
+        <dc:subject>Society</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alvin Toffler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2018-08-01T13:16:30+00:00"/>
+        <meta name="calibre:title_sort" content="Future Shock"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">999</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3098c025-ee66-4751-9daa-9b8b3ed1af24</dc:identifier>
+        <dc:title>The Coddling of the American Mind</dc:title>
+        <dc:creator opf:file-as="Lukianoff, Greg &amp; Haidt, Jonathan" opf:role="aut">Greg Lukianoff</dc:creator>
+        <dc:creator opf:file-as="Lukianoff, Greg &amp; Haidt, Jonathan" opf:role="aut">Jonathan Haidt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-09-04T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;A timely investigation into the campus assault on free speech and what it means for students, education, and our democracy&lt;/b&gt;&lt;br&gt;In September of 2015, Jonathan Haidt and Greg Lukianoff wrote a cover story for the Atlantic called "The Coddling of the American Mind" in which they detailed the catastrophic campus war on freedom of speech. It is now one of the most read articles in the one hundred and sixty-year history of the magazine. Haidt and Lukianoff, overnight, became the go-to experts on this new American intolerance. In the two years since the article originally ran, campus culture has grown immeasurably worse. We've all seen the headlines: Charles Murray's appearance at Middlebury College devolved into a violent brawl; invitations to speak on campus have been rescinded to conservatives of all stripes; and many universities now have Bias Response Teams of students who are deployed anytime a professor offends anyone. Rather than freedom &lt;i&gt;of&lt;/i&gt; speech, college is now...</dc:description>
+        <dc:publisher>Penguin Publishing Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Jonathan Haidt&quot;: &quot;&quot;, &quot;Greg Lukianoff&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-09-22T18:16:49.676099+00:00" name="calibre:timestamp"/>
+        <meta content="Coddling of the American Mind, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dd867157-1fcf-42f0-af4f-167192304ea9</dc:identifier>
+        <dc:title>The Three-Body Problem</dc:title>
+        <dc:creator opf:file-as="Liu, Cixin" opf:role="aut">Cixin Liu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-11-10T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The winner of 2015 Hugo Award. Winner of the Nebula Award. The Three-Body Problem is a masterpiece of enormous scope and vision, written by Cixin, Liu, the most prevailing science fiction writer in China today and tells a story set against the backdrop of China's Cultural Revolution. Back in those days, Hongan , a secret military project, aiming to explore outer space civilization and establish contact with aliens, had made breakthrough progress. But when Wenjie Ye pressed the launch key, she didn't know the destiny of human beings had been completely changed. The first signal from the earth, with the sun as its center, dashed forward to the deeper side of the universe. Four light years away, the Three-Body civilization is in big trouble. Just like the earth, they also revolve around the sun, but quite randomly. After hundreds of destruction and resurrection, they were forced to break away from the home planet. And at the very moment, they received the message from the earth. After locking the earthman's basic science with super technology, the huge universe fleet of the Three-Body started to march towards the earth. The destiny of human beings was approaching. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Tom Doherty Associates</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781466853447</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">ZrNzAwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">7536692935</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00IQO403K</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Alien Contact</dc:subject>
+        <dc:subject>Hard Science Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Cixin Liu&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2018-03-11T13:53:27+00:00"/>
+        <meta name="calibre:title_sort" content="Three-Body Problem, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

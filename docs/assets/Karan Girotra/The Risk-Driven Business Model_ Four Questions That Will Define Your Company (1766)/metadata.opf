@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1766</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8007cd79-16be-4a1a-a9e2-416809c8a172</dc:identifier>
+        <dc:title>The Risk-Driven Business Model: Four Questions That Will Define Your Company</dc:title>
+        <dc:creator opf:file-as="Girotra, Karan &amp; Netessine, Serguei" opf:role="aut">Karan Girotra</dc:creator>
+        <dc:creator opf:file-as="Girotra, Karan &amp; Netessine, Serguei" opf:role="aut">Serguei Netessine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-11-15T11:03:48+00:00</dc:date>
+        <dc:description>How to outsmart riskRisk has been defined as the potential for losing something of value. In business, that value could be your original investment or your expected future returns.The Risk-Driven Business Model will help you manage risk better by showing how the key choices you make in designing your business models either increase or reduce two characteristic types of risk?information risk, when you make decisions without enough information, and incentive-alignment risk, when decision makers' incentives are at odds with the broader goals of the company. Leaders who understand how the structure of their business model affects risk have the power to create wealth, revolutionize industries, and shape a better world.INSEAD's Karan Girotra and Serguei Netessine, noted operations and innovation professors who have consulted with dozens of companies, walk you through a business model audit to determine what key decisions get made in a business, when they get made, who makes them, and why we make the decisions we do.By changing your company's key decisions within this framework, you can fundamentally alter the risks that will impact your business.This book is for entrepreneurs and executives in companies involved in dynamic industries where the locus of risk is shifting, and includes lessons from Zipcar, Blockbuster, Apple, Benetton, Kickstarter, Walmart, and dozens of other global companies.The Risk-Driven Business Model demystifies business model risk, with clear directives aimed at improving decision making and driving your business forward.</dc:description>
+        <dc:publisher>Harvard Business Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781422191538</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">hPefAwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Decision-Making &amp; Problem Solving</dc:subject>
+        <dc:subject>Entrepreneurship</dc:subject>
+        <dc:subject>Management</dc:subject>
+        <dc:subject>Strategic Planning</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Karan Girotra&quot;: &quot;&quot;, &quot;Serguei Netessine&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-11-05T10:57:41+00:00"/>
+        <meta name="calibre:title_sort" content="Risk-Driven Business Model: Four Questions That Will Define Your Company, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

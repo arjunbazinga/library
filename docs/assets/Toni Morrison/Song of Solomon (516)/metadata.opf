@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">516</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">50a883d3-cb4f-4dd1-869b-3ddcf421df4b</dc:identifier>
+        <dc:title>Song of Solomon</dc:title>
+        <dc:creator opf:file-as="Morrison, Toni" opf:role="aut">Toni Morrison</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-07-23T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;span style="font-style: italic; font-weight: 600"&gt;New York Times&lt;/span&gt;&lt;strong&gt; Bestseller&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;Milkman Dead was born shortly after a neighborhood eccentric hurled himself off a rooftop in a vain attempt at flight. For the rest of his life he, too, will be trying to fly. With this brilliantly imagined novel, Toni Morrison transfigures the coming-of-age story as audaciously as Saul Bellow or Gabriel García Márquez. As she follows Milkman from his rustbelt city to the place of his family’s origins, Morrison introduces an entire cast of strivers and seeresses, liars and assassins, the inhabitants of a fully realized black world. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;"You can't go wrong by reading or re-reading the collected works of Toni Morrison. &lt;/strong&gt;&lt;span style="font-style: italic; font-weight: 600"&gt;Beloved&lt;/span&gt;&lt;strong&gt; ,  &lt;/strong&gt;&lt;span style="font-style: italic; font-weight: 600"&gt;Song of Solomo&lt;/span&gt;&lt;strong&gt; n,  &lt;/strong&gt;&lt;span style="font-style: italic; font-weight: 600"&gt;The Bluest Eye&lt;/span&gt;&lt;strong&gt; ,  &lt;/strong&gt;&lt;span style="font-style: italic; font-weight: 600"&gt;Sula&lt;/span&gt;&lt;strong&gt; , everything else — they're transcendent, all of them. You’ll be glad you read them."--Barack Obama&lt;/strong&gt; **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Knopf Doubleday Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307388124</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">140003342X</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">RxkWfF2s7EUC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>African American</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Coming of Age</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Toni Morrison&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2018-08-28T19:06:45+00:00"/>
+        <meta name="calibre:title_sort" content="Song of Solomon"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

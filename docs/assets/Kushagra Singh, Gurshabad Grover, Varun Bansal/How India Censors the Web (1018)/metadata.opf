@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1018</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b19df1f8-1b5c-42fa-9746-4d1fd78b4fd4</dc:identifier>
+        <dc:title>How India Censors the Web</dc:title>
+        <dc:creator opf:file-as="Kushagra Singh, Gurshabad Grover, Varun Bansal" opf:role="aut">Kushagra Singh, Gurshabad Grover, Varun Bansal</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Kushagra Singh, Gurshabad Grover, Varun Bansal&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-09-30T11:57:13+00:00"/>
+        <meta name="calibre:title_sort" content="How India Censors the Web"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">950</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">692b5dca-1fe3-4aef-96b5-700463705fc6</dc:identifier>
+        <dc:title>Get Together: How to Build a Community With Your People. E</dc:title>
+        <dc:creator opf:file-as="Richardson, Bailey &amp; Huynh, Kevin &amp; Sotto, Kai Elmer" opf:role="aut">Bailey Richardson</dc:creator>
+        <dc:creator opf:file-as="Richardson, Bailey &amp; Huynh, Kevin &amp; Sotto, Kai Elmer" opf:role="aut">Kevin Huynh</dc:creator>
+        <dc:creator opf:file-as="Richardson, Bailey &amp; Huynh, Kevin &amp; Sotto, Kai Elmer" opf:role="aut">Kai Elmer Sotto</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-19T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Although communities feel magical, they don't come together by magic. Get Together is a guide to cultivating a community-people who come together over what they care about. Whether starting a run crew, helping online streamers connect with fans, or sparking a movement of K-12 teachers, the secret to community-building is the same: don't fixate on what you can do for people (or what they can do for you). Instead, focus on what you can do with them. In Get Together, the People &amp;amp; Company team provides stories, prompts, and principles for each stage of cultivating a passionate group of people. Every organization holds the potential to build and sustain a thriving community. Get Together shows readers how companies and customers, artist and fans, or organizers and advocates, can join forces to accomplish more together than they could have alone.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Stripe Press</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">ab52a353-ceee-4cf2-91d0-87e66056ed47</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">STupxwEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781732265196</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Bailey Richardson&quot;: &quot;&quot;, &quot;Kevin Huynh&quot;: &quot;&quot;, &quot;Kai Elmer Sotto&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-08-22T19:42:13+00:00"/>
+        <meta name="calibre:title_sort" content="Get Together: How to Build a Community With Your People. E"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

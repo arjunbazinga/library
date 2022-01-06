@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">762</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cea46f42-94a5-4d24-a9ab-edd842701d4d</dc:identifier>
+        <dc:title>Scoop</dc:title>
+        <dc:creator opf:file-as="Waugh, Evelyn" opf:role="aut">Evelyn Waugh</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-12-10T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;Selected by the Modern Library as one of the 100 best novels of the century, &lt;em&gt;Scoop&lt;/em&gt; is a "thoroughly enjoyable, uproariously funny" satire of the journalism business ( &lt;em&gt;New York Times&lt;/em&gt; ). &lt;/p&gt;
+&lt;p&gt;Lord Copper, newspaper magnate and proprietor of the &lt;em&gt;Daily Beast,&lt;/em&gt; has always prided himself on his intuitive flair for spotting ace reporters. That is not to say he has not made the odd blunder, however, and may in a moment of weakness make another. Acting on a dinner party tip from Mrs. Algernon Stitch, Lord Copper feels convinced that he has hit on just the chap to cover a promising war in the African Republic of Ishmaelia. &lt;/p&gt;
+&lt;p&gt;So begins &lt;em&gt;Scoop,&lt;/em&gt; Waugh's exuberant comedy of mistaken identity and brilliantly irreverent satire of the hectic pursuit of hot news.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;"Its timelessness is both hilarious and depressing." --Seth Meyers&lt;/strong&gt; **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Back Bay Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316216371</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0316216372</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Evelyn Waugh&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="1938-04-04T08:09:38+00:00" name="calibre:timestamp"/>
+        <meta content="Scoop" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">837</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c5a36177-5b40-492a-b728-58a206b71aa9</dc:identifier>
+        <dc:title>Programming in Haskell</dc:title>
+        <dc:creator opf:file-as="Hutton, Graham" opf:role="aut">Graham Hutton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Haskell is one of the leading languages for teaching functional programming, enabling students to write simpler and cleaner code, and to learn how to structure and reason about programs. This introduction is ideal for beginners: it requires no previous programming experience and all concepts are explained from first principles via carefully chosen examples. Each chapter includes exercises that range from the straightforward to extended projects, plus suggestions for further reading on more advanced topics. The author is a leading Haskell researcher and instructor, well-known for his teaching skills. The presentation is clear and simple, and benefits from having been refined and class-tested over several years. The result is a text that can be used with courses, or for self-learning. Features include freely accessible Powerpoint slides for each chapter, solutions to exercises and examination questions (with solutions) available to instructors, and a downloadable code that's fully compliant with the latest Haskell release. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="AMAZON">0521692695</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Graham Hutton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2020-07-09T07:37:28+00:00"/>
+        <meta name="calibre:title_sort" content="Programming in Haskell"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

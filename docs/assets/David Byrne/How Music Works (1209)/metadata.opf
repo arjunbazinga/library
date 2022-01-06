@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1209</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c6b17a25-4d93-41f7-b96e-08139a8217eb</dc:identifier>
+        <dc:title>How Music Works</dc:title>
+        <dc:creator opf:file-as="Byrne, David" opf:role="aut">David Byrne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-09-12T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;How Music Works is David Byrne's buoyant celebration of a subject he has spent a lifetime thinking about. Equal parts historian and anthropologist, raconteur and social scientist, Byrne draws on his own work over the years with Talking Heads, Brian Eno, and his myriad collaborators - along with journeys to Wagnerian opera houses, African villages, and anywhere music exists - to show that music-making is not just the act of a solitary composer in a studio, but rather a logical, populist, and beautiful result of cultural circumstance. A brainy, irresistible adventure, How Music Works is an impassioned argument about music's liberating, life-affirming power.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Canongate Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780857862518</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">d22UqerzutgC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Music</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;David Byrne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-02-11T06:24:30+00:00"/>
+        <meta name="calibre:title_sort" content="How Music Works"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

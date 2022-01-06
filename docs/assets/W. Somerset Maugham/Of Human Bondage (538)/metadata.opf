@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">538</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">193fcfb5-527c-431f-a0f2-8b5e2aa219e0</dc:identifier>
+        <dc:title>Of Human Bondage</dc:title>
+        <dc:creator opf:file-as="Maugham, W. Somerset" opf:role="aut">W. Somerset Maugham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1991-06-01T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;A masterpiece of modern literature that mirrors Maugham’s own career.&lt;/strong&gt; &lt;em&gt;Of Human Bondage&lt;/em&gt; is the first and most autobiographical of Maugham's novels. It is the story of Philip Carey, an orphan eager for life, love and adventure. After a few months studying in Heidelberg, and a brief spell in Paris as a would-be artist, Philip settles in London to train as a doctor. And that is where he meets Mildred, the loud but irresistible waitress with whom he plunges into a formative, tortured and masochistic affair which very nearly ruins him. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Bantam Classics</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">gG7aKOItKC0C</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">055321392X</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781775415084</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. Somerset Maugham&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2018-11-04T17:32:21+00:00"/>
+        <meta name="calibre:title_sort" content="Of Human Bondage"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

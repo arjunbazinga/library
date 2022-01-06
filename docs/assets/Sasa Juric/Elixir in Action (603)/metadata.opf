@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">603</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">89597a9f-d6f4-4c8a-b17a-0b93de4b110e</dc:identifier>
+        <dc:title>Elixir in Action</dc:title>
+        <dc:creator opf:file-as="Juric, Saša" opf:role="aut">Saša Juric</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-30T00:55:38+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Elixir in Action&lt;/em&gt; teaches you to apply the new Elixir programming language to practical problems associated with scalability, concurrency, fault tolerance, and high availability. &lt;/p&gt;
+&lt;p&gt;Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the Technology&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;Elixir is a modern programming language that takes advantage of BEAM, the Erlang virtual machine, without the burden of Erlang's complex syntax and conventions. Elixir gives you Ruby-like elegance with the power to develop bulletproof distributed server systems that can handle massive numbers of simultaneous clients and run with almost no downtime. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the Book&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Elixir in Action&lt;/em&gt; teaches you how to solve practical problems of scalability, concurrency, fault tolerance, and high availability using Elixir. You'll start with the language, learning basic constructs and building blocks. Then, you'll learn to think about problems using Elixir's functional programming mindset. With that solid foundation, you'll confidently explore Elixir's seamless integration with BEAM and Erlang's powerful OTP framework of battle-tested abstractions you can use immediately. Finally, the book provides guidance on how to distribute a system over multiple machines and control it in production. &lt;/p&gt;
+&lt;p&gt;Requires no previous experience with Elixir, Erlang, or the OTP. Written for readers who are familiar with another programming language like Ruby, JavaScript, or C#. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What's Inside&lt;/strong&gt; &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Practical introduction to the Elixir language&lt;/li&gt;
+&lt;li&gt;Functional programming idioms&lt;/li&gt;
+&lt;li&gt;Mastering the OTP framework&lt;/li&gt;
+&lt;li&gt;Creating deployable releases&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;About the Author&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Saša Jurić&lt;/strong&gt; is a developer with extensive experience using Elixir and Erlang in high-volume, concurrent server-side systems. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt; &lt;/p&gt;
+&lt;h5&gt;PART 1 THE LANGUAGE&lt;/h5&gt;
+&lt;ol&gt;&lt;li&gt;First steps&lt;/li&gt;
+&lt;li&gt;Building blocks&lt;/li&gt;
+&lt;li&gt;Control flow&lt;/li&gt;
+&lt;li&gt;Data abstractions&lt;/li&gt;&lt;/ol&gt;
+&lt;h5&gt;PART 2 THE PLATFORM&lt;/h5&gt;
+&lt;ol&gt;&lt;li&gt;Concurrency primitives&lt;/li&gt;
+&lt;li&gt;Generic server processes&lt;/li&gt;
+&lt;li&gt;Building a concurrent system&lt;/li&gt;
+&lt;li&gt;Fault-tolerance basics&lt;/li&gt;
+&lt;li&gt;Isolating error effects&lt;/li&gt;
+&lt;li&gt;Sharing state&lt;/li&gt;&lt;/ol&gt;
+&lt;h5&gt;PART 3 PRODUCTION&lt;/h5&gt;
+&lt;ol&gt;&lt;li&gt;Working with components&lt;/li&gt;
+&lt;li&gt;Building a distributed system&lt;/li&gt;&lt;/ol&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Manning Publications</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">161729201X</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Elixr</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Saša Juric&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-03-06T16:13:18+00:00"/>
+        <meta name="calibre:title_sort" content="Elixir in Action"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

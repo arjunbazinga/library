@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">747</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f85379d3-c4ec-4363-8ecd-38eb5ecaeb83</dc:identifier>
+        <dc:title>Nightmare Abbey</dc:title>
+        <dc:creator opf:file-as="Peacock, Thomas Love" opf:role="aut">Thomas Love Peacock</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-04-11T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Despite its ominously sounding title, Nightmare Abbey is a Gothic topical satire in which the author pokes light-hearted fun at the romantic movement in contemporary English literature, in particular its obsession with morbid subjects, misanthropy and transcendental philosophical systems. Most of the characters in the novel are based on historical figures whom Peacock wishes to pillory. Insofar as Nightmare Abbey may be said to have a plot, it follows the fortunes of Christopher Glowry, Esquire, a morose widower who lives with his only son Scythrop in his semi-dilapidated family mansion Nightmare Abbey, which is situated on a strip of dry land between the sea and the fens in Lincolnshire. Mr Glowry is a melancholy gentleman who likes to surround himself with servants with long faces or dismal names such as Raven, Graves or Deathshead. Scythrop is recovering from a love affair, which ended badly when Mr Glowry and the young woman's father quarrelled over terms and broke off the proposed match. To distract himself Scythrop takes up the study of German romantic literature and transcendental metaphysics. Scythrop throws himself into a quixotic mission of reforming the world and regenerating the human species, and dreams up various schemes to achieve these ends. Most of these involve secret societies of Illuminati. He writes a suitably impenetrable treatise on the subject, which only sells seven copies. But Scythrop is not despondent. Seven is a mystical number and he determines to seek out his readers and make of them seven golden candlesticks with which to illuminate the world. He has a hidden chamber constructed in his gloomy tower as a secret retreat from the enemies of mankind, who will no doubt seek to thwart his attempts at social regeneration. Meanwhile, however, he is constantly distracted from these projects by his dalliance with two women – the worldly and flirtatious Marionetta and the mysterious and intellectual Stella – and by the constant stream of visitors to the abbey. Things become interesting when Mr and Mrs Hilary arrive with their niece, the beautiful Marionetta Celestina O'Carroll.Nightmare Abbey is generally considered to be the most lastingly successful of Peacock's novels. Together with four other Peacock novels – Headlong Hall, Melincourt, Crotchet Castle and Gryll Grange – it comprises a matching set of satirical works that are quite exceptional in English literature. As a satirist Peacock owed something to Rabelais, Swift and to Voltaire and various French writers of the 18th century; but as a novelist he seems to owe little if anything to his predecessors. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>CreateSpace Independent Publishing Platform</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1511698950</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781511698955</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas Love Peacock&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-04-04T08:09:36+00:00"/>
+        <meta name="calibre:title_sort" content="Nightmare Abbey"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">577</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d4babb20-591e-494a-9d78-9071de2cc680</dc:identifier>
+        <dc:title>Concrete Mathematics: A Foundation for Computer Science</dc:title>
+        <dc:creator opf:file-as="Donald E. Knuth, Oren Patashnik" opf:role="aut">Donald E. Knuth, Oren Patashnik</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1994-03-09T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;This book introduces the mathematics that supports advanced computer programming and the analysis of algorithms. The primary aim of its well-known authors is to provide a solid and relevant base of mathematical skills - the skills needed to solve complex problems, to evaluate horrendous sums, and to discover subtle patterns in data. It is an indispensable text and reference not only for computer scientists - the authors themselves rely heavily on it! - but for serious users of mathematics in virtually every discipline. Concrete Mathematics is a blending of CONtinuous and disCRETE mathematics. "More concretely," the authors explain, "it is the controlled manipulation of mathematical formulas, using a collection of techniques for solving problems." The subject matter is primarily an expansion of the Mathematical Preliminaries section in Knuth's classic Art of Computer Programming, but the style of presentation is more leisurely, and individual topics are covered more deeply. Several new topics have been added, and the most significant ideas have been traced to their historical roots. The book includes more than 500 exercises, divided into six categories. Complete answers are provided for all exercises, except research problems, making the book particularly valuable for self-study. Major topics include: * Sums * Recurrences * Integer functions * Elementary number theory * Binomial coefficients * Generating functions * Discrete probability * Asymptotic methods&lt;/p&gt;
+&lt;p&gt;This second edition includes important new material about mechanical summation. In response to the widespread use of the first edition as a reference book, the bibliography and index have also been expanded, and additional nontrivial improvements can be found on almost every page. Readers will appreciate the informal style of Concrete Mathematics. Particularly enjoyable are the marginal graffiti contributed by students who have taken courses based on this material. The authors want to convey not only the importance of the techniques presented, but some of the fun in learning and using them. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Addison-Wesley Professional</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0201558025</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780201558029</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mathematics computer science</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Donald E. Knuth, Oren Patashnik&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2019-06-02T04:21:49+00:00"/>
+        <meta name="calibre:title_sort" content="Concrete Mathematics: A Foundation for Computer Science"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">977</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">527ed4fb-ec24-437c-acd2-6daa1b1909a8</dc:identifier>
+        <dc:title>Accelerate</dc:title>
+        <dc:creator opf:file-as="Forsgren PhD" opf:role="aut">Forsgren PhD</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;strong&gt;Accelerate your organization to win in the marketplace.&lt;/strong&gt;&lt;br /&gt;How can we apply technology to drive business value? For years, we've been told that the performance of software delivery teams doesn't matter―that it can't provide a competitive advantage to our companies. Through four years of groundbreaking research to include data collected from the State of DevOps reports conducted with Puppet, Dr. Nicole Forsgren, Jez Humble, and Gene Kim set out to find a way to measure software delivery performance―and what drives it―using rigorous statistical methods. This book presents both the findings and the science behind that research, making the information accessible for readers to apply in their own organizations.&lt;br /&gt;Readers will discover how to measure the performance of their teams, and what capabilities they should invest in to drive higher performance. This book is ideal for management at every level.</dc:description>
+        <dc:publisher>IT Revolution Press</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business</dc:subject>
+        <dc:subject>Software</dc:subject>
+        <dc:subject>Technology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Forsgren PhD&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-08-26T16:52:15+00:00"/>
+        <meta name="calibre:title_sort" content="Accelerate"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

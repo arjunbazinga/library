@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">902</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">50c5819f-6ffa-4f1e-b3ca-55579321f326</dc:identifier>
+        <dc:title>Swipe to Unlock: The Primer on Technology and Business Strategy</dc:title>
+        <dc:creator opf:file-as="Detroja, Parth &amp; Agashe, Aditya &amp; Mehta, Neel" opf:role="aut">Parth Detroja</dc:creator>
+        <dc:creator opf:file-as="Detroja, Parth &amp; Agashe, Aditya &amp; Mehta, Neel" opf:role="aut">Aditya Agashe</dc:creator>
+        <dc:creator opf:file-as="Detroja, Parth &amp; Agashe, Aditya &amp; Mehta, Neel" opf:role="aut">Neel Mehta</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-18T17:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Authored by 3 Product Managers at Google, Facebook, and Microsoft,&lt;/strong&gt; &lt;em&gt;Swipe to Unlock&lt;/em&gt;  is a comprehensive guide on the must-know concepts of technology and business strategy.  &lt;strong&gt;It is a must-read for anyone pursuing product management, design, marketing, consulting or business strategy roles in the tech industry.&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="font-style: italic; font-weight: 600"&gt;Swipe to Unlock was updated in 2019 to &lt;/span&gt;&lt;strong&gt;*include over 40 pages of new content&lt;/strong&gt; to cover the latest developments in the world of tech.&lt;span style="font-style: italic; font-weight: 600"&gt; &lt;/span&gt;&lt;strong&gt;*We highly recommend buying our book directly from Amazon rather than a third-party seller as it's the only way to ensure you get the latest version.&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;This  &lt;strong&gt;#1 Amazon Business Bestseller won a medal&lt;/strong&gt; from the  &lt;strong&gt;North American Book Awards&lt;/strong&gt; and has been featured in  &lt;strong&gt;The Wall Street Journal&lt;/strong&gt; , &lt;strong&gt;Forbes&lt;/strong&gt; , and  &lt;strong&gt;Business Insider.&lt;/strong&gt; &lt;em&gt;Swipe to Unlock&lt;/em&gt; was touted as  &lt;strong&gt;"our generation's Rosetta Stone for enabling anyone to peer into the technology changing everyday life"&lt;/strong&gt;  by Jeremy Schifeling. &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;How does Spotify determine what songs to recommend to you?&lt;/li&gt;
+&lt;li&gt;How did KaiOS become the third largest mobile operating system in just two years since launching?&lt;/li&gt;
+&lt;li&gt;Why does Amazon offer free shipping with Prime if it loses them money?&lt;/li&gt;
+&lt;li&gt;How did a single typo take down 20% of the internet?&lt;/li&gt;
+&lt;li&gt;Why did Microsoft acquire LinkedIn?&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;By answering real-world questions like this,  &lt;span style="font-style: italic; font-weight: 600"&gt;Swipe to Unlock&lt;/span&gt;&lt;strong&gt;  gives you a peek under the hood of the technology you use every day, decodes tech's biggest buzzwords, and shows you how technology is changing the society we live in for better or for worse.&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Topics Covered:&lt;/strong&gt; Software Development, Business Models &amp;amp; Strategies, Economics, Hacking &amp;amp; Security, Hardware &amp;amp; Robots, The Internet, Cloud Computing, Big Data, Technology Policy, Emerging Markets, Future Trends, and much more! &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Featured Companies:&lt;/strong&gt; Google, Facebook, Microsoft, Amazon, Apple, Spotify, Uber, WeChat, Yelp, Tinder, Washington Post, Grab, Toyota, GoJek, Samsung, Salesforce, M-Pesa, Quora, KaiOS, Twitter, Tesla, ByteDance, Airbnb, Robinhood, Adobe, Alibaba, Netflix, Paytm, Target, and many more! &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Unlock the answers you need to ace your tech interviews or become a better-educated digital citizen.&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="AMAZON">B0756MTX6K</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0756MTX6K</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Parth Detroja&quot;: &quot;&quot;, &quot;Aditya Agashe&quot;: &quot;&quot;, &quot;Neel Mehta&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2020-08-09T07:29:05+00:00"/>
+        <meta name="calibre:title_sort" content="Swipe to Unlock: The Primer on Technology and Business Strategy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

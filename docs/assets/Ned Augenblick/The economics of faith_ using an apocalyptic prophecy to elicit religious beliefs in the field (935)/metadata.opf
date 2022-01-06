@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">935</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d1db1aea-bf2a-4940-bf33-db68b0fee760</dc:identifier>
+        <dc:title>The economics of faith: using an apocalyptic prophecy to elicit religious beliefs in the field</dc:title>
+        <dc:creator opf:file-as="Augenblick, Ned &amp; Cunha, Jesse M. &amp; Bó, Ernesto Dal &amp; Rao, Justin M." opf:role="aut">Ned Augenblick</dc:creator>
+        <dc:creator opf:file-as="Augenblick, Ned &amp; Cunha, Jesse M. &amp; Bó, Ernesto Dal &amp; Rao, Justin M." opf:role="aut">Jesse M. Cunha</dc:creator>
+        <dc:creator opf:file-as="Augenblick, Ned &amp; Cunha, Jesse M. &amp; Bó, Ernesto Dal &amp; Rao, Justin M." opf:role="aut">Ernesto Dal Bó</dc:creator>
+        <dc:creator opf:file-as="Augenblick, Ned &amp; Cunha, Jesse M. &amp; Bó, Ernesto Dal &amp; Rao, Justin M." opf:role="aut">Justin M. Rao</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-15T18:55:58+00:00</dc:date>
+        <dc:description>Journal of Public Economics, Accepted manuscript. doi:10.1016/j.jpubeco.2016.07.004</dc:description>
+        <dc:publisher>Elsevier B.V.</dc:publisher>
+        <dc:identifier opf:scheme="URL">http://dx.doi.org/10.1016/j.jpubeco.2016.07.004</dc:identifier>
+        <dc:identifier opf:scheme="DOI">10.1016/j.jpubeco.2016.07.004</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Economics of faith</dc:subject>
+        <dc:subject>Religion</dc:subject>
+        <dc:subject>Faith</dc:subject>
+        <dc:subject>Time preference</dc:subject>
+        <dc:subject>Beliefs</dc:subject>
+        <dc:subject>Field experiments</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ned Augenblick&quot;: &quot;&quot;, &quot;Jesse M. Cunha&quot;: &quot;&quot;, &quot;Ernesto Dal Bó&quot;: &quot;&quot;, &quot;Justin M. Rao&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-08-21T08:16:06+00:00"/>
+        <meta name="calibre:title_sort" content="economics of faith: using an apocalyptic prophecy to elicit religious beliefs in the field, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
