@@ -1,244 +1,109 @@
-﻿/* CSS Stylesheet for formatting calibre2opds XML catalogs */
-
-#topbar{
-display: none;
-}
-
-#footer{
-display : none;
-}
-
-
-.fullEntry_title {
-}
-
-.fullEntry_cover {
-}
-
-.fullEntry_summary {
-}
-
-.fullEntry_downloads {
-}
-
-.fullEntry_related {
-}
-
-.fullEntry_links {
+﻿/* General Body and Link Styles */
+body {
+    background: #f5f5f5;  /* Flatly's background is usually lighter */
+    color: #5e5e5e;  /* Flatly uses softer text colors for better readability */
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; /* Flatly's preferred font stack */
+    margin: 20px;
+    line-height: 1.6;
 }
 
 a {
-	color: #557; 
-	text-decoration: none;
-	}
-
-body {
-	background: white; 
-	color: black; 
-	margin: 20px;
-	}
-
-p.dateGenerated {
-	margin-left: 2em;
-	margin-right: 2em;
-	margin-top: 0;
-	margin-bottom: 0.5em;
-}
-
-	
-/* nice buttons */
-/*Credits: Dynamic Drive CSS Library */
-/*URL: http://www.dynamicdrive.com/style/ */
-
-a.ovalbutton{
-background: transparent url('oval-red-left.gif') no-repeat top left;
-display: block;
-float: left;
-font: normal 13px Tahoma; /* Change 13px as desired */
-line-height: 16px; /* This value + 4px + 4px (top and bottom padding of SPAN) must equal height of button background (default is 24px) */
-height: 24px; /* Height of button background height */
-padding-left: 11px; /* Width of left menu image */
-text-decoration: none;
-}
- 
-a:link.ovalbutton, a:visited.ovalbutton, a:active.ovalbutton{
-color: #494949; /*button text color*/
-}
- 
-a.ovalbutton span{
-background: transparent url('oval-red-right.gif') no-repeat top right;
-display: block;
-padding: 4px 11px 4px 0; /*Set 11px below to match value of 'padding-left' value above*/
-}
- 
-a.ovalbutton:hover{ /* Hover state CSS */
-background-position: bottom left;
-}
- 
-a.ovalbutton:hover span{ /* Hover state CSS */
-background-position: bottom right;
-color: black;
-}
- 
-.buttonwrapper{ /* Container you can use to surround a CSS button to clear float */
-overflow: hidden; /*See: http://www.quirksmode.org/css/clearing.html */
-width: 100%;
-}
- 
-/* END - nice buttons */
-
-/* Breadcrumbs by Janko (http://www.jankoatwarpspeed.com/post/2008/08/14/Create-applecom-like-breadcrumb-using-simple-CSS.aspx) */
-#breadcrumb
-{
-    font: 11px Arial, Helvetica, sans-serif;
-    background-image:url('bc_bg.png'); 
-    background-repeat:repeat-x;
-    height:30px;
-    line-height:30px;
-    color:#9b9b9b;
-    border:solid 1px #cacaca;
-    width:100%;
-    overflow:hidden;
-    margin:0px;
-    padding:0px;
-}
-#breadcrumb li 
-{
-    list-style-type:none;
-    float:left;
-    padding-left:10px;
-}
-#breadcrumb a
-{
-    height:30px;
-    display:block;
-    background-image:url('bc_separator.png'); 
-    background-repeat:no-repeat; 
-    background-position:right;
-    padding-right: 15px;
+    color: #337ab7;  /* Flatly's default link color */
     text-decoration: none;
-    color:#454545;
 }
-.home
-{
-    border:none;
-    margin: 8px 0px;
+a:hover, a:focus {
+    text-decoration: underline;
+    color: #23527c;  /* A darker shade for hover state, matching Flatly */
 }
 
-#breadcrumb a:hover
-{
-	color:#35acc5;
+/* Topbar and Footer */
+#topbar, #footer {
+    display: none;
 }
 
-/* END - Breadcrumbs by Janko */
+/* Entry Styles */
+.fullEntry_title {
+    font-size: 24px;
+    margin-bottom: 15px;
+    color: #333;  /* Retaining a darker color for titles for contrast */
+}
 
+.fullEntry_cover {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
 
+.fullEntry_summary, .fullEntry_downloads, .fullEntry_related, .fullEntry_links {
+    margin-top: 20px;
+    padding: 20px;
+    background: #ffffff;  /* Ensuring high contrast against body background */
+    border: 1px solid #ddd;  /* Soft border, common in Flatly */
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);  /* Slightly deeper shadows for material feel */
+}
+
+/* Date Generated Paragraph */
+p.dateGenerated {
+    font-style: italic;
+    color: #a6a6a6;  /* Lighter grey for less emphasis, inline with Flatly's subtle aesthetics */
+    margin: 0 2em 0.5em;
+}
+
+/* Modern Buttons */
+.button, .a.button, .a.ovalbutton {
+    background-color: #337ab7;  /* Flatly's primary button color */
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 4px;  /* Flatly typically uses slightly less rounded corners */
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+}
+.button:hover, .a.button:hover, .a.ovalbutton:hover {
+    background-color: #286090;  /* Darker blue on hover */
+}
+
+/* Breadcrumbs */
+#breadcrumb {
+    background-color: #f5f5f5;  /* Matching the body background for an integrated look */
+    color: #6c757d;  /* Subdued color for text, typical in Flatly */
+    padding: 10px 15px;
+    border-radius: 4px;  /* Consistent with button border-radius */
+    margin-bottom: 20px;
+}
+#breadcrumb li {
+    display: inline;
+    padding-right: 15px;
+}
+#breadcrumb a {
+    color: #337ab7;
+}
+#breadcrumb a:hover {
+    color: #23527c;
+}
+
+/* List and Cover Book Listings */
+.x_menulisting, .browseByList .x_container, .browseByCover .x_container {
+    background-color: white;
+    border-bottom: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 4px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    margin-bottom: 10px;
+}
+
+.x_menulisting .cover, .browseByList .x_container .cover, .browseByCover .x_container .cover {
+    width: auto;
+    margin-right: 20px;
+}
+
+.x_menulisting .details, .browseByList .x_container .details, .browseByCover .x_container .details {
+    display: inline-block;
+    vertical-align: top;
+    width: calc(100% - 170px);
+}
+
+/* Clearfix for floating elements */
 .clear {
-	clear:both;
-}
-
-
-/*menu listings*/
-.x_menulisting {
-	border-top:1px solid #CACACA;
-	display:block;
-	overflow:auto;
-	margin:5px 0 5px 0
-}
-.x_menulisting .cover {
-	float:left;
-	/*width:20px;*/
-	margin:5px 10px 5px 10px
-}
-.x_menulisting .details {
-	float:none;
-	/*width:300px;*/
-}
-
-
-/*book listings (browse by list mode)*/
-.browseByList .x_container p {
-	margin:0;
-}
-.browseByList .x_container {
-	border-bottom:1px solid #CACACA;
-	display:block;
-	margin-top:5px;
-	overflow:auto;
-	padding-bottom:5px;
-}
-.browseByList .x_container .cover {
-	margin-top:10px;
-	float:left;
-	text-align:center;
-	width:20%;
-}
-.browseByList .x_container .details {
-	float:left;
-	width:80%;
-}
-
-/*book listings (browse by cover mode)*/
-.browseByCover .x_container p {
-	margin:0;
-}
-
-.browseByCover .x_container {
-	margin-top:5px;
-}
-
-.browseByCover .x_container .cover {
-	margin-top:10px;
-	margin-right:10px;
-	float:left;
-	text-align:center;
-}
-
-/*popup buttons and panels*/
-.x_container .nav {
-	overflow: hidden;
-	width: 100%;
-}
-a.button {
-	background: transparent url('bg_button_a.gif') no-repeat scroll top right;
-	color: #444;
-	display: block;
-	float: left;
-	font: normal 12px arial, sans-serif;
-	height: 24px;
-	margin-right: 6px;
-	padding-right: 18px; /* sliding doors padding */
-	text-decoration: none;
-}
-a.button span {
-	background: transparent url('bg_button_span.gif') no-repeat;
-	display: block;
-	line-height: 14px;
-	padding: 5px 0 5px 18px;
-}
-a.button:active {
-	background-position: bottom right;
-	color: #000;
-	outline: none; /* hide dotted outline in Firefox */
-}
-a.button:active span {
-	background-position: bottom left;
-	padding: 6px 0 4px 18px; /* push text down 1px */
-}
-.x_container .popup_container_overlay {
-	background-color:#FFF;
-	position:absolute; /*absolute=overlays content on elements / inherit=to push elements down */
-	width:400px;
-}
-.x_container .popup_container_push {
-	background-color:#FFF;
-	position:inherit; /*absolute=overlays content on elements / inherit=to push elements down */
-	width:400px;
-}
-.x_container .popup_details {
-	border:1px solid #000;
-	padding:5px;
-}
-.popup_container_overlay ul{
-list-style-position: inside;
+    clear: both;
 }
